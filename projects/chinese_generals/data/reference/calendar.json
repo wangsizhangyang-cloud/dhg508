@@ -1,0 +1,14 @@
+[
+  {"state_key": "qin", "system": "秦國王年（以君王即位之年為元年）：秦昭王元年＝前306年，秦始皇元年＝前246年；秦昭王五十年＝前257年，秦始皇二十六年＝前221年。", "source_slug": "shiji-073", "note": "換算依《史記》秦本紀與六國年表之紀年。"},
+  {"state_key": "chu", "system": "秦漢之際用漢紀年：漢元年＝前206年，漢五年＝前202年。", "source_slug": "shiji-007", "note": "《史記·項羽本紀》以「漢之元年」「漢五年」紀事。"},
+  {"state_key": "xihan", "system": "漢紀年：以漢高祖元年＝前206年為基準；武帝後用年號，如元狩四年＝前119年，元朔二年＝前127年。", "source_slug": "hanshu-055", "note": "《漢書》用年號紀年。"},
+  {"state_key": "donghan", "system": "東漢紀年：以光武帝建武元年＝25年為基準。", "source_slug": "houhanshu-024", "note": "《後漢書》以年號紀年。"},
+  {"state_key": "caowei", "system": "三國魏紀年：沿用漢建安年號至220年，魏黃初元年＝220年。", "source_slug": "sanguozhi-017", "note": "《三國志·魏書》以漢、魏年號紀年。"},
+  {"state_key": "shuhan", "system": "三國蜀紀年：沿用漢建安年號，蜀章武元年＝221年。", "source_slug": "sanguozhi-036", "note": "《三國志·蜀書》以漢年號紀年。"},
+  {"state_key": "dongwu", "system": "三國吳紀年：黃武元年＝222年，赤烏七年＝244年。", "source_slug": "sanguozhi-058", "note": "《三國志·吳書》以吳年號紀年。"},
+  {"state_key": "xijin", "system": "西晉紀年：泰始元年＝265年，太康元年＝280年。", "source_slug": "jinshu-034", "note": "《晉書》以年號紀年。"},
+  {"state_key": "dongjin", "system": "東晉紀年：建武元年＝317年。", "source_slug": "jinshu-066", "note": "《晉書》以年號紀年。"},
+  {"state_key": "tang", "system": "唐以年號紀年：貞觀元年＝627年，顯慶三年＝658年，總章元年＝668年。", "source_slug": "jiutangshu-067", "note": "《舊唐書》《新唐書》以年號紀年。"},
+  {"state_key": "nansong", "system": "南宋以年號紀年：建炎元年＝1127年，紹興元年＝1131年，紹興十年＝1140年。", "source_slug": "songshi-365", "note": "《宋史》以年號紀年。"},
+  {"state_key": "ming", "system": "明以年號紀年：洪武元年＝1368年，嘉靖四十年＝1561年，萬曆元年＝1573年。", "source_slug": "mingshi-125", "note": "《明史》以年號紀年。"}
+]

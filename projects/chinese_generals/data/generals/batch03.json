@@ -1,0 +1,526 @@
+{
+  "generals": [
+    {
+      "key": "zhaochongguo",
+      "name_norm": "趙充國",
+      "name_original": "趙充國",
+      "courtesy_name": "翁孫",
+      "state_key": "xihan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "年八十六，甘露二年薨",
+      "died_year": -52,
+      "achievement": "以假司馬從貳師將軍擊匈奴潰圍解圍，昭帝時擊定武都氐人、獲西祁王，宣帝時為蒲類將軍徵匈奴，定先零羌之亂，上屯田奏以安邊。",
+      "description": "隴西上邽人，字翁孫。沈勇有大略，少好將帥之節，學兵法，通知四夷事。歷武帝、昭帝、宣帝三朝，年七十六上屯田奏，八十六薨，諡曰壯侯。",
+      "note": "本傳未載生年。卒於甘露二年，年八十六。",
+      "source_slug": "hanshu-069",
+      "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+      "source_quote": "爲人沈勇有大略，少好將帥之節，而學兵法，通知四夷事。",
+      "titles": [
+        {
+          "title_norm": "羽林",
+          "title_original": "羽林",
+          "period": "",
+          "note": "以良家子善騎射補",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "始爲騎士，以六郡良家子善騎射補羽林"
+        },
+        {
+          "title_norm": "假司馬",
+          "title_original": "假司馬",
+          "period": "武帝時",
+          "note": "",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "以假司馬從貳師將軍擊匈奴"
+        },
+        {
+          "title_norm": "車騎將軍長史",
+          "title_original": "車騎將軍長史",
+          "period": "武帝時",
+          "note": "",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "拜爲中郎，遷車騎將軍長史"
+        },
+        {
+          "title_norm": "大將軍護軍都尉",
+          "title_original": "大將軍護軍都尉",
+          "period": "昭帝時",
+          "note": "",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "充國以大將軍護軍都尉將兵擊定之"
+        },
+        {
+          "title_norm": "水衡都尉",
+          "title_original": "水衡都尉",
+          "period": "昭帝時",
+          "note": "",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "還爲水衡都尉"
+        },
+        {
+          "title_norm": "後將軍",
+          "title_original": "後將軍",
+          "period": "昭帝時",
+          "note": "兼水衡",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "擢爲後將軍，兼水衡如故"
+        },
+        {
+          "title_norm": "蒲類將軍",
+          "title_original": "蒲類將軍",
+          "period": "宣帝本始中",
+          "note": "",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "爲蒲類將軍征匈奴，斬虜數百級"
+        },
+        {
+          "title_norm": "營平侯",
+          "title_original": "營平侯",
+          "period": "宣帝時",
+          "note": "",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "封營平侯"
+        }
+      ],
+      "battles": [
+        {
+          "key": "cong_ershi_ji_xiongnu",
+          "name_norm": "從貳師將軍擊匈奴",
+          "name_original": "從貳師將軍擊匈奴",
+          "year": null,
+          "year_raw": "武帝時",
+          "place": "匈奴",
+          "note": "潰圍解圍，身被二十餘創",
+          "role": "假司馬",
+          "outcome": "得解",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "充國乃與壯士百餘人潰圍陷陳，貳師引兵隨之，遂得解。身被二十餘創"
+        },
+        {
+          "key": "jiding_wudu_diren",
+          "name_norm": "擊定武都氐人",
+          "name_original": "擊定武都氐人",
+          "year": null,
+          "year_raw": "昭帝時",
+          "place": "武都",
+          "note": "",
+          "role": "大將軍護軍都尉",
+          "outcome": "擊定",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "武都氐人反，充國以大將軍護軍都尉將兵擊定之"
+        },
+        {
+          "key": "huo_xiaqi_wang",
+          "name_norm": "擊匈奴獲西祁王",
+          "name_original": "擊匈奴獲西祁王",
+          "year": null,
+          "year_raw": "昭帝時",
+          "place": "匈奴",
+          "note": "",
+          "role": "後將軍",
+          "outcome": "獲西祁王",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "擊匈奴，獲西祁王，擢爲後將軍"
+        },
+        {
+          "key": "pulie_jiangjun_zheng_xiongnu",
+          "name_norm": "蒲類將軍徵匈奴",
+          "name_original": "蒲類將軍徵匈奴",
+          "year": null,
+          "year_raw": "本始中",
+          "place": "匈奴",
+          "note": "斬虜數百級",
+          "role": "蒲類將軍",
+          "outcome": "斬虜數百級",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "本始中，爲蒲類將軍征匈奴，斬虜數百級"
+        },
+        {
+          "key": "tun_yuanbian_jiujun",
+          "name_norm": "屯緣邊九郡",
+          "name_original": "屯緣邊九郡",
+          "year": null,
+          "year_raw": "宣帝時",
+          "place": "緣邊九郡",
+          "note": "單于聞之引去",
+          "role": "後將軍",
+          "outcome": "單于引去",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "遣充國將四萬騎屯緣邊九郡。單于聞之，引去。"
+        },
+        {
+          "key": "ji_xianling_qiang",
+          "name_norm": "擊先零羌",
+          "name_original": "擊先零羌",
+          "year": null,
+          "year_raw": "神爵元年",
+          "place": "湟水",
+          "note": "降及斬首五百餘人，鹵馬牛羊十萬餘頭",
+          "role": "後將軍",
+          "outcome": "先零奔敗",
+          "source_slug": "hanshu-069",
+          "source_locator": "漢書·卷六十九·趙充國辛慶忌傳·趙充國",
+          "source_quote": "充國引兵至先零在所。虜久屯聚，解弛，望見大軍，棄車重，欲渡湟水，道阨狹，充國徐行驅之。"
+        }
+      ]
+    },
+    {
+      "key": "mayuan",
+      "name_norm": "馬援",
+      "name_original": "馬援",
+      "courtesy_name": "文淵",
+      "state_key": "donghan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "援病卒",
+      "died_year": 49,
+      "achievement": "佐光武定隴右，拜隴西太守擊破先零羌；拜伏波將軍南徵交阯，斬徵側、徵貳；徵五溪蠻，卒於軍。",
+      "description": "扶風茂陵人，字文淵。少有大志，嘗謂賓客曰丈夫為志窮當益堅老當益壯。歷事王莽、隗囂，後歸光武，以馬革裹屍自誓，卒被讒收印綬。",
+      "note": "本傳未載生年；建武二十四年請行徵五溪，明年春軍至臨鄉，其年（建武二十五年，公元49年）卒，故繫於49年。",
+      "source_slug": "houhanshu-024",
+      "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+      "source_quote": "男兒要當死於邊野，以馬革裹屍還葬耳，何能臥床上在兒女子手中邪",
+      "titles": [
+        {
+          "title_norm": "郡督郵",
+          "title_original": "郡督郵",
+          "period": "",
+          "note": "",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "後爲郡督郵，送囚至司命府"
+        },
+        {
+          "title_norm": "新成大尹",
+          "title_original": "新成大尹",
+          "period": "王莽時",
+          "note": "",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "莽以涉爲鎮戎大尹，援爲新成大尹"
+        },
+        {
+          "title_norm": "綏德將軍",
+          "title_original": "綏德將軍",
+          "period": "",
+          "note": "隗囂所授",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "以援爲綏德將軍，與決籌策"
+        },
+        {
+          "title_norm": "太中大夫",
+          "title_original": "太中大夫",
+          "period": "建武九年",
+          "note": "副來歙監諸將平涼州",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "拜援爲太中大夫，副來歙監諸將平涼州"
+        },
+        {
+          "title_norm": "隴西太守",
+          "title_original": "隴西太守",
+          "period": "建武十一年",
+          "note": "",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "璽書拜援隴西太守"
+        },
+        {
+          "title_norm": "虎賁中郎將",
+          "title_original": "虎賁中郎將",
+          "period": "",
+          "note": "",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "徵入爲虎賁中郎將"
+        },
+        {
+          "title_norm": "伏波將軍",
+          "title_original": "伏波將軍",
+          "period": "建武十七年",
+          "note": "南擊交阯",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "於是璽書拜援伏波將軍"
+        },
+        {
+          "title_norm": "新息侯",
+          "title_original": "新息侯",
+          "period": "建武十九年",
+          "note": "食邑三千戶",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "封援爲新息侯，食邑三千戶"
+        }
+      ],
+      "battles": [
+        {
+          "key": "ji_xianling_qiang_lintao",
+          "name_norm": "擊破先零羌於臨洮",
+          "name_original": "擊破先零羌於臨洮",
+          "year": null,
+          "year_raw": "十一年夏",
+          "place": "臨洮",
+          "note": "斬首數百級，獲馬牛羊萬餘頭",
+          "role": "隴西太守",
+          "outcome": "勝",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "援乃發步騎三千人，擊破先零羌於臨洮，斬首數百級，獲馬、牛、羊萬餘頭"
+        },
+        {
+          "key": "ji_wudu_canliang_qiang",
+          "name_norm": "擊武都參狼羌",
+          "name_original": "擊武都參狼羌",
+          "year": null,
+          "year_raw": "十三年",
+          "place": "氐道縣",
+          "note": "奪其水草，不與戰，羌遂窮困",
+          "role": "隴西太守",
+          "outcome": "隴右清靜",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "援將四千餘人擊之，至氐道縣，羌在山上，授軍據便地，奪其水草，不與戰，羌遂窮困"
+        },
+        {
+          "key": "ji_liguang",
+          "name_norm": "擊破李廣",
+          "name_original": "擊破李廣",
+          "year": null,
+          "year_raw": "十七年",
+          "place": "",
+          "note": "李廣自稱南嶽大師",
+          "role": "伏波將軍",
+          "outcome": "斬之",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "使援發諸郡兵，合萬餘人，擊破廣等，斬之。"
+        },
+        {
+          "key": "zheng_jiaozhi_zhengce",
+          "name_norm": "南徵交阯徵側",
+          "name_original": "南徵交阯徵側",
+          "year": null,
+          "year_raw": "十八年春",
+          "place": "浪泊",
+          "note": "斬首數千級，降者萬餘人；明年正月斬徵側、徵貳",
+          "role": "伏波將軍",
+          "outcome": "傳首洛陽",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "十八年春，軍至浪泊上，與賊戰，破之，斬首數千級，降者萬餘人"
+        },
+        {
+          "key": "ji_jiuzhen_duyang",
+          "name_norm": "進擊九真賊都羊等",
+          "name_original": "進擊九真賊都羊等",
+          "year": null,
+          "year_raw": "",
+          "place": "自無功至居風",
+          "note": "斬獲五千餘人，嶠南悉平",
+          "role": "伏波將軍",
+          "outcome": "嶠南悉平",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "進擊九真賊徵側餘黨都羊等，自無功至居風，斬獲五千餘人，嶠南悉平。"
+        },
+        {
+          "key": "zheng_wuxi_linxiang",
+          "name_norm": "徵五溪蠻至臨鄉",
+          "name_original": "徵五溪蠻至臨鄉",
+          "year": null,
+          "year_raw": "明年春",
+          "place": "臨鄉",
+          "note": "斬獲二千餘人，皆散走入竹林中",
+          "role": "伏波將軍",
+          "outcome": "破之",
+          "source_slug": "houhanshu-024",
+          "source_locator": "後漢書·卷二十四·馬援列傳·馬援",
+          "source_quote": "明年春，軍至臨鄉，遇賊攻縣，援迎擊，破之，斬獲二千餘人，皆散走入竹林中"
+        }
+      ]
+    },
+    {
+      "key": "banchao",
+      "name_norm": "班超",
+      "name_original": "班超",
+      "courtesy_name": "仲升",
+      "state_key": "donghan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "其年九月卒，年七十一",
+      "died_year": 102,
+      "achievement": "以假司馬使西域，誅匈奴使、定鄯善於窴疏勒，破莎車、月氏，討焉耆，西域五十餘國納質內屬，封定遠侯。",
+      "description": "扶風平陵人，字仲升，徐令彪之少子。為人有大志，投筆從戎，相者稱為萬裏侯相。在西域三十一歲，永元十四年八月至洛陽，拜射聲校尉，其年九月卒，年七十一。",
+      "note": "本傳未載生年。本傳載永元十四年八月至洛陽，其年九月卒，年七十一。",
+      "source_slug": "houhanshu-047",
+      "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+      "source_quote": "大丈夫無它志略，猶當效傅介子、張騫立功異域，以取封侯，安能乆事筆研閒乎？",
+      "titles": [
+        {
+          "title_norm": "蘭臺令史",
+          "title_original": "蘭臺令史",
+          "period": "顯宗時",
+          "note": "",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "帝乃除超爲蘭臺令史"
+        },
+        {
+          "title_norm": "假司馬",
+          "title_original": "假司馬",
+          "period": "永平十六年",
+          "note": "竇固所授",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "以超爲假司馬"
+        },
+        {
+          "title_norm": "軍司馬",
+          "title_original": "軍司馬",
+          "period": "",
+          "note": "",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "今以超爲軍司馬，令遂前功"
+        },
+        {
+          "title_norm": "將兵長史",
+          "title_original": "將兵長史",
+          "period": "建初八年",
+          "note": "假鼓吹幢麾",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "拜超爲將兵長史，假鼓吹幢麾"
+        },
+        {
+          "title_norm": "都護",
+          "title_original": "都護",
+          "period": "永元時",
+          "note": "西域都護",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "乃以超爲都護"
+        },
+        {
+          "title_norm": "定遠侯",
+          "title_original": "定遠侯",
+          "period": "永元時",
+          "note": "邑千戶",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "其封超爲定遠侯，邑千戶"
+        },
+        {
+          "title_norm": "射聲校尉",
+          "title_original": "射聲校尉",
+          "period": "永元十四年",
+          "note": "還洛陽後所拜",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "拜爲射聲校尉"
+        }
+      ],
+      "battles": [
+        {
+          "key": "ji_yiwu_pulei",
+          "name_norm": "擊伊吾戰於蒲類海",
+          "name_original": "擊伊吾戰於蒲類海",
+          "year": null,
+          "year_raw": "十六年",
+          "place": "蒲類海",
+          "note": "多斬首虜而還",
+          "role": "假司馬",
+          "outcome": "勝",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "以超爲假司馬，將兵別擊伊吾，戰於蒲類海"
+        },
+        {
+          "key": "shanshan_huogong_xiongnu",
+          "name_norm": "鄯善夜火攻匈奴使",
+          "name_original": "鄯善夜火攻匈奴使",
+          "year": null,
+          "year_raw": "",
+          "place": "鄯善",
+          "note": "斬其使及從士三十餘級",
+          "role": "假司馬",
+          "outcome": "納子爲質",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "超乃順風縱火，前後鼓噪。虜衆驚亂，超手格殺三人，吏兵斬其使及從士三十餘級，餘衆百許人悉燒死"
+        },
+        {
+          "key": "yutian_zhanwu",
+          "name_norm": "於窴斬巫",
+          "name_original": "於窴斬巫",
+          "year": null,
+          "year_raw": "",
+          "place": "於窴",
+          "note": "廣德攻殺匈奴使者而降",
+          "role": "軍司馬",
+          "outcome": "於窴降",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "超即斬其首以送廣德，因辭讓之。廣德素聞超在鄯善誅滅虜使，大惶恐，即攻殺匈奴使者而降超"
+        },
+        {
+          "key": "gong_gumo_shicheng",
+          "name_norm": "攻姑墨石城",
+          "name_original": "攻姑墨石城",
+          "year": null,
+          "year_raw": "建初三年",
+          "place": "姑墨石城",
+          "note": "斬首七百級",
+          "role": "",
+          "outcome": "破之",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "超率疏勒、康居、于窴、拘彌兵一萬人攻姑墨石城"
+        },
+        {
+          "key": "ji_shache",
+          "name_norm": "擊莎車",
+          "name_original": "擊莎車",
+          "year": null,
+          "year_raw": "",
+          "place": "莎車營",
+          "note": "追斬五千餘級，莎車降，威震西域",
+          "role": "將兵長史",
+          "outcome": "莎車降",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "密召諸部勒兵，雞鳴馳赴莎車營，胡大驚亂奔走，追斬五千餘級"
+        },
+        {
+          "key": "po_yuezhi_fuwang_xie",
+          "name_norm": "破月氏副王謝",
+          "name_original": "破月氏副王謝",
+          "year": null,
+          "year_raw": "永元二年",
+          "place": "西域",
+          "note": "月氏由是大震，歲奉貢獻",
+          "role": "將兵長史",
+          "outcome": "月氏請罪",
+          "source_slug": "houhanshu-047",
+          "source_locator": "後漢書·卷四十七·班梁列傳·班超",
+          "source_quote": "超伏兵遮擊，盡殺之，持其使首以示謝"
+        }
+      ]
+    }
+  ]
+}

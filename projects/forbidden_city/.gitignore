@@ -1,0 +1,22 @@
+# Large generated or local-only artifacts
+artifacts/**
+!artifacts/
+!artifacts/README.md
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
+*.duckdb
+# ...except the small, rebuildable project database
+!forbidden_city.db
+
+# Python/Notebook noise
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+.vscode/
+.idea/

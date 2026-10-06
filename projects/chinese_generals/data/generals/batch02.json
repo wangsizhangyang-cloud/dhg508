@@ -1,0 +1,671 @@
+{
+  "generals": [
+    {
+      "key": "hanxin",
+      "name_norm": "韓信",
+      "name_original": "韓信",
+      "courtesy_name": "",
+      "state_key": "xihan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "呂后使武士縛信，斬之長樂鐘室",
+      "died_year": -196,
+      "achievement": "助漢王定三秦，破魏、代、趙，降燕、平齊，於垓下會兵破項羽，為漢初名將。",
+      "description": "淮陰人，少時貧困，受胯下之辱。先事項羽為郎中，後亡楚歸漢，經蕭何追薦拜為大將。定魏虜豹、破代禽夏說、背水破趙、濰水殺龍且，封齊王、徙楚王，終以謀反被呂后斬於長樂鐘室，夷三族。",
+      "note": "",
+      "source_slug": "shiji-092",
+      "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+      "source_quote": "淮陰侯韓信者，淮陰人也。",
+      "titles": [
+        {
+          "title_norm": "郎中",
+          "title_original": "郎中",
+          "period": "秦末",
+          "note": "事項羽時所任",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "羽以爲郎中。"
+        },
+        {
+          "title_norm": "治粟都尉",
+          "title_original": "治粟都尉",
+          "period": "漢王入蜀時",
+          "note": "",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "上拜以爲治粟都尉"
+        },
+        {
+          "title_norm": "大將",
+          "title_original": "大將",
+          "period": "漢元年",
+          "note": "築壇拜之",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "王曰：『以爲大將。』"
+        },
+        {
+          "title_norm": "左丞相",
+          "title_original": "左丞相",
+          "period": "漢二年",
+          "note": "擊魏時任",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "以信爲左丞相，擊魏"
+        },
+        {
+          "title_norm": "相國",
+          "title_original": "相國",
+          "period": "破趙後",
+          "note": "",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "拜韓信爲相國"
+        },
+        {
+          "title_norm": "齊王",
+          "title_original": "齊王",
+          "period": "漢四年",
+          "note": "先請為假王",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "乃遣張良往立信爲齊王"
+        },
+        {
+          "title_norm": "楚王",
+          "title_original": "楚王",
+          "period": "漢五年",
+          "note": "徙封",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "徙齊王信爲楚王，都下邳。"
+        },
+        {
+          "title_norm": "淮陰侯",
+          "title_original": "淮陰侯",
+          "period": "漢六年",
+          "note": "擒後貶爵",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "赦信罪，以爲淮陰侯。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "ding_sanqin",
+          "name_norm": "定三秦",
+          "name_original": "定三秦",
+          "year": -206,
+          "year_raw": "八月",
+          "place": "陳倉",
+          "note": "",
+          "role": "主帥",
+          "outcome": "勝",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "八月，漢王舉兵東出陳倉，定三秦。"
+        },
+        {
+          "key": "anyi_wei_bao",
+          "name_norm": "安邑之戰",
+          "name_original": "襲安邑",
+          "year": -205,
+          "year_raw": "其八月",
+          "place": "安邑",
+          "note": "虜魏王豹",
+          "role": "主帥",
+          "outcome": "勝",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "信遂虜豹，定魏爲河東郡。"
+        },
+        {
+          "key": "jingxing",
+          "name_norm": "井陘之戰",
+          "name_original": "井陘之戰",
+          "year": -204,
+          "year_raw": "",
+          "place": "井陘",
+          "note": "背水陳，破趙二十萬",
+          "role": "主帥",
+          "outcome": "勝",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "於是漢兵夾擊，大破虜趙軍，斬成安君泜水上，禽趙王歇。"
+        },
+        {
+          "key": "wei_shui",
+          "name_norm": "濰水之戰",
+          "name_original": "濰水之戰",
+          "year": -203,
+          "year_raw": "",
+          "place": "濰水",
+          "note": "殺龍且",
+          "role": "主帥",
+          "outcome": "勝",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "信使人決壅囊，水大至。龍且軍大半不得渡，即急擊，殺龍且。"
+        },
+        {
+          "key": "gaixia",
+          "name_norm": "垓下之戰",
+          "name_original": "會垓下",
+          "year": -202,
+          "year_raw": "漢五年",
+          "place": "垓下",
+          "note": "破項羽",
+          "role": "主帥",
+          "outcome": "勝",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "漢王之困固陵，用張良計，召齊王信，遂將兵會垓下。"
+        },
+        {
+          "key": "jing_suo",
+          "name_norm": "京索之戰",
+          "name_original": "京索之戰",
+          "year": -205,
+          "year_raw": "",
+          "place": "京、索之間",
+          "note": "破楚兵",
+          "role": "主帥",
+          "outcome": "勝",
+          "source_slug": "shiji-092",
+          "source_locator": "史記·卷九十二·淮陰侯列傳·韓信",
+          "source_quote": "信復收兵與漢王會滎陽，復擊破楚京、索之間，以故楚兵卒不能西。"
+        }
+      ]
+    },
+    {
+      "key": "liguang",
+      "name_norm": "李廣",
+      "name_original": "李廣",
+      "courtesy_name": "",
+      "state_key": "xihan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "遂引刀自剄。",
+      "died_year": -119,
+      "achievement": "歷事文、景、武三朝，為邊郡太守四十餘年，匈奴號稱飛將軍，然終身不得封侯。",
+      "description": "隴西成紀人，秦將李信之後，世世受射。從軍擊胡、平吳楚、出雁門、守右北平，多以力戰為名。元狩四年從大將軍衛青出塞擊匈奴，因失道被責，引刀自剄，一軍皆哭。",
+      "note": "",
+      "source_slug": "shiji-109",
+      "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+      "source_quote": "李將軍廣者，隴西成紀人也。",
+      "titles": [
+        {
+          "title_norm": "中郎",
+          "title_original": "漢中郎",
+          "period": "孝文帝十四年",
+          "note": "",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "用善騎射，殺首虜多，爲漢中郎。"
+        },
+        {
+          "title_norm": "隴西都尉",
+          "title_original": "隴西都尉",
+          "period": "孝景初立",
+          "note": "",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "廣爲隴西都尉，徙爲騎郎將。"
+        },
+        {
+          "title_norm": "騎郎將",
+          "title_original": "騎郎將",
+          "period": "孝景初立",
+          "note": "",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "廣爲隴西都尉，徙爲騎郎將。"
+        },
+        {
+          "title_norm": "驍騎都尉",
+          "title_original": "驍騎都尉",
+          "period": "吳楚反時",
+          "note": "",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "呉楚軍時，廣爲驍騎都尉，從太尉亞夫擊呉楚軍，取旗，顯功名昌邑下。"
+        },
+        {
+          "title_norm": "上谷太守",
+          "title_original": "上谷太守",
+          "period": "景帝時",
+          "note": "",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "徙爲上谷太守，匈奴日以合戰。"
+        },
+        {
+          "title_norm": "未央衞尉",
+          "title_original": "未央衞尉",
+          "period": "武帝立",
+          "note": "以上郡太守遷",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "於是廣以上郡太守爲未央衞尉"
+        },
+        {
+          "title_norm": "郎中令",
+          "title_original": "郎中令",
+          "period": "石建卒後",
+          "note": "",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "居頃之，石建卒，於是上召廣代建爲郎中令。"
+        },
+        {
+          "title_norm": "前將軍",
+          "title_original": "前將軍",
+          "period": "元狩四年",
+          "note": "從大將軍出塞",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "以爲前將軍。是歳，元狩四年也。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "xiaoguan",
+          "name_norm": "蕭關之戰",
+          "name_original": "蕭關之戰",
+          "year": -166,
+          "year_raw": "孝文帝十四年",
+          "place": "蕭關",
+          "note": "從軍擊胡",
+          "role": "良家子",
+          "outcome": "勝",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "孝文帝十四年，匈奴大入蕭關，而廣以良家子從軍擊胡，用善騎射，殺首虜多，爲漢中郎。"
+        },
+        {
+          "key": "changyi",
+          "name_norm": "昌邑之戰",
+          "name_original": "昌邑之戰",
+          "year": -154,
+          "year_raw": "呉楚軍時",
+          "place": "昌邑下",
+          "note": "取旗顯名",
+          "role": "驍騎都尉",
+          "outcome": "勝",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "呉楚軍時，廣爲驍騎都尉，從太尉亞夫擊呉楚軍，取旗，顯功名昌邑下。"
+        },
+        {
+          "key": "shangjun",
+          "name_norm": "上郡遭遇戰",
+          "name_original": "上郡解鞍卻敵",
+          "year": null,
+          "year_raw": "居久之",
+          "place": "上郡",
+          "note": "百騎解鞍退胡兵",
+          "role": "上郡太守",
+          "outcome": "勝",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "夜半時，胡兵亦以爲漢有伏軍於旁欲夜取之，胡皆引兵而去。"
+        },
+        {
+          "key": "yanmen",
+          "name_norm": "雁門之戰",
+          "name_original": "出鴈門",
+          "year": -129,
+          "year_raw": "其後四歳",
+          "place": "鴈門",
+          "note": "兵敗被生得，脫歸贖為庶人",
+          "role": "將軍",
+          "outcome": "敗",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "廣以衞尉爲將軍，出鴈門擊匈奴。匈奴兵多，破敗廣軍，生得廣。"
+        },
+        {
+          "key": "youbeiping",
+          "name_norm": "右北平之戰",
+          "name_original": "出右北平",
+          "year": -121,
+          "year_raw": "後二歳",
+          "place": "右北平",
+          "note": "四千騎被左賢王四萬騎圍",
+          "role": "郎中令",
+          "outcome": "平",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "匈奴左賢王將四萬騎圍廣，廣軍士皆恐，廣乃使其子敢往馳之。"
+        },
+        {
+          "key": "mobei",
+          "name_norm": "漠北之戰",
+          "name_original": "從大將軍出塞",
+          "year": -119,
+          "year_raw": "元狩四年",
+          "place": "東道",
+          "note": "失道被責，自剄",
+          "role": "前將軍",
+          "outcome": "敗",
+          "source_slug": "shiji-109",
+          "source_locator": "史記·卷一百零九·李將軍列傳·李廣",
+          "source_quote": "廣結髪與匈奴大小七十餘戰，今幸從大將軍出接單于兵，而大將軍又徙廣部行回遠，而又迷失道，豈非天哉！"
+        }
+      ]
+    },
+    {
+      "key": "weiqing",
+      "name_norm": "衛青",
+      "name_original": "衛青",
+      "courtesy_name": "仲卿",
+      "state_key": "xihan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "大將軍青卒，謚為烈侯。",
+      "died_year": -106,
+      "achievement": "凡七出擊匈奴，收河南地置朔方郡，官至大將軍、大司馬，封長平侯。",
+      "description": "河東平陽人，本平陽侯家騎奴，因姊衛子夫得幸而顯。元光五年首出上谷擊匈奴，後屢破匈奴右賢王、單于，元封五年卒，謚烈侯。",
+      "note": "",
+      "source_slug": "shiji-111",
+      "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+      "source_quote": "大將軍衛青者，平陽人也。",
+      "titles": [
+        {
+          "title_norm": "建章監",
+          "title_original": "建章監",
+          "period": "建元二年",
+          "note": "兼侍中",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "乃召青為建章監，侍中"
+        },
+        {
+          "title_norm": "侍中",
+          "title_original": "侍中",
+          "period": "建元二年",
+          "note": "",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "乃召青為建章監，侍中"
+        },
+        {
+          "title_norm": "大中大夫",
+          "title_original": "大中大夫",
+          "period": "建元二年後",
+          "note": "",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "青為大中大夫。"
+        },
+        {
+          "title_norm": "車騎將軍",
+          "title_original": "車騎將軍",
+          "period": "元光五年",
+          "note": "首次擊匈奴",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "青為車騎將軍，擊匈奴，出上谷"
+        },
+        {
+          "title_norm": "長平侯",
+          "title_original": "長平侯",
+          "period": "元朔二年",
+          "note": "三千八百戶",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "以三千八百戶封青為長平侯。"
+        },
+        {
+          "title_norm": "大將軍",
+          "title_original": "大將軍",
+          "period": "元朔五年",
+          "note": "軍中拜",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "即軍中拜車騎將軍青為大將軍"
+        },
+        {
+          "title_norm": "大司馬",
+          "title_original": "大司馬",
+          "period": "元狩四年",
+          "note": "與驃騎將軍同任",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "乃益置大司馬位，大將軍、驃騎將軍皆為大司馬。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "longcheng",
+          "name_norm": "蘢城之戰",
+          "name_original": "出上谷至蘢城",
+          "year": -130,
+          "year_raw": "元光五年",
+          "place": "蘢城",
+          "note": "",
+          "role": "車騎將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "青至蘢城，斬首虜數百。"
+        },
+        {
+          "key": "yanmen",
+          "name_norm": "雁門之戰",
+          "name_original": "出雁門",
+          "year": -128,
+          "year_raw": "元朔元年秋",
+          "place": "雁門",
+          "note": "",
+          "role": "車騎將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "其秋，青為車騎將軍，出雁門，三萬騎擊匈奴，斬首虜數千人。"
+        },
+        {
+          "key": "henan",
+          "name_norm": "河南地之戰",
+          "name_original": "略河南地",
+          "year": -127,
+          "year_raw": "明年",
+          "place": "河南地",
+          "note": "置朔方郡",
+          "role": "車騎將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "遂略河南地，至于隴西，捕首虜數千，畜數十萬，走白羊、樓煩王。遂以河南地為朔方郡。"
+        },
+        {
+          "key": "gaoque",
+          "name_norm": "高闕之戰",
+          "name_original": "出高闕圍右賢王",
+          "year": -124,
+          "year_raw": "元朔之五年春",
+          "place": "高闕",
+          "note": "圍右賢王",
+          "role": "車騎將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "漢兵夜至，圍右賢王，右賢王驚，夜逃，獨與其愛妾一人壯騎數百馳，潰圍北去。"
+        },
+        {
+          "key": "dingxiang",
+          "name_norm": "定襄之戰",
+          "name_original": "出定襄",
+          "year": -123,
+          "year_raw": "其明年春",
+          "place": "定襄",
+          "note": "斬首數千級",
+          "role": "大將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "其明年春，大將軍青出定襄，合騎侯敖為中將軍"
+        },
+        {
+          "key": "mobei",
+          "name_norm": "漠北之戰",
+          "name_original": "出塞擊單于",
+          "year": -119,
+          "year_raw": "元狩四年春",
+          "place": "幕北",
+          "note": "單于遁走",
+          "role": "大將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·衛青",
+          "source_quote": "於是大將軍令武剛車自環為營，而縱五千騎往當匈奴。"
+        }
+      ]
+    },
+    {
+      "key": "huoqubing",
+      "name_norm": "霍去病",
+      "name_original": "霍去病",
+      "courtesy_name": "",
+      "state_key": "xihan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "元狩六年而卒",
+      "died_year": -117,
+      "achievement": "凡六出擊匈奴，開河西酒泉之地，封狼居胥山，官至驃騎將軍、大司馬，封冠軍侯。",
+      "description": "衛青姊少兒之子，年十八為侍中，善騎射。兩出隴西、祁連，迎降渾邪王，元狩四年與大將軍各將五萬騎出塞，封狼居胥山。元狩六年卒，謚景桓侯。",
+      "note": "",
+      "source_slug": "shiji-111",
+      "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+      "source_quote": "是歲也，大將軍姊子霍去病年十八，幸，為天子侍中。",
+      "titles": [
+        {
+          "title_norm": "侍中",
+          "title_original": "侍中",
+          "period": "年十八",
+          "note": "",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "幸，為天子侍中"
+        },
+        {
+          "title_norm": "剽姚校尉",
+          "title_original": "剽姚校尉",
+          "period": "元朔六年",
+          "note": "從大將軍",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "受詔與壯士，為剽姚校尉"
+        },
+        {
+          "title_norm": "冠軍侯",
+          "title_original": "冠軍侯",
+          "period": "元朔六年",
+          "note": "千六百戶",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "以千六百戶封去病為冠軍侯。"
+        },
+        {
+          "title_norm": "驃騎將軍",
+          "title_original": "驃騎將軍",
+          "period": "元狩二年春",
+          "note": "將萬騎出隴西",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "以冠軍侯去病為驃騎將軍"
+        },
+        {
+          "title_norm": "大司馬",
+          "title_original": "大司馬",
+          "period": "元狩四年",
+          "note": "與大將軍同任",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "乃益置大司馬位，大將軍、驃騎將軍皆為大司馬。"
+        },
+        {
+          "title_norm": "景桓侯",
+          "title_original": "景桓侯",
+          "period": "元狩六年",
+          "note": "謚",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "謚之，并武與廣地曰景桓侯。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "longxi",
+          "name_norm": "隴西之戰",
+          "name_original": "出隴西過焉支山",
+          "year": -121,
+          "year_raw": "元狩二年春",
+          "place": "焉支山",
+          "note": "收休屠祭天金人",
+          "role": "驃騎將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "轉戰六日，過焉支山千有餘里，合短兵，殺折蘭王，斬盧胡王，誅全甲，執渾邪王子及相國、都尉，首虜八千餘級，收休屠祭天金人"
+        },
+        {
+          "key": "qilian",
+          "name_norm": "祁連山之戰",
+          "name_original": "出北地至祁連山",
+          "year": -121,
+          "year_raw": "其夏",
+          "place": "祁連山",
+          "note": "斬首虜三萬餘級",
+          "role": "驃騎將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "驃騎將軍出北地，已遂深入，與合騎侯失道，不相得，驃騎將軍踰居延至祁連山，捕首虜甚多。"
+        },
+        {
+          "key": "hunxie",
+          "name_norm": "迎降渾邪王",
+          "name_original": "迎渾邪王",
+          "year": -121,
+          "year_raw": "其秋",
+          "place": "河上",
+          "note": "降者數萬，號稱十萬",
+          "role": "驃騎將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "驃騎乃馳入與渾邪王相見，斬其欲亡者八千人，遂獨遣渾邪王乘傳先詣行在所，盡將其眾渡河，降者數萬，號稱十萬。"
+        },
+        {
+          "key": "mobei",
+          "name_norm": "漠北之戰",
+          "name_original": "封狼居胥山",
+          "year": -119,
+          "year_raw": "元狩四年",
+          "place": "狼居胥山",
+          "note": "登臨翰海",
+          "role": "驃騎將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "封狼居胥山，禪於姑衍，登臨翰海。"
+        },
+        {
+          "key": "daijun",
+          "name_norm": "代郡之戰",
+          "name_original": "更令驃騎出代郡",
+          "year": -119,
+          "year_raw": "元狩四年",
+          "place": "代郡",
+          "note": "本當單于，虜言單于東乃改出",
+          "role": "驃騎將軍",
+          "outcome": "勝",
+          "source_slug": "shiji-111",
+          "source_locator": "史記·卷一百一十一·衛將軍驃騎列傳·霍去病",
+          "source_quote": "驃騎始為出定襄，當單于。捕虜言單于東，乃更令驃騎出代郡，令大將軍出定襄。"
+        }
+      ]
+    }
+  ]
+}

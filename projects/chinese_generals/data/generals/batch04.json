@@ -1,0 +1,1255 @@
+{
+  "generals": [
+    {
+      "key": "lvbu",
+      "name_norm": "呂布",
+      "name_original": "呂布",
+      "courtesy_name": "奉先",
+      "state_key": "donghan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "布與其麾下登白門樓。兵圍急，乃下降。遂生縛布",
+      "died_year": 199,
+      "achievement": "誅殺董卓，割據徐州，號為飛將，以驍武聞於天下。",
+      "description": "五原郡九原人，先事丁原為主簿，後斬原歸董卓，誓為父子；因與卓侍婢私通而陰怨，遂從王允之謀手刃董卓。此後輾轉投袁術、袁紹、張楊，終據濮陽、下邳，自稱徐州刺史。雖驍猛善戰，然無謀多猜，不能制御其黨，卒為曹操所禽殺。",
+      "note": "死年依傳文『建安三年』下邳被擒縊殺推為199。",
+      "source_slug": "sanguozhi-007",
+      "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+      "source_quote": "呂布字奉先，五原郡九原人也。以驍武給并州。",
+      "titles": [
+        {
+          "title_norm": "主簿",
+          "title_original": "主簿",
+          "period": "東漢",
+          "note": "丁原所闢",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "刺史丁原為騎都尉，屯河內，以布為主簿，大見親待。"
+        },
+        {
+          "title_norm": "騎都尉",
+          "title_original": "騎都尉",
+          "period": "東漢",
+          "note": "殺丁原後董卓所授",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "布斬原首詣卓，卓以布為騎都尉，甚愛信之，誓為父子。"
+        },
+        {
+          "title_norm": "中郎將",
+          "title_original": "中郎將",
+          "period": "東漢",
+          "note": "封都亭侯",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "稍遷至中郎將，封都亭侯。"
+        },
+        {
+          "title_norm": "奮武將軍",
+          "title_original": "奮武將軍",
+          "period": "東漢",
+          "note": "殺董卓後王允所授，進封溫侯，假節",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "允以布為（奮威）〔奮武〕將軍，假節，儀比三司，進封溫侯，共秉朝政。"
+        },
+        {
+          "title_norm": "平東將軍",
+          "title_original": "平東將軍",
+          "period": "東漢",
+          "note": "朝廷所拜，封平陶侯，見裴注引《英雄記》",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "朝廷以布爲平東將軍，封平陶侯。"
+        },
+        {
+          "title_norm": "徐州刺史",
+          "title_original": "徐州刺史",
+          "period": "東漢",
+          "note": "自稱",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "布自稱徐州刺史。"
+        },
+        {
+          "title_norm": "左將軍",
+          "title_original": "左將軍",
+          "period": "東漢",
+          "note": "曹操挾天子所拜",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "會使者至，拜布左將軍。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "zhu_dongzhuo",
+          "name_norm": "誅董卓",
+          "name_original": "手刃刺卓",
+          "year": 192,
+          "year_raw": "",
+          "place": "長安",
+          "note": "與王允、士孫瑞合謀",
+          "role": "主謀行刺",
+          "outcome": "成功殺董卓",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "布遂許之，手刃刺卓。"
+        },
+        {
+          "key": "changshan_zhangyan",
+          "name_norm": "常山擊張燕",
+          "name_original": "擊張燕於常山",
+          "year": null,
+          "year_raw": "",
+          "place": "常山",
+          "note": "與袁紹合擊張燕",
+          "role": "主將",
+          "outcome": "破燕軍",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "北詣袁紹，紹與布擊張燕于常山。"
+        },
+        {
+          "key": "changan_baizou",
+          "name_norm": "長安之敗",
+          "name_original": "李傕等攻長安",
+          "year": 192,
+          "year_raw": "",
+          "place": "長安",
+          "note": "董卓死後涼州人反攻",
+          "role": "守方",
+          "outcome": "敗走武關",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "布不能拒，傕等遂入長安。"
+        },
+        {
+          "key": "yuanmen_sheji",
+          "name_norm": "轅門射戟",
+          "name_original": "轅門射戟",
+          "year": 196,
+          "year_raw": "",
+          "place": "沛西南",
+          "note": "為劉備解紀靈之圍",
+          "role": "調停",
+          "outcome": "紀靈等斂兵退",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "布舉弓射戟，正中小支。"
+        },
+        {
+          "key": "po_zhangxun",
+          "name_norm": "破張勳之戰",
+          "name_original": "擊袁術將張勳",
+          "year": 197,
+          "year_raw": "",
+          "place": "徐州",
+          "note": "用陳珪策離間韓暹、楊奉",
+          "role": "主帥",
+          "outcome": "勳大破敗",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "勳大破敗。"
+        },
+        {
+          "key": "xiapi_qin",
+          "name_norm": "下邳之敗",
+          "name_original": "下邳被圍被擒",
+          "year": 199,
+          "year_raw": "",
+          "place": "下邳",
+          "note": "曹操塹圍三月，侯成等叛降",
+          "role": "守方",
+          "outcome": "被生縛縊殺",
+          "source_slug": "sanguozhi-007",
+          "source_locator": "三國志·魏書·呂布張邈臧洪傳·呂布",
+          "source_quote": "布與其麾下登白門樓。兵圍急，乃下降。遂生縛布"
+        }
+      ]
+    },
+    {
+      "key": "zhangliao",
+      "name_norm": "張遼",
+      "name_original": "張遼",
+      "courtesy_name": "文遠",
+      "state_key": "caowei",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "遼病篤，遂薨於江都。",
+      "died_year": 222,
+      "achievement": "合肥之役以步卒八百破孫權十萬，威震江東，為曹魏五子良將之首。",
+      "description": "雁門馬邑人，本聶壹之後。少為郡吏，歷事丁原、何進、董卓、呂布，呂布敗後降曹操。從徵袁譚、袁尚、烏桓，斬單于蹋頓；又討陳蘭、梅成於天柱山。建安二十年合肥之戰，夜募敢死八百，被甲先登，幾獲孫權。文帝時拜前將軍，封晉陽侯，病篤薨於江都，諡剛侯。",
+      "note": "傳載黃初二年朝洛陽宮並破權將呂範，其後病篤薨，未明言卒年，依史實繫於222。",
+      "source_slug": "sanguozhi-017",
+      "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+      "source_quote": "張遼字文遠，雁門馬邑人也。本聶壹之後，以避怨變姓。少爲郡吏。",
+      "titles": [
+        {
+          "title_norm": "從事",
+          "title_original": "從事",
+          "period": "東漢",
+          "note": "并州刺史丁原所召",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "并州刺史丁原以遼武力過人，召爲從事，使將兵詣京都。"
+        },
+        {
+          "title_norm": "騎都尉",
+          "title_original": "騎都尉",
+          "period": "東漢",
+          "note": "兵屬呂布時所遷",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "卓敗，以兵屬呂布，遷騎都尉。"
+        },
+        {
+          "title_norm": "中郎將",
+          "title_original": "中郎將",
+          "period": "東漢",
+          "note": "降曹操後所拜，賜爵關內侯",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "太祖破呂布於下邳，遼將其衆降，拜中郎將，賜爵關內侯。"
+        },
+        {
+          "title_norm": "裨將軍",
+          "title_original": "裨將軍",
+          "period": "東漢",
+          "note": "以戰功遷",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "數有戰功，遷裨將軍。"
+        },
+        {
+          "title_norm": "蕩寇將軍",
+          "title_original": "蕩寇將軍",
+          "period": "東漢",
+          "note": "太祖自出迎遼引共載",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "以遼爲蕩寇將軍。"
+        },
+        {
+          "title_norm": "徵東將軍",
+          "title_original": "徵東將軍",
+          "period": "東漢",
+          "note": "合肥破孫權後所拜",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "太祖大壯遼，拜征東將軍。"
+        },
+        {
+          "title_norm": "前將軍",
+          "title_original": "前將軍",
+          "period": "曹魏",
+          "note": "文帝即王位時轉",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "文帝即王位，轉前將軍。"
+        },
+        {
+          "title_norm": "晉陽侯",
+          "title_original": "晉陽侯",
+          "period": "曹魏",
+          "note": "文帝踐阼所封",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "文帝踐阼，封晉陽侯，增邑千戸，並前二千六百戸。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "bailangshan_tadun",
+          "name_norm": "柳城白狼山之戰",
+          "name_original": "徵袁尙於柳城斬蹋頓",
+          "year": 207,
+          "year_raw": "",
+          "place": "柳城",
+          "note": "太祖授麾，大破烏桓",
+          "role": "先鋒主將",
+          "outcome": "斬單于蹋頓",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "從征袁尙於柳城，卒與虜遇，遼勸太祖戰，氣甚奮，太祖壯之，自以所持麾授遼。遂擊，大破之，斬單于蹋頓。"
+        },
+        {
+          "key": "tianzhushan_chenlan",
+          "name_norm": "天柱山討陳蘭梅成",
+          "name_original": "攻蘭成於灊山天柱山",
+          "year": 209,
+          "year_raw": "",
+          "place": "灊山天柱山",
+          "note": "督張郃、牛蓋等",
+          "role": "主將",
+          "outcome": "斬蘭成首，盡虜其衆",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "遂進到山下安營，攻之，斬蘭成首，盡虜其衆。"
+        },
+        {
+          "key": "hefei_zhi_zhan",
+          "name_norm": "合肥之戰",
+          "name_original": "合肥破孫權十萬",
+          "year": 215,
+          "year_raw": "",
+          "place": "合肥",
+          "note": "與李典、樂進同守，夜募八百敢死士",
+          "role": "主將",
+          "outcome": "大破吳軍，權幾被獲",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "平旦，遼被甲持戟，先登陷陳，殺數十人，斬二將，大呼自名，衝壘入，至權麾下。"
+        },
+        {
+          "key": "po_lvfan",
+          "name_norm": "破呂範",
+          "name_original": "破權將呂範",
+          "year": 222,
+          "year_raw": "",
+          "place": "海陵臨江",
+          "note": "與曹休乘舟至海陵",
+          "role": "主將",
+          "outcome": "破呂範",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張遼",
+          "source_quote": "是歳，遼與諸將破權將呂範。"
+        }
+      ]
+    },
+    {
+      "key": "zhanghe",
+      "name_norm": "張郃",
+      "name_original": "張郃",
+      "courtesy_name": "雋乂",
+      "state_key": "caowei",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "郃追至木門，與亮軍交戰，飛矢中郃右膝，薨",
+      "died_year": 231,
+      "achievement": "街亭大破馬謖，識變數善處營陳，諸葛亮所憚，為魏五子良將之一。",
+      "description": "河間鄚人，漢末應募討黃巾，屬韓馥，後歸袁紹。官渡之戰諫紹救烏巢不從，懼郭圖之譖而歸曹操。此後從攻鄴、破馬超韓遂、平漢中、破馬謖於街亭，累遷左將軍、徵西車騎將軍。太和五年追諸葛亮至木門，中飛矢而薨，諡壯侯。",
+      "note": "傳載諸葛亮復出祁山，郃追至木門中矢薨，繫於231。",
+      "source_slug": "sanguozhi-017",
+      "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+      "source_quote": "張郃字雋乂，河間鄚人也。漢末應募討黃巾，爲軍司馬，屬韓馥。",
+      "titles": [
+        {
+          "title_norm": "軍司馬",
+          "title_original": "軍司馬",
+          "period": "東漢",
+          "note": "應募討黃巾時所任",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "張郃字雋乂，河間鄚人也。漢末應募討黃巾，爲軍司馬，屬韓馥。"
+        },
+        {
+          "title_norm": "校尉",
+          "title_original": "校尉",
+          "period": "東漢",
+          "note": "袁紹所授，使拒公孫瓚",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "紹以郃爲校尉，使拒公孫瓚。"
+        },
+        {
+          "title_norm": "寧國中郎將",
+          "title_original": "寧國中郎將",
+          "period": "東漢",
+          "note": "破公孫瓚後所遷",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "瓚破，郃功多，遷寧國中郎將。"
+        },
+        {
+          "title_norm": "偏將軍",
+          "title_original": "偏將軍",
+          "period": "東漢",
+          "note": "歸太祖後所拜，封都亭侯",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "拜郃偏將軍，封都亭侯。"
+        },
+        {
+          "title_norm": "平狄將軍",
+          "title_original": "平狄將軍",
+          "period": "東漢",
+          "note": "從討柳城與張遼俱為軍鋒",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "以功遷平狄將軍。"
+        },
+        {
+          "title_norm": "蕩寇將軍",
+          "title_original": "蕩寇將軍",
+          "period": "東漢",
+          "note": "拒張飛引還南鄭後所拜",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "拜蕩寇將軍。"
+        },
+        {
+          "title_norm": "左將軍",
+          "title_original": "左將軍",
+          "period": "曹魏",
+          "note": "文帝即王位所授，進爵都鄕侯",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "文帝即王位，以郃爲左將軍，進爵都鄕侯。"
+        },
+        {
+          "title_norm": "徵西車騎將軍",
+          "title_original": "徵西車騎將軍",
+          "period": "曹魏",
+          "note": "退諸葛亮後所拜",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "拜征西車騎將軍。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "guandu_zhi_zhan",
+          "name_norm": "官渡之戰",
+          "name_original": "官渡歸太祖",
+          "year": 200,
+          "year_raw": "",
+          "place": "官渡",
+          "note": "諫袁紹救烏巢不從，紹軍潰",
+          "role": "袁紹部將後降",
+          "outcome": "紹軍潰敗",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "太祖果破瓊等，紹軍潰。"
+        },
+        {
+          "key": "jieting_zhi_zhan",
+          "name_norm": "街亭之戰",
+          "name_original": "拒馬謖於街亭",
+          "year": 228,
+          "year_raw": "",
+          "place": "街亭",
+          "note": "絶馬謖汲道而擊之",
+          "role": "主將",
+          "outcome": "大破馬謖",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "郃絶其汲道，擊，大破之。"
+        },
+        {
+          "key": "chencang_shou",
+          "name_norm": "陳倉拒諸葛亮",
+          "name_original": "陳倉禦亮",
+          "year": 229,
+          "year_raw": "",
+          "place": "陳倉",
+          "note": "料亮縣軍無穀不能久攻",
+          "role": "主將",
+          "outcome": "亮退",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "比臣未到，亮已走矣；屈指計亮糧不至十日。"
+        },
+        {
+          "key": "mumen_zhi_zhan",
+          "name_norm": "木門之戰",
+          "name_original": "追亮至木門中矢薨",
+          "year": 231,
+          "year_raw": "",
+          "place": "木門",
+          "note": "司馬宣王使之追，蜀軍乘高布伏",
+          "role": "追擊主將",
+          "outcome": "中飛矢而薨",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·張郃",
+          "source_quote": "郃追至木門，與亮軍交戰，飛矢中郃右膝，薨"
+        }
+      ]
+    },
+    {
+      "key": "xuhuang",
+      "name_norm": "徐晃",
+      "name_original": "徐晃",
+      "courtesy_name": "公明",
+      "state_key": "caowei",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "太和元年薨",
+      "died_year": 227,
+      "achievement": "樊城長驅入敵圍，全樊、襄陽，太祖比之周亞夫，為魏五子良將之一。",
+      "description": "河東楊人，初為郡吏，從楊奉討賊，說奉奉天子還洛陽。歸曹操後從徵呂布、破顏良文醜、平關右、降張魯、拒劉備。建安二十四年解樊城之圍，揚聲攻圍頭而密攻四冢，追陷入圍大破關羽。治軍儉約畏慎，營陣整齊。太和元年薨，諡壯侯。",
+      "note": "傳明言『太和元年薨』，即227。",
+      "source_slug": "sanguozhi-017",
+      "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+      "source_quote": "徐晃字公明，河東楊人也。爲郡吏，從車騎將軍楊奉討賊有功，拜騎都尉。",
+      "titles": [
+        {
+          "title_norm": "騎都尉",
+          "title_original": "騎都尉",
+          "period": "東漢",
+          "note": "從楊奉討賊有功所拜",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "徐晃字公明，河東楊人也。爲郡吏，從車騎將軍楊奉討賊有功，拜騎都尉。"
+        },
+        {
+          "title_norm": "都亭侯",
+          "title_original": "都亭侯",
+          "period": "東漢",
+          "note": "天子渡河至安邑所封",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "天子渡河至安邑，封晃都亭侯。"
+        },
+        {
+          "title_norm": "裨將軍",
+          "title_original": "裨將軍",
+          "period": "東漢",
+          "note": "擊卷原武賊破之所拜",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "破之，拜裨將軍。"
+        },
+        {
+          "title_norm": "偏將軍",
+          "title_original": "偏將軍",
+          "period": "東漢",
+          "note": "破文醜後所拜",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "破文醜，拜偏將軍。"
+        },
+        {
+          "title_norm": "橫野將軍",
+          "title_original": "橫野將軍",
+          "period": "東漢",
+          "note": "從徵蹋頓所拜",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "從征蹋頓，拜橫野將軍。"
+        },
+        {
+          "title_norm": "平寇將軍",
+          "title_original": "平寇將軍",
+          "period": "東漢",
+          "note": "討山氐降之而遷",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "遷平寇將軍。"
+        },
+        {
+          "title_norm": "右將軍",
+          "title_original": "右將軍",
+          "period": "曹魏",
+          "note": "文帝即王位所授，進封逯鄕侯",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "文帝即王位，以晃爲右將軍，進封逯鄕侯。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "baima_wenchou",
+          "name_norm": "白馬延津之戰",
+          "name_original": "破顏良文醜",
+          "year": 200,
+          "year_raw": "",
+          "place": "白馬延津",
+          "note": "從破劉備顏良文醜",
+          "role": "部將",
+          "outcome": "拔白馬，破文醜",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "從破劉備，又從破顔良，拔白馬，進至延津，破文醜，拜偏將軍。"
+        },
+        {
+          "key": "tongguan_pubanjin",
+          "name_norm": "潼關蒲阪津之戰",
+          "name_original": "渡蒲坂津破馬超",
+          "year": 211,
+          "year_raw": "",
+          "place": "蒲阪津",
+          "note": "獻策渡津為軍先置，擊走梁興",
+          "role": "主將",
+          "outcome": "太祖軍得渡，遂破超等",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "使晃以步騎四千人渡津。作塹柵未成，賊梁興夜將步騎五千餘人攻晃，晃擊走之，太祖軍得渡。遂破超等"
+        },
+        {
+          "key": "mamingge",
+          "name_norm": "馬鳴閣之戰",
+          "name_original": "破陳式等",
+          "year": 219,
+          "year_raw": "",
+          "place": "馬鳴閣道",
+          "note": "陳式等絶閣道，晃別徵破之",
+          "role": "主將",
+          "outcome": "賊自投山谷多死",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "備遣陳式等十餘營絶馬鳴閣道，晃別征破之，賊自投山谷，多死者。"
+        },
+        {
+          "key": "fancheng_jiewei",
+          "name_norm": "樊城解圍之戰",
+          "name_original": "破關羽解樊圍",
+          "year": 219,
+          "year_raw": "",
+          "place": "樊城",
+          "note": "揚聲攻圍頭而密攻四冢",
+          "role": "主將",
+          "outcome": "全樊、襄陽，破關羽",
+          "source_slug": "sanguozhi-017",
+          "source_locator": "三國志·魏書·張樂于張徐傳·徐晃",
+          "source_quote": "遂追陷與俱入圍，破之，或自投沔水死。"
+        }
+      ]
+    },
+    {
+      "key": "guanyu",
+      "name_norm": "關羽",
+      "name_original": "關羽",
+      "courtesy_name": "雲長",
+      "state_key": "shuhan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "權遣將逆擊羽，斬羽及子平於臨沮。",
+      "died_year": 220,
+      "achievement": "白馬萬眾中斬顏良，樊城水淹七軍，威震華夏，世稱萬人之敵。",
+      "description": "河東解人，本字長生，亡命奔涿郡，與張飛同事劉備，恩若兄弟。曹操禽之拜偏將軍，斬顏良以報而後去。劉備定益州，拜董督荊州事，前將軍假節鉞。建安二十四年攻樊城，漢水汎溢，降于禁、斬龐德，威震華夏；然輕士仁、麋芳，孫權陰誘之，遂失荊州，被斬於臨沮。諡壯繆侯。",
+      "note": "傳載二十四年破樊後為孫權所斬，繫於220。",
+      "source_slug": "sanguozhi-036",
+      "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+      "source_quote": "關羽字雲長，本字長生，河東解人也。亡命奔涿郡。",
+      "titles": [
+        {
+          "title_norm": "別部司馬",
+          "title_original": "別部司馬",
+          "period": "東漢",
+          "note": "先主為平原相時所任",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "先主為平原相，以羽、飛為別部司馬，分統部曲。"
+        },
+        {
+          "title_norm": "偏將軍",
+          "title_original": "偏將軍",
+          "period": "東漢",
+          "note": "曹操禽羽後所拜",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "曹公禽羽以歸，拜為偏將軍，禮之甚厚。"
+        },
+        {
+          "title_norm": "漢壽亭侯",
+          "title_original": "漢壽亭侯",
+          "period": "東漢",
+          "note": "斬顏良解白馬圍後表封",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "曹公即表封羽為漢壽亭侯。"
+        },
+        {
+          "title_norm": "襄陽太守",
+          "title_original": "襄陽太守、蕩寇將軍",
+          "period": "東漢",
+          "note": "先主收江南諸郡後拜，駐江北",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "以羽為襄陽太守、蕩寇將軍，駐江北。"
+        },
+        {
+          "title_norm": "董督荊州事",
+          "title_original": "董督荊州事",
+          "period": "東漢",
+          "note": "先主西定益州後所拜",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "先主西定益州，拜羽董督荊州事。"
+        },
+        {
+          "title_norm": "前將軍",
+          "title_original": "前將軍",
+          "period": "東漢",
+          "note": "先主為漢中王后拜，假節鉞",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "拜羽為前將軍，假節鉞。"
+        },
+        {
+          "title_norm": "壯繆侯",
+          "title_original": "壯繆侯",
+          "period": "蜀漢",
+          "note": "追諡",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "追諡羽曰壯繆侯。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "baima_zhan_yanliang",
+          "name_norm": "白馬之戰",
+          "name_original": "萬眾中斬顏良",
+          "year": 200,
+          "year_raw": "",
+          "place": "白馬",
+          "note": "與張遼為先鋒擊顏良",
+          "role": "先鋒",
+          "outcome": "斬顏良，解白馬圍",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "羽望見良麾蓋，策馬刺良於萬眾之中，斬其首還，紹諸將莫能當者，遂解白馬圍。"
+        },
+        {
+          "key": "fancheng_shuiqi",
+          "name_norm": "樊城之戰",
+          "name_original": "水淹七軍降于禁斬龐德",
+          "year": 219,
+          "year_raw": "",
+          "place": "樊城",
+          "note": "大霖雨，漢水汎溢",
+          "role": "主帥",
+          "outcome": "降于禁、斬龐德，威震華夏",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "禁所督七軍皆沒。禁降羽，羽又斬將軍龐德。"
+        },
+        {
+          "key": "linju_beizhan",
+          "name_norm": "臨沮之敗",
+          "name_original": "為孫權將所斬",
+          "year": 220,
+          "year_raw": "",
+          "place": "臨沮",
+          "note": "孫權據江陵，盡虜羽士眾妻子",
+          "role": "敗方",
+          "outcome": "斬羽及子平於臨沮",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "權遣將逆擊羽，斬羽及子平於臨沮。"
+        }
+      ]
+    },
+    {
+      "key": "zhangfei",
+      "name_norm": "張飛",
+      "name_original": "張飛",
+      "courtesy_name": "益德",
+      "state_key": "shuhan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "其帳下將張達、范彊殺飛，持其首，順流而奔孫權。",
+      "died_year": 221,
+      "achievement": "長阪據水斷橋喝退曹軍，義釋嚴顏，宕渠大破張郃，世稱萬人之敵。",
+      "description": "涿郡人，少與關羽俱事劉備，兄事關羽。曹操破呂布後拜中郎將。長阪之役將二十騎拒後，據水斷橋、瞋目橫矛，敵無敢近。入益州破嚴顏而生獲釋之。破張郃於宕渠。章武元年遷車騎將軍、領司隸校尉，封西鄉侯。伐吳前為帳下將張達、范彊所殺，諡桓侯。",
+      "note": "傳載先主伐吳臨發時被殺，繫於221。",
+      "source_slug": "sanguozhi-036",
+      "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+      "source_quote": "張飛字益德，涿郡人也，少與關羽俱事先主。",
+      "titles": [
+        {
+          "title_norm": "別部司馬",
+          "title_original": "別部司馬",
+          "period": "東漢",
+          "note": "先主為平原相時與關羽同任",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·關羽",
+          "source_quote": "先主為平原相，以羽、飛為別部司馬，分統部曲。"
+        },
+        {
+          "title_norm": "中郎將",
+          "title_original": "中郎將",
+          "period": "東漢",
+          "note": "從曹公破呂布後所拜",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+          "source_quote": "曹公拜飛為中郎將。"
+        },
+        {
+          "title_norm": "徵虜將軍",
+          "title_original": "宜都太守、徵虜將軍",
+          "period": "東漢",
+          "note": "封新亭侯，後轉在南郡",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+          "source_quote": "以飛為宜都太守、征虜將軍，封新亭侯，後轉在南郡。"
+        },
+        {
+          "title_norm": "巴西太守",
+          "title_original": "巴西太守",
+          "period": "東漢",
+          "note": "益州既平後領",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+          "source_quote": "以飛領巴西太守。"
+        },
+        {
+          "title_norm": "右將軍",
+          "title_original": "右將軍",
+          "period": "東漢",
+          "note": "先主為漢中王后拜，假節",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+          "source_quote": "拜飛為右將軍、假節。"
+        },
+        {
+          "title_norm": "車騎將軍",
+          "title_original": "車騎將軍、領司隸校尉、西鄉侯",
+          "period": "蜀漢",
+          "note": "章武元年遷，封西鄉侯",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+          "source_quote": "遷車騎將軍，領司隸校尉，進封西鄉侯"
+        },
+        {
+          "title_norm": "桓侯",
+          "title_original": "桓侯",
+          "period": "蜀漢",
+          "note": "追諡",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+          "source_quote": "追諡飛曰桓侯。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "changban_juhou",
+          "name_norm": "長阪拒後之戰",
+          "name_original": "據水斷橋拒曹軍",
+          "year": 208,
+          "year_raw": "",
+          "place": "當陽長阪",
+          "note": "將二十騎拒後",
+          "role": "殿後",
+          "outcome": "敵無敢近，先主得免",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+          "source_quote": "飛據水斷橋，瞋目橫矛曰：「身是張益德也，可來共決死！」敵皆無敢近者，故遂得免。"
+        },
+        {
+          "key": "jiangzhou_po_yanyan",
+          "name_norm": "江州之戰",
+          "name_original": "破嚴顏生獲之",
+          "year": 214,
+          "year_raw": "",
+          "place": "江州",
+          "note": "溯流而上分定郡縣",
+          "role": "主將",
+          "outcome": "生獲嚴顏，壯而釋之",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+          "source_quote": "至江州，破璋將巴郡太守嚴顏，生獲顏。"
+        },
+        {
+          "key": "dangqu_po_zhanghe",
+          "name_norm": "宕渠之戰",
+          "name_original": "破張郃",
+          "year": 215,
+          "year_raw": "",
+          "place": "宕渠",
+          "note": "率精卒萬餘從他道邀擊",
+          "role": "主將",
+          "outcome": "破郃，巴土獲安",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+          "source_quote": "飛遂破郃。郃棄馬緣山，獨與麾下十餘人從間道退，引軍還南鄭，巴土獲安。"
+        },
+        {
+          "key": "zhangda_fanqiang",
+          "name_norm": "張達范彊之變",
+          "name_original": "為帳下將所殺",
+          "year": 221,
+          "year_raw": "",
+          "place": "閬中",
+          "note": "臨發會江州前被殺",
+          "role": "被害",
+          "outcome": "持首奔孫權",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·張飛",
+          "source_quote": "其帳下將張達、范彊殺飛，持其首，順流而奔孫權。"
+        }
+      ]
+    },
+    {
+      "key": "machao",
+      "name_norm": "馬超",
+      "name_original": "馬超",
+      "courtesy_name": "孟起",
+      "state_key": "shuhan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "二年卒，時年四十七",
+      "died_year": 222,
+      "achievement": "阻戎負勇，甚得羌胡心，潼關起兵抗曹，後歸先主，拜驃騎將軍領涼州牧。",
+      "description": "右扶風茂陵人，父騰。隨鍾繇討郭援，龐德親斬援首。統眾後與韓遂等合從進軍潼關，為曹操以賈詡離間之計所敗，走保諸戎，據冀城，自稱徵西將軍領并州牧。後奔漢中依張魯，復降劉備，將兵至成都而劉璋稽首。章武元年遷驃騎將軍、領涼州牧，封斄鄉侯，二年卒，追諡威侯。",
+      "note": "傳稱『二年卒，時年四十七』，章武二年即222；生年可由逆推約176，然傳未明載故置null。",
+      "source_slug": "sanguozhi-036",
+      "source_locator": "三國志·蜀書·關張馬黃趙傳·馬超",
+      "source_quote": "馬超字孟起，右扶風茂陵人也。父騰，靈帝末與邊章、韓遂等俱起事於西州。",
+      "titles": [
+        {
+          "title_norm": "偏將軍",
+          "title_original": "偏將軍",
+          "period": "東漢",
+          "note": "騰入京後詔拜，封都亭侯，領騰部曲",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·馬超",
+          "source_quote": "以超為偏將軍，封都亭侯，領騰部曲。"
+        },
+        {
+          "title_norm": "平西將軍",
+          "title_original": "平西將軍",
+          "period": "東漢",
+          "note": "降先主後所授，督臨沮",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·馬超",
+          "source_quote": "以超為平西將軍，督臨沮，因為前都亭侯。"
+        },
+        {
+          "title_norm": "左將軍",
+          "title_original": "左將軍",
+          "period": "東漢",
+          "note": "先主為漢中王后拜，假節",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·馬超",
+          "source_quote": "拜超為左將軍，假節。"
+        },
+        {
+          "title_norm": "驃騎將軍",
+          "title_original": "驃騎將軍、領涼州牧、斄鄉侯",
+          "period": "蜀漢",
+          "note": "章武元年遷",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·馬超",
+          "source_quote": "遷驃騎將軍，領涼州牧，進封斄鄉侯"
+        },
+        {
+          "title_norm": "威侯",
+          "title_original": "威侯",
+          "period": "蜀漢",
+          "note": "追諡",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·馬超",
+          "source_quote": "追諡超曰威侯"
+        }
+      ],
+      "battles": [
+        {
+          "key": "pingyang_guo_yuan",
+          "name_norm": "平陽之戰",
+          "name_original": "討郭援高幹",
+          "year": 205,
+          "year_raw": "",
+          "place": "平陽",
+          "note": "隨鍾繇討之，龐德親斬援首",
+          "role": "部將",
+          "outcome": "破斬郭援",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·馬超",
+          "source_quote": "騰遣超隨繇討郭援、高幹於平陽，超將龐德親斬援首。"
+        },
+        {
+          "key": "tongguan_zhi_zhan",
+          "name_norm": "潼關之戰",
+          "name_original": "與韓遂合從敗於曹操",
+          "year": 211,
+          "year_raw": "",
+          "place": "潼關",
+          "note": "曹操用賈詡離間之計",
+          "role": "敗方主帥",
+          "outcome": "軍以大敗，走保諸戎",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·馬超",
+          "source_quote": "曹公用賈詡謀，離間超、遂，更相猜疑，軍以大敗。"
+        },
+        {
+          "key": "jicheng_zhi_zhan",
+          "name_norm": "冀城之戰",
+          "name_original": "率諸戎擊隴上據冀城",
+          "year": 213,
+          "year_raw": "",
+          "place": "冀城",
+          "note": "殺涼州刺史韋康",
+          "role": "主帥",
+          "outcome": "據冀城有其眾",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·馬超",
+          "source_quote": "超果率諸戎以擊隴上郡縣，隴上郡縣皆應之，殺涼州刺史韋康，據冀城，有其眾。"
+        },
+        {
+          "key": "chengdu_xiang_liuzhang",
+          "name_norm": "成都之降",
+          "name_original": "將兵至城下劉璋稽首",
+          "year": 214,
+          "year_raw": "",
+          "place": "成都",
+          "note": "先主遣人迎超",
+          "role": "先主部將",
+          "outcome": "城中震怖，璋即稽首",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·馬超",
+          "source_quote": "先主遣人迎超，超將兵徑到城下。城中震怖，璋即稽首"
+        }
+      ]
+    },
+    {
+      "key": "huangzhong",
+      "name_norm": "黃忠",
+      "name_original": "黃忠",
+      "courtesy_name": "漢升",
+      "state_key": "shuhan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "明年卒",
+      "died_year": 220,
+      "achievement": "定軍山一戰斬夏侯淵，勇毅冠三軍，位與關馬齊列。",
+      "description": "南陽人，荊州牧劉表以為中郎將，守長沙攸縣。曹操克荊州假行裨將軍。先主南定諸郡，忠遂委質，隨從入蜀，常先登陷陣。益州既定拜討虜將軍。建安二十四年於定軍山推鋒斬夏侯淵，遷徵西將軍；先主為漢中王，用為後將軍，賜爵關內侯。明年卒，追諡剛侯。",
+      "note": "傳載建安二十四年斬淵後『明年卒』，即220。",
+      "source_slug": "sanguozhi-036",
+      "source_locator": "三國志·蜀書·關張馬黃趙傳·黃忠",
+      "source_quote": "黃忠字漢升，南陽人也。荊州牧劉表以為中郎將，與表從子磐共守長沙攸縣。",
+      "titles": [
+        {
+          "title_norm": "中郎將",
+          "title_original": "中郎將",
+          "period": "東漢",
+          "note": "劉表所任，守長沙攸縣",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·黃忠",
+          "source_quote": "黃忠字漢升，南陽人也。荊州牧劉表以為中郎將，與表從子磐共守長沙攸縣。"
+        },
+        {
+          "title_norm": "裨將軍",
+          "title_original": "假行裨將軍",
+          "period": "東漢",
+          "note": "曹操克荊州後假行，統屬韓玄",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·黃忠",
+          "source_quote": "及曹公克荊州，假行裨將軍，仍就故任，統屬長沙守韓玄。"
+        },
+        {
+          "title_norm": "討虜將軍",
+          "title_original": "討虜將軍",
+          "period": "東漢",
+          "note": "益州既定後拜",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·黃忠",
+          "source_quote": "益州既定，拜為討虜將軍。"
+        },
+        {
+          "title_norm": "徵西將軍",
+          "title_original": "徵西將軍",
+          "period": "東漢",
+          "note": "定軍山斬夏侯淵後遷",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·黃忠",
+          "source_quote": "遷征西將軍。"
+        },
+        {
+          "title_norm": "後將軍",
+          "title_original": "後將軍",
+          "period": "東漢",
+          "note": "先主為漢中王時用，賜爵關內侯",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·黃忠",
+          "source_quote": "遂與羽等齊位，賜爵關內侯。"
+        },
+        {
+          "title_norm": "剛侯",
+          "title_original": "剛侯",
+          "period": "蜀漢",
+          "note": "追諡",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·黃忠",
+          "source_quote": "追諡剛侯"
+        }
+      ],
+      "battles": [
+        {
+          "key": "ru_shu_huangzhong",
+          "name_norm": "入蜀之戰",
+          "name_original": "隨先主入蜀攻劉璋",
+          "year": 213,
+          "year_raw": "",
+          "place": "益州",
+          "note": "自葭萌受任還攻劉璋",
+          "role": "先登",
+          "outcome": "先登陷陣，勇毅冠三軍",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·黃忠",
+          "source_quote": "自葭萌受任，還攻劉璋，忠常先登陷陣，勇毅冠三軍。"
+        },
+        {
+          "key": "dingjunshan",
+          "name_norm": "定軍山之戰",
+          "name_original": "斬夏侯淵",
+          "year": 219,
+          "year_raw": "",
+          "place": "漢中定軍山",
+          "note": "推鋒必進，金鼓振天",
+          "role": "主將",
+          "outcome": "一戰斬淵，淵軍大敗",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·黃忠",
+          "source_quote": "於漢中定軍山擊夏侯淵。淵眾甚精，忠推鋒必進，勸率士卒，金鼓振天，歡聲動谷，一戰斬淵，淵軍大敗。"
+        },
+        {
+          "key": "beishan_qumi",
+          "name_norm": "北山取米之役",
+          "name_original": "取曹公北山下米",
+          "year": 219,
+          "year_raw": "",
+          "place": "漢中北山",
+          "note": "雲別傳載黃忠與趙雲同取米",
+          "role": "主將",
+          "outcome": "忠過期不還，雲出迎",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "黃忠以為可取，雲兵隨忠取米。忠過期不還"
+        }
+      ]
+    },
+    {
+      "key": "zhaoyun",
+      "name_norm": "趙雲",
+      "name_original": "趙雲",
+      "courtesy_name": "子龍",
+      "state_key": "shuhan",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "七年卒",
+      "died_year": 229,
+      "achievement": "長阪救後主，漢水空營偃旗息鼓以寡破眾，先主稱其一身都是膽。",
+      "description": "常山真定人，本屬公孫瓚，為先主主騎。長阪之役身抱弱子保護甘夫人得免。從平江南為偏將軍領桂陽太守，又與張飛勒兵截江迎還後主。入蜀定郡縣，為翊軍將軍。漢中之戰大開營門、偃旗息鼓，驚退曹軍，軍中號虎威將軍。建興元年為中護軍、徵南將軍，封永昌亭侯，遷鎮東將軍；箕谷失利斂眾固守。七年卒，追諡順平侯。",
+      "note": "傳載建興七年卒，即229。",
+      "source_slug": "sanguozhi-036",
+      "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+      "source_quote": "趙雲字子龍，常山真定人也。本屬公孫瓚",
+      "titles": [
+        {
+          "title_norm": "主騎",
+          "title_original": "主騎",
+          "period": "東漢",
+          "note": "為先主主騎",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "雲遂隨從，為先主主騎。"
+        },
+        {
+          "title_norm": "牙門將軍",
+          "title_original": "牙門將軍",
+          "period": "東漢",
+          "note": "長阪救後主後遷",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "遷為牙門將軍。"
+        },
+        {
+          "title_norm": "偏將軍",
+          "title_original": "偏將軍、桂陽太守",
+          "period": "東漢",
+          "note": "從平江南後任，代趙範",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "以為偏將軍，領桂陽太守，代趙範。"
+        },
+        {
+          "title_norm": "翊軍將軍",
+          "title_original": "翊軍將軍",
+          "period": "東漢",
+          "note": "成都既定後任",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "以雲為翊軍將軍。"
+        },
+        {
+          "title_norm": "虎威將軍",
+          "title_original": "虎威將軍",
+          "period": "東漢",
+          "note": "漢水之戰後軍中號之",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "軍中號雲為虎威將軍。"
+        },
+        {
+          "title_norm": "中護軍",
+          "title_original": "中護軍、徵南將軍、永昌亭侯",
+          "period": "蜀漢",
+          "note": "建興元年任，遷鎮東將軍",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "建興元年，為中護軍、征南將軍，封永昌亭侯，遷鎮東將軍。"
+        },
+        {
+          "title_norm": "順平侯",
+          "title_original": "順平侯",
+          "period": "蜀漢",
+          "note": "追諡",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "追諡順平侯。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "changban_jiu_houzhu",
+          "name_norm": "長阪救後主",
+          "name_original": "身抱弱子保護甘夫人",
+          "year": 208,
+          "year_raw": "",
+          "place": "當陽長阪",
+          "note": "先主棄妻子南走",
+          "role": "護衛",
+          "outcome": "皆得免難",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "雲身抱弱子，即後主也，保護甘夫人，即後主母也，皆得免難。"
+        },
+        {
+          "key": "jiejiang_houzhu",
+          "name_norm": "截江救後主",
+          "name_original": "與張飛勒兵截江",
+          "year": null,
+          "year_raw": "",
+          "place": "江上",
+          "note": "孫夫人慾將後主還吳",
+          "role": "主將",
+          "outcome": "乃得後主還",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "雲與張飛勒兵截江，乃得後主還。"
+        },
+        {
+          "key": "hanshui_kongying",
+          "name_norm": "漢水空營之戰",
+          "name_original": "大開門偃旗息鼓退曹軍",
+          "year": 219,
+          "year_raw": "",
+          "place": "漢水",
+          "note": "迎視黃忠，值曹公揚兵大出",
+          "role": "主將",
+          "outcome": "曹軍疑有伏兵引去，軍號虎威",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "而雲入營，更大開門，偃旗息鼓。公軍疑雲有伏兵，引去。"
+        },
+        {
+          "key": "jigu_shili",
+          "name_norm": "箕谷之戰",
+          "name_original": "與鄧芝拒曹真失利",
+          "year": 228,
+          "year_raw": "",
+          "place": "箕谷",
+          "note": "兵弱敵強，斂眾固守",
+          "role": "主將",
+          "outcome": "失利於箕谷，不至大敗",
+          "source_slug": "sanguozhi-036",
+          "source_locator": "三國志·蜀書·關張馬黃趙傳·趙雲",
+          "source_quote": "雲、芝兵弱敵強，失利於箕谷，然斂眾固守，不至大敗。"
+        }
+      ]
+    }
+  ]
+}

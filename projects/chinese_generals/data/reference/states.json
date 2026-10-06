@@ -1,0 +1,14 @@
+[
+  {"key": "qin", "name_chn": "秦", "name_original": "秦", "dynasty_key": "qin", "source_slug": "shiji-073", "note": "白起、王翦、蒙恬所事之秦。"},
+  {"key": "chu", "name_chn": "西楚", "name_original": "西楚", "dynasty_key": "chu", "source_slug": "shiji-007", "note": "項羽自立為西楚霸王。"},
+  {"key": "xihan", "name_chn": "西漢", "name_original": "漢", "dynasty_key": "xihan", "source_slug": "hanshu-055", "note": ""},
+  {"key": "donghan", "name_chn": "東漢", "name_original": "後漢", "dynasty_key": "donghan", "source_slug": "houhanshu-024", "note": "馬援、班超所事。呂布姑繫於此。"},
+  {"key": "caowei", "name_chn": "曹魏", "name_original": "魏", "dynasty_key": "sanguo", "source_slug": "sanguozhi-017", "note": "張遼、張郃、徐晃所事。"},
+  {"key": "shuhan", "name_chn": "蜀漢", "name_original": "蜀", "dynasty_key": "sanguo", "source_slug": "sanguozhi-036", "note": "關羽、張飛、馬超、黃忠、趙雲所事。"},
+  {"key": "dongwu", "name_chn": "東吳", "name_original": "吳", "dynasty_key": "sanguo", "source_slug": "sanguozhi-054", "note": "周瑜、呂蒙、陸遜所事。"},
+  {"key": "xijin", "name_chn": "西晉", "name_original": "晉", "dynasty_key": "xijin", "source_slug": "jinshu-034", "note": "羊祜、杜預所事。"},
+  {"key": "dongjin", "name_chn": "東晉", "name_original": "晉", "dynasty_key": "dongjin", "source_slug": "jinshu-066", "note": "陶侃所事。"},
+  {"key": "tang", "name_chn": "唐", "name_original": "唐", "dynasty_key": "tang", "source_slug": "jiutangshu-067", "note": "李靖、李勣、郭子儀、薛仁貴所事。"},
+  {"key": "nansong", "name_chn": "南宋", "name_original": "宋", "dynasty_key": "nansong", "source_slug": "songshi-364", "note": "韓世忠、岳飛所事。"},
+  {"key": "ming", "name_chn": "明", "name_original": "明", "dynasty_key": "ming", "source_slug": "mingshi-125", "note": "徐達、常遇春、戚繼光、俞大猷所事。"}
+]

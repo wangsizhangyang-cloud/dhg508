@@ -1,0 +1,689 @@
+{
+  "generals": [
+    {
+      "key": "lijing",
+      "name_norm": "李靖",
+      "name_original": "李靖",
+      "courtesy_name": "",
+      "state_key": "tang",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "二十三年，薨於家，年七十九。",
+      "died_year": 649,
+      "achievement": "南平蕭銑、輔公祏，北定東突厥，西徵吐谷渾；出將入相，圖形凌煙閣，封衛國公。",
+      "description": "雍州三原人，本名藥師。隋末仕馬邑郡丞，歸唐後為行軍總管，屢統大軍。破蕭銑於江陵，滅輔公祏於丹陽，貞觀四年以三千騎破突厥，克定襄、襲陰山，俘頡利可汗；九年為西海道行軍大總管徵吐谷渾，逾積石山。官至尚書右僕射，進位衛國公、開府儀同三司，謚曰景武。",
+      "note": "本傳未載生年；卒於貞觀二十三年。",
+      "source_slug": "jiutangshu-067",
+      "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+      "source_quote": "李靖，本名藥師，雍州三原人也。祖崇義，後魏殷州刺史、永康公。",
+      "titles": [
+        {
+          "title_norm": "刑部尚書",
+          "title_original": "刑部尚書",
+          "period": "貞觀",
+          "note": "太宗嗣位所拜",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "太宗嗣位，拜刑部尚書"
+        },
+        {
+          "title_norm": "兵部尚書",
+          "title_original": "兵部尚書",
+          "period": "貞觀三年",
+          "note": "由中書令轉任",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "三年，轉兵部尚書。"
+        },
+        {
+          "title_norm": "尚書右僕射",
+          "title_original": "尚書右僕射",
+          "period": "貞觀",
+          "note": "平突厥後所拜",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "拜尚書右僕射。"
+        },
+        {
+          "title_norm": "特進",
+          "title_original": "特進",
+          "period": "貞觀八年",
+          "note": "以足疾乞骸骨，加授特進",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "乃下優詔，加授特進，聽在第攝養。"
+        },
+        {
+          "title_norm": "代國公",
+          "title_original": "代國公",
+          "period": "貞觀四年",
+          "note": "破定襄之功進封",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "以功進封代國公"
+        },
+        {
+          "title_norm": "衛國公",
+          "title_original": "衛國公",
+          "period": "貞觀十一年",
+          "note": "改封衛國公",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "十一年，改封衛國公，授濮州刺史"
+        },
+        {
+          "title_norm": "開府儀同三司",
+          "title_original": "開府儀同三司",
+          "period": "貞觀十八年",
+          "note": "進位衛國公、開府儀同三司",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "進位衛國公、開府儀同三司。"
+        },
+        {
+          "title_norm": "上柱國",
+          "title_original": "上柱國",
+          "period": "武德",
+          "note": "平蕭銑之功",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "以功授上柱國，封永康縣公"
+        }
+      ],
+      "battles": [
+        {
+          "key": "lijing-xiaoxian",
+          "name_norm": "平定蕭銑",
+          "name_original": "圖蕭銑",
+          "year": 621,
+          "year_raw": "武德四年",
+          "place": "荊州江陵",
+          "note": "陳十策以圖蕭銑，乘江水泛漲進兵",
+          "role": "行軍總管兼攝孝恭行軍長史",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "四年，靖又陳十策以圖蕭銑。"
+        },
+        {
+          "key": "lijing-fugongshi",
+          "name_norm": "討輔公祏",
+          "name_original": "討輔公祏",
+          "year": 623,
+          "year_raw": "六年",
+          "place": "丹陽",
+          "note": "孝恭為元帥、靖為副",
+          "role": "副元帥",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "六年，輔公祏於丹陽反，詔孝恭為元帥、靖為副以討之"
+        },
+        {
+          "key": "lijing-dingxiang",
+          "name_norm": "破定襄",
+          "name_original": "破定襄",
+          "year": 630,
+          "year_raw": "四年",
+          "place": "定襄",
+          "note": "率驍騎三千自馬邑出，進擊定襄",
+          "role": "代州道行軍總管",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "四年，靖進擊定襄，破之，獲隋齊王暕之子楊正道及煬帝蕭后"
+        },
+        {
+          "key": "lijing-baidao",
+          "name_norm": "白道襲頡利",
+          "name_original": "自白道襲頡利",
+          "year": 630,
+          "year_raw": "其年二月",
+          "place": "陰山白道",
+          "note": "選精騎一萬齎二十日糧襲之",
+          "role": "定襄道行軍總管",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "遂選精騎一萬，齎二十日糧，引兵自白道襲之。"
+        },
+        {
+          "key": "lijing-tuyuhun",
+          "name_norm": "徵吐谷渾",
+          "name_original": "徵吐谷渾",
+          "year": 635,
+          "year_raw": "九年",
+          "place": "伏俟城、積石山",
+          "note": "決計深入，逾積石山，大破其國",
+          "role": "西海道行軍大總管",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "九年，軍次伏俟城，吐谷渾燒去野草"
+        },
+        {
+          "key": "lijing-taiyuan",
+          "name_norm": "御突厥於太原",
+          "name_original": "突厥寇太原",
+          "year": 625,
+          "year_raw": "八年",
+          "place": "太原大谷",
+          "note": "突厥寇太原，靖統江淮兵屯大谷，諸軍不利而靖眾獨全",
+          "role": "行軍總管",
+          "outcome": "全師",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李靖",
+          "source_quote": "八年，突厥寇太原，以靖為行軍總管"
+        }
+      ]
+    },
+    {
+      "key": "liji",
+      "name_norm": "李勣",
+      "name_original": "李勣",
+      "courtesy_name": "",
+      "state_key": "tang",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "尋薨，年七十六。",
+      "died_year": 669,
+      "achievement": "歷事高祖、太宗、高宗三朝，破東突厥、薛延陀，滅高麗；官至尚書左僕射、司空、太子太師，封英國公。",
+      "description": "曹州離狐人，本姓徐氏，名世勣，永徽中避太宗諱單名勣。隋末從翟讓、李密，據黎陽倉。歸唐後賜姓李氏，從太宗平王世充、竇建德、劉黑闥。貞觀中鎮并州十六年，破突厥於白道、破薛延陀於青山。總章元年為遼東道行軍總管，克平壤，虜高藏、男建、男產，高麗平。謚曰貞武，陪葬昭陵。",
+      "note": "本傳未載生年；卒於總章二年。",
+      "source_slug": "jiutangshu-067",
+      "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+      "source_quote": "李勣，曹州離狐人也。隋末徙居滑州之衛南。本姓徐氏，名世勣，永徽中，以犯太宗諱，單名勣焉。",
+      "titles": [
+        {
+          "title_norm": "黎陽總管、萊國公",
+          "title_original": "黎陽總管、上柱國，萊國公",
+          "period": "武德二年",
+          "note": "歸唐後所授",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "詔授黎陽總管、上柱國，萊國公。"
+        },
+        {
+          "title_norm": "并州都督",
+          "title_original": "并州都督",
+          "period": "貞觀",
+          "note": "太宗即位拜并州都督，賜實封九百戶",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "太宗即位，拜并州都督，賜實封九百戶。"
+        },
+        {
+          "title_norm": "英國公",
+          "title_original": "英國公",
+          "period": "貞觀十一年",
+          "note": "改封英國公",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "十一年，改封英國公，代襲蘄州刺史"
+        },
+        {
+          "title_norm": "兵部尚書",
+          "title_original": "兵部尚書",
+          "period": "貞觀十五年",
+          "note": "徵拜兵部尚書",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "十五年，徵拜兵部尚書"
+        },
+        {
+          "title_norm": "遼東道行軍大總管",
+          "title_original": "遼東道行軍大總管",
+          "period": "貞觀十八年",
+          "note": "太宗親徵高麗所授",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "授勣遼東道行軍大總管，攻破蓋牟、遼東、白崖等數城"
+        },
+        {
+          "title_norm": "尚書左僕射",
+          "title_original": "尚書左僕射",
+          "period": "高宗即位",
+          "note": "高宗即位後冊拜",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "是歲，冊拜尚書左僕射。"
+        },
+        {
+          "title_norm": "司空",
+          "title_original": "司空",
+          "period": "永徽四年",
+          "note": "冊拜司空",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "四年，冊拜司空。"
+        },
+        {
+          "title_norm": "太子太師",
+          "title_original": "太子太師",
+          "period": "總章二年",
+          "note": "滅高麗後加太子太師",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "二年，加太子太師，增食實封通前一千一百戶。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "liji-luoshui",
+          "name_norm": "洛水破王世充",
+          "name_original": "敗世充於洛水",
+          "year": null,
+          "year_raw": "",
+          "place": "洛水",
+          "note": "以奇計敗王世充",
+          "role": "將",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "勣以奇計敗世充於洛水之上，密拜勣為東海郡公。"
+        },
+        {
+          "key": "liji-yuwenhuaji",
+          "name_norm": "倉城拒宇文化及",
+          "name_original": "拒宇文化及",
+          "year": null,
+          "year_raw": "",
+          "place": "黎陽倉城",
+          "note": "掘深溝固守，於塹中為地道出兵擊之",
+          "role": "守倉城",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "勣於塹中為地道，出兵擊之，大敗而去。"
+        },
+        {
+          "key": "liji-baidao",
+          "name_norm": "白道破突厥",
+          "name_original": "戰於白道",
+          "year": 629,
+          "year_raw": "貞觀三年",
+          "place": "雲中白道",
+          "note": "與頡利可汗大戰於白道，突厥敗",
+          "role": "通漠道行軍總管",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "至雲中，與突厥頡利可汗兵會，大戰於白道。"
+        },
+        {
+          "key": "liji-qingshan",
+          "name_norm": "青山破薛延陀",
+          "name_original": "追及延陀於青山",
+          "year": 641,
+          "year_raw": "十五年",
+          "place": "青山",
+          "note": "率輕騎三千擊破薛延陀",
+          "role": "朔州行軍總管",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "率輕騎三千追及延陀於青山，擊大破之，斬其名王一人"
+        },
+        {
+          "key": "liji-huai",
+          "name_norm": "渡淮討輔公祏",
+          "name_original": "渡淮拔壽陽",
+          "year": 624,
+          "year_raw": "七年",
+          "place": "壽陽、硤石",
+          "note": "領步卒一萬渡淮，拔壽陽至硤石",
+          "role": "行軍總管",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "勣領步卒一萬渡淮，拔其壽陽，至硤石。"
+        },
+        {
+          "key": "liji-pyongyang",
+          "name_norm": "圍平壤滅高麗",
+          "name_original": "圍平壤",
+          "year": 668,
+          "year_raw": "總章元年",
+          "place": "平壤城",
+          "note": "與劉仁軌、郝處俊、薛仁貴犄角圍之，克其城",
+          "role": "遼東道行軍總管",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-067",
+          "source_locator": "舊唐書·卷六十七·李靖李勣列傳·李勣",
+          "source_quote": "勣又引兵圍平壤，遼東道副大總管劉仁軌、郝處俊、將軍薛仁貴並會於平壤，犄角圍之。"
+        }
+      ]
+    },
+    {
+      "key": "guoziyi",
+      "name_norm": "郭子儀",
+      "name_original": "郭子儀",
+      "courtesy_name": "",
+      "state_key": "tang",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "六月十四日薨，時年八十五",
+      "died_year": 781,
+      "achievement": "平安史之亂，收復兩京，退回紇、破吐蕃，再造王室；賜號尚父，累官太尉、中書令，封汾陽郡王。",
+      "description": "華州鄭縣人，以武舉高等補左衛長史。安祿山反，為朔方節度使東討，與李光弼破賊於嘉山、九門。至德二載從廣平王收復長安，戰於香積寺。乾元元年圍衛州。永泰元年單騎見回紇於涇陽，大破吐蕃。累加司徒、中書令，進封汾陽郡王。德宗賜號尚父，卒贈太師，謚曰忠武，配饗代宗廟庭。",
+      "note": "本傳未載生年；建中二年六月十四日薨，時年八十五。",
+      "source_slug": "jiutangshu-120",
+      "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+      "source_quote": "郭子儀，華州鄭縣人。父敬之，歷綏、渭、桂、壽、泗五州刺史",
+      "titles": [
+        {
+          "title_norm": "左衛大將軍",
+          "title_original": "左衛大將軍",
+          "period": "天寶八載",
+          "note": "領橫塞軍使時所拜",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "命子儀領其使，拜左衛大將軍。"
+        },
+        {
+          "title_norm": "朔方節度使",
+          "title_original": "朔方節度使",
+          "period": "天寶十四載",
+          "note": "安祿山反後充朔方節度使",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "兼靈武郡太守，充朔方節度使"
+        },
+        {
+          "title_norm": "御史大夫",
+          "title_original": "御史大夫",
+          "period": "天寶十五載",
+          "note": "收雲中馬邑之功",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "以功加御史大夫。"
+        },
+        {
+          "title_norm": "兵部尚書、同中書門下平章事",
+          "title_original": "兵部尚書、同中書門下平章事",
+          "period": "至德元載",
+          "note": "肅宗所授",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "詔以子儀為兵部尚書、同中書門下平章事"
+        },
+        {
+          "title_norm": "司徒、代國公",
+          "title_original": "司徒，封代國公",
+          "period": "至德二載",
+          "note": "收復兩京之功",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "以功加司徒，封代國公，食邑千戶。"
+        },
+        {
+          "title_norm": "中書令",
+          "title_original": "中書令",
+          "period": "乾元元年",
+          "note": "破賊河上擒安守忠後進位",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "帝御望春樓待之，進位中書令。"
+        },
+        {
+          "title_norm": "汾陽郡王",
+          "title_original": "汾陽郡王",
+          "period": "上元三年",
+          "note": "出鎮絳州時進封",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "充本管觀察處置使，進封汾陽郡王"
+        },
+        {
+          "title_norm": "尚父、太尉、中書令",
+          "title_original": "尚父，進位太尉、中書令",
+          "period": "德宗即位",
+          "note": "賜號尚父",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "賜號「尚父」，進位太尉、中書令"
+        }
+      ],
+      "battles": [
+        {
+          "key": "guoziyi-jingbian",
+          "name_norm": "出朔方平叛",
+          "name_original": "收靜邊軍",
+          "year": 755,
+          "year_raw": "十四載",
+          "place": "單于府、靜邊軍",
+          "note": "安祿山反後舉兵東討",
+          "role": "朔方節度使",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "遂舉兵出單於府，收靜邊軍，斬賊將周萬頃，傳首闕下。"
+        },
+        {
+          "key": "guoziyi-jiashan",
+          "name_norm": "嘉山之戰",
+          "name_original": "陣於嘉山",
+          "year": 756,
+          "year_raw": "六月",
+          "place": "嘉山",
+          "note": "與李光弼合破史思明、蔡希德等",
+          "role": "朔方節度使",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "六月，子儀、光弼率僕固懷恩、渾釋之、陳回光等陣於嘉山"
+        },
+        {
+          "key": "guoziyi-xiangjisi",
+          "name_norm": "香積寺之戰",
+          "name_original": "戰於京西香積寺之北",
+          "year": 757,
+          "year_raw": "九月",
+          "place": "長安京西香積寺北",
+          "note": "從廣平王率蕃漢之師收復長安",
+          "role": "中軍",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "子儀奉元帥為中軍，與賊將安守忠、李歸仁戰於京西香積寺之北，王師結陣橫亙三十里"
+        },
+        {
+          "key": "guoziyi-weizhou",
+          "name_norm": "衛州之戰",
+          "name_original": "圍衛州",
+          "year": 758,
+          "year_raw": "十月",
+          "place": "衛州",
+          "note": "設伏射者三千，偽遁誘賊",
+          "role": "中書令、九節度之一",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "十月，子儀自杏園渡河，圍衛州。"
+        },
+        {
+          "key": "guoziyi-jingyang",
+          "name_norm": "涇陽退敵",
+          "name_original": "屯於涇陽",
+          "year": 765,
+          "year_raw": "永泰元年",
+          "place": "涇陽",
+          "note": "免胄見回紇，說其倒戈，大破吐蕃",
+          "role": "都統河南道節度行營",
+          "outcome": "勝",
+          "source_slug": "jiutangshu-120",
+          "source_locator": "舊唐書·卷一百二十·郭子儀列傳",
+          "source_quote": "子儀以數十騎徐出，免胄而勞之曰：「安乎？久同忠義，何至於是？」"
+        }
+      ]
+    },
+    {
+      "key": "xuerengui",
+      "name_norm": "薛仁貴",
+      "name_original": "薛仁貴",
+      "courtesy_name": "",
+      "state_key": "tang",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "永淳二年卒，年七十。",
+      "died_year": 683,
+      "achievement": "徵高麗、破鐵勒九姓、擊突厥；三箭定天山，官至右領軍衛將軍，封平陽郡公、檢校安東都護。",
+      "description": "絳州龍門人，少貧賤以田為業，應募從徵遼東。安市城著白衣陷陣知名，授遊擊將軍。顯慶中破高麗於貴端城；鐵勒之役發三矢殺三人，虜氣懾而降，軍中歌「將軍三箭定天山」。乾封中拔扶餘城，與李勣合軍，拜本衛大將軍、檢校安東都護。鹹亨元年大非川敗績，除名為庶人；後起為雞林道總管，擊突厥於雲州，大破之。",
+      "note": "本傳未載生年；卒於永淳二年，年七十。",
+      "source_slug": "xintangshu-111",
+      "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+      "source_quote": "薛仁貴，絳州龍門人。少貧賤，以田爲業。",
+      "titles": [
+        {
+          "title_norm": "遊擊將軍、雲泉府果毅",
+          "title_original": "遊擊將軍、雲泉府果毅",
+          "period": "貞觀十九年",
+          "note": "安市城陷陣後所授",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "授遊擊將軍、雲泉府果毅"
+        },
+        {
+          "title_norm": "右領軍中郎將",
+          "title_original": "右領軍中郎將",
+          "period": "貞觀末",
+          "note": "師還後遷",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "遷右領軍中郎將。"
+        },
+        {
+          "title_norm": "左武衛將軍、河東縣男",
+          "title_original": "左武衛將軍，封河東縣男",
+          "period": "顯慶",
+          "note": "破契丹執阿卜固後所拜",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "拜左武衛將軍，封河東縣男。"
+        },
+        {
+          "title_norm": "本衛大將軍、平陽郡公、檢校安東都護",
+          "title_original": "本衛大將軍，封平陽郡公，檢校安東都護",
+          "period": "乾封",
+          "note": "拔扶餘城後所拜",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "拜本衛大將軍，封平陽郡公，檢校安東都護"
+        },
+        {
+          "title_norm": "邏娑道行軍大總管",
+          "title_original": "邏娑道行軍大總管",
+          "period": "鹹亨元年",
+          "note": "吐蕃入寇時所命",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "命爲邏娑道行軍大總管"
+        },
+        {
+          "title_norm": "雞林道總管",
+          "title_original": "雞林道總管",
+          "period": "上元",
+          "note": "高麗餘眾叛時起用",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "起爲雞林道總管。"
+        },
+        {
+          "title_norm": "瓜州長史、右領軍衛將軍、檢校代州都督",
+          "title_original": "瓜州長史、右領軍衛將軍、檢校代州都督",
+          "period": "開耀",
+          "note": "擊突厥元珍於雲州",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "拜瓜州長史、右領軍衛將軍、檢校代州都督"
+        }
+      ],
+      "battles": [
+        {
+          "key": "xuerengui-anshi",
+          "name_norm": "安市城之戰",
+          "name_original": "攻安市城",
+          "year": null,
+          "year_raw": "",
+          "place": "安市城",
+          "note": "著白衣持戟陷陣，太宗望見問其名",
+          "role": "先鋒",
+          "outcome": "勝",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "仁貴恃驍悍，欲立奇功，乃著白衣自標顯，持戟，腰鞬兩弓，呼而馳，所向披靡"
+        },
+        {
+          "key": "xuerengui-guiduan",
+          "name_norm": "貴端城破高麗",
+          "name_original": "破高麗於貴端城",
+          "year": 658,
+          "year_raw": "顯慶三年",
+          "place": "貴端城",
+          "note": "副程名振經略遼東",
+          "role": "副",
+          "outcome": "勝",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "破高麗於貴端城，斬首三千級。"
+        },
+        {
+          "key": "xuerengui-tianshan",
+          "name_norm": "三箭定天山",
+          "name_original": "三箭定天山",
+          "year": null,
+          "year_raw": "",
+          "place": "天山",
+          "note": "發三矢殺三人，九姓懾而降",
+          "role": "鐵勒道行軍總管副",
+          "outcome": "勝",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "仁貴發三矢，輒殺三人，於是虜氣懾，皆降。"
+        },
+        {
+          "key": "xuerengui-fuyu",
+          "name_norm": "拔扶餘城",
+          "name_original": "進攻扶餘城",
+          "year": null,
+          "year_raw": "乾封初",
+          "place": "扶餘城",
+          "note": "提卒二千破賊萬餘，威震遼海",
+          "role": "統兵將領",
+          "outcome": "勝",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "仁貴負銳，提卒二千進攻扶餘城"
+        },
+        {
+          "key": "xuerengui-dafeichuan",
+          "name_norm": "大非川之戰",
+          "name_original": "退軍大非川",
+          "year": 670,
+          "year_raw": "鹹亨元年",
+          "place": "大非川",
+          "note": "郭待封違節度失輜重，吐蕃益兵四十萬",
+          "role": "邏娑道行軍大總管",
+          "outcome": "敗",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "仁貴退軍大非川，吐蕃益兵四十萬來戰，王師大敗。"
+        },
+        {
+          "key": "xuerengui-yunzhou",
+          "name_norm": "雲州擊突厥",
+          "name_original": "擊突厥元珍於雲州",
+          "year": null,
+          "year_raw": "",
+          "place": "雲州",
+          "note": "脫兜鍪示之，突厥驚遁，進擊大破之",
+          "role": "檢校代州都督",
+          "outcome": "勝",
+          "source_slug": "xintangshu-111",
+          "source_locator": "新唐書·卷一百一十一·列傳第三十六·薛仁貴",
+          "source_quote": "仁貴脫兜鍪見之，突厥相視失色，下馬羅拜，稍稍遁去。仁貴因進擊，大破之，斬首萬級"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,941 @@
+{
+  "generals": [
+    {
+      "key": "zhouyu",
+      "name_norm": "周瑜",
+      "name_original": "周瑜",
+      "courtesy_name": "公瑾",
+      "state_key": "dongwu",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "時年三十六",
+      "died_year": 210,
+      "achievement": "與劉備並力大破曹操於赤壁，又進取南郡，奠定江東立國之勢",
+      "description": "廬江舒人，孫策總角之好，佐策平定江東；權統事後為中護軍，赤壁拒曹，屢建奇功，年三十六卒於巴丘。",
+      "note": "本傳不載生年，亦未繫卒年；卒時『時年三十六』。",
+      "source_slug": "sanguozhi-054",
+      "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+      "source_quote": "周瑜字公瑾，廬江舒人也。",
+      "titles": [
+        {
+          "title_norm": "居巢長",
+          "title_original": "居巢長",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "故求為居巢長"
+        },
+        {
+          "title_norm": "建威中郎將",
+          "title_original": "建威中郎將",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "策親自迎瑜，授建威中郎將，即與兵二千人，騎五十匹。"
+        },
+        {
+          "title_norm": "中護軍",
+          "title_original": "中護軍",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "以瑜為中護軍"
+        },
+        {
+          "title_norm": "前部大督",
+          "title_original": "前部大督",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "瑜為前部大督"
+        },
+        {
+          "title_norm": "偏將軍",
+          "title_original": "偏將軍",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "權拜瑜偏將軍，領南郡太守。"
+        },
+        {
+          "title_norm": "南郡太守",
+          "title_original": "南郡太守",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "權拜瑜偏將軍，領南郡太守。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "hengjiang_dangli",
+          "name_norm": "攻橫江、當利",
+          "name_original": "攻橫江、當利",
+          "year": null,
+          "year_raw": "",
+          "place": "橫江、當利",
+          "note": "",
+          "role": "從攻",
+          "outcome": "皆拔之",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "遂從攻橫江、當利，皆拔之。乃渡江擊秣陵，破笮融、薛禮。"
+        },
+        {
+          "key": "po_liuxun",
+          "name_norm": "破劉勳",
+          "name_original": "破劉勳",
+          "year": null,
+          "year_raw": "",
+          "place": "尋陽、江夏",
+          "note": "",
+          "role": "主將",
+          "outcome": "破劉勳、定豫章廬陵",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "復近尋陽，破劉勳，討江夏，還定豫章、廬陵，留鎮巴丘。"
+        },
+        {
+          "key": "ma_bao",
+          "name_norm": "討麻、保二屯",
+          "name_original": "討麻、保二屯",
+          "year": 206,
+          "year_raw": "十一年",
+          "place": "麻、保二屯",
+          "note": "",
+          "role": "督",
+          "outcome": "梟其渠帥，囚俘萬餘口",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "十一年，督孫瑜等討麻、保二屯，梟其渠帥，囚俘萬餘口"
+        },
+        {
+          "key": "chibi",
+          "name_norm": "赤壁之戰",
+          "name_original": "赤壁之戰",
+          "year": 208,
+          "year_raw": "十三年",
+          "place": "赤壁",
+          "note": "",
+          "role": "左都督（與程普）",
+          "outcome": "曹公敗退",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "權遂遣瑜及程普等與備並力逆曹公，遇於赤壁。時曹公軍眾已有疾病，初一交戰，公軍敗退，引次江北。"
+        },
+        {
+          "key": "nanjun",
+          "name_norm": "南郡之戰",
+          "name_original": "南郡之戰",
+          "year": null,
+          "year_raw": "",
+          "place": "南郡、江陵",
+          "note": "",
+          "role": "主將（與程普）",
+          "outcome": "曹仁退走，遂據南郡",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·周瑜",
+          "source_quote": "瑜與程普又進南郡，與仁相對，各隔大江。"
+        }
+      ]
+    },
+    {
+      "key": "lumeng",
+      "name_norm": "呂蒙",
+      "name_original": "呂蒙",
+      "courtesy_name": "子明",
+      "state_key": "dongwu",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "年四十二，遂卒於內殿",
+      "died_year": 220,
+      "achievement": "襲取荊州，禽關羽，盡定荊州",
+      "description": "汝南富陂人，少依姊夫鄧當，勇而有謀；受孫權勸學，學識英博；佐周瑜破曹仁，取三郡，終襲荊州禽關羽。",
+      "note": "本傳不載生年，亦未繫卒年；卒時『年四十二』。",
+      "source_slug": "sanguozhi-054",
+      "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+      "source_quote": "呂蒙字子明，汝南富陂人也。",
+      "titles": [
+        {
+          "title_norm": "別部司馬",
+          "title_original": "別部司馬",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "張昭薦蒙代當，拜別部司馬。"
+        },
+        {
+          "title_norm": "平北都尉",
+          "title_original": "平北都尉",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "拜平北都尉，領廣德長"
+        },
+        {
+          "title_norm": "橫野中郎將",
+          "title_original": "橫野中郎將",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "以蒙為橫野中郎將，賜錢千萬。"
+        },
+        {
+          "title_norm": "偏將軍",
+          "title_original": "偏將軍",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "還，拜偏將軍，領尋陽令。"
+        },
+        {
+          "title_norm": "廬江太守",
+          "title_original": "廬江太守",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "即拜廬江太守"
+        },
+        {
+          "title_norm": "左護軍、虎威將軍",
+          "title_original": "左護軍、虎威將軍",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "拜蒙左護軍、虎威將軍。"
+        },
+        {
+          "title_norm": "南郡太守",
+          "title_original": "南郡太守",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "以蒙為南郡太守，封孱陵候"
+        }
+      ],
+      "battles": [
+        {
+          "key": "zheng_huangzu",
+          "name_norm": "從徵黃祖",
+          "name_original": "從徵黃祖",
+          "year": null,
+          "year_raw": "",
+          "place": "江夏",
+          "note": "",
+          "role": "前鋒",
+          "outcome": "親梟陳就首，進攻其城",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "從徵黃祖，祖令都督陳就逆以水軍出戰。蒙勒前鋒，親梟就首"
+        },
+        {
+          "key": "wulin_nanjun",
+          "name_norm": "破曹公於烏林、圍曹仁於南郡",
+          "name_original": "破曹公於烏林、圍曹仁於南郡",
+          "year": null,
+          "year_raw": "",
+          "place": "烏林、南郡",
+          "note": "",
+          "role": "將領",
+          "outcome": "破曹公，曹仁退走",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "是歲，又與周瑜、程普等西破曹公於烏林，圍曹仁於南郡。"
+        },
+        {
+          "key": "ruxu",
+          "name_norm": "拒曹公於濡須",
+          "name_original": "拒曹公於濡須",
+          "year": null,
+          "year_raw": "",
+          "place": "濡須",
+          "note": "",
+          "role": "督",
+          "outcome": "曹公不能下而退",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "後從權拒曹公於濡須，數近奇計，又勸權夾水口立塢，所以備禦甚精"
+        },
+        {
+          "key": "wancheng",
+          "name_norm": "徵皖城",
+          "name_original": "徵皖城",
+          "year": null,
+          "year_raw": "",
+          "place": "皖城",
+          "note": "",
+          "role": "主攻（薦甘寧為升城督）",
+          "outcome": "食時破之",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "蒙手執枹鼓，士卒皆騰踴自升，食時破之。"
+        },
+        {
+          "key": "san_jun",
+          "name_norm": "取長沙零桂三郡",
+          "name_original": "取長沙零桂三郡",
+          "year": null,
+          "year_raw": "",
+          "place": "長沙、零陵、桂陽",
+          "note": "",
+          "role": "主將",
+          "outcome": "二郡望風歸服，誘降郝普",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "權命蒙西取長沙、零、桂三郡。蒙移書二郡，望風歸服，惟零陵太守郝普城守不降。"
+        },
+        {
+          "key": "xiqu_jingzhou",
+          "name_norm": "襲荊州禽關羽",
+          "name_original": "襲荊州禽關羽",
+          "year": null,
+          "year_raw": "",
+          "place": "公安、南郡、麥城",
+          "note": "",
+          "role": "前部大將",
+          "outcome": "父子俱獲，荊州遂定",
+          "source_slug": "sanguozhi-054",
+          "source_locator": "三國志·吳書·周瑜魯肅呂蒙傳·呂蒙",
+          "source_quote": "權使朱然、潘璋斷其徑路，即父子俱獲，荊州遂定。"
+        }
+      ]
+    },
+    {
+      "key": "luxun",
+      "name_norm": "陸遜",
+      "name_original": "陸遜",
+      "courtesy_name": "伯言",
+      "state_key": "dongwu",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "遜憤恚致卒，時年六十三",
+      "died_year": 245,
+      "achievement": "夷陵之戰大破劉備，後官至丞相",
+      "description": "吳郡吳人，世江東大族；佐呂蒙取荊州，黃武元年為大都督，火攻破劉備於夷陵；後拜上大將軍、丞相。",
+      "note": "本傳不載生年，亦未繫卒年；卒時『時年六十三』。",
+      "source_slug": "sanguozhi-058",
+      "source_locator": "三國志·吳書·陸遜傳",
+      "source_quote": "陸遜字伯言，吳郡吳人也。",
+      "titles": [
+        {
+          "title_norm": "海昌屯田都尉",
+          "title_original": "海昌屯田都尉",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "出為海昌屯田都尉，並領縣事。"
+        },
+        {
+          "title_norm": "定威校尉",
+          "title_original": "定威校尉",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "拜定威校尉，軍屯利浦。"
+        },
+        {
+          "title_norm": "帳下右部督",
+          "title_original": "帳下右部督",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "權納其策，以為帳下右部督。"
+        },
+        {
+          "title_norm": "偏將軍右部督",
+          "title_original": "偏將軍右部督",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "權乃召遜，拜偏將軍右部督代蒙。"
+        },
+        {
+          "title_norm": "大都督、假節",
+          "title_original": "大都督、假節",
+          "period": "黃武元年",
+          "note": "",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "權命遜為大都督、假節，督朱然、潘璋、宋謙、韓當、徐盛、鮮于丹、孫桓等五萬人拒之。"
+        },
+        {
+          "title_norm": "輔國將軍、領荊州牧",
+          "title_original": "輔國將軍、領荊州牧",
+          "period": "",
+          "note": "",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "加拜遜輔國將軍，領荊州牧，即改封江陵候。"
+        },
+        {
+          "title_norm": "上大將軍、右都護",
+          "title_original": "上大將軍、右都護",
+          "period": "黃龍元年",
+          "note": "",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "黃龍元年，拜上大將軍、右都護。"
+        },
+        {
+          "title_norm": "丞相",
+          "title_original": "丞相",
+          "period": "赤烏七年",
+          "note": "",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "赤烏七年，代顧雍丞相"
+        }
+      ],
+      "battles": [
+        {
+          "key": "tao_panlin",
+          "name_norm": "討潘臨",
+          "name_original": "討潘臨",
+          "year": null,
+          "year_raw": "",
+          "place": "會稽",
+          "note": "",
+          "role": "主將",
+          "outcome": "所向皆服，部曲二千餘人",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "會稽山賊大帥潘臨，舊為所在毒害，歷年不禽。遜以手下召兵，討治深險，所向皆服，部曲已有二千餘人。"
+        },
+        {
+          "key": "tao_feizhan",
+          "name_norm": "討費棧",
+          "name_original": "討費棧",
+          "year": null,
+          "year_raw": "",
+          "place": "丹楊",
+          "note": "",
+          "role": "主將",
+          "outcome": "應時破散",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "會丹楊賊帥費棧受曹公印綬，扇動山越，為作內應，權遣遜討棧。棧支黨多而往兵少，遜乃益施牙幢，分佈鼓角，夜潛山谷間，鼓噪而前，應時破散。"
+        },
+        {
+          "key": "gongan_nanjun",
+          "name_norm": "取公安、南郡",
+          "name_original": "取公安、南郡",
+          "year": 219,
+          "year_raw": "建安二十四年",
+          "place": "公安、南郡",
+          "note": "",
+          "role": "前部",
+          "outcome": "至即克公安、南郡",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "權乃潛軍而上，使遜與呂蒙為前部，至即克公安、南郡。"
+        },
+        {
+          "key": "yiling",
+          "name_norm": "夷陵之戰",
+          "name_original": "夷陵之戰",
+          "year": 222,
+          "year_raw": "黃武元年",
+          "place": "夷陵、馬鞍山",
+          "note": "",
+          "role": "大都督",
+          "outcome": "破其四十餘營，劉備遁入白帝城",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "乃敕各持一把茅，以火攻拔之。一爾勢成，通率諸軍同時俱攻，斬張南、馮習及胡王沙靡柯等首，破其四十餘營。"
+        },
+        {
+          "key": "shiting",
+          "name_norm": "石亭之戰",
+          "name_original": "石亭之戰",
+          "year": 228,
+          "year_raw": "七年",
+          "place": "皖、夾石",
+          "note": "",
+          "role": "大都督（假黃鉞）",
+          "outcome": "斬獲萬餘，曹休還疽發背死",
+          "source_slug": "sanguozhi-058",
+          "source_locator": "三國志·吳書·陸遜傳",
+          "source_quote": "休既覺知，恥見欺誘，自恃兵馬精多，遂交戰。遜自為中部，令朱桓、全琮為左右冀，三道俱近，果沖休伏兵，因驅走之，追亡逐北，逕至夾石，斬獲萬餘"
+        }
+      ]
+    },
+    {
+      "key": "yanghu",
+      "name_norm": "羊祜",
+      "name_original": "羊祜",
+      "courtesy_name": "叔子",
+      "state_key": "xijin",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "尋卒，時年五十八",
+      "died_year": 278,
+      "achievement": "都督荊州，修德信以懷吳人，定平吳之策",
+      "description": "泰山南城人，博學善談；鎮襄陽，開建五城，與吳陸抗相對，增修德信；上疏定伐吳之計，卒後二歲吳平。",
+      "note": "本傳不載生年，亦未繫卒年；卒時『時年五十八』。",
+      "source_slug": "jinshu-034",
+      "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+      "source_quote": "羊祜，字叔子，泰山南城人也。",
+      "titles": [
+        {
+          "title_norm": "中書侍郎",
+          "title_original": "中書侍郎",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "公車徵拜中書侍郎，俄遷給事中、黃門郎。"
+        },
+        {
+          "title_norm": "祕書監",
+          "title_original": "祕書監",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "徙秘書監。"
+        },
+        {
+          "title_norm": "中領軍",
+          "title_original": "中領軍",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "遷中領軍，悉統宿衛，入直殿中，執兵之耍，事兼內外。"
+        },
+        {
+          "title_norm": "尚書右僕射、衛將軍",
+          "title_original": "尚書右僕射、衛將軍",
+          "period": "泰始初",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "其以祜為尚書右僕射、衛將軍，給本營兵。"
+        },
+        {
+          "title_norm": "都督荊州諸軍事、假節",
+          "title_original": "都督荊州諸軍事、假節",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "以祜為都督荊州諸軍事、假節，散騎常侍、衛將軍如故。"
+        },
+        {
+          "title_norm": "車騎將軍",
+          "title_original": "車騎將軍",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "後加車騎將軍，開府如三司之儀。"
+        },
+        {
+          "title_norm": "徵南大將軍",
+          "title_original": "徵南大將軍",
+          "period": "鹹甯初",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "咸甯初，除征南大將軍、開府儀同三司，得專辟召。"
+        },
+        {
+          "title_norm": "侍中、太傅",
+          "title_original": "侍中、太傅",
+          "period": "追贈",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "其追贈侍中、太傅，持節如故。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "ying_buchan",
+          "name_norm": "迎步闡",
+          "name_original": "迎步闡",
+          "year": null,
+          "year_raw": "",
+          "place": "江陵、西陵",
+          "note": "",
+          "role": "都督（率兵五萬）",
+          "outcome": "楊肇攻抗不克，闡竟為抗所擒",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "及還鎮，吳西陵督步闡舉城來降。吳將陸抗攻之甚急，詔祜迎闡。祜率兵五萬出江陵，遣荊州刺史楊肇攻抗，不克，闡竟為抗所擒。"
+        },
+        {
+          "key": "wucheng",
+          "name_norm": "進據險要、開建五城",
+          "name_original": "進據險要、開建五城",
+          "year": null,
+          "year_raw": "",
+          "place": "石城以西",
+          "note": "",
+          "role": "都督",
+          "outcome": "石城以西盡為晉有",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "乃進據險耍，開建五城，收膏腴之地，奪吳人之資，石城以西，盡為晉有。"
+        },
+        {
+          "key": "chen_pan",
+          "name_norm": "追斬陳尚、潘景",
+          "name_original": "追斬陳尚、潘景",
+          "year": null,
+          "year_raw": "",
+          "place": "荊州邊境",
+          "note": "",
+          "role": "都督",
+          "outcome": "追斬之，厚加殯斂",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "吳將陳尚、潘景來寇，祜追斬之，美其死節而厚加殯斂。"
+        },
+        {
+          "key": "yiyang_jiangxia",
+          "name_norm": "吳人寇弋陽、江夏",
+          "name_original": "吳人寇弋陽、江夏",
+          "year": null,
+          "year_raw": "",
+          "place": "弋陽、江夏",
+          "note": "",
+          "role": "都督（被詰不追討）",
+          "outcome": "祜陳不宜勞師，使者不能詰",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·羊祜",
+          "source_quote": "會吳人寇弋陽、江夏，略戶口，詔遣侍臣移書詰祜不追討之意，並欲移州復舊之宜。"
+        }
+      ]
+    },
+    {
+      "key": "duyu",
+      "name_norm": "杜預",
+      "name_original": "杜預",
+      "courtesy_name": "元凱",
+      "state_key": "xijin",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "行次鄧縣而卒，時年六十三",
+      "died_year": 284,
+      "achievement": "都督荊州，統軍平吳，克江陵、定荊州",
+      "description": "京兆杜陵人，博學多通，號『杜武庫』；鎮襄陽，襲張政，平吳克江陵，所至克捷；又著《春秋左氏經傳集解》。",
+      "note": "本傳不載生年，亦未繫卒年；卒時『時年六十三』。",
+      "source_slug": "jinshu-034",
+      "source_locator": "晉書·卷三十四·列傳第四·杜預",
+      "source_quote": "杜預，字元凱，京兆杜陵人也。",
+      "titles": [
+        {
+          "title_norm": "尚書郎",
+          "title_original": "尚書郎",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "起家拜尚書郎，襲祖爵豐樂亭侯。"
+        },
+        {
+          "title_norm": "鎮西長史",
+          "title_original": "鎮西長史",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "鐘會伐蜀，以預為鎮西長史。"
+        },
+        {
+          "title_norm": "河南尹",
+          "title_original": "河南尹",
+          "period": "泰始中",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "泰始中，守河南尹。"
+        },
+        {
+          "title_norm": "秦州刺史",
+          "title_original": "秦州刺史",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "到長安，更除秦州刺史，領東羌校尉、輕車將軍、假節。"
+        },
+        {
+          "title_norm": "度支尚書",
+          "title_original": "度支尚書",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "俄拜度支尚書。"
+        },
+        {
+          "title_norm": "鎮南大將軍、都督荊州諸軍事",
+          "title_original": "鎮南大將軍、都督荊州諸軍事",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "及祜卒，拜鎮南大將軍、都督荊州諸軍事，給追鋒車，第二駙馬。"
+        },
+        {
+          "title_norm": "司隸校尉",
+          "title_original": "司隸校尉",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "其後徵為司隸校尉，加位特進，行次鄧縣而卒"
+        },
+        {
+          "title_norm": "徵南大將軍",
+          "title_original": "徵南大將軍",
+          "period": "追贈",
+          "note": "",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "追贈征南大將軍、開府儀同三司，諡曰成。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "xi_zhangzheng",
+          "name_norm": "襲吳西陵督張政",
+          "name_original": "襲吳西陵督張政",
+          "year": null,
+          "year_raw": "",
+          "place": "西陵",
+          "note": "",
+          "role": "鎮南大將軍",
+          "outcome": "大破之，增封三百六十五戶",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "預既至鎮，繕甲兵，耀威武，乃簡精銳，襲吳西陵督張政，大破之，以功增封三百六十五戶。"
+        },
+        {
+          "key": "pingwu_jiangling",
+          "name_norm": "平吳陳兵江陵",
+          "name_original": "平吳陳兵江陵",
+          "year": 280,
+          "year_raw": "太康元年正月",
+          "place": "江陵",
+          "note": "",
+          "role": "鎮南大將軍",
+          "outcome": "旬日之間累克城邑",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "預以太康元年正月，陳兵於江陵，遣參軍樊顯、尹林、鄧圭、襄陽太守周奇等率眾循江西上，授以節度，旬日之間，累克城邑，皆如預策焉。"
+        },
+        {
+          "key": "lexiang_sunxin",
+          "name_norm": "襲樂鄉虜孫歆",
+          "name_original": "襲樂鄉虜孫歆",
+          "year": 280,
+          "year_raw": "太康元年",
+          "place": "樂鄉",
+          "note": "",
+          "role": "鎮南大將軍",
+          "outcome": "虜歆而還",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "旨等發伏兵，隨歆軍而入，歆不覺，直至帳下，虜歆而還。"
+        },
+        {
+          "key": "jingzao_moling",
+          "name_norm": "徑造秣陵",
+          "name_original": "徑造秣陵",
+          "year": 280,
+          "year_raw": "太康元年",
+          "place": "秣陵",
+          "note": "",
+          "role": "鎮南大將軍",
+          "outcome": "所過城邑莫不束手，孫皓平",
+          "source_slug": "jinshu-034",
+          "source_locator": "晉書·卷三十四·列傳第四·杜預",
+          "source_quote": "遂指授群帥，徑造秣陵。所過城邑，莫不束手。"
+        }
+      ]
+    },
+    {
+      "key": "taokan",
+      "name_norm": "陶侃",
+      "name_original": "陶侃",
+      "courtesy_name": "士行",
+      "state_key": "dongjin",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "明日，薨于樊溪，時年七十六",
+      "died_year": 334,
+      "achievement": "平張昌、杜弢、蘇峻之亂，都督八州，鎮荊州",
+      "description": "鄱陽人，早孤貧為縣吏；以軍功歷荊、廣州刺史，討平杜弢、蘇峻、郭默；官至太尉、長沙郡公。",
+      "note": "本傳不載生年，亦未繫卒年；卒時『時年七十六』。",
+      "source_slug": "jinshu-066",
+      "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+      "source_quote": "陶侃，字士行，本鄱陽人也。",
+      "titles": [
+        {
+          "title_norm": "南蠻長史",
+          "title_original": "南蠻長史",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "會劉弘為荊州刺史，將之官，辟侃為南蠻長史"
+        },
+        {
+          "title_norm": "江夏太守、鷹揚將軍",
+          "title_original": "江夏太守、鷹揚將軍",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "陳敏之亂，弘以侃為江夏太守，加鷹揚將軍。"
+        },
+        {
+          "title_norm": "龍驤將軍、武昌太守",
+          "title_original": "龍驤將軍、武昌太守",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "頃之，遷龍驤將軍、武昌太守。"
+        },
+        {
+          "title_norm": "荊州刺史",
+          "title_original": "荊州刺史",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "即表拜侃為使持節、甯遠將軍、南蠻校尉、荊州刺史，領西陽、江夏、武昌"
+        },
+        {
+          "title_norm": "廣州刺史、平越中郎將",
+          "title_original": "廣州刺史、平越中郎將",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "左轉廣州刺史、平越中郎將"
+        },
+        {
+          "title_norm": "徵西大將軍、荊州刺史",
+          "title_original": "徵西大將軍、荊州刺史",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "遷都督荊、雍、益、梁州諸軍事，領護南蠻校尉、征西大將軍、荊州刺史，余如故。"
+        },
+        {
+          "title_norm": "侍中、太尉、長沙郡公",
+          "title_original": "侍中、太尉、長沙郡公",
+          "period": "",
+          "note": "",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "尋以為侍中、太尉，加羽葆鼓吹，改封長沙郡公，邑三千戶"
+        },
+        {
+          "title_norm": "大司馬",
+          "title_original": "大司馬",
+          "period": "追贈",
+          "note": "",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "今遣兼鴻臚追贈大司馬，假蜜章，祠乙太牢。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "po_zhangchang",
+          "name_norm": "討張昌",
+          "name_original": "討張昌",
+          "year": null,
+          "year_raw": "",
+          "place": "襄陽",
+          "note": "",
+          "role": "南蠻長史（先鋒）",
+          "outcome": "破之",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "會劉弘為荊州刺史，將之官，辟侃為南蠻長史，遣先向襄陽討賊張昌，破之。"
+        },
+        {
+          "key": "yu_chenhui",
+          "name_norm": "禦陳恢",
+          "name_original": "禦陳恢",
+          "year": null,
+          "year_raw": "",
+          "place": "武昌",
+          "note": "",
+          "role": "江夏太守",
+          "outcome": "所向必破",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "敏遣其弟恢來寇武昌，侃出兵禦之。"
+        },
+        {
+          "key": "po_dutao",
+          "name_norm": "破杜弢",
+          "name_original": "破杜弢",
+          "year": null,
+          "year_raw": "",
+          "place": "湘州",
+          "note": "",
+          "role": "主將",
+          "outcome": "大破之，屯兵於城西",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "侃復率周訪等進軍人湘，使都尉楊舉為先驅，擊杜弢，大破之，屯兵於城西。"
+        },
+        {
+          "key": "ping_sujun",
+          "name_norm": "平蘇峻之亂",
+          "name_original": "平蘇峻之亂",
+          "year": null,
+          "year_raw": "",
+          "place": "石頭、陳陵東",
+          "note": "",
+          "role": "盟主（督諸軍）",
+          "outcome": "斬峻於陣，賊眾大潰",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "諸軍與峻戰陳陵東，侃督護竟陵太守李陽部將彭世斬峻於陣，賊眾大潰。"
+        },
+        {
+          "key": "tao_guomo",
+          "name_norm": "討郭默",
+          "name_original": "討郭默",
+          "year": null,
+          "year_raw": "",
+          "place": "江州",
+          "note": "",
+          "role": "主帥（大都督）",
+          "outcome": "斬默等，兵不血刃而擒",
+          "source_slug": "jinshu-066",
+          "source_locator": "晉書·卷六十六·列傳第三十六·陶侃",
+          "source_quote": "侃既至，默將宗侯縛默父子五人及默將張醜詣侃降，侃斬默等。"
+        }
+      ]
+    }
+  ]
+}

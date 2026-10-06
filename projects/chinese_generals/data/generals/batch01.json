@@ -1,0 +1,566 @@
+{
+  "generals": [
+    {
+      "key": "baiqi",
+      "name_norm": "白起",
+      "name_original": "白起",
+      "courtesy_name": "",
+      "state_key": "qin",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "武安君之死也，以秦昭王五十年十一月",
+      "died_year": -257,
+      "achievement": "善用兵，事秦昭王，自左庶長累遷國尉、大良造，封武安君；南拔鄢郢，北破長平，前後斬首虜四十五萬，聲震天下。",
+      "description": "白起者，郿人也。昭王十三年為左庶長，攻韓新城；次年攻韓魏於伊闕，斬首二十四萬，虜公孫喜。後攻楚拔郢，燒夷陵，定巫、黔中郡，遷為武安君。昭王四十七年陰為上將軍，於長平大破趙軍，坑殺降卒四十萬。後與應侯有隙，稱病不行，免為士伍，遷之陰密，賜劍自裁於杜郵。",
+      "note": "",
+      "source_slug": "shiji-073",
+      "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+      "source_quote": "白起者，郿人也。善用兵，事秦昭王。",
+      "titles": [
+        {
+          "title_norm": "左庶長",
+          "title_original": "左庶長",
+          "period": "昭王十三年",
+          "note": "",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "昭王十三年，而白起為左庶長"
+        },
+        {
+          "title_norm": "左更",
+          "title_original": "左更",
+          "period": "昭王十四年",
+          "note": "",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "其明年，白起為左更，攻韓、魏於伊闕"
+        },
+        {
+          "title_norm": "國尉",
+          "title_original": "國尉",
+          "period": "昭王十四年後",
+          "note": "",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "起遷為國尉"
+        },
+        {
+          "title_norm": "大良造",
+          "title_original": "大良造",
+          "period": "昭王十五年",
+          "note": "",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "明年，白起為大良造"
+        },
+        {
+          "title_norm": "武安君",
+          "title_original": "武安君",
+          "period": "昭王二十九年後",
+          "note": "",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "白起遷為武安君"
+        },
+        {
+          "title_norm": "上將軍",
+          "title_original": "上將軍",
+          "period": "昭王四十七年",
+          "note": "",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "乃陰使武安君白起為上將軍"
+        },
+        {
+          "title_norm": "士伍",
+          "title_original": "士伍",
+          "period": "昭王五十年",
+          "note": "",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "於是免武安君為士伍，遷之陰密。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "xincheng",
+          "name_norm": "新城之戰",
+          "name_original": "新城",
+          "year": -294,
+          "year_raw": "昭王十三年",
+          "place": "新城",
+          "note": "",
+          "role": "秦左庶長",
+          "outcome": "將而擊韓之新城",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "昭王十三年，而白起為左庶長，將而擊韓之新城"
+        },
+        {
+          "key": "yique",
+          "name_norm": "伊闕之戰",
+          "name_original": "伊闕",
+          "year": -293,
+          "year_raw": "其明年",
+          "place": "伊闕",
+          "note": "",
+          "role": "秦左更",
+          "outcome": "斬首二十四萬，虜公孫喜，拔五城",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "攻韓、魏於伊闕，斬首二十四萬，又虜其將公孫喜，拔五城"
+        },
+        {
+          "key": "ba_ying",
+          "name_norm": "拔郢之戰",
+          "name_original": "拔郢",
+          "year": null,
+          "year_raw": "其明年",
+          "place": "郢",
+          "note": "史文僅作「其明年」，未明言昭王年次，故年歲存疑",
+          "role": "秦武安君",
+          "outcome": "拔郢，燒夷陵，秦以郢為南郡",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "其明年，攻楚，拔郢，燒夷陵，遂東至竟陵"
+        },
+        {
+          "key": "huayang",
+          "name_norm": "華陽之戰",
+          "name_original": "華陽",
+          "year": -273,
+          "year_raw": "昭王三十四年",
+          "place": "華陽",
+          "note": "",
+          "role": "秦武安君",
+          "outcome": "拔華陽，走芒卯，虜三晉將，斬首十三萬",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "昭王三十四年，白起攻魏，拔華陽，走芒卯，而虜三晉將，斬首十三萬"
+        },
+        {
+          "key": "xingcheng",
+          "name_norm": "陘城之戰",
+          "name_original": "陘城",
+          "year": -264,
+          "year_raw": "昭王四十三年",
+          "place": "陘城",
+          "note": "",
+          "role": "秦武安君",
+          "outcome": "拔五城，斬首五萬",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "昭王四十三年，白起攻韓陘城，拔五城，斬首五萬"
+        },
+        {
+          "key": "changping",
+          "name_norm": "長平之戰",
+          "name_original": "長平",
+          "year": -260,
+          "year_raw": "昭王四十七年",
+          "place": "長平",
+          "note": "",
+          "role": "秦上將軍",
+          "outcome": "大破趙軍，坑殺降卒四十萬",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·白起",
+          "source_quote": "秦軍射殺趙括"
+        }
+      ]
+    },
+    {
+      "key": "wangjian",
+      "name_norm": "王翦",
+      "name_original": "王翦",
+      "courtesy_name": "",
+      "state_key": "qin",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "",
+      "died_year": null,
+      "achievement": "事秦始皇為秦將，將兵滅趙、燕、楚，與子王賁盡並天下，王氏、蒙氏功為多，名施於後世。",
+      "description": "王翦者，頻陽東鄉人也，少而好兵，事秦始皇。始皇十一年攻趙閼與，拔九城；十八年拔趙，趙王降，又定燕薊而還。李信伐荊敗後，始皇自馳至頻陽請之，翦將兵六十萬伐荊，堅壁不戰，待楚兵東引而大破之，殺項燕，虜荊王負芻，竟平荊地為郡縣。",
+      "note": "史記未載王翦生卒年與正式封號，僅以秦將、宿將、將軍等稱之。",
+      "source_slug": "shiji-073",
+      "source_locator": "史記·卷七十三·白起王翦列傳·王翦",
+      "source_quote": "王翦者，頻陽東鄉人也。少而好兵，事秦始皇。",
+      "titles": [
+        {
+          "title_norm": "秦將",
+          "title_original": "秦將",
+          "period": "秦始皇時",
+          "note": "",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·王翦",
+          "source_quote": "王翦為秦將，夷六國"
+        },
+        {
+          "title_norm": "宿將",
+          "title_original": "宿將",
+          "period": "秦始皇時",
+          "note": "",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·王翦",
+          "source_quote": "翦為宿將，始皇師之"
+        },
+        {
+          "title_norm": "將軍",
+          "title_original": "將軍",
+          "period": "秦始皇時",
+          "note": "",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·王翦",
+          "source_quote": "王將軍老矣，何怯也！"
+        },
+        {
+          "title_norm": "老臣",
+          "title_original": "老臣",
+          "period": "秦始皇時",
+          "note": "王翦自稱，非正式官號",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·王翦",
+          "source_quote": "老臣罷病悖亂，唯大王更擇賢將。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "e_yu",
+          "name_norm": "攻趙閼與",
+          "name_original": "閼與",
+          "year": -236,
+          "year_raw": "始皇十一年",
+          "place": "閼與",
+          "note": "",
+          "role": "秦將",
+          "outcome": "破之，拔九城",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·王翦",
+          "source_quote": "始皇十一年，翦將攻趙閼與，破之，拔九城"
+        },
+        {
+          "key": "mie_zhao",
+          "name_norm": "滅趙之戰",
+          "name_original": "攻趙",
+          "year": -229,
+          "year_raw": "十八年",
+          "place": "趙",
+          "note": "",
+          "role": "秦將",
+          "outcome": "拔趙，趙王降，盡定趙地為郡",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·王翦",
+          "source_quote": "十八年，翦將攻趙。歲餘，遂拔趙，趙王降，盡定趙地為郡。"
+        },
+        {
+          "key": "ding_yan",
+          "name_norm": "定燕之戰",
+          "name_original": "攻燕",
+          "year": -228,
+          "year_raw": "明年",
+          "place": "燕薊",
+          "note": "",
+          "role": "秦將",
+          "outcome": "燕王喜走遼東，翦定燕薊而還",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·王翦",
+          "source_quote": "明年，燕使荊軻為賊於秦，秦王使王翦攻燕。燕王喜走遼東，翦遂定燕薊而還。"
+        },
+        {
+          "key": "po_jing",
+          "name_norm": "破荊之戰",
+          "name_original": "擊荊",
+          "year": null,
+          "year_raw": "",
+          "place": "蘄南",
+          "note": "史文未明言年次，故年歲闕疑",
+          "role": "秦將",
+          "outcome": "大破荊軍，殺項燕，虜荊王負芻，平荊地為郡縣",
+          "source_slug": "shiji-073",
+          "source_locator": "史記·卷七十三·白起王翦列傳·王翦",
+          "source_quote": "至蘄南，殺其將軍項燕，荊兵遂敗走。"
+        }
+      ]
+    },
+    {
+      "key": "mengtian",
+      "name_norm": "蒙恬",
+      "name_original": "蒙恬",
+      "courtesy_name": "",
+      "state_key": "qin",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "乃吞藥自殺",
+      "died_year": null,
+      "achievement": "因家世為秦將，攻齊破之，拜內史；將三十萬眾北逐戎狄，收河南，築長城，威振匈奴。",
+      "description": "蒙恬者，其先齊人也，大父蒙驁、父蒙武皆為秦將。始皇二十六年蒙恬因家世為秦將，攻齊大破之，拜為內史，後率三十萬眾北逐戎狄，收河南，築長城起臨洮至遼東，延袤萬餘裏。又奉命通道自九原抵甘泉，塹山堙谷千八百裏，暴師於外十餘年，居上郡。始皇崩後，趙高與李斯、胡亥陰謀矯詔賜死，蒙恬吞藥自殺。",
+      "note": "",
+      "source_slug": "shiji-088",
+      "source_locator": "史記·卷八十八·蒙恬列傳·蒙恬",
+      "source_quote": "蒙恬者，其先齊人也。",
+      "titles": [
+        {
+          "title_norm": "秦將",
+          "title_original": "秦將",
+          "period": "始皇二十六年",
+          "note": "",
+          "source_slug": "shiji-088",
+          "source_locator": "史記·卷八十八·蒙恬列傳·蒙恬",
+          "source_quote": "始皇二十六年，蒙恬因家世得為秦將，攻齊，大破之，拜為內史。"
+        },
+        {
+          "title_norm": "內史",
+          "title_original": "內史",
+          "period": "始皇二十六年",
+          "note": "",
+          "source_slug": "shiji-088",
+          "source_locator": "史記·卷八十八·蒙恬列傳·蒙恬",
+          "source_quote": "攻齊，大破之，拜為內史"
+        },
+        {
+          "title_norm": "將軍",
+          "title_original": "將",
+          "period": "始皇二十六年後",
+          "note": "將三十萬眾",
+          "source_slug": "shiji-088",
+          "source_locator": "史記·卷八十八·蒙恬列傳·蒙恬",
+          "source_quote": "乃使蒙恬將三十萬眾北逐戎狄，收河南。"
+        },
+        {
+          "title_norm": "名將",
+          "title_original": "名將",
+          "period": "秦時",
+          "note": "太史公語，非官號",
+          "source_slug": "shiji-088",
+          "source_locator": "史記·卷八十八·蒙恬列傳·蒙恬",
+          "source_quote": "而恬為名將，不以此時彊諫"
+        }
+      ],
+      "battles": [
+        {
+          "key": "gong_qi",
+          "name_norm": "攻齊之戰",
+          "name_original": "攻齊",
+          "year": -221,
+          "year_raw": "始皇二十六年",
+          "place": "齊",
+          "note": "",
+          "role": "秦將",
+          "outcome": "大破之，拜為內史",
+          "source_slug": "shiji-088",
+          "source_locator": "史記·卷八十八·蒙恬列傳·蒙恬",
+          "source_quote": "蒙恬因家世得為秦將，攻齊，大破之"
+        },
+        {
+          "key": "zhu_rongdi",
+          "name_norm": "北逐戎狄",
+          "name_original": "北逐戎狄",
+          "year": null,
+          "year_raw": "",
+          "place": "河南",
+          "note": "",
+          "role": "秦將",
+          "outcome": "收河南，威振匈奴",
+          "source_slug": "shiji-088",
+          "source_locator": "史記·卷八十八·蒙恬列傳·蒙恬",
+          "source_quote": "乃使蒙恬將三十萬眾北逐戎狄，收河南"
+        },
+        {
+          "key": "zhu_changcheng",
+          "name_norm": "築長城",
+          "name_original": "築長城",
+          "year": null,
+          "year_raw": "",
+          "place": "臨洮至遼東",
+          "note": "",
+          "role": "秦將",
+          "outcome": "起臨洮，至遼東，延袤萬餘裏",
+          "source_slug": "shiji-088",
+          "source_locator": "史記·卷八十八·蒙恬列傳·蒙恬",
+          "source_quote": "筑長城，因地形，用制險塞，起臨洮，至遼東，延袤萬餘里。"
+        },
+        {
+          "key": "tong_zhidao",
+          "name_norm": "通直道",
+          "name_original": "通道",
+          "year": null,
+          "year_raw": "",
+          "place": "九原至甘泉",
+          "note": "",
+          "role": "秦將",
+          "outcome": "塹山堙谷，千八百裏，道未就",
+          "source_slug": "shiji-088",
+          "source_locator": "史記·卷八十八·蒙恬列傳·蒙恬",
+          "source_quote": "乃使蒙恬通道，自九原抵甘泉，塹山堙谷，千八百里。"
+        }
+      ]
+    },
+    {
+      "key": "xiangyu",
+      "name_norm": "項羽",
+      "name_original": "項籍",
+      "courtesy_name": "羽",
+      "state_key": "chu",
+      "born_raw": "",
+      "born_year": null,
+      "died_raw": "乃自刎而死",
+      "died_year": -202,
+      "achievement": "起隴畝之中，三年遂將五諸侯滅秦，分裂天下而封王侯，政由羽出，號為霸王；鉅鹿一戰沉船破釜，大破秦軍，諸侯皆屬。",
+      "description": "項籍者，下相人也，字羽，項氏世世為楚將。初起時年二十四，從季父項梁起吳中，梁死後斬卿子冠軍宋義，自為假上將軍，救鉅鹿，虜王離，又於新安坑秦卒二十餘萬。入關屠鹹陽，殺子嬰，自立為西楚霸王，分封諸侯。與漢王相持滎陽、成皋、廣武間數歲，終為漢軍圍於垓下，兵少食盡，潰圍南出，自刎於東城。",
+      "note": "史文未明言生年，僅載「初起時，年二十四」，故born_year闕疑；卒年由「漢五年」推為前202年。",
+      "source_slug": "shiji-007",
+      "source_locator": "史記·卷七·項羽本紀·項羽",
+      "source_quote": "項籍者，下相人也，字羽。",
+      "titles": [
+        {
+          "title_norm": "裨將",
+          "title_original": "裨將",
+          "period": "秦二世元年",
+          "note": "",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "於是梁為會稽守，籍為裨將，徇下縣。"
+        },
+        {
+          "title_norm": "魯公",
+          "title_original": "魯公",
+          "period": "秦二世二年",
+          "note": "",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "項羽為魯公，為次將"
+        },
+        {
+          "title_norm": "次將",
+          "title_original": "次將",
+          "period": "秦二世二年",
+          "note": "",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "項羽為魯公，為次將"
+        },
+        {
+          "title_norm": "假上將軍",
+          "title_original": "假上將軍",
+          "period": "秦二世三年",
+          "note": "",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "乃相與共立羽為假上將軍"
+        },
+        {
+          "title_norm": "上將軍",
+          "title_original": "上將軍",
+          "period": "秦二世三年",
+          "note": "",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "懷王因使項羽為上將軍"
+        },
+        {
+          "title_norm": "諸侯上將軍",
+          "title_original": "諸侯上將軍",
+          "period": "秦二世三年",
+          "note": "",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "項羽由是始為諸侯上將軍"
+        },
+        {
+          "title_norm": "西楚霸王",
+          "title_original": "西楚霸王",
+          "period": "漢之元年",
+          "note": "",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "項王自立為西楚霸王，王九郡，都彭城。"
+        }
+      ],
+      "battles": [
+        {
+          "key": "xiangcheng",
+          "name_norm": "襄城之戰",
+          "name_original": "襄城",
+          "year": null,
+          "year_raw": "",
+          "place": "襄城",
+          "note": "",
+          "role": "楚別將",
+          "outcome": "拔襄城，皆阬之",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "項梁前使項羽別攻襄城，襄城堅守不下。已拔，皆阬之。"
+        },
+        {
+          "key": "julu",
+          "name_norm": "鉅鹿之戰",
+          "name_original": "鉅鹿",
+          "year": -207,
+          "year_raw": "",
+          "place": "鉅鹿",
+          "note": "",
+          "role": "楚上將軍",
+          "outcome": "沈船破釜，九戰大破秦軍，殺蘇角，虜王離",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "項羽乃悉引兵渡河，皆沈船，破釜甑，燒廬舍，持三日糧，以示士卒必死，無一還心。"
+        },
+        {
+          "key": "xinan",
+          "name_norm": "新安坑秦卒",
+          "name_original": "新安",
+          "year": -206,
+          "year_raw": "",
+          "place": "新安城南",
+          "note": "",
+          "role": "諸侯上將軍",
+          "outcome": "夜擊阬秦卒二十餘萬人",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "於是楚軍夜擊阬秦卒二十餘萬人新安城南。"
+        },
+        {
+          "key": "pengcheng",
+          "name_norm": "彭城之戰",
+          "name_original": "彭城",
+          "year": -205,
+          "year_raw": "漢之二年四月",
+          "place": "彭城",
+          "note": "",
+          "role": "西楚霸王",
+          "outcome": "大破漢軍，殺漢卒十餘萬人",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "項王乃西從蕭，晨擊漢軍而東，至彭城，日中，大破漢軍。"
+        },
+        {
+          "key": "chenggao",
+          "name_norm": "成皋之戰",
+          "name_original": "成皋",
+          "year": -203,
+          "year_raw": "漢之四年",
+          "place": "成皋",
+          "note": "",
+          "role": "西楚霸王",
+          "outcome": "拔成皋",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "楚遂拔成皋，欲西。"
+        },
+        {
+          "key": "gaixia",
+          "name_norm": "垓下之戰",
+          "name_original": "垓下",
+          "year": -202,
+          "year_raw": "漢五年",
+          "place": "垓下",
+          "note": "",
+          "role": "西楚霸王",
+          "outcome": "兵少食盡，四面楚歌，潰圍南出，自刎東城",
+          "source_slug": "shiji-007",
+          "source_locator": "史記·卷七·項羽本紀·項羽",
+          "source_quote": "項王軍壁垓下，兵少食盡，漢軍及諸侯兵圍之數重。"
+        }
+      ]
+    }
+  ]
+}

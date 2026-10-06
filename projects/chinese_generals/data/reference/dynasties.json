@@ -1,0 +1,12 @@
+[
+  {"key": "qin", "name_chn": "秦", "name_original": "秦", "period_note": "戰國秦國至秦朝（統一後二世而亡）", "source_slug": "shiji-073", "note": "本庫以本紀、列傳所見之國號分組；朝代起訖不另立數字，見 generals 各將之生卒與紀年。"},
+  {"key": "chu", "name_chn": "西楚", "name_original": "西楚", "period_note": "秦亡後項羽所建（西楚霸王）", "source_slug": "shiji-007", "note": ""},
+  {"key": "xihan", "name_chn": "西漢", "name_original": "漢", "period_note": "漢高祖至孺子嬰", "source_slug": "hanshu-055", "note": ""},
+  {"key": "donghan", "name_chn": "東漢", "name_original": "後漢", "period_note": "光武中興至獻帝", "source_slug": "houhanshu-024", "note": "《後漢書》為范曄所撰。呂布為東漢末群雄，姑繫於東漢，其後事屬三國。"},
+  {"key": "sanguo", "name_chn": "三國", "name_original": "三國", "period_note": "魏、蜀、吳鼎立", "source_slug": "sanguozhi-036", "note": ""},
+  {"key": "xijin", "name_chn": "西晉", "name_original": "晉", "period_note": "武帝平吳至愍帝", "source_slug": "jinshu-034", "note": ""},
+  {"key": "dongjin", "name_chn": "東晉", "name_original": "晉", "period_note": "元帝南渡至恭帝", "source_slug": "jinshu-066", "note": "《晉書》兼載兩晉；陶侃仕東晉，故別列。"},
+  {"key": "tang", "name_chn": "唐", "name_original": "唐", "period_note": "高祖至哀帝", "source_slug": "jiutangshu-067", "note": ""},
+  {"key": "nansong", "name_chn": "南宋", "name_original": "宋", "period_note": "高宗南渡至帝昺", "source_slug": "songshi-365", "note": "韓世忠、岳飛皆南宋初人，故稱南宋。"},
+  {"key": "ming", "name_chn": "明", "name_original": "明", "period_note": "太祖至思宗", "source_slug": "mingshi-125", "note": ""}
+]

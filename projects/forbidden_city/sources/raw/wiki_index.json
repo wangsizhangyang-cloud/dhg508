@@ -1,0 +1,154 @@
+{
+ "Forbidden City": {
+  "requested": "Forbidden City",
+  "resolved": "Forbidden City",
+  "missing": false,
+  "chars": 32027,
+  "file": "Forbidden_City.txt",
+  "url": "https://en.wikipedia.org/wiki/Forbidden_City"
+ },
+ "Meridian Gate": {
+  "requested": "Meridian Gate",
+  "resolved": "Meridian Gate",
+  "missing": false,
+  "chars": 2077,
+  "file": "Meridian_Gate.txt",
+  "url": "https://en.wikipedia.org/wiki/Meridian_Gate"
+ },
+ "Gate of Supreme Harmony": {
+  "requested": "Gate of Supreme Harmony",
+  "resolved": "Gate of Supreme Harmony",
+  "missing": false,
+  "chars": 2396,
+  "file": "Gate_of_Supreme_Harmony.txt",
+  "url": "https://en.wikipedia.org/wiki/Gate_of_Supreme_Harmony"
+ },
+ "Hall of Supreme Harmony": {
+  "requested": "Hall of Supreme Harmony",
+  "resolved": "Hall of Supreme Harmony",
+  "missing": false,
+  "chars": 3117,
+  "file": "Hall_of_Supreme_Harmony.txt",
+  "url": "https://en.wikipedia.org/wiki/Hall_of_Supreme_Harmony"
+ },
+ "Hall of Central Harmony": {
+  "requested": "Hall of Central Harmony",
+  "resolved": "Hall of Central Harmony",
+  "missing": false,
+  "chars": 452,
+  "file": "Hall_of_Central_Harmony.txt",
+  "url": "https://en.wikipedia.org/wiki/Hall_of_Central_Harmony"
+ },
+ "Hall of Preserving Harmony": {
+  "requested": "Hall of Preserving Harmony",
+  "resolved": "Hall of Preserving Harmony",
+  "missing": false,
+  "chars": 666,
+  "file": "Hall_of_Preserving_Harmony.txt",
+  "url": "https://en.wikipedia.org/wiki/Hall_of_Preserving_Harmony"
+ },
+ "Palace of Heavenly Purity": {
+  "requested": "Palace of Heavenly Purity",
+  "resolved": "Palace of Heavenly Purity",
+  "missing": false,
+  "chars": 3136,
+  "file": "Palace_of_Heavenly_Purity.txt",
+  "url": "https://en.wikipedia.org/wiki/Palace_of_Heavenly_Purity"
+ },
+ "Hall of Union": {
+  "requested": "Hall of Union",
+  "resolved": "Hall of Union",
+  "missing": false,
+  "chars": 685,
+  "file": "Hall_of_Union.txt",
+  "url": "https://en.wikipedia.org/wiki/Hall_of_Union"
+ },
+ "Palace of Earthly Tranquility": {
+  "requested": "Palace of Earthly Tranquility",
+  "resolved": "Palace of Earthly Tranquility",
+  "missing": false,
+  "chars": 1328,
+  "file": "Palace_of_Earthly_Tranquility.txt",
+  "url": "https://en.wikipedia.org/wiki/Palace_of_Earthly_Tranquility"
+ },
+ "Gate of Divine Prowess": {
+  "requested": "Gate of Divine Prowess",
+  "resolved": "Gate of Divine Prowess",
+  "missing": false,
+  "chars": 1046,
+  "file": "Gate_of_Divine_Prowess.txt",
+  "url": "https://en.wikipedia.org/wiki/Gate_of_Divine_Prowess"
+ },
+ "Corner towers of the Forbidden City": {
+  "requested": "Corner towers of the Forbidden City",
+  "resolved": "Corner towers of the Forbidden City",
+  "missing": true,
+  "chars": 0,
+  "file": "Corner_towers_of_the_Forbidden_City.txt",
+  "url": "https://en.wikipedia.org/wiki/Corner_towers_of_the_Forbidden_City"
+ },
+ "Hall of Literary Glory": {
+  "requested": "Hall of Literary Glory",
+  "resolved": "Hall of Literary Glory",
+  "missing": true,
+  "chars": 0,
+  "file": "Hall_of_Literary_Glory.txt",
+  "url": "https://en.wikipedia.org/wiki/Hall_of_Literary_Glory"
+ },
+ "Hall of Martial Valor": {
+  "requested": "Hall of Martial Valor",
+  "resolved": "Hall of Martial Valor",
+  "missing": true,
+  "chars": 0,
+  "file": "Hall_of_Martial_Valor.txt",
+  "url": "https://en.wikipedia.org/wiki/Hall_of_Martial_Valor"
+ },
+ "Wenyuan Ge": {
+  "requested": "Wenyuan Ge",
+  "resolved": "Belvedere of Literary Profundity",
+  "missing": false,
+  "chars": 1103,
+  "file": "Belvedere_of_Literary_Profundity.txt",
+  "url": "https://en.wikipedia.org/wiki/Belvedere_of_Literary_Profundity"
+ },
+ "Hall of Mental Cultivation": {
+  "requested": "Hall of Mental Cultivation",
+  "resolved": "Hall of Mental Cultivation",
+  "missing": false,
+  "chars": 14095,
+  "file": "Hall_of_Mental_Cultivation.txt",
+  "url": "https://en.wikipedia.org/wiki/Hall_of_Mental_Cultivation"
+ },
+ "Nine Dragon Wall": {
+  "requested": "Nine Dragon Wall",
+  "resolved": "Nine Dragon Wall",
+  "missing": true,
+  "chars": 0,
+  "file": "Nine_Dragon_Wall.txt",
+  "url": "https://en.wikipedia.org/wiki/Nine_Dragon_Wall"
+ },
+ "Cining Palace": {
+  "requested": "Cining Palace",
+  "resolved": "Cining Palace",
+  "missing": true,
+  "chars": 0,
+  "file": "Cining_Palace.txt",
+  "url": "https://en.wikipedia.org/wiki/Cining_Palace"
+ },
+ "Palace of Gathered Elegance": {
+  "requested": "Palace of Gathered Elegance",
+  "resolved": "Palace of Gathered Elegance",
+  "missing": true,
+  "chars": 0,
+  "file": "Palace_of_Gathered_Elegance.txt",
+  "url": "https://en.wikipedia.org/wiki/Palace_of_Gathered_Elegance"
+ },
+ "Qin'an Dian": {
+  "requested": "Qin'an Dian",
+  "resolved": "Qin'an Dian",
+  "missing": true,
+  "chars": 0,
+  "file": "Qin'an_Dian.txt",
+  "url": "https://en.wikipedia.org/wiki/Qin%27an_Dian"
+ }
+}
