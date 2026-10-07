@@ -49,6 +49,13 @@ YEAR_RULE = ("提取「紀年主體＋年序」為結構化紀年（如『昭王
              "不換算公元，因史書紀年與公元之對應須專門考訂，本庫不臆斷。")
 NAME_RULE = "OpenCC hk2s 繁→簡並統一少數異體字，得到標準名；原文名不改，另存 name_original。"
 MANUAL_RULE = "手工校訂：以常用名為標準名；史書標題原字保留於 name_original 與 source_locator。"
+REL_ALIASES = {"舜": "帝舜", "帝禹": "禹", "王余昧": "余眛", "秦惠王": "秦惠文王",
+               "文王": "周文王", "武王": "周武王", "周公": "周公旦", "句践": "越王句践"}
+# 經核為誤挂的親屬行（句中人名並非本傳主人之親）：保留原句但標明不建關係
+BAD_REL = {("优孟", "孙叔敖"), ("田儋", "齐王建"), ("禹", "舜"), ("禹", "帝禹"),
+           ("黄帝", "西陵"), ("栗姬子", "栗姬"), ("程姬子", "程姬"),
+           ("贾夫人子", "贾夫人"), ("唐姬子", "王唐姬"), ("唐姬子", "发"),
+           ("余昧", "王余昧")}
 
 SCHEMA = """
 DROP VIEW IF EXISTS persons_view;
@@ -259,6 +266,16 @@ def main():
 
     pid = 0
     name_to_pid = {}
+
+    def resolve_rel(raw):
+        if raw in name_to_pid:
+            return name_to_pid[raw]
+        alias = REL_ALIASES.get(raw)
+        if alias and alias in name_to_pid:
+            return name_to_pid[alias]
+        cands = {p2 for n2, p2 in name_to_pid.items() if n2.endswith(raw)}
+        return next(iter(cands)) if len(cands) == 1 else None
+
     for p in persons:
         pid += 1
         chapter_id_of = chapter_id.get(p["chapter_slug"])
@@ -304,15 +321,19 @@ def main():
                  p["source_locator"], p["source_url"], e["source_quote"],
                  "該句含本傳人名，按動詞詞表歸類；句中所涉他人不另區分。"))
         for r in p.get("relations", []):
-            rel_pid = name_to_pid.get(to_simp(r["related_name"]))
+            rel_name = to_simp(r["related_name"])
+            bad = (p["name_chn"], rel_name) in BAD_REL
+            rel_pid = None if bad else resolve_rel(rel_name)
+            note = ("經核為誤挂（句中人名非本傳主人之親），不建關係。" if bad
+                    else "同句含本傳人名；關係方向以原文為準。"
+                    + ("" if rel_pid else " 所涉親屬未單列為本庫人物。"))
             conn.execute(
                 "INSERT INTO relations(person_id,related_name,related_person_id,"
                 "relation_type,source,source_locator,source_url,source_quote,note)"
                 " VALUES(?,?,?,?,?,?,?,?,?)",
-                (pid, to_simp(r["related_name"]), rel_pid, r["relation_type"],
+                (pid, rel_name, rel_pid, r["relation_type"],
                  p.get("source", "《史記》"), p["source_locator"], p["source_url"],
-                 r["source_quote"], "同句含本傳人名；關係方向以原文為準。"
-                 + ("" if rel_pid else " 所涉親屬未單列為本庫人物。")))
+                 r["source_quote"], note))
 
     # 提及: link every person to every chapter whose text names them.
     text_cache = {}

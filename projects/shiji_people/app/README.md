@@ -74,8 +74,12 @@ The system prompt pins the Week 4 rules: answer only from the supplied rows, cit
 
 ## Honest limits
 
-- 親屬/敵對 are exact but rare (7 / 1 edges) — 《史記》 sections seldom name both
-  people in one hostile phrase.
+- 親屬/敵對 are exact but rare (24 / 1 edges). Beyond the automatic derivation
+  there is a curated layer, `../data/manual/graph-edges.json`: 45 relations
+  (君臣/親屬) checked one by one, each with a verbatim 《史記》 sentence and its
+  卷篇. Eight people who have no `==小節==` heading in their 卷 (韓信, 項梁,
+  范增, 扶蘇, 趙高, 蒙毅, 田橫, 田榮) are added by
+  `../data/manual/02-missing-persons.json`, also with quotes.
 - 國 comes only from the 卷篇 (世家/本紀) and the 籍貫 — never from the first
   character of a name (夏侯婴 is 沛人/漢, not 夏; 韓非 is 韓, but 老子 is 楚 and
   莊子 is 未定). Origins that only say 「其先齊人」 (蒙恬) stay 未定, and

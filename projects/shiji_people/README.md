@@ -15,7 +15,7 @@
 | `sources/processed/shiji-NNN.txt` | 清理后的正文（供逐字回查） |
 | `data/extracted/{chapters,persons}.json` | 抽取出的行（每人带逐字 `source_quote`） |
 | `data/extracted/graph.json` | 人物关系图（親屬/君臣/敵對/敵國/同國，每边带引文），由 `code/build_graph.py` 生成 |
-| `data/manual/` | 手工订正／补录（按 key 覆盖，不删生成行） |
+| `data/manual/` | 手工订正／补录：`01-names.json`（改名）、`02-missing-persons.json`（补无小節标题的人物）、`graph-edges.json`（逐条核定的亲属/君臣关系，均带《史記》引文） |
 | `code/` | 抓取、抽取、建库、核对、查询脚本（Python 标准库 ＋ OpenCC） |
 | `skills/shiji-db/` | 答题 skill（`SKILL.md` ＋ reference/queries/dates-and-names/examples） |
 | `skills/shiji-ingest/` | 扩库 skill（抓原文→抽行→建库→核对，答问交回 shiji-db） |

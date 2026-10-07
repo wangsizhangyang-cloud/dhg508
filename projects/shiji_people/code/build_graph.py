@@ -85,7 +85,8 @@ ALIASES = {
 # 已知误挂的亲属行（句中人名并非本傳主人之親），建图时剔除
 BAD_REL = {("优孟", "孙叔敖"), ("田儋", "齐王建"), ("禹", "舜"), ("禹", "帝禹"),
            ("黄帝", "西陵"), ("栗姬子", "栗姬"), ("程姬子", "程姬"),
-           ("贾夫人子", "贾夫人"), ("唐姬子", "王唐姬"), ("唐姬子", "发")}
+           ("贾夫人子", "贾夫人"), ("唐姬子", "王唐姬"), ("唐姬子", "发"),
+           ("余昧", "王余昧")}
 BAD_REL = {(simp(a), b) for a, b in BAD_REL}
 # 時期：由本傳卷次粗分，用來區分不同時期的人
 ERA_NAMES = ["上古", "西周", "春秋", "戰國", "秦漢之際", "漢"]
@@ -141,7 +142,8 @@ def main():
                     manual[mp["key"]] = mp
     for p in persons:
         if p["key"] in manual:
-            p.update(manual[p["key"]])          # same overrides as build_db.py
+            p.update(manual.pop(p["key"]))      # same overrides as build_db.py
+    persons.extend(manual.values())             # and the same appended people
     for i, p in enumerate(persons, 1):               # ids as build_db.py assigns
         p["id"] = i
         m = re.search(r"(\d+)$", p["chapter_slug"])
@@ -156,8 +158,11 @@ def main():
     sections = section_texts()
 
     by_name, shorts = {}, defaultdict(list)
+    full_names = {}
     for p in persons:
         for n in (p["name_chn"], p["name_original"]):
+            if n:
+                full_names.setdefault(n, p["id"])
             if n and len(n) >= 2:
                 by_name.setdefault(n, p["id"])
         shorts[p["id"]] = [n for n in (p["name_chn"], p["name_original"]) if n]
@@ -252,7 +257,18 @@ def main():
             added = 0
             for s in sentences(person_body(p)):
                 for m in WAR_STATE.finditer(s):
-                    if not any(n in s[:m.start()] for n in shorts[p["id"]]):
+                    left = s[max(0, m.start() - 8):m.start()]
+                    hit = False
+                    for n in shorts[p["id"]]:
+                        idx = left.rfind(n)
+                        if idx < 0:
+                            continue
+                        after = left[idx + len(n):]
+                        if re.match(r"(元|[一二三四五六七八九十百0-9]{1,3})年", after):
+                            continue        # 「王僚二年」是紀年，不是行動者
+                        hit = True
+                        break
+                    if not hit:
                         continue
                     st = m.group(1)
                     if st == home:
@@ -272,6 +288,16 @@ def main():
                         break
                 if added >= 5:
                     break
+
+    # 手工核定的關係（data/manual/graph-edges.json），每條仍以《史記》原句為據
+    man_path = os.path.join(MAN, "graph-edges.json")
+    if os.path.exists(man_path):
+        for e in json.load(open(man_path, encoding="utf-8")).get("edges", []):
+            a, b = full_names.get(e["a"]), full_names.get(e["b"])
+            if a and b and a != b:
+                edges.append({"a": a, "b": b, "type": e["type"], "label": e["label"],
+                              "quote": e.get("quote", ""), "locator": e.get("locator", ""),
+                              "manual": True})
 
     # 同國：同國且同見於一卷者優先，不足則按卷次相近補
     degree = Counter()
