@@ -14,10 +14,12 @@
 | `sources/raw/sources_index.json` | 清单：卷次／篇名／pageid／revision／URL |
 | `sources/processed/shiji-NNN.txt` | 清理后的正文（供逐字回查） |
 | `data/extracted/{chapters,persons}.json` | 抽取出的行（每人带逐字 `source_quote`） |
+| `data/extracted/graph.json` | 人物关系图（親屬/君臣/敵對/敵國/同國，每边带引文），由 `code/build_graph.py` 生成 |
 | `data/manual/` | 手工订正／补录（按 key 覆盖，不删生成行） |
 | `code/` | 抓取、抽取、建库、核对、查询脚本（Python 标准库 ＋ OpenCC） |
 | `skills/shiji-db/` | 答题 skill（`SKILL.md` ＋ reference/queries/dates-and-names/examples） |
 | `skills/shiji-ingest/` | 扩库 skill（抓原文→抽行→建库→核对，答问交回 shiji-db） |
+| `app/` | week-05 网站：检索页 → 单人关系网（只显示本人及其关系）＋真调 DeepSeek 问一问 |
 | `rubric.md` · `test-questions.md` · `improvement-log.md` · `questions.md` | 评分、10 题测试、改进日志、未决问题 |
 | `research/` | 设计、日志、出处、扩库步骤、日期规则、抽查与错误表 |
 | `artifacts/` | 中间产物，不入 git |
@@ -66,12 +68,17 @@ python code\fetch_sources.py --probe        # 只看页面是否存在
 python code\fetch_sources.py                # 抓 112 卷
 python code\fetch_sources.py --reindex      # 由已有文件重建清单
 
-# 2) 清文＋抽行，3) 建库
+# 2) 清文＋抽行，3) 建库，3b) 推关系图
 python code\extract.py
 python code\build_db.py
+python code\build_graph.py
 
 # 4) 核对：逐字回原文 + 抽 20 行
 python code\verify.py                       # -> research/outputs/verification.md
+
+# 5) 开网站（week-05）
+$env:DEEPSEEK_API_KEY = "sk-..."            # 可选；不设则只回库中检索行
+python app\server.py                        # http://localhost:8000
 
 # 随手查库
 python code\query.py person 白起

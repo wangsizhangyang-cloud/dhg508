@@ -390,18 +390,22 @@ def main():
                 idx += 1
                 quote, origin, start = person_quote(name, body)
                 sents = sentences(body)
+                fell_back = not quote
                 if quote:
                     desc = "".join(sents[start:start + 3])[:150]
                 else:
-                    quote = body[:60]
+                    first = sents[0] if sents else body[:60]
+                    quote = first if len(first) <= 100 else first[:100]
+                    m = re.search(r"者?[，,]([^，,。]{1,14})也", first)
+                    origin = m.group(1) if m else ""
                     desc = "".join(sents[:3])[:150]
                 note = ""
                 if honor:
                     note = "標題含稱號／關係詞「%s」。" % honor
                 if dis:
                     note = (note + " " if note else "") + "史書標題作「%s」以區別同名。" % dis
-                if not quote:
-                    note = note + "同節合傳，首句未必繫於此人。"
+                if fell_back:
+                    note = note + "同節合傳或開頭非本名，首句未必繫於此人。"
                 persons.append({
                     "key": "%s-%02d" % (slug, idx),
                     "individual": name,

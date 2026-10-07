@@ -1,0 +1,9 @@
+{
+  "persons": [
+    {
+      "key": "shiji-005-38",
+      "name_chn": "秦二世",
+      "note": "手工校訂：以常用名「秦二世」為標準名；《史記》小節標題原字「二世皇帝」保留於 name_original 與 source_locator。"
+    }
+  ]
+}

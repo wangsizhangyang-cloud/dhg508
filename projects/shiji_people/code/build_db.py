@@ -48,6 +48,7 @@ CN = {"元": 1, "一": 1, "二": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七
 YEAR_RULE = ("提取「紀年主體＋年序」為結構化紀年（如『昭王十三年』→『昭王13年』）；"
              "不換算公元，因史書紀年與公元之對應須專門考訂，本庫不臆斷。")
 NAME_RULE = "OpenCC hk2s 繁→簡並統一少數異體字，得到標準名；原文名不改，另存 name_original。"
+MANUAL_RULE = "手工校訂：以常用名為標準名；史書標題原字保留於 name_original 與 source_locator。"
 
 SCHEMA = """
 DROP VIEW IF EXISTS persons_view;
@@ -232,6 +233,7 @@ def main():
             doc = load(path)
             manual_persons.extend(doc.get("persons", []))
     manual_by_key = {p["key"]: p for p in manual_persons}
+    manual_keys = set(manual_by_key)
     for p in persons:
         if p["key"] in manual_by_key:
             p.update(manual_by_key.pop(p["key"]))
@@ -345,7 +347,8 @@ def main():
                 "INSERT INTO conversions(entity_type,entity_key,field,original,"
                 "normalized,rule,source,source_locator,note) VALUES(?,?,?,?,?,?,?,?,?)",
                 ("person", p["key"], "name", p["name_original"], p["name_chn"],
-                 NAME_RULE, "《史記》", p["source_locator"], ""))
+                 MANUAL_RULE if p["key"] in manual_keys else NAME_RULE,
+                 "《史記》", p["source_locator"], ""))
     for row in conn.execute("SELECT id,year_raw,year_norm,source,source_locator "
                             "FROM events WHERE year_raw<>''"):
         ccount += 1

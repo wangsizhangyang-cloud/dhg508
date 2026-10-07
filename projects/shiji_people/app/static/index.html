@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>《史記》人物關係檢索</title>
+<style>
+  :root{
+    --ink:#1f1a14; --paper:#f4efe4; --line:#cdc3ac; --accent:#8a2d1f;
+    --benji:#b03a2e; --shijia:#1f6f8b; --liezhuan:#3d7a3d;
+    --kin:#b03a2e; --serve:#1f6f8b; --foe:#d35400; --foestate:#7d3c98; --same:#9aa0a6;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font-size:18px;
+       font-family:"Georgia","Songti SC","STSong","SimSun",serif}
+  header{padding:16px 22px;border-bottom:2px solid var(--line);display:flex;
+         align-items:baseline;gap:14px;flex-wrap:wrap;background:#efe7d6}
+  header h1{margin:0;font-size:26px;letter-spacing:2px}
+  header .sub{font-size:14px;color:#6b6151}
+  nav{margin-left:auto;display:flex;gap:6px}
+  nav button{font:inherit;padding:8px 18px;border:1px solid var(--line);
+             background:#fffaf0;cursor:pointer;border-radius:4px}
+  nav button.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+  main{padding:16px 20px 40px;max-width:1280px;margin:0 auto}
+  .panel{background:#fffdf7;border:1px solid var(--line);border-radius:6px;padding:14px}
+  .panel h2{margin:0 0 10px;font-size:18px;letter-spacing:1px;color:#5a4a38}
+  #searchbox{width:100%;font:inherit;font-size:24px;padding:14px 16px;border:1px solid var(--line);
+             border-radius:6px;background:#fffdf7;margin-bottom:12px}
+  .chips{display:flex;gap:8px;flex-wrap:wrap;font-size:15px;margin-bottom:10px;align-items:center}
+  .chipbtn{border:1px solid var(--line);background:#fffaf0;border-radius:16px;padding:5px 15px;cursor:pointer}
+  .chipbtn.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+  select{font:inherit;font-size:15px;padding:4px 10px;border:1px solid var(--line);border-radius:4px;background:#fffdf7}
+  #count{color:#6b6151;font-size:14px;margin-left:auto}
+  #results{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
+  .card{border:1px solid var(--line);border-radius:6px;padding:10px 12px;background:#fffdf7;cursor:pointer}
+  .card:hover{border-color:var(--accent);background:#fff7ea}
+  .card .nm{font-size:20px}
+  .card .mt{font-size:13px;color:#6b6151;margin-top:4px}
+  .dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:middle}
+  .row{display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap}
+  #netsvg{width:100%;height:640px;display:block;background:#fbf7ee;
+          border:1px solid var(--line);border-radius:6px}
+  #side{width:380px;max-height:660px;overflow:auto;font-size:16px}
+  #side h3{margin:2px 0 2px;font-size:22px}
+  #side .loc{color:#6b6151;font-size:14px;margin-bottom:8px}
+  #side h4{margin:12px 0 4px;font-size:16px;color:#5a4a38}
+  #side ul{padding-left:18px;margin:4px 0}
+  #side li{margin:3px 0}
+  .edgeinfo{margin-top:10px;font-size:15px;color:#4a3f30;min-height:40px;line-height:1.6}
+  .legend{font-size:14.5px;display:flex;gap:16px;flex-wrap:wrap;margin-top:8px}
+  .back{font:inherit;padding:6px 14px;border:1px solid var(--line);background:#fffaf0;
+        border-radius:4px;cursor:pointer}
+  .askbox{display:flex;gap:8px}
+  .askbox input{flex:1;font:inherit;padding:10px;border:1px solid var(--line);border-radius:4px;background:#fffdf7}
+  .askbox button{font:inherit;padding:10px 18px;background:var(--accent);color:#fff;border:0;border-radius:4px;cursor:pointer}
+  #answer{white-space:pre-wrap;line-height:1.8;font-size:16.5px;margin-top:12px}
+  details{margin-top:10px;font-size:13.5px;color:#6b6151}
+  details pre{white-space:pre-wrap;background:#f4efe4;padding:8px;border-radius:4px;max-height:260px;overflow:auto}
+  .muted{color:#8a7f6b}
+</style>
+</head>
+<body>
+<header>
+  <h1>《史記》人物關係</h1>
+  <nav>
+    <button data-view="search" class="active">檢索</button>
+    <button data-view="ask">問一問</button>
+  </nav>
+</header>
+<main>
+
+<section id="view-search">
+  <div class="panel" style="margin-bottom:14px">
+    <input id="searchbox" placeholder="輸入人物名（如：白起、項羽、廉頗、孔子／孔丘）…" autocomplete="off">
+    <div class="chips" id="catfilters">
+      <span>篇類：</span>
+      <button class="chipbtn on" data-cat="">全部</button>
+      <button class="chipbtn" data-cat="本紀">本紀</button>
+      <button class="chipbtn" data-cat="世家">世家</button>
+      <button class="chipbtn" data-cat="列傳">列傳</button>
+      <span style="margin-left:12px">國：</span>
+      <select id="statef"><option value="">全部</option></select>
+      <span id="count"></span>
+    </div>
+  </div>
+  <div id="results"></div>
+</section>
+
+<section id="view-person" hidden>
+  <button class="back" id="back">← 返回檢索</button>
+  <div class="row" style="margin-top:12px">
+    <div style="flex:1;min-width:460px">
+      <div class="panel">
+        <h2 id="ego-title">人物關係網</h2>
+        <div class="legend" id="filters"></div>
+        <div class="legend" id="legend"></div>
+        <svg id="netsvg" viewBox="0 0 760 640"></svg>
+        <div class="edgeinfo" id="edgeinfo"><span class="muted">點擊一條關係線看原文出處；點擊鄰人可繼續查看他的關係網。</span></div>
+      </div>
+    </div>
+    <div class="panel" id="side" style="width:340px"></div>
+  </div>
+</section>
+
+<section id="view-ask" hidden>
+  <div class="panel" style="max-width:900px">
+    <h2>問一問</h2>
+    <div class="askbox">
+      <input id="q" placeholder="例：白起任過哪些官？ / 廉頗與藺相如的關係？ / 項羽是哪里人？">
+      <button id="ask">發問</button>
+    </div>
+    <div id="answer"></div>
+    <span id="badge" class="muted"></span>
+    <details id="ctxwrap" hidden><summary>送給模型檢索到的庫中行</summary><pre id="ctx"></pre></details>
+  </div>
+</section>
+
+</main>
+<script>
+const $ = s => document.querySelector(s);
+const NS = "http://www.w3.org/2000/svg";
+const CAT_COLOR = {"本紀":"#b03a2e","世家":"#1f6f8b","列傳":"#3d7a3d"};
+const catColor = c => CAT_COLOR[c] || "#8a7f6b";
+const REL = {
+  "親屬":{c:"#b03a2e",dash:""}, "君臣":{c:"#1f6f8b",dash:""},
+  "敵對":{c:"#d35400",dash:"6,4"}, "敵國":{c:"#7d3c98",dash:"2,4"},
+  "同國":{c:"#9aa0a6",dash:""}
+};
+const relColor = t => (REL[t]||{c:"#888"}).c;
+const ERA_LABEL = {0:"上古",1:"西周",2:"春秋",3:"戰國",4:"秦漢之際",5:"漢"};
+
+let LAST = null, ERA = "same";
+const HIDDEN = new Set();               // relation types switched off
+
+let PEOPLE = [], filters = {text:"", cat:"", state:""}, history = [];
+
+/* ---------------- views ---------------- */
+document.querySelectorAll("nav button").forEach(b => b.onclick = () => {
+  document.querySelectorAll("nav button").forEach(x => x.classList.toggle("active", x === b));
+  $("#view-search").hidden = b.dataset.view !== "search";
+  $("#view-ask").hidden = b.dataset.view !== "ask";
+  if (b.dataset.view === "search") $("#view-person").hidden = true;
+  if (b.dataset.view === "ask") $("#view-person").hidden = true;
+});
+$("#back").onclick = () => {
+  if (history.length > 1) { history.pop(); showPerson(history[history.length-1], false); }
+  else { $("#view-person").hidden = true; $("#view-search").hidden = false; }
+};
+
+/* ---------------- search ---------------- */
+async function loadPeople() {
+  PEOPLE = await (await fetch("/api/people")).json();
+  const states = [...new Set(PEOPLE.map(p => p.state).filter(Boolean))].sort();
+  for (const s of states) {
+    const o = document.createElement("option"); o.value = o.textContent = s;
+    $("#statef").appendChild(o);
+  }
+  render();
+}
+function render() {
+  const t = filters.text.trim();
+  let list = PEOPLE.filter(p =>
+    (p.name.includes(t) || (p.name_original || "").includes(t)) &&
+    (!filters.cat || p.category === filters.cat) &&
+    (!filters.state || p.state === filters.state));
+  list = list.slice(0, 240);
+  $("#count").textContent = `共 ${list.length} 人`;
+  $("#results").replaceChildren(...list.map(p => {
+    const d = document.createElement("div");
+    d.className = "card";
+    d.innerHTML = `<div class="nm">${p.name}${p.name_original && p.name_original !== p.name
+        ? ` <span class="muted" style="font-size:14px">（${p.name_original}）</span>` : ""}</div>
+      <div class="mt"><span class="dot" style="background:${catColor(p.category)}"></span>
+        ${p.category || ""}${p.state ? " · " + p.state : ""} · 卷${p.juan}</div>
+      <div class="mt">${p.origin ? "籍貫 " + p.origin + " · " : ""}關係 ${p.degree} 條</div>`;
+    d.onclick = () => showPerson(p.id, true);
+    return d;
+  }));
+}
+$("#searchbox").oninput = e => { filters.text = e.target.value; render(); };
+document.querySelectorAll("#catfilters .chipbtn").forEach(b => b.onclick = () => {
+  filters.cat = b.dataset.cat;
+  document.querySelectorAll("#catfilters .chipbtn").forEach(x => x.classList.toggle("on", x === b));
+  render();
+});
+$("#statef").onchange = e => { filters.state = e.target.value; render(); };
+
+/* ---------------- ego network ---------------- */
+async function showPerson(id, push) {
+  const d = await (await fetch("/api/ego?id=" + id)).json();
+  if (d.error) return;
+  const c = d.center;
+  $("#view-search").hidden = true;
+  $("#view-ask").hidden = true;
+  $("#view-person").hidden = false;
+  if (push) history.push(id);
+  LAST = d;
+  $("#ego-title").textContent = `${c.name} 的關係網（${d.degree} 條）`;
+  renderFilters(d);
+  drawEgo(d);
+  renderSide(d);
+}
+function filtered(d) {
+  return d.neighbours.filter(n =>
+    !HIDDEN.has(n.relation) &&
+    (ERA === "off" || n.gap === null || n.gap === undefined ||
+     n.gap <= (ERA === "same" ? 0 : 1)));
+}
+function renderFilters(d) {
+  const counts = {};
+  d.neighbours.forEach(n => counts[n.relation] = (counts[n.relation] || 0) + 1);
+  const chips = Object.keys(REL).map(t => {
+    const on = !HIDDEN.has(t);
+    return `<button class="chipbtn ${on ? "on" : ""}" data-rel="${t}"
+      style="border-color:${relColor(t)}">
+      <span class="dot" style="background:${relColor(t)}"></span>${t} ${counts[t]||0}</button>`;
+  }).join("");
+  $("#filters").innerHTML = `<span>顯示關係：</span>${chips}
+    <span style="margin-left:12px">時期：</span>
+    <select id="eraMode">
+      <option value="off">全部時期</option>
+      <option value="near">相近時期（±1）</option>
+      <option value="same">僅同期人</option>
+    </select>`;
+  $("#eraMode").value = ERA;
+  document.querySelectorAll("#filters .chipbtn").forEach(b => b.onclick = () => {
+    const t = b.dataset.rel;
+    if (HIDDEN.has(t)) HIDDEN.delete(t); else HIDDEN.add(t);
+    renderFilters(LAST); drawEgo(LAST);
+  });
+  $("#eraMode").onchange = e => { ERA = e.target.value; renderFilters(LAST); drawEgo(LAST); };
+}
+function renderLegend(d, shown) {
+  const hid = d.neighbours.length - shown;
+  $("#legend").innerHTML =
+    `<span class="muted">節點色＝篇類：本紀/世家/列傳</span>
+     <span class="muted">點按鈕可隱去／顯示某類關係；時期按鈕過濾不同時代的人</span>
+     ${hid > 0 ? `<span style="color:#8a2d1f">已隱去 ${hid} 人</span>` : ""}`;
+}
+function drawEgo(d) {
+  const svg = $("#netsvg"), W = 760, H = 640, cx = W/2, cy = H/2;
+  svg.replaceChildren();
+  const ns = filtered(d);
+  renderLegend(d, ns.length);
+  if (!ns.length) {
+    const t = document.createElementNS(NS, "text");
+    t.setAttribute("x", cx); t.setAttribute("y", cy);
+    t.setAttribute("text-anchor", "middle"); t.setAttribute("font-size", 19);
+    t.setAttribute("fill", "#6b6151");
+    t.textContent = d.neighbours.length ? "已按類型／時期隱去，沒有可顯示的關係" : "庫中暫無可推得的關係";
+    svg.appendChild(t);
+    return;
+  }
+  const R = ns.length <= 14 ? 220 : ns.length <= 30 ? 255 : 272;
+  const step = 2*Math.PI / ns.length;
+  const pts = ns.map((n, i) => {
+    const a = -Math.PI/2 + i*step;
+    return { n, x: cx + R*Math.cos(a), y: cy + R*Math.sin(a) };
+  });
+  // edges
+  pts.forEach(p => {
+    const line = document.createElementNS(NS, "line");
+    line.setAttribute("x1", cx); line.setAttribute("y1", cy);
+    line.setAttribute("x2", p.x); line.setAttribute("y2", p.y);
+    line.setAttribute("stroke", relColor(p.n.relation));
+    line.setAttribute("stroke-width", p.n.relation === "同國" ? 1.4 : 2.2);
+    line.setAttribute("stroke-dasharray", (REL[p.n.relation]||{}).dash || "");
+    line.setAttribute("stroke-opacity", .75);
+    line.addEventListener("click", ev => { ev.stopPropagation(); showEdge(p.n); });
+    line.style.cursor = "pointer";
+    svg.appendChild(line);
+  });
+  // center node
+  const cg = document.createElementNS(NS, "g");
+  const cc = document.createElementNS(NS, "circle");
+  cc.setAttribute("cx", cx); cc.setAttribute("cy", cy); cc.setAttribute("r", 30);
+  cc.setAttribute("fill", catColor(d.center.category)); cc.setAttribute("stroke", "#fffdf7");
+  cc.setAttribute("stroke-width", 2);
+  const ct = document.createElementNS(NS, "text");
+  ct.setAttribute("x", cx); ct.setAttribute("y", cy + 4); ct.setAttribute("text-anchor", "middle");
+  ct.setAttribute("font-size", d.center.name.length > 3 ? 14 : 18); ct.setAttribute("fill", "#fff");
+  ct.textContent = d.center.name;
+  cg.append(cc, ct);
+  svg.appendChild(cg);
+  // neighbours
+  pts.forEach(p => {
+    const g = document.createElementNS(NS, "g");
+    const r = 6 + Math.min(9, Math.sqrt((p.n.degree||1)) * 1.8);
+    const c2 = document.createElementNS(NS, "circle");
+    c2.setAttribute("cx", p.x); c2.setAttribute("cy", p.y); c2.setAttribute("r", r);
+    c2.setAttribute("fill", catColor(p.n.category)); c2.setAttribute("fill-opacity", .9);
+    c2.setAttribute("stroke", "#fffdf7"); c2.setAttribute("stroke-width", 1.5);
+    const a = Math.atan2(p.y - cy, p.x - cx);
+    const tx = p.x + Math.cos(a) * (r + 6), ty = p.y + Math.sin(a) * (r + 6) + 4;
+    const t = document.createElementNS(NS, "text");
+    t.setAttribute("x", tx); t.setAttribute("y", ty);
+    t.setAttribute("font-size", ns.length > 30 ? 13 : 16); t.setAttribute("fill", "#3a3126");
+    t.setAttribute("text-anchor", Math.abs(Math.cos(a)) < 0.3 ? "middle" : (Math.cos(a) > 0 ? "start" : "end"));
+    t.textContent = p.n.name;
+    t.style.cursor = "pointer";
+    g.append(c2, t);
+    const ti = document.createElementNS(NS, "title");
+    ti.textContent = `${p.n.name}（${p.n.era_name || "時期未定"}）· ${p.n.relation}${p.n.label ? "·" + p.n.label : ""}`;
+    g.appendChild(ti);
+    g.style.cursor = "pointer";
+    g.addEventListener("click", ev => { ev.stopPropagation(); showPerson(p.n.id, true); });
+    svg.appendChild(g);
+  });
+}
+function showEdge(n) {
+  $("#edgeinfo").innerHTML = `<b>${n.relation}</b>${n.label ? "·" + n.label : ""}
+    ${n.gap > 0 ? `<span class="muted">（與本人相隔 ${n.gap} 期）</span>` : ""}
+    <span class="muted">${n.locator ? "（" + n.locator + "）" : ""}</span><br>${n.quote || "（無引文）"}`;
+}
+async function renderSide(d) {
+  const c = d.center;
+  $("#side").innerHTML = `<h3>${c.name} ${c.name_original && c.name_original !== c.name
+      ? `<span class="muted" style="font-size:14px">（原文 ${c.name_original}）</span>` : ""}</h3>
+    <div class="loc">${c.locator}<br>${c.origin ? "籍貫： " + c.origin : ""}
+    ${c.state ? " · 國： " + c.state : ""}${c.era_name ? " · 時期：" + c.era_name : ""}</div>
+    <div class="muted">載入詳情…</div>`;
+  const b = await (await fetch("/api/person?name=" + encodeURIComponent(c.name))).json();
+  if (b.error) { $("#side .muted").textContent = ""; return; }
+  const p = b.person;
+  const li = a => a.length ? a.map(x => `<li>${x}</li>`).join("") : "<li class='muted'>無</li>";
+  $("#side").innerHTML = `<h3>${c.name} ${c.name_original && c.name_original !== c.name
+      ? `<span class="muted" style="font-size:14px">（原文 ${c.name_original}）</span>` : ""}</h3>
+    <div class="loc">${p.source_locator}<br>${c.origin ? "籍貫： " + c.origin : ""}
+      ${c.state ? " · 國： " + c.state : ""}${c.era_name ? " · 時期：" + c.era_name : ""}</div>
+    <p>${p.description || ""}</p>
+    <p class="muted">本傳引文：「${p.source_quote || ""}」</p>
+    <h4>官職 (${b.offices.length})</h4><ul>${li(b.offices.map(o =>
+      `${o.title_chn}${o.period_norm ? "（" + o.period_norm + "）" : ""} <span class="muted">[offices id=${o.id}]</span>`))}</ul>
+    <h4>事件 (${b.events.length})</h4><ul>${li(b.events.slice(0,8).map(e =>
+      `[${e.event_type}] ${e.year_norm || ""} ${e.source_quote} <span class="muted">[events id=${e.id}]</span>`))}</ul>
+    <h4>見於 (${b.mentions.length})</h4><ul>${li(b.mentions.map(m =>
+      `卷${m.juan} ${m.title_chn || ""}（${m.relation_kind}）`))}</ul>`;
+}
+
+/* ---------------- ask ---------------- */
+$("#ask").onclick = async () => {
+  const q = $("#q").value.trim();
+  if (!q) return;
+  $("#answer").textContent = "思考中…"; $("#badge").textContent = "";
+  try {
+    const res = await fetch("/api/ask", { method:"POST", headers:{"Content-Type":"application/json"},
+                                          body: JSON.stringify({ question: q }) });
+    const d = await res.json();
+    $("#answer").textContent = d.answer || d.error || "（無回應）";
+    $("#badge").textContent = " — " + (d.source || "");
+    if (d.context) { $("#ctxwrap").hidden = false; $("#ctx").textContent = d.context; }
+  } catch (e) { $("#answer").textContent = "請求失敗：" + e; }
+};
+$("#q").addEventListener("keydown", e => { if (e.key === "Enter") $("#ask").click(); });
+
+loadPeople();
+</script>
+</body>
+</html>
