@@ -1,0 +1,572 @@
+
+
+===== PAGE 1 =====
+
+BaiJia: A Large-Scale Role-Playing Agent Corpus of Chinese
+Historical Characters
+Ting Bai
+baiting@bupt.edu.cn
+Beijing University of Posts and
+Telecommunications
+Beijing, China
+Jiazheng Kang
+kjz@bupt.edu.cn
+Beijing University of Posts and
+Telecommunications
+Beijing, China
+Jiayang Fan
+fjy01@bupt.edu.cn
+Beijing University of Posts and
+Telecommunications
+Beijing, China
+ABSTRACT
+We introduce a comprehensive large-scale role-playing agent cor-
+pus, termed BaiJia, that comprises various Chinese historical char-
+acters. This corpus is noteworthy for being the pioneering compi-
+lation of low-resource data that can be utilized in large language
+models (LLMs) to engage in AI-driven historical role-playing agents.
+BaiJia addresses the challenges in terms of fragmented historical
+textual records in different forms and modalities, integrating vari-
+ous characters’ information, including their biographical, literary,
+family relations, historical events, and so on. We conduct extensive
+experiments to demonstrate the effectiveness of our BaiJia agent
+corpus in bolstering the role-playing abilities of various founda-
+tional LLMs, and promoting the development and assessment of
+LLMs in the context of historical role-playing tasks. The agent
+corpus is available at baijia.online1.
+KEYWORDS
+Chinese Historical Characters, Role-Playing Agent, Large Language
+Models
+ACM Reference Format:
+Ting Bai, Jiazheng Kang, and Jiayang Fan. 2025. BaiJia: A Large-Scale Role-
+Playing Agent Corpus of Chinese Historical Characters. In Proceedings of
+Anonymous Conference (Anonymous). ACM, New York, NY, USA, 4 pages.
+https://doi.org/10.1145/nnnnnnn.nnnnnnn
+1
+INTRODUCTION
+Large language models (LLMs) show great potential to mimic hu-
+man responses in role-playing research areas, enabling individuals
+to engage with historical characters in a lifelike and immersive
+manner. Equipping LLMs with role-playing capabilities provides
+a distinctive means of communicating with historical characters,
+fostering a deeper comprehension of their thoughts, actions, and
+the historical backgrounds of those who have made notable contri-
+butions to human history.
+To empower LLMs with role-playing abilities, most existing stud-
+ies, such as RoleLLM [7], InCharacter [8], CharacterEval [6], and
+1The evaluation benchmark is publicly available at https://github.com/BAI-LAB/BaiJia.
+Permission to make digital or hard copies of all or part of this work for personal or
+classroom use is granted without fee provided that copies are not made or distributed
+for profit or commercial advantage and that copies bear this notice and the full citation
+on the first page. Copyrights for components of this work owned by others than ACM
+must be honored. Abstracting with credit is permitted. To copy otherwise, or republish,
+to post on servers or to redistribute to lists, requires prior specific permission and/or a
+fee. Request permissions from permissions@acm.org.
+Anonymous, 2025, Anonymous Location
+© 2025 Association for Computing Machinery.
+ACM ISBN 978-x-xxxx-xxxx-x/YY/MM...$15.00
+https://doi.org/10.1145/nnnnnnn.nnnnnnn
+Table 1: Dataset comparisons of role-playing agents.
+Dataset
+# Characters
+Source
+Low-Resource?
+ChatHaruhi
+32
+Anime, TV
+✗
+InCharacter
+32
+Novels, Scripts
+✗
+CharacterEval
+77
+Novels, Scripts
+✗
+RoleLLM
+100
+Novels, Scripts
+✗
+BaiJia (Ours)
+19,281
+History
+✓
+ChatHaruhi [4], have focused on Supervised Fine-Tuning (SFT)
+basic LLM models using collected or generated dialogues of char-
+acters. However, all of these approaches encounter the significant
+challenge of the high costs associated with data collection, which is
+a crucial resource in facilitating LLMs with role-playing capability.
+We summarize the data properties in existing role-playing studies,
+and highlight the differences of our BaiJia corpus in Table 1. We can
+see that most characters in existing studies are modern, anime, or
+fictional characters, there has been a notable lack of research dedi-
+cated for role-playing of historical characters. Building role-playing
+agents with historical characters raises great challenges from vast
+historical timelines they inhabit and the intricacies associated with
+the preservation of historical materials. Besides, the number of
+characters in existing research used for SFT role-playing agents is
+limited, which may hinder the model’s capacity to fully realize its
+role-playing potential.
+In this paper, we provide a low-resource data corpus, termed
+BaiJia, for role-playing agent construction. The information in
+our agent corpus spans numerous forms and modalities, including
+historical documents, ancient books, artworks, folklore, and oral
+traditions. BaiJia contains 19,281 Chinese historical characters from
+five dynasties, i.e., Tang, Song, Yuan, Ming, and Qing dynasties. It
+integrates different source information, including their biograph-
+ical data, literary works, family relations, official positions, and
+historical events, providing a robust foundation for simulating the
+personalities, behaviors, and dialogues of these characters. To the
+best of our knowledge, we are the first to construct a large-scale
+role-playing agent corpus for Chinese historical characters. Our
+contributions are as follows:
+• We contribute a large-scale Chinese historical character agent
+corpus termed BaiJia, which firstly collects low-resource data
+for LLMs to conduct AI-driven historical role-playing.
+• We design comprehensive evaluation dimensions and re-
+lease an evaluation benchmark for the role-playing task of
+historical characters.
+arXiv:2412.20024v2  [cs.AI]  6 Jan 2025
+
+
+===== PAGE 2 =====
+
+Anonymous, 2025, Anonymous Location
+Bai et al.
+Table 2: The resume template of Chinese historical characters. We present an example resume of a famous poet "Li Bai".
+Completion shows the proportion of characters for whom we have collected this type of information.
+Category
+Sub-category
+Content
+#Type
+Example
+Completion
+Profile
+Basic Information
+Name, Dynasty, Birth, Death, Age, Family Division
+19,281
+Li Bai (701–762 CE)[...]
+100%
+Alias Information
+Alias, Alias Type
+19
+Taibai
+51%
+Social Division
+Describing Social Division
+199
+Poet
+36%
+Personal Introduction
+A Brief Biographical Overview
+19062
+Li Bai is a poet[...]
+98%
+Geographic Information
+Start Year, End Year, Geographic Type
+21
+Birthplace Is Rencheng
+69%
+Wealth Information
+Location, Actions, Description, Quantity
+3
+-
+1%
+Event Information
+Event Name, Role in Events, Event Description
+250
+An Lushan Rebellion
+2%
+Relations
+Family Relations
+Detailed Family Relations
+297
+Li Bai’s father is Li Ke.
+44%
+Other Relations
+All relationships except for family
+424
+friend is Meng Haoran.
+35%
+Career
+Entry Information
+Entry Type, Entry Age, Entry Year
+175
+Official Recruitment
+43%
+Appointment Information
+Official Position, Start Year, End Year, Proxy, Location
+3,905
+Hanlin Scholar
+53%
+Institutional Information
+Institution name, Role of the Institution
+26
+Hanlin Academy
+1%
+Achievement
+Literary Writings
+Title, Year, Content, Role of writings
+17,714
+«Li Taibai»
+23%
+Poetry&Essay
+Title, Author, Content
+310,754
+Silent thoughts
+98%
+Dialogue Content
+Type, Location, Background, Dialogue
+192,810
+-
+100%
+• We conduct extensive experiments to show the usefulness
+of our agent corpus in improving the role-playing capability
+of different basic LLMs.
+2
+DATASET CONSTRUCTION
+The pipeline for the construction and evaluation of role-playing
+agents is shown in Fig. 1. We highlight the key steps of data con-
+struction, dialogue generation, and model evaluation process. The
+data corpus that we contributed for role-playing agent construc-
+tion includes three parts: the collection of character resumes, the
+generation of dialogues that were used to fine-tune LLMs, and
+the construction of questions that were used to evaluate the role-
+playing capability of LLMs.
+Figure 1: The pipeline of role-playing agent construction.
+2.1
+Resume Collection
+We collect diverse character information from multiple sources, e.g.,
+CBDB2, Wikipedia3, Gushiwen website4, to construct Informative
+2https://projects.iq.harvard.edu/cbdb
+3https://en.wikipedia.org/wiki
+4https://www.gushiwen.cn/
+and comprehensive character resume in role-playing agent con-
+struction. The characters are from five major dynasties in Chinese
+history: 3,020 characters from Tang, 5,964 characters from Song,
+972 characters from Yuan, 4,564 characters from Ming, and 4,761
+characters from Qing dynasties. The resumes of each character
+consist of information about their profiles, their relationships, and
+their work. The detailed introduction of the resume template is
+shown in Table 2, which can be summarized into 15 sub-categories
+that cover the basic profile, relations, career, and achievement of
+characters.
+2.2
+Dialogue Generation
+After constructing the resumes of characters, we generate the dia-
+logues that are used for SFT LLMs. Following Character-LLM [5],
+we adopt a two-step dialogue generation approach: (1) extracting
+the character’s dialogue scenes: we adopt GPT-4o-mini to extract 10
+unique scenes based on the resume of each character. These scenes
+include palace dialogues, family conversations, and literary debates.
+The prompts focus on the character’s social relations, life events,
+and works, ensuring an authentic historical setting; (2) generating
+dialogues related to these scenes: under the background of different
+scenes, we use GPT-4o-mini to automatically generate the ques-
+tions and simulate responses that align with the historical context
+of characters.
+Finally, we utilize the LLaMA-Factory framework [9] to perform
+LoRA fine-tuning on LLMs with resumes and the generated dialogue
+information of characters. This process enables the LLMs to acquire
+the ability for role-playing.
+2.3
+Question Construction
+To evaluate the usefulness of our character agent corpus, we con-
+struct a question dataset that is used for historical role-playing agent
+evaluation. For each character, we construct 15 questions from five
+thematic aspects: Personal Background, Era Background, Family &
+Social Connections, Thoughts, Personality & Values, Achievements &
+Contributions. We use GPT-4o-mini to generate knowledge-oriented
+
+
+===== PAGE 3 =====
+
+BaiJia: A Large-Scale Role-Playing Agent Corpus of Chinese Historical Characters
+Anonymous, 2025, Anonymous Location
+Table 3: Performance comparisons of different LLMs. The results of LLMs with our agent corpus are marked with underline.
+Model
+CC
+DA
+CA
+EI
+CR
+CHA
+Avg.Imp ↑
+ChatGLM3-6B
+3.66 4.52 +23.5% 3.64 4.10 +12.6%
+3.50 3.90 +11.4%
+3.57 3.90
++9.3%
+3.15 3.75 +19.0% 3.68 4.48 +21.7%
++16.3%
+Qwen2.5-7B
+4.10 4.63 +13.0% 4.20 4.32
++2.9%
+4.04 4.22
++4.5%
+4.07 4.12
++1.2%
+3.94 4.09
++3.8%
+4.39 4.70
++7.1%
++5.42%
+Llama-3.1-8B
+3.58 4.50 +25.7% 3.63 4.00 +10.2%
+3.60 3.91
++8.6%
+3.69 3.92
++6.2%
+3.37 3.78 +12.0% 3.47 4.34 +25.3%
++14.7%
+Llama-3.1-70B
+4.00 4.70 +17.5% 3.94 4.21
++6.9%
+3.82 4.01
++5.0%
+3.84 3.99
++3.9%
+3.60 3.91
++8.6%
+3.93 4.60 +17.5%
++9.9%
+Qwen2.5-72B
+4.30 4.78 +11.2% 4.48 4.66
++4.0%
+4.17 4.28
++2.6%
+4.19 4.28
++2.1%
+4.14 4.25
++2.7%
+4.83 4.96
++2.7%
++4.2%
+DeepSeekV2.5
+4.03 4.92 +22.1% 4.11 4.54 +10.6%
+4.01 4.19
++4.5%
+3.88 4.17
++7.5%
+3.97 4.14
++4.4%
+4.15 4.90 +18.1%
++11.2%
+Baichuan-NPC
+4.04 4.45 +10.1% 3.71 4.00
++7.8%
+3.56 3.85
++8.1%
+3.56 3.83
++7.6%
+3.30 3.70 +12.1% 4.11 4.46
++8.5%
++9.0%
+Xingchen
+3.29 4.26 +29.5% 3.30 3.94 +19.4%
+3.08 3.72 +20.8%
+3.18 3.73 +17.3%
+2.74 3.52 +28.5% 3.38 4.29 +26.9%
++23.7%
+questions, ensuring that the questions do not directly reveal spe-
+cific information. For example, instead of asking, “Your hometown
+is Yong’an; how did it influence you?” we phrase it as, “Where is
+your hometown? How did it influence you?” This approach en-
+sures that questions remain open-ended, allowing for a more accu-
+rate assessment of the model’s ability to acquire and understand
+character knowledge in the development of role-playing agents of
+role-playing.
+3
+EXPERIMENT
+3.1
+Experimental Setup
+3.1.1
+Baseline Models. To verify the usefulness of our constructed
+agent corpus, we conduct experiments on different kinds of LLMs,
+including the general LLMs: i.e., ChatGLM [3], Qwen5, Lama [2],
+DeepSeek [1], and the role-playing LLMs (RP-LLM): i.e., BaiChuan-
+NPC6. and Tongyi Xingchen7. Our LLM BaiJia has been fine-tuned
+on Qwen2.5-7B with resume and dialogue information from our
+constructed agent corpus, ensuring our LLM remains lightweight
+and highly specialized. Table 4 summarizes the difference among
+them according to the size of parameters and applications.
+Table 4: The comparison of different types of LLMs
+Model
+# Parameter
+RP-LLM
+Open Source
+ChatGlm3-6B
+6B
+✗
+✓
+Qwen2.5-7B
+7B
+✗
+✓
+Llama-3.1-8B
+8B
+✗
+✓
+Llama-3.1-70B
+70B
+✗
+✓
+Qwen2.5-72B
+72B
+✗
+✓
+DeepSeekV2.5
+236B
+✗
+✓
+Xingchen
+–
+✓
+✗
+Baichuan-NPC
+–
+✓
+✗
+BaiJia(Ours)
+7B
+✓
+partially
+3.1.2
+Evaluation Metrics. We design a comprehensive evaluation
+benchmark to assess the capabilities of LLMs on six dimensions:
+Character Consistency (CC), Dialogue Ability (DA), Character Appeal
+(CA), Emotional Expression & Intellectual Depth (EI), Creativity &
+Role Depth Expansion (CR), and Cultural & Historical Appropriateness
+(CHA). Except for the evaluation dimensions, i.e., CC, DA and CA,
+5https://qwenlm.github.io/blog/qwen2.5/
+6https://npc.baichuan-ai.com/
+7https://tongyi.aliyun.com/xingchen/
+from existing role-playing benchmarks [4, 6–8], we propose three
+new dimensions, i.e., EI, CR, and CHA, that are specifically designed
+to evaluate the deep-level spiritual aspect of historical characters,
+including their emotion, creation and culture understanding. Each
+of these six dimensions contains two sub-dimensions, forming a
+comprehensive assessment of role-playing performance with a to-
+tal of twelve sub-dimensions. Detailed evaluation dimensions are
+outlined in Table 5.
+Table 5: Evaluation metrics of role-playing agent.
+Metrics
+Sub-dimension
+CC
+Alignment with Character Background
+Alignment with Dynasty Background
+DA
+Coherence and Logicality of Dialogue
+Interactivity in Dialogue
+CA
+Charm and Attractiveness of the Character
+Emotional Impact in Character Interactions
+EI
+Authentic Emotional Expression
+Intellectual Depth and Philosophical Views
+CR
+Character Personality and Innovative Thinking
+Further Development of Character Complexity
+CHA
+Language Style Matching Character Identity and Era
+Alignment with Historical and Cultural Views of the Era
+3.2
+Experimental Results
+To evaluate the effectiveness of our agent corpus, we compare the
+performance of different LLMs with and without the incorporation
+of our corpus. The results are shown in Table 3. We can see that: (1)
+After incorporating the information of character resumes (results
+marked with underline), the role-playing capabilities of all kinds
+of LLMs gain significant improvements over six evaluation dimen-
+sions; (2) Despite the increased capabilities of advanced LLMs, such
+as Qwen2.5-72B v.s. Qwen2.5-7B and Llama-3.1-70B v.s. Llama-3.1-
+8B, the enhancements achieved through our data corpus still be
+significant. This demonstrates that our corpus effectively fills the
+data gaps of current LLMs in role-playing tasks; (3) For LLMs spe-
+cialized for role-playing applications, such as BaichuanNPC and
+Xingchen, we observe that they are unable to portray Chinese his-
+torical characters effectively. This may be attributed to the limited
+availability and widespread distribution of historical data. (4) The
+
+
+===== PAGE 4 =====
+
+Anonymous, 2025, Anonymous Location
+Bai et al.
+Figure 2: Comparison of responses from different LLMs for the question to character Bai Ben. According to his resume, we
+highlight the correct answers in green color. The red color indicates the fabricated answer or false answers.
+greatest improvements achieved in the dimensions of Character
+Consistency (CC) and Culture & Historical Appropriateness (CHA),
+showing the powerfulness of our agent corpus in assisting LLMs to
+generate contextually coherent and realistic dialogues.
+Figure 3: Radar chart shows the performance of the fully
+optimized LLM ("Ours") and its variants across six evaluation
+dimensions.
+3.3
+Experimental Analysis
+3.3.1
+Ablation Study. An ablation study is conducted to evaluate
+the effects of our agent corpus, i.e., the resume information and the
+generated dialogue information of characters. Our model, i.e.,Ours,
+integrates resumes and is SFT with dialogue information based on
+the Qwen2.5-7B framework. We compare it with its degradation
+versions, i.e., w/o SFT: utilizing resume information only, and w/o
+SFT & Resume: neither conduct SFT with dialogue information nor
+incorporate resume information. As shown in Figure 3, we can see
+that the fully optimized LLM "Ours" achieves superior performance
+across all evaluation dimensions. Without SFT or resume informa-
+tion, it leads to noticeable performance degradation, showing the
+usefulness of our corpus in enhancing the consistency and compre-
+hensive abilities of role-playing LLMs. Compared to LLMs that are
+specialized for role-playing agents, without the data resources, they
+even perform worse than the general LLMs due to their fine-tuning
+for distinctive kinds of specific characters from Anime or Novels.
+3.3.2
+Case Study. To intuitively show the effectiveness of our agent
+corpus, we present a case study of a historical character Bai Ben and
+compare the responses generated from various LLMs. As shown
+in Fig. 2, for the question "What is the literary work you are most
+proud of?", Baichuan-NPC generates a title of work ( i.e., "Ode to
+Snow") in the responses, but it is fictional. GPT-4 and Qwen2.5-7B
+are unable to provide responses, i.e., "may not have many grand
+compositions to be passed down" from GPT-4 and "not in literary
+works" from Qwen2.5-7B, owing to their deficiency in relevant
+knowledge. After incorporating our agent corpus, the fine-tuned
+Qwen2.5-7B accurately responds "Parrot Song: The Fisherman" as Bai
+Ben’s most accomplished work. This response aligns with historical
+records and demonstrates the superiority of our corpus in capturing
+and reproducing historical character information.
+4
+CONCLUSION
+We contribute a high-quality agent corpus of Chinese historical
+characters, which is vital to improving the role-playing capability
+of large language models. By aggregating fragmented information
+from diverse data sources and integrating missing data, we collect
+an invaluable data resource in the realm of historical role-playing
+agents. This large-scale agent corpus is a groundbreaking contribu-
+tion to low-resource historical AI role-playing research.
+REFERENCES
+[1] DeepSeek-AI. 2024. DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-
+Experts Language Model. arXiv:2405.04434
+[2] Aaron Grattafiori et al. 2024. The Llama 3 Herd of Models. arXiv:2407.21783
+https://arxiv.org/abs/2407.21783
+[3] Team GLM, Aohan Zeng, Bin Xu, et al. 2024. ChatGLM: A Family of Large
+Language Models from GLM-130B to GLM-4 All Tools. arXiv:2406.12793
+[4] Cheng Li, Ziang Leng, et al. 2023. Chatharuhi: Reviving anime character in reality
+via large language model. arXiv preprint arXiv:2308.09597 (2023).
+[5] Yunfan Shao, Linyang Li, Junqi Dai, and Xipeng Qiu. 2023. Character-LLM: A
+Trainable Agent for Role-Playing. In Proceedings of the 2023 Conference on Empirical
+Methods in Natural Language Processing (EMNLP).
+[6] Quan Tu, Shilong Fan, Zihang Tian, et al. 2024. CharacterEval: A Chinese Bench-
+mark for Role-Playing Conversational Agent Evaluation. In Proceedings of the 62nd
+Annual Meeting of the Association for Computational Linguistics. 11836–11850.
+[7] Noah Wang, Z.y. Peng, Haoran Que, et al. 2024. RoleLLM: Benchmarking, Eliciting,
+and Enhancing Role-Playing Abilities of Large Language Models. In Findings of
+the Association for Computational Linguistics: ACL 2024. 14743–14777.
+[8] Xintao Wang, Yunze Xiao, et al. 2024. Incharacter: Evaluating personality fidelity
+in role-playing agents through psychological interviews. In Proceedings of the 62nd
+Annual Meeting of the Association for Computational Linguistics. 1840–1873.
+[9] Yaowei Zheng, Richong Zhang, Junhao Zhang, et al. 2024. LlamaFactory: Uni-
+fied Efficient Fine-Tuning of 100+ Language Models. In Proceedings of the 62nd
+Annual Meeting of the Association for Computational Linguistics. Association for
+Computational Linguistics.

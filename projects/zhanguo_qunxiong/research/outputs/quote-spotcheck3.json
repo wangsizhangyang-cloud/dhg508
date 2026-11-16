@@ -1,0 +1,221 @@
+[
+  {
+    "file": "belyaev_2022_historical_video_games.txt",
+    "checks": [
+      {
+        "term": "a special screen dimension of public history",
+        "found": true,
+        "page": "4"
+      },
+      {
+        "term": "This excludes the possibility of a gamer",
+        "found": true,
+        "page": "7"
+      },
+      {
+        "term": "latently legitimizing",
+        "found": true,
+        "page": "6"
+      },
+      {
+        "term": "the simulation of logic of a historical process",
+        "found": true,
+        "page": "9"
+      },
+      {
+        "term": "a set of internal program rules",
+        "found": true,
+        "page": "14"
+      }
+    ]
+  },
+  {
+    "file": "odonnell_2026_ludonarrative.txt",
+    "checks": [
+      {
+        "term": "purposeful alignment of mechanical action",
+        "found": true,
+        "page": "1"
+      },
+      {
+        "term": "the player experiences the consequences not as historical information",
+        "found": true,
+        "page": "12"
+      },
+      {
+        "term": "the analysis is design-analytical rather than empirical",
+        "found": true,
+        "page": "16"
+      }
+    ]
+  },
+  {
+    "file": "fagan_2023_counterfactual_military.txt",
+    "checks": [
+      {
+        "term": "akin to playing a board game",
+        "found": true,
+        "page": "14"
+      },
+      {
+        "term": "to quantify the probability of an event that did not happen",
+        "found": true,
+        "page": "24"
+      },
+      {
+        "term": "Man cannot create the current of events",
+        "found": true,
+        "page": "18"
+      }
+    ]
+  },
+  {
+    "file": "park_2023_generative_agents.txt",
+    "checks": [
+      {
+        "term": "A memory retrieval model combines",
+        "found": true,
+        "page": "2"
+      },
+      {
+        "term": "The agent?s output action then updates the JSON",
+        "found": false
+      },
+      {
+        "term": "At times, the agents hallucinated embellishments",
+        "found": true,
+        "page": "15"
+      },
+      {
+        "term": "any imperfections in the underlying large language models",
+        "found": true,
+        "page": "17"
+      }
+    ]
+  },
+  {
+    "file": "ahn_2024_timechara.txt",
+    "checks": [
+      {
+        "term": "All baselines exhibit confu",
+        "found": true,
+        "page": "8"
+      },
+      {
+        "term": "decomposes reasoning steps into specialized tasks",
+        "found": true,
+        "page": "?",
+        "note": "normalized only"
+      }
+    ]
+  },
+  {
+    "file": "nadjamuddin_2026_augmented_historical_simulation.txt",
+    "checks": [
+      {
+        "term": "M = 85.9 vs. 77.6",
+        "found": true,
+        "page": "1"
+      },
+      {
+        "term": "the study was conducted within the context of Indonesian secondary education",
+        "found": true,
+        "page": "19"
+      }
+    ]
+  },
+  {
+    "file": "karn_2022_historical_empathy.txt",
+    "checks": [
+      {
+        "term": "they are not intended to be sequential",
+        "found": true,
+        "page": "7"
+      },
+      {
+        "term": "does not necessarily mean identifying with those historical actors",
+        "found": true,
+        "page": "13"
+      },
+      {
+        "term": "reasonable within the historical context",
+        "found": true,
+        "page": "12"
+      }
+    ]
+  },
+  {
+    "file": "nurgalieva_2024_simulation_games_history.txt",
+    "checks": [
+      {
+        "term": "???? ?????????? ?? ??????????",
+        "found": false
+      }
+    ]
+  },
+  {
+    "file": "li_2025_zhou_climate.txt",
+    "checks": [
+      {
+        "term": "the critical role of the 2.8",
+        "found": true,
+        "page": "1"
+      },
+      {
+        "term": "not quantitative evidence of drought frequency",
+        "found": true,
+        "page": "5"
+      }
+    ]
+  },
+  {
+    "file": "kim_2025_western_zhou_economy.txt",
+    "checks": [
+      {
+        "term": "models of elite redistributive economies represent only one facet",
+        "found": true,
+        "page": "5"
+      }
+    ]
+  },
+  {
+    "file": "zhang_2023_chronology_western_zhou.txt",
+    "checks": [
+      {
+        "term": "This study provides testable hypotheses",
+        "found": true,
+        "page": "80"
+      },
+      {
+        "term": "King You",
+        "found": true,
+        "page": "1"
+      },
+      {
+        "term": "780",
+        "found": true,
+        "page": "18"
+      }
+    ]
+  },
+  {
+    "file": "grundmann_2019_zhou_kingship.txt",
+    "checks": [
+      {
+        "term": "royal commands themselves anticipated",
+        "found": true,
+        "page": "183"
+      },
+      {
+        "term": "moments of cultural crisis",
+        "found": true,
+        "page": "210"
+      },
+      {
+        "term": "must remain but a model for an explanation",
+        "found": true,
+        "page": "358"
+      }
+    ]
+  }
+]

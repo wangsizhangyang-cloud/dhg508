@@ -1,0 +1,1531 @@
+
+
+===== PAGE 1 =====
+
+
+
+===== PAGE 2 =====
+
+Quantifying Counterfactual 
+Military History
+Forces shaping human history are complex, but the course of history is 
+undeniably changed on many occasions by conscious acts. These may be 
+premeditated or responsive, calmly calculated or performed under great 
+pressure. They may also be successful or catastrophic, but how are histo-
+rians to make such judgements and appeal to evidence in support of their 
+conclusions? Further, and crucially, how exactly are we to distinguish prob-
+able unrealized alternatives from improbable ones? This book describes 
+some of the modern statistical techniques that can begin to answer this 
+question, as well as some of the difficulties in doing so. Using simple, well-
+quantified cases drawn from military history, we claim that statistics can 
+now help us to navigate the near-truths, the envelope around the events 
+with which any meaningful historical analysis must deal, and to quantify 
+the basis of such analysis. Quantifying Counterfactual Military History is 
+intended for a general audience who are interested in learning more about 
+statistical methods both in military history and for wider applications.
+Key Features:
+•
+This book demonstrates how modern statistical techniques can
+measure the impact of counterfactual decisions.
+•
+It examines the importance of counterfactual reasoning for both
+modern scholars and historical actors.
+•
+It combines historical narrative, mathematical precision and data
+to create a straightforward presentation of both factual and coun-
+terfactual military history.
+•
+It provides an original contribution to the debate over the validity
+and rigour of works of counterfactual history.
+•
+It is written in a manner accessible to readers who have no formal
+training in History or Statistics.
+
+
+===== PAGE 3 =====
+
+Dr Brennen Fagan is a postdoctoral research associate supported by the 
+Leverhulme Centre for Anthropocene Biodiversity and the Department 
+of Mathematics at the University of York. He received his PhD in 
+Mathematics, working with the York Historical Warfare Analysis Group 
+to better understand human conflict by examining and modelling his-
+torical war data, and now studies the mathematics of biodiversity change.
+Dr Ian Horwood is a historian at York St John University, where he is 
+Senior Lecturer. His principal interests are in US military history, air-
+power history and the wars in Indochina. Dr Horwood received his PhD 
+in History from the University of Leeds.
+Professor Niall MacKay is a mathematician and theoretical physicist at 
+the University of York. He has interests in military history, operations 
+research and combat modelling. He received his PhD in Theoretical and 
+Mathematical Physics from Durham University.
+Dr Christopher Price is Senior Lecturer in History at York St John 
+University. His main areas of interest are political, economic and military 
+history in the twentieth century, especially British and US history in the 
+period surrounding the Great Depression, the two World Wars and the 
+Cold War. He received his PhD in History from the University of York.
+Professor Andrew James (Jamie) Wood is a mathematician and systems 
+biologist at the University of York. He specializes in the simulation and 
+analysis of complex systems, and has interests across a range of modern 
+international history and the analysis of warfare. He received his PhD 
+in Theoretical and Mathematical Physics from Imperial College London.
+
+
+===== PAGE 4 =====
+
+ASA-CRC Series on
+Statistical Reasoning in Science and Society
+Series Editors
+Nicholas Fisher, University of Sydney, Australia
+Nicholas Horton, Amherst College, MA, USA
+Regina Nuzzo, Gallaudet University, Washington, DC, USA
+David J Spiegelhalter, University of Cambridge, UK
+Published Titles
+Data Visualization: Charts, Maps and Interactive Graphics
+Robert Grant
+Improving Your NCAA® Bracket with Statistics
+Tom Adams
+Statistics and Health Care Fraud: How to Save Billions
+Tahir Ekin
+Measuring Crime: Behind the Statistics
+Sharon Lohr
+Measuring Society
+Chaitra H. Nagaraja
+Monitoring the Health of Populations by Tracking Disease Outbreaks
+Steven E. Fricker and Ronald D. Fricker, Jr.
+Debunking Seven Terrorism Myths Using Statistics
+Andre Python
+Achieving Product Reliability: A Key to Business Success
+Necip Doganaksoy, William Q. Meeker, and Gerald J. Hahn
+Protecting Your Privacy in a Data-Driven World
+Claire McKay Bowen
+Backseat Driver: The Role of Data in Great Car Safety Debates
+Norma F. Hubele
+Statistics Behind the Headlines
+A. John Bailer and Rosemary Pennington
+Never Waste a Good Crisis: Lessons Learned from Data Fraud and 
+Questionable Research Practices
+Klaas Sijtsma
+For more information about this series, please visit: https://www.
+crcpress.com/go/asacrc
+
+
+===== PAGE 5 =====
+
+Taylor & Francis 
+Taylor & Francis Group 
+http://taylorandfrancis.com 
+
+
+===== PAGE 6 =====
+
+Quantifying 
+Counterfactual  
+Military History
+Brennen Fagan, Ian Horwood,  
+Niall MacKay, Christopher Price 
+and A. Jamie Wood
+
+
+===== PAGE 7 =====
+
+Designed cover image: © Shutterstock, ID 251930104, Photo Contributor: Everett Collection
+First edition published 2024
+by CRC Press
+6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742
+and by CRC Press
+4 Park Square, Milton Park, Abingdon, Oxon, OX14 4RN
+CRC Press is an imprint of Taylor & Francis Group, LLC
+© 2024 Taylor & Francis Group, LLC
+Reasonable efforts have been made to publish reliable data and information, but the 
+author and publisher cannot assume responsibility for the validity of all materials or the 
+consequences of their use. The authors and publishers have attempted to trace the copyright 
+holders of all material reproduced in this publication and apologize to copyright holders if 
+permission to publish in this form has not been obtained. If any copyright material has not 
+been acknowledged please write and let us know so we may rectify in any future reprint.
+Except as permitted under U.S. Copyright Law, no part of this book may be reprinted, 
+reproduced, transmitted, or utilized in any form by any electronic, mechanical, or other 
+means, now known or hereafter invented, including photocopying, microfilming, and 
+recording, or in any information storage or retrieval system, without written permission 
+from the publishers.
+For permission to photocopy or use material electronically from this work, access www.
+copyright.com or contact the Copyright Clearance Center, Inc. (CCC), 222 Rosewood 
+Drive, Danvers, MA 01923, 978-750-8400. For works that are not available on CCC please 
+contact mpkbookspermissions@tandf.co.uk
+Trademark Notice: Product or corporate names may be trademarks or registered trademarks 
+and are used only for identification and explanation without intent to infringe.
+ISBN: 978-1-138-59452-4 (hbk)
+ISBN: 978-1-138-59238-4 (pbk)
+ISBN: 978-0-429-48840-5 (ebk)
+DOI: 10.1201/9780429488405
+Typeset in Minion
+by KnowledgeWorks Global Ltd.
+
+
+===== PAGE 8 =====
+
+vii
+Contents
+About the Authors, ix
+Chapter 1    ◾    Could History Have Been Otherwise?	
+1
+Chapter 2    ◾    Could the Germans Have Won the 
+Battle of Jutland?	
+27
+Chapter 3    ◾    Could the Germans Have Won the 
+Battle of Britain?	
+69
+Chapter 4    ◾    Could the United States Have 
+Prevailed in Vietnam?	
+97
+Chapter 5    ◾    The Road to Able Archer: Counterfactual 
+Reasoning and the Dangerous History of 
+Nuclear Deterrence 1945–1983	
+137
+Chapter 6    ◾    Conclusions
+185
+APPENDIX: SOME MATHEMATICAL BACKGROUND 
+(WITH NO EQUATIONS!), 191
+BIBLIOGRAPHY, 209
+INDEX, 221
+
+
+===== PAGE 9 =====
+
+Taylor & Francis 
+Taylor & Francis Group 
+http://taylorandfrancis.com 
+
+
+===== PAGE 10 =====
+
+ix
+About the Authors
+Dr Brennen Fagan is a postdoctoral research associate sup-
+ported by the Leverhulme Centre for Anthropocene Biodiversity 
+and the Department of Mathematics at the University of York. 
+He received his PhD in Mathematics, working with the York 
+Historical Warfare Analysis Group to better understand human 
+conflict by examining and modelling historical war data, and now 
+studies the mathematics of biodiversity change.
+Dr Ian Horwood is a historian at York St John University, where 
+he is Senior Lecturer. His principal interests are in US military 
+history, airpower history and the wars in Indochina. Dr Horwood 
+received his PhD in History from the University of Leeds.
+Professor Niall MacKay is a mathematician and theoretical 
+physicist at the University of York. He has interests in military 
+history, operations research and combat modelling. He received 
+his PhD in Theoretical and Mathematical Physics from Durham 
+University.
+Dr Christopher Price is Senior Lecturer in History at York 
+St John University. His main areas of interest are political, eco-
+nomic and military history in the twentieth century, especially 
+British and US history in the period surrounding the Great 
+Depression, the two World Wars and the Cold War. He received 
+his PhD in History from the University of York.
+
+
+===== PAGE 11 =====
+
+x    ◾    About the Authors
+Professor Andrew James (Jamie) Wood is a mathematician and 
+systems biologist at the University of York. He specializes in the 
+simulation and analysis of complex systems, and has interests 
+across a range of modern international history and the analysis 
+of warfare. He received his PhD in Theoretical and Mathematical 
+Physics from Imperial College London.
+
+
+===== PAGE 12 =====
+
+1
+DOI: 10.1201/9780429488405-1
+C h a p t e r 1
+Could History Have 
+Been Otherwise?
+It is not given to human beings … to foresee or to predict to 
+any large extent the unfolding course of events. History with 
+its flickering lamp stumbles along the trail of the past, try-
+ing to reconstruct its scenes, to revive its echoes, and kindle 
+with pale gleams the passion of former days.
+WINSTON CHURCHILL 
+eulogy for Neville Chamberlain, Hansard, 
+12 November 1940
+HISTORY AND COUNTERFACTUAL HISTORY
+Human life is contingent. The results of the smallest action are 
+potentially momentous, and of the most dramatic act possi-
+bly insignificant. These consequences are extremely difficult to 
+anticipate and can be uncomfortable or even frightening to con-
+template. Life is thus not only contingent but appallingly contin-
+gent. The business of historians, however, is to make sense of the 
+
+
+===== PAGE 13 =====
+
+2    ◾    Quantifying Counterfactual Military History
+past, to place the ideas and decisions of historical actors in proper 
+context – to identify the significance of events and actions and 
+to identify the momentum and direction of historical “forces”, 
+thereby counterbalancing contingency with some degree of neces-
+sity. There is little point in denying that this is a fiendishly difficult 
+task, even with the past frozen in place like a prehistoric wasp in 
+amber, and it is not, therefore, surprising that all historical per-
+spectives are contested, with historians tending to separate into 
+opposing camps over minor and major issues alike. Over time, 
+dominant theories develop revisionist and later counter-revisionist 
+schools. Warring historians would agree, however, that there is a 
+truth to be revealed in their debate – even when they contend that 
+they, rather than their rival, have perceived it.
+To prove their case, historians appeal to evidence from the his-
+torical record – to what happened. Here, though, we encounter 
+various difficulties. First, the constant realization of events pro-
+vides us with a historical narrative, but the historian cannot possi-
+bly relate everything that happened. Good narrative history makes 
+a choice of events to show their progression in a new light – to tell 
+a good story. But the historian who wishes to do more than nar-
+rate must ask which events, which actions, are ­significant – which 
+have long-term consequences – and let their answers determine 
+their story. In doing so, they interpret the pattern of events, discern 
+trends and interrogate the motives of persons and groups, aiming 
+(even when this is only partly explicit) to arrive at a chain of cau-
+sation. To some, the assassination of Archduke Franz Ferdinand 
+may appear to have been an essential cause of the First World War, 
+while to most it was merely the spark to a keg of gunpowder. But if 
+a great war was inevitable, was this due to the inflexibility of rail-
+way timetables, the personalities of the statesmen or the converg-
+ing and competing aims of the European powers?1
+In writing history, it must always be remembered that a histori-
+cal fact is simply one of numberless possibilities until the histori-
+cal actor moves or an event occurs, at which point it becomes real. 
+To understand the one-time possibility that became evidence, we 
+
+
+===== PAGE 14 =====
+
+Could History Have Been Otherwise?    ◾    3
+must also understand the possibilities that remained unrealized. 
+This is not a controversial statement, and historians attempt this 
+synthesis as a matter of course. Indeed, to identify an event as 
+important is to claim that in its absence or variation things might 
+have turned out otherwise.2 To the deep misfortune of the histori-
+cal profession, however, attempts to refine our understanding and 
+analysis of these possibilities have become mired in a spurious 
+and damaging controversy concerning the validity or otherwise 
+of “counterfactual history”.
+In the historical profession, the discussion of counterfactual 
+history – a type of historical writing which creates an alternative 
+historical narrative following an imagined difference in events at 
+a given point in time – has generated more heat than light. At the 
+extreme, it does little more than provide a battlefield for histori-
+ans who dislike each other’s positions, with the middle ground 
+vacated in favour of lobbing shells across it from entrenched posi-
+tions. Richard Evans, for example, accuses Niall Ferguson and a 
+group of like-minded historians of pushing “wishful thinking” to 
+create utopias or dystopias which chime with their political views 
+and in some sense seek to validate them. Evans argues that this 
+historical revisionism is symptomatic of the weaknesses inherent 
+in historical speculation.3
+Allan Megill goes some way towards clarifying this debate 
+with a useful categorization that divides counterfactual history 
+into two distinct types, the “exuberant” (which deals in chains 
+of multiple alternative past events and outcomes which never 
+happened) and the “restrained” (which considers only minimal 
+and clearly possible changes to historical events). For Evans, for 
+most historians and for us, “exuberant” counterfactual history is 
+no more than implausible extrapolation, akin to playing a board 
+game with history-shaped pieces. Yet Evans considers that even 
+the more “restrained” counterfactual history also suffers from 
+an inherent weakness, in that it doesn’t go far beyond revealing 
+what could be deduced within a more conventional historical 
+framework anyway.4 One solution to this conundrum is that the 
+
+
+===== PAGE 15 =====
+
+4    ◾    Quantifying Counterfactual Military History
+academic study of history needs to move beyond the customary 
+analytic framework. Evans acknowledges, rather grudgingly, that 
+historians necessarily indulge in counterfactual history when-
+ever they are more than simply narrators of the historical record.5 
+Explaining why history took the course it did inevitably involves 
+a judgement on why other courses did not transpire. However, he 
+argues that historical forces limit contingency to variations that 
+can be encompassed within existing forms of historical analysis. 
+As we will demonstrate, this is a questionable hypothesis, not least 
+because it would stultify the development of historical methodol-
+ogy. As Tetlock and Belkin have shown, it is perfectly possible to 
+create a cautious, careful, conservative qualitative methodology 
+for dealing with contingency.6
+Our purpose in this book is to take a few tentative steps towards 
+using modern statistical theory and computer power to add a 
+quantitative dimension to this debate – and to appreciate some of 
+the dangers in doing so. We are interested in the role of chance in 
+history, which means that we are equally interested in the prob-
+abilities of the events that happened – the facts – and their com-
+plement, the counterfactual. We will reflect on the implications 
+for historians – not just for their writing of history but also for 
+their views of the historical actors who made it. Before we set out 
+our methodology, however, we need to discuss some connected 
+­topics – the existence of “watershed moments”, the role of indi-
+viduals in determining their outcome, and the special status of 
+both of these in military history.
+CRITICAL JUNCTURES AND “WATERSHED  
+MOMENTS”
+How should we select which events are appropriate for restrained 
+counterfactual analysis? Later, we shall discuss the constraints 
+imposed by the methodology available. But first, we consider 
+how and why some events are more important than others. Such 
+moments, more broadly including the actions of individuals and 
+the development of institutions, are called “critical junctures” in 
+
+
+===== PAGE 16 =====
+
+Could History Have Been Otherwise?    ◾    5
+modern political science.7 We can never be certain of the exis-
+tence of critical junctures, or of the grounds of their criticality, but 
+“restrained” counterfactuals, if done with multiple perspectives 
+and sufficient thoroughness, can surely make a distinctive con-
+tribution to the literature. Tetlock, Lebow and Parker’s Unmaking 
+the West, for example, considers whether the last few centuries’ 
+Western global dominance could be unmade by some minimal 
+and perfectly plausible counterfactual changes to world history.8 
+Such a “restrained” approach is very different from the piling of 
+supposition upon supposition, with arbitrary choices made among 
+multiple possible ramifications, that is characteristic of “exuber-
+ant” counterfactuals.9
+If critical junctures exist, to what extent are their outcomes due 
+to chance, rather than to perhaps unknown but in principle deter-
+minable sequences of decisions and events? The latter, and the 
+extent to which they are inevitable outcomes of historical forces, 
+are certainly historians’ business, and Richard Evans is perhaps 
+demarcating it when he observes that much recent counterfac-
+tual history succumbs to the temptation to see chance playing 
+a role everywhere, “delight[ing] in emphasizing tiny causes for 
+huge events”.10 To do so is clearly an abdication of the historian’s 
+responsibility at least to attempt to determine causes – even if, in 
+the end, sensitive dependence on unknown hidden events may be 
+indistinguishable from chance.11
+To discuss this further, let’s begin with a metaphor. Picture rain 
+falling on a landscape. We can predict pretty accurately where 
+most raindrops will end up – in the main river draining the basin 
+in which they fall. But if the raindrop falls on the watershed ridge, 
+its possible futures diverge and we have no predictability. Such 
+simple critical junctures might equivalently be called “watershed 
+moments”. We are perfectly free to believe that these are very rare, 
+that chance is greatly subordinate to historical forces. However, 
+in the virtual landscape of possible historical realities – in the set 
+of the many possible worlds on which the single droplet of our 
+own world moves – watershed moments are not only conceivable 
+
+
+===== PAGE 17 =====
+
+6    ◾    Quantifying Counterfactual Military History
+but also almost inevitable, however rare they may be and however 
+dominant the historical forces. Further down the hill, “these laws 
+[of history] resemble rather those by which flood-water flows by 
+hitherto unseen channels and forces itself finally to an unpredict-
+able sea”.12
+The metaphor is easily broadened if we define critical junctures 
+to be regions, illustrated in Figure 1.1, in which historical trajec-
+tories are unusually dense – “bottlenecks”, towards which history 
+converges and from which it diverges.13 In passing through them, 
+trajectories arrive from a broad set of pasts but separate into very 
+different futures. They are moments of great contingency, the 
+periods and places in which we find the “what ifs?” of history and 
+the places in which hops from one trajectory to the next have the 
+most effect. The largest, densest such regions would be associ-
+ated with a sense of a culminating period, the end of an era, of 
+an inevitable state of tension and uncertainty towards which all 
+pasts tend.14 In the rivers and seas of history, critical junctures are 
+regions of strong currents and turbulence to which our boats are 
+FIGURE 1.1  Critical junctures as regions in which historical trajecto-
+ries are unusually dense.
+
+
+===== PAGE 18 =====
+
+Could History Have Been Otherwise?    ◾    7
+naturally carried, and from which their course is hard to deter-
+mine and control. Yet still there is human agency: in Bismarck’s 
+words, “Man cannot create the current of events. He can only float 
+with it and steer.”15 In the region of the critical juncture itself, 
+there is unknowable entanglement and random hopping – that is, 
+sensitive dependence on position and true randomness – and the 
+two may be indistinguishable, either in principle or by historians. 
+Such unknowability, and thereby randomness and agency in the 
+hops, matters less before such a juncture, when trajectories are 
+converging and necessity predominates in historical argument, 
+and more afterwards, when trajectories are diverging and contin-
+gency dominates, while it matters most of all in the bottleneck 
+itself, when trajectories are close-packed and about to diverge.
+In this light, the opposition set up by Evans between con-
+tingency and inevitability, in which either all events are criti-
+cal junctures or none are, seems rather false. Evans writes “the 
+counterfactual proposes … ‘If A had happened instead of B, then 
+inevitably C, D and E would have followed … instead of X, Y 
+and Z.’ But, of course, a thousand other things might, or would, 
+have intervened…”.16 If most details of history outside critical 
+junctures really do not matter, then it is perfectly reasonable to 
+consider contingency based on minimal changes (only) at critical 
+junctures – or, if one prefers, to delineate the possible futures of 
+a critical juncture without positing the changes or chances that 
+could entail them. We would argue that the density-of-trajectories 
+picture, which offers a continuous spectrum of criticality rather 
+than a binary divide, is the natural worldview of the historian 
+who does not believe that all history is reversionary and inevitable 
+yet who does not wish to connect divergent outcomes with micro-
+scopic causes. There is much that can be said about turbulence 
+around critical junctures without detailing the minutiae.17
+But what are the laws shaping the landscape, its convergen-
+ces and divergences? – can science help create a theory of critical 
+junctures? Many writers on counterfactual history like to borrow 
+ideas from science, but this can be rather dangerous, for science 
+
+
+===== PAGE 19 =====
+
+8    ◾    Quantifying Counterfactual Military History
+often uses words from common language which for the reader 
+remain informal and intuitive but then co-opts them to specific, 
+related and subtly different technical meanings. “Chaos” is one 
+such word: its application as a concept from which to approach 
+the crucial distinction between the stable and reversionary and 
+the unstable and divergent is problematic and can be tendentious. 
+Yet we do have to distinguish different types of instability and dif-
+ferent forms and sources of apparent randomness.
+In our raindrop metaphor, the historical forces are manifested 
+in the shape of the landscape and thereby appear observable – even 
+if only through watching the course of history’s single droplet – 
+and thus potentially tractable by conventional historical analysis. 
+Most of the droplet’s motion is reversionary, although it is unpre-
+dictable at the watersheds. The weather which produces the rain, 
+by contrast, embodies a very different, (technically) chaotic kind 
+of unpredictability: the weather is intrinsically unpredictable, and 
+we cannot accurately predict rain even a few days in advance, still 
+less where any one droplet will fall. But the general features and 
+patterns of landscapes and weather systems do recur, just as only 
+certain kinds of dynamics occur in “chaos theory”, and only cer-
+tain distinctive kinds of “catastrophe” – meaning sudden events 
+caused by a change in the landscape – are possible.18 Plenty of 
+events which influence history appear in such patterns, struc-
+tured yet unpredictable – earthquakes and stock-market crashes, 
+for example.
+A theory of critical junctures in history might therefore not be 
+a quantitative mathematical analysis but rather a broader, more 
+qualitative theory – something like our understanding of the 
+weather before the advent of quantitative meteorology.19 Critical 
+junctures might occur of various types and degrees of density, 
+and on varying time- and geopolitical scales. This is an enormous 
+enterprise, but to say so is not counsel of despair. It is perfectly 
+reasonable to hope to arrive on an empirical basis at natural tim-
+escales, scalings and cyclicity.20 For example, if one believes that 
+the onset of the First World War (or an equivalent cataclysm) was 
+
+
+===== PAGE 20 =====
+
+Could History Have Been Otherwise?    ◾    9
+inevitable but that Franz Ferdinand’s assassination was not the 
+necessary or only possible trigger, a natural estimate of the time 
+window might be a couple of decades, consistent with Randall 
+Collins’ timescale for geopolitical change.21 Historical forces and 
+predictability may be limited, but there is plenty we can say about 
+the typical patterns we observe. History may not repeat itself, but 
+it rhymes.22
+THE INDIVIDUAL IN HISTORY
+This can all seem a bit impersonal, and we need to restore some 
+human agency. What of the historical actors themselves, mov-
+ing in the eternal present? Contingency – uncertainty – matters 
+deeply to them, for whom the future is unknown. It is surely a 
+critical hindsight error to frame counterfactual analysis as a prob-
+lem of significance only to later historians. It is clearly the case that 
+historical actors have sought to interpret their circumstances in 
+much the same way as do the historians of their future – that is, to 
+calculate and implement the most advantageous course of action. 
+In doing so, they faced much the harder task, fully aware of the 
+possibilities of failure or misstep. From nineteenth-century mili-
+tary players of the Kriegsspiel to twenty-first-century policy mak-
+ers using matrix games to attempt to work out the consequences 
+of their decisions, their play-acting is conducted in deadly earnest 
+with disbelief fully suspended, in the hope of reacting confidently 
+to any possibility that becomes real and above all to avoid being 
+surprised.
+Standing somewhere behind such considerations, and far from 
+fashion, is the idea of the “great man”, the claim that the course 
+of history is crucially dependent on the deep personalities of indi-
+viduals.23 Now, sometimes individuals clearly matter in history. 
+Most historians, for example, are agreed that the character of the 
+man Charles Stuart was one of the principal factors in the 1640s 
+civil wars of the British Isles. So too was that of his nemesis Oliver 
+Cromwell, loved by the English army for his tolerance of religious 
+diversity (provided it was Christian and reformed). In Cromwell’s 
+
+
+===== PAGE 21 =====
+
+10    ◾    Quantifying Counterfactual Military History
+case, one could even argue that through his beliefs his personality 
+contributed to shaping the times – certainly Charles in contrast 
+appears merely reactive. Yet Cromwell’s beliefs were to a large 
+extent shaped by his times, the “anthropomorphic cosmogony of 
+the 17th century” in John Buchan’s memorable phrase.24 This is 
+a crucial interplay, balancing Herbert Spencer’s rebuttal of great 
+man history on the grounds that “before [the great man] can 
+remake his society, his society must make him” with Buchan’s 
+view that great individuals “are in a sense the children of their 
+age, but they bring to their age more than they draw from it”.25 
+The former is the basis of Tolstoy’s view of history, as described by 
+Isaiah Berlin: not only are the conceits of “great men” empty, but 
+nor also can we truly know, with any predictive power, the forces 
+that shape us.26 Yet personalities clearly differ, leaving of crucial 
+importance the unanswerable question of whether the holding of 
+power by the individual is an accident or rather is inevitable. It 
+would be hard to argue that Otto von Bismarck’s commitment 
+to the avoidance of Europe-wide conflagration was an outgrowth 
+of Prussian or even his new Germany’s thought. Two generations 
+later, whether the German Third Reich should be seen as the per-
+sonal apotheosis of Adolf Hitler or as the culmination of German 
+history can never be decided – but it is a striking counterfac-
+tual idea to combine the latter with a Nazi leader shrewder and 
+more astute than Hitler, as Stephen Fry did in his novel Making 
+History.27
+MILITARY HISTORY
+Military history provides plenty of examples of finely balanced 
+outcomes whose consequences for wider history are much harder 
+to determine. The Battle of Bosworth Field, fought in 1485 for 
+the English crown, appears in retrospect to have been an epoch-
+making moment – the end of what we now call the Wars of the 
+Roses, the beginning of the Tudor period, and perhaps the end 
+of the Middle Ages in Britain and the beginning of the modern 
+era. Of course, that’s not how it seemed at the time when it was 
+
+
+===== PAGE 22 =====
+
+Could History Have Been Otherwise?    ◾    11
+just another clash in the sequence of bloody battles that saw the 
+extermination of large parts of England’s aristocracy and com-
+mons alike. Contemporaries expected it to be succeeded by more 
+such – it is only the survival on the throne of the battle’s victor, 
+Henry VII, that makes it appear otherwise to us now. If Richard 
+III had won, would history look so very different? Probably the 
+wars would have continued for longer and with intensified bru-
+tality. But underlying the ebb and flow of the wars were deeper 
+currents – the Renaissance, the Reformation – which changed 
+England and Europe and enabled the modern West to develop.
+So, do the outcomes of battles matter? At the extreme, one might 
+say “no, never” with the underlying inference that it is always the 
+deeper currents of history which dominate in the end, that history 
+reverts to its inevitable course.28 Napoleon may have been turned 
+back at the Battle of Aspern-Essling but the tide of war was inevi-
+tably heading towards his ultimate victory over the Austrians. At 
+the other end is the “horse-shoe nail” argument, that some bat-
+tle outcomes are both unstable (won on the toss of a coin, or the 
+availability of a horse-shoe nail) and crucial in determining the 
+geopolitical future – Waterloo or Gettysburg, perhaps.29
+It’s not difficult to think of ways to describe the spectrum of 
+possibilities between the two extremes.30 One would be to say that 
+the distinction is just a matter of time. Then, in the former view, a 
+battle’s outcome may matter for a short while but not in the long 
+run; in the latter, it may determine a society’s long-term future. A 
+middle ground is to guess that most battles’ influence doesn’t last 
+very long. Towton, the bloodiest battle of the Wars of the Roses, 
+may have been turned by snow and the wind direction, but its out-
+come mattered little a few decades later.31 In the light of our earlier 
+discussion of critical junctures, the nuanced view is that whether 
+an event has long-term consequences is principally dependent on 
+the context in which it occurs – a spark needs tinder if it is to start 
+a fire.
+Distinguishing the few battles which are forks in the road to 
+different long-term futures is no easy task. The 1942 Battle of 
+
+
+===== PAGE 23 =====
+
+12    ◾    Quantifying Counterfactual Military History
+Midway is a case in point. It was certainly highly contingent: 
+for example, for want of a working catapult the Japanese failed 
+to launch a sea-plane from the cruiser Tone that just might have 
+discovered the American aircraft carriers in time – perhaps – to 
+change the outcome of the battle. But would the Japanese seizure 
+of Midway Island and the destruction of the American carriers 
+have changed the outcome of the war in the Pacific and thus the 
+long-term future of East Asia, or was the Japanese strategic mis-
+conception simply too great?
+TOWARDS A METHODOLOGY FOR 
+COUNTERFACTUAL MILITARY HISTORY
+As Buchan noted, history is an art which is always trying to become 
+more of a science.32 It would be all too easy to give up hope of 
+quantifying chance in history. But it would also be rather a shame, 
+because there are a great many new techniques in statistics and 
+probability ripe for use in historical analysis. We agree that there 
+must always remain a role for incalculable chance and unknow-
+able contingency in history. But science progresses and develops 
+new modes of thought which, provided the effort is made, may 
+have something to offer to historical analysis. Recent mathemat-
+ics has opened up the study not only of dynamical change but also 
+of chance, to such an extent that a great mathematician was able 
+to call the turn of the millennium the “dawning of the age of sto-
+chasticity”.33 Nowadays, some chances can be calculated, and the 
+likely distinguished from the unlikely.
+Our purpose is not to propose a theory of history, or even a 
+broad theory of critical junctures. Such attempts are worthwhile, 
+perhaps timely, and can even point to forks in the road – but quan-
+tifying their probabilities is difficult. We concentrate on military 
+history because it offers clearly defined moments of contingency 
+in quantifiable contexts. We look at four scenarios of very differ-
+ent types, our understanding of which can be enhanced by the 
+use of very different mathematical and quantitative techniques. 
+We selected our cases because we considered them historically 
+
+
+===== PAGE 24 =====
+
+Could History Have Been Otherwise?    ◾    13
+interesting and important, and because each was susceptible 
+to a new quantitative approach either presently or by historical 
+actors. They are all candidates for critical junctures, but we do 
+not hypothesize about their long-term consequences, or whether 
+these would have reverted to a convergent history in the long term.
+But the capacity to quantify, in a novel and interesting manner, 
+is critical. Quantified models have the particular virtue that, once 
+they are in the open, everyone can discuss them: their simple logic 
+is laid bare. Even if they are wrong, they provide a common basis 
+for argument. If you think you do not have a model – well, you 
+probably do have one, just not one sufficiently well specified that it 
+can be subjected to precise argument.34 Our models are not “black 
+boxes”, taking precise inputs and spitting out simple answers to 
+historical questions in a manner insusceptible to interrogation. 
+Rather they provide a new perspective, and a fresh jumping-off 
+point for more conventional historical analysis. They can be par-
+ticularly helpful in resolving the tension between factual and 
+counterfactual, for, as noted earlier, to quantify the probability of 
+an event that did not happen is also to quantify its complement, 
+the probability of what did happen.35 Whilst the fact that some-
+thing happened might reasonably alter our post hoc estimate of its 
+likelihood, there is a clear danger of going too far, of thinking that 
+everything that happened was inevitable if only we could under-
+stand its causes well enough. Unlikely things do happen.
+In this book, we explore various ways in which we can re-
+think some military engagements and decisions, quantifying the 
+chances of what happened, what did not and what might have hap-
+pened had different decisions been made. To the extent to which 
+this is counterfactual, it is restrained rather than ­exuberant  – 
+as already noted, we won’t pursue too far the implications for 
+alternative histories. This approach is very close to wargaming; 
+indeed, some of our computer simulations are like conducting 
+simple wargames not a few times but many thousands or millions 
+of times and examining the statistics of the outcomes. But we 
+don’t want to play wargames without understanding precisely the 
+
+
+===== PAGE 25 =====
+
+14    ◾    Quantifying Counterfactual Military History
+implications of their (necessarily) artificial rules, and the extent of 
+the randomness and arbitrariness built into them.36 Further, and 
+without our intending to do so, we often found ourselves arriving 
+at the importance of the individual in history. In several cases, our 
+restrained counterfactuals added up to the mindset of a different 
+individual making crucial decisions.
+OUR CASES, CONSIDERED IN TURN
+One way to approach the problem is to begin with a model for 
+the way the battle is fought. This is a sub-discipline of opera-
+tions research known as “combat modelling”, but it begins with a 
+very simple insight which emerged almost simultaneously in the 
+United States, France, Britain and Russia before the First World 
+War.37 Now known as Lanchester’s model, after its British inven-
+tor, it amounts to no more than the assumption that each of two 
+forces engaged in battle causes damage in proportion to its num-
+bers. Most analysts don’t believe that this is true for much of war-
+fare – it gives very different results from other models in which 
+a battle is just the sum of individual duels, or long-range fire is 
+unaimed – but if it were ever true, then it would have been so 
+for the all-big-gun “Dreadnought” capital ships of the First World 
+War at sea. It is relatively easy to play out the battles between such 
+ships using the Lanchester model, but the crucial subtlety is in 
+how to calibrate the parameters of the model, some of which we 
+think we know and others we don’t, to the historical outcomes. 
+Suppose we do so, naively, and the outcome of the simulation is 
+wrong – it does not match the historical outcome. Then how do we 
+interpret our findings?
+Nowadays, there is a methodology to tackle this, “Approximate 
+Bayesian Computation” (ABC), which allows us effectively to 
+distinguish two possibilities – that we have got the values of the 
+parameters wrong, or that the historical outcome was unlikely.38 
+This methodology has been around for less than 20 years, but it is 
+already standard in science, where it can be used very effectively 
+to challenge one’s preconceptions with experimental data and 
+
+
+===== PAGE 26 =====
+
+Could History Have Been Otherwise?    ◾    15
+then update them. As far as we know, ours is the first use of ABC 
+for historical analysis.
+In Chapter 2, we look at the largest clashes between dread-
+noughts, the battles of Dogger Bank and of Jutland. Between 
+them, they are a prime candidate for a critical juncture: as 
+Churchill famously put it, the British commander at Jutland, 
+Admiral Jellicoe, was the only person on either side who could 
+(by losing British command of the sea) lose the war in an after-
+noon. Dogger Bank is a simple battle in which two lines of ships 
+steamed on constant courses, firing at each other, whereas Jutland 
+develops into a more elaborate dance of the lines of ships – sim-
+ple calculus is rapidly replaced by subtle geometry. In reality, the 
+Germans lost a ship at Dogger Bank and the British lost none, 
+but we are able to show using ABC that this was more or less the 
+reverse of the expected outcome – that the British got lucky. At 
+Jutland, the opposite happened, with the British losing three bat-
+tlecruisers, in part because the Germans learned the correct les-
+sons from Dogger Bank, whereas the British were not forced to 
+do so. Indeed, this tendency for the losers to learn the lessons of 
+war better than the victors provides a natural balancing mecha-
+nism in military affairs. Jutland finished as a German numeri-
+cal victory (in ships sunk) but a British strategic victory (in that 
+Germany failed to realize Churchill’s fear). Could the Germans, 
+realistically, have turned their apparent tactical success into a 
+strategic one? Did they come close? The answer isn’t to be found 
+in probabilities of sinking individual ships, but rather in the big-
+ger picture – and this was very much determined by the mindsets 
+of individuals. Jellicoe knew that he was fighting a battle he must 
+not lose, much though the British public wanted a glorious win, 
+and knew how to make the numbers sufficiently certain, while his 
+subordinates Beatty and Evan-Thomas offer contrasting pictures 
+of how an individual’s dynamic can affect the course and outcome 
+of a battle.
+In Chapter 3, we move on to air war, and the Battle of Britain, 
+Germany’s 1940 attritional battle to gain air supremacy over 
+
+
+===== PAGE 27 =====
+
+16    ◾    Quantifying Counterfactual Military History
+south-east England. Again this is famously a candidate for a criti-
+cal juncture, although it only truly becomes so when combined 
+with a German invasion which, because of the failure to gain 
+air supremacy, did not happen. How suitable is the Lanchester 
+framework to assess this air battle? Although Lanchester origi-
+nally conceived his model in the context of air war, it turns out 
+that air combat is rather different – more like a set of duels, modi-
+fied by some asymmetry between attacker and defender.39 No 
+simple model captures this, so we move instead to using statisti-
+cal techniques which require no model – that is, which make no 
+assumptions about the nature of air combat. We use this “boot-
+strap” technique, in which nothing but the actual daily air combat 
+data are used, to provide a sample from which we resample with 
+replacement. In essence, we are asserting that the daily data are 
+all we know, and all we can ever know, about the battle: the only 
+alternative histories of the battle that require no further assump-
+tions are those in which the daily outcomes are precisely those 
+of actual days in the battle. By extending or shortening phases of 
+the battle, or changing the proportions of different targets, we can 
+explore the effects of German decisions. Absolute numbers and 
+probabilities are hard to reach and are entangled with other vari-
+ables such as the weather, but the relative outcomes of different 
+scenarios provide a basis for a better-informed discussion of the 
+ensuing possibilities. The outcome is to quantify how counterfac-
+tual scenarios affected the big decision the Germans finally had to 
+make, of whether to attempt the invasion of Britain.
+The early chapters of this book employ modern analytical tech-
+niques to analyse the success or otherwise of decision-makers in 
+the First and Second World Wars. In the second section of this 
+book, comprising two chapters concerning the Vietnam War and 
+nuclear deterrence in the Cold War, we reach a point where the 
+advance of technology and technique convinced policy makers 
+that they could harness mathematical method themselves, to dis-
+perse the fog of war. The superpowers of the time, but predomi-
+nantly the United States, used analytical tools and computing 
+
+
+===== PAGE 28 =====
+
+Could History Have Been Otherwise?    ◾    17
+power unavailable to their predecessors to assess evidence and 
+guide current strategy and future actions – in each case making 
+worse decisions as a result. This process introduces another cru-
+cial dimension so far overlooked in debate about counterfactual 
+history. This is the extent to which historical actors place them-
+selves in counterfactual situations by misinterpreting evidence 
+and formulating policy on the basis of mistaken conclusions. The 
+pressures of war and the imperatives of politics gave policy mak-
+ers little time and space in which to think and impelled them to 
+interpret data and the results of analysis in ways which reinforced 
+their existing assumptions and their faith in the likelihood of 
+desired outcomes. This was not necessarily because the informa-
+tion they received was bad. Mathematical analysis as a tool of 
+policy-making was a process in its infancy and the sheer volume 
+of data produced could be unwieldy and difficult to manipulate, 
+but useful findings were often wilfully misinterpreted or ignored. 
+As in most techniques of war, innovation was only likely to be 
+successful after a chastening learning process. In both Vietnam 
+and the nuclear arms race, the fog of war was slow to lift.
+The Vietnam War, considered in Chapter 4, was the first to raise 
+the possibility of fighting a war in which decisions would be based 
+on computerized data analysis. Under McNamara’s hyper-rational 
+and logistical mindset, and in the first flush of computer power, 
+the United States collected vast quantities of data about the state 
+of every hamlet or village and every military unit in Vietnam. For 
+us, the benefit of hindsight is facilitated by vastly greater computer 
+power – and with modern data analysis techniques, we can see 
+that such decision-making could never have been well-founded, 
+for the data set itself provides at best weak support for any course 
+of action. But the crucial question which transcends hindsight is 
+whether contemporary data analysis could have enabled a bet-
+ter decision to be made, and how this could have been achieved. 
+The best results follow when qualitative analysis, mathemati-
+cal models and data analysed with caution and understanding 
+come together40 – and here, there are indications that a strategy 
+
+
+===== PAGE 29 =====
+
+18    ◾    Quantifying Counterfactual Military History
+of pacification (as opposed to a war of attrition) could have been 
+comprehended, implemented and yielded better results, perhaps 
+even a victory – but, as so often, the contingency turns out to be 
+far more on personalities and politics than on either the quality of 
+the analysis or the military balance.
+Chapter 5, which deals with the applied theory of nuclear 
+deterrence culminating in the “Able Archer” nuclear crisis of 
+1983, resonates most closely with Chapter 4 in that the same 
+actors in the post-1945 environment were attempting to base pol-
+icy on mathematical analysis, in this case predominantly game 
+theory. Unlike the Lanchester models of battleship engagements 
+presented in Chapter 2, game-theoretic models of nuclear war 
+applied by policy advisors in the United States were not up to the 
+task of conceptualizing the realities of the nuclear balance. For 
+most of the early Cold War, this was not necessarily a danger-
+ous state of affairs due to an asymmetry of information. Soviet 
+leaders were fully aware of their state of inferiority relative to the 
+United States, which was so acute that they were unable to pro-
+duce any real nuclear threat to the continental United States until 
+the 1960s. The Americans, however, could only guess at the state 
+of affairs in the USSR and wildly overestimated Soviet strength, 
+aided by astute Soviet propaganda and the self-interest of the US 
+military-industrial complex in reaching the same conclusion. This 
+state of affairs produced security based on the illusion of strategic 
+balance, which in Soviet eyes saved them from the pre-emptive 
+attack favoured by some in the United States had their true weak-
+ness become known. It is difficult to say whether this was a practi-
+cal success for game theory or not, but a situation in which each 
+of the protagonists mistakenly ascribes aggressive capability and 
+intent to the other is obviously perilous. Game theory, even in its 
+modern probabilistic variants, depends crucially on assumptions 
+of rational actions and objectives and is at its most dangerous pre-
+cisely when we do not appreciate our opponent’s state of mind, 
+and our consciously rational responses are based on misconcep-
+tions and will thus themselves appear irrational.
+
+
+===== PAGE 30 =====
+
+Could History Have Been Otherwise?    ◾    19
+Such a situation occurred in the period of the so-called Second 
+Cold War, which broadly encompassed the breakdown of détente 
+in the mid-1970s through to the assumption of power by Mikhail 
+Gorbachev in the USSR in 1985. In this period, both sides thought 
+the other to be approaching an ability to win a nuclear war with an 
+overwhelming first strike and each came to believe that the other 
+might intend to deliver it. We introduce a new “game” in order 
+to tell the story of these misperceptions and their culmination in 
+the Able Archer Crisis of 1983, in which an ill-advised American 
+operational plan to deter the Soviets by threatening to “decapi-
+tate” their leadership with a highly accurate first strike interacted 
+with the Soviets’ rational fears and intelligence failings to pro-
+duce an unstable deterrence dynamic which mirrored previous 
+Cold War episodes. The idea of our game is to simplify modern 
+notions41 by tensioning misperceptions of an opponent’s prob-
+ability of a nuclear first strike against one’s own rational response 
+to it. We will see that this can easily lead to disaster. The over-
+all lesson, perhaps, is that opponents should always talk to each 
+other; even with the attendant disinformation and deceptions, it 
+is always less dangerous, and more helpful to one’s own interests, 
+to try to achieve some mutual awareness and understanding.
+The object of this book is not to reinvent the past and imag-
+ine alternative futures. Rather we have used a mix of quantita-
+tive techniques and mathematical concepts – some established in 
+this field, some not, but each appropriate to the limited context in 
+which we apply it – to present a fuller picture of the dynamism of 
+the historical process, acknowledging the pressures and uncer-
+tainties faced by historical actors contemplating their future and 
+how they might shape it. Yet, in doing so, a recurring and unex-
+pected theme is that our simple, quantitative, restrained counter-
+factuals often combine to lead us to individual commanders, their 
+personalities and the ultimate grounds for their decisions. For 
+success in the early stages of the battle of Jutland, we find that the 
+British battlecruisers need three restrained counterfactuals: more 
+gunnery practice, better flash discipline and better command 
+
+
+===== PAGE 31 =====
+
+References
+ 
+Adamsky, Dmitry D. “The 1983 Nuclear Crisis, Lessons for Deterrence Theory and
+Practice.” Journal of Strategic Studies 36, no. 1 (2013): 4–41.
+ 
+Andrade, Dale . “Westmoreland Was Right: Learning the Wrong Lessons from the
+Vietnam War.” Small Wars and Insurgencies 19, no. 2 (2008): 145–181.
+ 
+Andrew, Christopher M. and Oleg Gordievsky . Comrade Kryuchkov's Instructions:
+Top Secret Files on KGB Foreign Operations, 1975–1985. Palo Alto, CA: Stanford
+University Press, 1993.
+ 
+Anon ., German Plans for the Invasion of England: Operation Sealion, 1940,
+Declassified Central Intelligence Agency report, published by Digital Publications
+2017.
+ 
+Bailer-Jones, Coryn A. L. Practical Bayesian Inference. Cambridge, UK: Cambridge
+University Press, 2017.
+ 
+Barrass, Gordon . “Able Archer 83: What Were the Soviets Thinking?” Survival 58,
+no. 6 (2016): 7–30.
+ 
+Baudry, A. The Naval Battle: Studies of Tactical Factors. London: Rees, 1914.
+ 
+Ben-Menahem, Yemima . “Historical Contingency.” Ratio 10, no. 2 (1997): 99–107.
+ 
+Berlin, Isaiah . Historical Inevitability. Oxford: University Press, 1954.
+ 
+Berlin, Isaiah . The Hedgehog and the Fox: an Essay on Tolstoy's View of History.
+London: Weidenfeld and Nicholson, 1953.
+ 
+Bindoff, S. T. Tudor England. Pelican History of England, vol. 5. London: Penguin,
+1964.
+ 
+Bolt, Jutta , Robert Inklaar , Herman de Jong and Jan Luiten van Zanden .
+Maddison Project Database, version 2018, 2018.
+ 
+Bonneuil, N. “The Mathematics of Time in History.” History and Theory 49, no. 4
+(2010): 28–46.
+ 
+Box, George E.P. “Science and Statistics.” Journal of the American Statistical
+Association 71, no. 356 (1976): 791–799.
+ 
+Brams, Steven J. “Theory of Moves.” American Scientist 81, no. 6 (1993): 562–570.
+ 
+Brams, Steven J. Superpower Games. New Haven, CT: Yale University Press,
+1985.
+ 
+Braudel, Fernand . A History of Civilizations. New York, NY: Penguin Books, 1995.
+ 
+Bruns, Bryan Randolph . “Names for Games: Locating 2× 2 Games.” Games 6, no.
+4 (2015): 495–520.
+ 
+Bruns, Bryan . “Escaping Prisoner's Dilemmas: From Discord to Harmony in the
+Landscape of 2x2 Games.” arXiv preprint, arXiv:1206.1880 (2012).
+ 
+Brynen, Rex . “Virtual Paradox: How Digital War Has Reinvigorated Analogue
+Wargaming.” Digital War 1 (2020): 138–143.
+ 
+Buchan, John . Oliver Cromwell. London: Reprint Society, 1941.
+ 
+Buchan, John . The Causal and the Casual in History, the 1929 Rede Lecture,
+University of Cambridge. Cambridge, UK: Cambridge University Press, 1929.
+ 
+Bungay, Stephen . The Most Dangerous Enemy: a History of the Battle of Britain.
+London: Aurum, 2010.
+ 
+Bunzl, Martin . “Counterfactual History: A User's Guide.” American Historical Review
+109, no. 3 (2004): 845–858.
+ 
+Burriss, Larry . “Slouching Toward Nuclear War: Coorientation and NATO Exercise
+Able Archer 83.” International Journal of Intelligence, Security, and Public Affairs 21,
+no. 3 (2019): 219–250.
+ 
+Buzzanco, Robert . Masters of War: Military Dissent and Politics in the Vietnam Era.
+Cambridge, UK: Cambridge University Press, 1996.
+ 
+Campbell, John . Jutland: an Analysis of the Fighting. London: Conway, 1998.
+
+
+===== PAGE 32 =====
+
+Capoccia, Giovanni and R. Daniel Kelemen . “The Study of Critical Junctures:
+Theory, Narrative, and Counterfactuals in Historical Institutionalism.” World Politics
+59, no. 3 (2007): 341–369.
+ 
+Carlson, Lisa J. and Raymond Dacey . “Sequential Analysis of Deterrence Games
+With a Declining Status Quo.” Conflict Management and Peace Science 23, no. 2
+(2006): 181–198.
+ 
+Carlyle, Thomas . On Heroes, Hero-Worship and the Heroic in History. London:
+James Fraser, 1841.
+ 
+Carr, E. H. What Is History? The George Macaulay Trevelyan lectures delivered in
+the University of Cambridge January–March 1961. London: Macmillan & Co, 1962.
+ 
+Chase, J. V. “A Mathematical Investigation of the Effect of Superiority of Force in
+Combats upon the Sea,” unpublished secret paper, 1902, reprinted in Appendix C of
+Bradley A. Fiske, The Navy as a Fighting Machine (New York, 1916), reissued in the
+Classics of Sea Power series, Annapolis, MD: Naval Institute Press, 1988.
+ 
+Cimbala, Stephen J. “Revisiting the Nuclear ‘War Scare’ of 1983: Lessons Retro-
+and Prospectively.” Journal of Slavic Military Studies 27, no. 2 (2014): 234–253.
+ 
+Clifford, Clark M. “A Viet Nam Reappraisal: The Personal History of One Man's View
+and How It Evolved.” Foreign Affairs 47 (1969): 609–617.
+ 
+Collins, Randall . “The Uses of Counter-Factual History. Can There Be a Theory of
+Historical Turning Points?” Amsterdams Sociologisch Tijdschrift 31, no. 3 (2004):
+275–296.
+ 
+Collins, Randall . “Turning Points, Bottlenecks, and the Fallacies of Counterfactual
+History.” Sociological Forum 22, no. 3 (2007): 247–269.
+ 
+Connable, Ben . Embracing the Fog of War: Assessment and Metrics in
+Counterinsurgency. Santa Monica, CA: RAND Corporation, 2012.
+ 
+Connable, Ben , Michael J. McNerney , William Marcellino , Aaron B. Frank , Henry
+Hargrove , Marek N. Posard , S. Rebecca Zimmerman , Natasha Lander , Jasen J.
+Castillo , James Sladden , Anika Binnendijk , Elizabeth M. Bartels , Abby Doll ,
+Rachel Tecott , Benjamin J. Fernandes , Niklas Helwig , Giacomo Persi Paoli ,
+Krystyna Marcinek and Paul Cornish . Will to Fight: Returning to the Human
+Fundamentals of War. Santa Monica, CA: RAND Corporation, 2019.
+ 
+Cowley, Robert ed. What If? Military Historians Imagine What Might Have Been.
+New York, NY: Putnam, 1999.
+ 
+Cox, Richard , ed. Operation Sea Lion. London: Futura, 1974.
+ 
+Csilléry, Katalin , Michael GB Blum , Oscar E. Gaggiotti and Olivier François .
+“Approximate Bayesian Computation (ABC) in Practice.” Trends in Ecology &
+Evolution 25, no. 7 (2010): 410–418.
+ 
+Davis, Morton D. Game Theory: A Nontechnical Introduction. Minneola, NY: Dover,
+1997.
+ 
+Davis, William C. Duel Between the First Ironclads. New York, NY: Doubleday,
+1975.
+ 
+Deitchman, S. J. “A Lanchester Model of Guerrilla Warfare.” Operations Research
+10, no. 6 (1962): 818–827.
+ 
+Deitchman, Seymour J. Limited War and American Defense Policy. Cambridge, MA:
+MIT Press, 1964.
+ 
+Deitchman, S. J. , B. Sheldon and Y Wong . “Military Operations Research Society
+(MORS) Oral History Project, Interview of Mr Seymour J. Deitchman.” Military
+Operations Research, 15, no. 2 (2010): 61–106.
+ 
+DiCicco, Jonathan M. “Fear, Loathing, and Cracks in Reagan's Mirror Images: Able
+Archer 83 and an American First Step Toward Rapprochement in the Cold War.”
+Foreign Policy Analysis 7, no. 3 (2011): 253–274.
+ 
+Douglass, Rex W. The Digital Vietnam War: Big Data from over a Decade of
+Combat in Southeast Asia, v1.0. (2011).
+
+
+===== PAGE 33 =====
+
+https://esoc.princeton.edu/data/administrative-boundaries-southeast-asia-countries.
+ 
+Downing, Taylor . 1983: The World at the Brink. London: Little, Brown, 2018.
+ 
+Efron, Bradley and Robert J. Tibshirani . An Introduction to the Bootstrap. Boca
+Raton, FL: Chapman & Hall/CRC, 1994.
+ 
+Ellsberg, Daniel . The Doomsday Machine: Confessions of a Nuclear War Planner.
+London: Bloomsbury, 2017.
+ 
+Enthoven, Alain C. and K. Wayne Smith . How Much Is Enough? Shaping the
+Defence Programme, 1961–1969. New York, NY: Harper Colophon, 1972.
+ 
+Epstein, Joshua M. “Why Model?” Journal of Artificial Societies and Social
+Simulation 11, no. 4 (2008): 12.
+ 
+Evans, Richard J. Altered Pasts: Counterfactuals in History. Waltham, MA: Brandeis
+University Press, 2014.
+ 
+Fearon, James D. “Counterfactuals and Hypothesis Testing in Political Science.”
+World Politics 43, no. 2 (1991): 169–195.
+ 
+Ferguson, Niall . “Virtual History: Towards a ‘chaotic’ Theory of the Past.” In Virtual
+History: Alternatives and Counterfactuals. London: Picador, 1997, pp. 1–90.
+ 
+Fisher, H. A. L. “Modern Historians and Their Methods.” Fortnightly Review 56, no.
+336 (1894): 803–816.
+ 
+Fiske, Cdr B. A. “American Naval Policy.” USNI Prize Essay. Proceedings of the
+United States Naval Institute 31 (1905): 1–80.
+ 
+Fogel, Robert W. Railroads and American Economic Growth: Essays in Econometric
+History. Baltimore, MD: Johns Hopkins Press, 1964.
+ 
+Forester, Cecil Scott . “If Hitler Had Invaded England”. In Gold from Crete: Short
+Stories. London: Michael Joseph, 1971.
+ 
+Freedman, David H. “Why Scientific Studies Are so Often Wrong: the Streetlight
+Effect.” Discover Magazine 26 (2010): 1–4.
+ 
+Fry, Stephen . Making History. London: Hutchinson, 1996.
+ 
+Fuller, J. F. C. (anon.). “The Principles of War, With Reference to the Campaigns of
+1914–15.” Journal of the Royal United Services Institution 61 (1916): 1–40.
+ 
+Gelb, Leslie H. and Richard K. Betts . The Irony of Vietnam: The System Worked.
+Washington, DC: Brookings Institution Press, 2016.
+ 
+Gleick, James . Chaos. London: Heinemann, 1988.
+ 
+Goforth, David and David Robinson . Topology of 2×2 Games. Abingdon:
+Routledge, 2004.
+ 
+Goode, S M . “A historical basis for force requirements in counter insurgency”,
+Parameters (Winter 2009–2010): 45–57.
+ 
+Gordon, Andrew . The Rules of the Game: Jutland and British Naval Command.
+London: John Murray, 1996.
+ 
+Daddis, Gregory A. “Choosing Progress: Evaluating the ‘Salesmanship’ of the
+Vietnam War in 1967.” In Assessing War: The Challenge of Measuring Success and
+Failure, edited by Leo J Blanken , Hy Rothstein and Jason J Lepore , 185.
+Washington, DC: Georgetown University Press, 2015.
+ 
+Grinnell-Milne, Duncan . The Silent Victory. London: Bodley Head, 1958.
+ 
+Harrison, Harry . Tunnel Through the Deeps. New York, NY: G. P. Putnam's Sons,
+1972.
+ 
+Hennessy, Michael A. Strategy in Vietnam: The Marines and Revolutionary Warfare
+in I Corps, 1965–1972.
+ 
+Herzog, Todd . “‘What Shall the History Books Read?’ The Debate Over Inglourious
+Basterds and the Limits of Representation.” Ch.13 of Von Dassanowsky, Robert ed.
+Quentin Tarantino and Inglourious Basterds: a Manipulation of Metacinema .
+London: Bloomsbury, 2012.
+ 
+Hess, Gary R. Vietnam: Explaining America's Lost War. Chichester: Wiley & Sons,
+2015.
+
+
+===== PAGE 34 =====
+
+Holwell, Sue and Peter Checkland . “An Information System Won the War.” IEE
+Proceedings-Software 145, no. 4 (1998): 95–99.
+ 
+Horwood, Ian , Niall MacKay and Christopher Price . “Concentration and Asymmetry
+in Air Combat: Lessons for the Defensive Employment of Air Power.” Air Power
+Review 17, no. 2 (2014): 68–91.
+ 
+Hunt, Tristram . Pasting over the past. The Guardian, 7 April 2004. London.
+ 
+James, T. C. G. The Battle of Britain. London: Cass, 2000.
+ 
+Johnson, Ian R. and Niall J. MacKay . “Lanchester Models and the Battle of Britain.”
+Naval Research Logistics 58, no. 3 (2011): 210–222.
+ 
+Jones, Nate . “Countdown to Declassification: Finding Answers to a 1983 Nuclear
+War Scare.” Bulletin of the Atomic Scientists 69, no. 6 (2013): 47–57.
+ 
+Jones, Nate . The Able Archer 83 Sourcebook. NSA project archive,
+https://nsarchive.gwu.edu/project/able-archer-83-sourcebook
+ 
+Kalyvas, Stathis N. and M. A. Kocher . “The Dynamics of Violence in Vietnam: An
+Analysis of the Hamlet Evaluation System (HES).” Journal of Peace Research 46,
+no. 3 (2009): 335–355.
+ 
+Kaplan, Fred . The Wizards of Armageddon. Palo Alto, CA: Stanford University
+Press, 1991.
+ 
+Kinnard, Douglas . The War Managers: American Generals Reflect on Vietnam.
+Hanover, NH: Da Capo, 1991.
+ 
+Krakauer, D. C. “The Quest for Patterns in Metahistory.” Santa Fe Institute Bulletin
+22, no. 1 (2007): 32–39.
+ 
+Krepinevich, Andrew F Jr . The Army and Vietnam. Baltimore, MD: Johns Hopkins
+University Press, 1988.
+ 
+Kwon, Heonik . “Anatomy of US and South Korean Massacres in the Vietnamese
+Year of the Monkey, 1968”. Asia Pacific Journal, Japanese Focus, 5, no. 6 (4 June
+2007), https://apjjf.org/-Heonik-Kwon/2451/article.html, Accessed 4 January 2023.
+ 
+Lanchester, Frederick William . Aircraft in Warfare: The Dawn of the Fourth Arm.
+London: Constable, 1916., based on articles in Engineering magazine of 1913-14.
+ 
+Larsen, Stanley Robert and James Lawton Collins . Vietnam Studies, Allied
+Participation in Vietnam. Washington, DC: Department of the Army, 2005.
+ 
+Lindelauf, Roy . “Nuclear Deterrence in the Algorithmic Age: Game Theory
+Revisited.” In Netherlands Annual Review of Military Studies. Asser: the Hague,
+2020, pp. 421–436, Ch22.
+ 
+Luong, Dien . “It's Time for South Korea to Acknowledge its Atrocities in Vietnam”,
+Foreign Policy (30 December 2022), https://foreignpolicy.com/2022/12/30/vietnam-
+war-south-korea-massacres-history-
+diplomacy/#::text=For%20South%20Korea%2C%20what%20is,memorial%20project
+s%20at%20massacre%20sites., Accessed 4 January 2023.
+ 
+MacKay, N. J. “Lanchester Combat Models”, Mathematics Today 42 (2006):
+170–173; https://arxiv.org/pdf/math/0606300.pdf
+ 
+MacKay, Niall and Christopher Price . “Safety in Numbers: Ideas of Concentration in
+Royal Air Force Fighter Defence from Lanchester to the Battle of Britain.” History 96,
+no. 323 (2011): 304–325.
+ 
+MacKay, Niall , Chris Price and Jamie Wood . “Dogger Bank: Weighing the Fog of
+War.” Significance 14, no. 3 (2017): 14–19.
+ 
+MacKay, Niall , Christopher Price and A. Jamie Wood . “Weighing the Fog of War:
+Illustrating the Power of Bayesian Methods for Historical Analysis Through the Battle
+of the Dogger Bank.” Historical Methods 49, no. 2 (2016): 80–91.
+ 
+Macksey, Kenneth . Invasion: The German Invasion of England, July 1940. London:
+Greenhill, 1980.
+ 
+Manchanda, Arnav . “When Truth Is Stranger than Fiction: The Able Archer
+Incident.” Cold War History 9, no. 1 (2009): 111–133.
+
+
+===== PAGE 35 =====
+
+Marder, Arthur J. ed. Fear God and Dread Nought: The Correspondence of Admiral
+of the Fleet Lord Fisher of Kilverstone. Vol III. London: Jonathan Cape, 1959.
+ 
+Marjoram, P. , J. Molitor , V. Plagnol and S. Tavare . “Markov Chain Monte Carlo
+Without Likelihoods.” Proceedings of the National Academy of Sciences 100 (2003):
+15324–15328.
+ 
+Martin, George R. R. A Song of Ice and Fire. New York, NY: Bantam Books,
+1991–2011.
+ 
+Massie, Robert K. Dreadnought: Britain, Germany, and the Coming of the Great
+War. New York, NY: Random House, 1991.
+ 
+Mastny, Vojtech . “How Able Was “Able Archer”?: Nuclear Trigger and Intelligence in
+Perspective.” Journal of Cold War Studies 11, no. 1 (2009): 108–123.
+ 
+McCann, Leo . “‘Killing Is Our Business and Business Is Good’: The Evolution of
+“War Managerialism from Body Counts to Counterinsurgency.” Organization 24, no.
+4 (2017): 491–515.
+ 
+McCloskey, Donald N. “Counterfactuals.” In The World of Economics, edited by J.
+Eatwell , 149–154. London: Palgrave Macmillan, 1991.
+ 
+McCormick, John T. “The Hamlet Evaluation System – Reevaluated” (10 May 2021),
+https://storymaps.arcgis.com/stories/1c1bb536ec494f69815ab27feef47255,
+Accessed 4 January 2023.
+ 
+McNamara, Robert S. In Retrospect: The Tragedy and Lessons of Vietnam. New
+York, NY: Times Books, 1995.
+ 
+Megill, Allan . “The New Counterfactualists.” Historically Speaking 5, no. 4 (2004):
+17–18.
+ 
+Miles, Simon . “The War Scare That Wasn't: Able Archer 1983 and the Myths of the
+Second Cold War.” Journal of Cold War Studies 22, no. 3 (2020): 86–118.
+ 
+Mueller, John E. “The Search for the ‘Breaking Point’ in Vietnam: The Statistics of a
+Deadly Quarrel.” International Studies Quarterly 24, no. 4 (December, 1980):
+497–519.
+ 
+Mumford, David . “The Dawning of the Age of Stochasticity.” In Mathematics:
+Frontiers and Perspectives, edited by V. Arnold et al. Providence, RI: American
+Mathematical Society, 2002.
+ 
+National Archives and Records Administration . “HES71 and HAMLA Technical
+Documentation.” Available at https://catalog.archives.gov/id/4658121, 2019.
+ 
+Nolan, D. “Why Historians (and Everyone Else) Should Care About
+Counterfactuals.” Philosophical Studies 163, no. 2 (2013): 317–335.
+ 
+O'Mahony, Seamus . “Medicine and the McNamara Fallacy.” Journal of the Royal
+College of Physicians of Edinburgh 47, no. 3 (2017): 281–287.
+ 
+Office of the Deputy Chief of Staff for Military Operations , Department of the Army,
+A Programme for the Pacification and Long-Term Development of South Vietnam
+(PROVN) (March 1966), Vol. 1.
+ 
+Office of the Historian . Foreign Relations of the United States, 1964-1968, Vol. IV,
+Vietnam, 1966. Washington, DC: US Government Printing Office, 1998.
+ 
+Okun, Nathan . Naval gun and armor data resource.
+http://www.navweaps.com/index_nathan/index_nathan.php
+ 
+Orange, Vincent . Park: The Biography of Air Chief Marshall Sir Keith Park, GCB,
+KBE, MC, DFC, DCL. London: Grub Street, 2000.
+ 
+Osipov, M. “The Influence of the Numerical Strength of Engaged Forces on Their
+Casualties” (1915), trans. R. Helmbold and A. S. Rehm , Naval Research Logistics
+42 (1995): 435–490.
+ 
+Pearl, Judea and Dana Mackenzie . The Book of Why: The New Science of Cause
+and Effect. London: Penguin, 2019.
+ 
+Pinker, Stephen . Rationality: What It Is, Why It Seems Scarce, Why It Matters.
+London: Penguin, 2022.
+
+
+===== PAGE 36 =====
+
+Poston, Tim and Ian Stewart . Catastrophe Theory and Its Applications. London:
+Pitman, 1978.
+ 
+Poundstone, William . Prisoner's Dilemma. New York, NY: Random House, 1992.
+ 
+Preble, Christopher A. “Who Ever Believed in the ‘Missile Gap?’”: John F. Kennedy
+and the Politics of National Security.” Presidential Studies Quarterly 33, no. 4
+(2003): 801–826.
+ 
+Ramsey, Winston G. The Battle of Britain: Then and Now. 5th ed. London: Battle of
+Britain prints international, 1989.
+ 
+Ranft, Bryan ed. The Beatty Papers Vol 1: selections from the private and official
+correspondence of Admiral of the Fleet Earl Beatty. Navy Records Society, volume
+128. London: Scolar Press, 1989.
+ 
+Reisch, George A. “Chaos, History, and Narrative.” History and Theory 30, no. 1
+(1991): 1–20.
+ 
+Richardson, Lewis Fry . Arms and Insecurity. London: Stevens, 1960.
+ 
+Richardson, Lewis Fry . Statistics of Deadly Quarrels. London: Stevens, 1960.
+ 
+Rodger, N.A.M. The Command of the Ocean. London: W. W. Norton, 2005.
+ 
+Roser, Max , Bastian Herre and Joe Hasell . “Nuclear Weapons”. Published online
+at OurWorldInData.org. Retrieved from: https://ourworldindata.org/nuclear-weapons
+[Online Resource], 2013.
+ 
+Roth, Paul A. and Thomas A. Ryckman . “Chaos, Clio, and Scientific Illusions of
+Understanding.” History and Theory 34, no. 1 (1995): 30–44.
+ 
+Ryall, Julian & The Korean Times , ‘Moon Jae-in's Administration Faces Call to
+Investigate War Crimes Amid Rising Awareness of South Korea's Atrocities in
+Vietnam’, South China Morning Post (18 April 2019),
+https://www.scmp.com/news/asia/east-asia/article/3006771/moon-jae-ins-
+administration-faces-calls-investigate-war-crimes, Accessed 4 January 2023.
+ 
+Sarkar, Dilip . Bader's Duxford Fighters: The Big Wing Controversy. Worcester:
+Victory, 2006.
+ 
+Schapiro, J. Salwyn . “Thomas Carlyle, Prophet of Fascism.” The Journal of Modern
+History 17, no. 2 (1945): 97–115.
+ 
+Schenk, Peter . Invasion of England 1940: The Planning of Operation Sealion.
+Berlin: Oberbaum, 1987; Engl. trans., London: Conway, 1990.
+ 
+Scott, Len . “Intelligence and the Risk of Nuclear War: Able Archer-83 Revisited.”
+Intelligence and National Security 26, no. 6 (2011): 759–777.
+ 
+Sharp, Adm U. S. G. Strategy for Defeat: Vietnam in Retrospect. Novato, CA:
+Presidio, 1978.
+ 
+Sharp, Adm U.S.G. & General W.C. Westmoreland , Report on the War in Vietnam
+(as of 30 June 1968) Washington, DC, US Government Printing Office, 1968.
+ 
+Shultz, Richard . “Breaking the Will of the Enemy During the Vietnam War: The
+Operationalization of the Cost-Benefit Model of Counterinsurgency Warfare.”
+Journal of Peace Research 15, no. 2 (1978): 109–129.
+ 
+Silver, Nate . The Signal and the Noise: The Art and Science of Prediction. London:
+Allen Lane, 2012.
+ 
+Sorley, Lewis . “To Change a War: General Harold K. Johnson and the PROVN
+Study”, Parameters (Spring 1998): 93–109.
+ 
+Sorley, Lewis . Honourable Warrior: General Harold K. Johnson and the Ethics of
+Command. Lawrence, KS: University Press of Kansas, 1998.
+ 
+Sorley, Lewis . Thunderbolt: General Creighton Abrams and the Army of His Times.
+Bloomington, IN: Indiana University Press, 2008.
+ 
+Sorley, Lewis . Westmoreland: The General Who Lost Vietnam. Boston, MA:
+Houghton Mifflin Harcourt, 2011.
+ 
+Spencer, Herbert . The Study of Sociology. London: Henry S. King, 1873.
+
+
+===== PAGE 37 =====
+
+Spiegelhalter, David . The Art of Statistics: Learning from Data. London: Pelican,
+2019.
+ 
+Steel, Nigel and Peter Hart . Jutland, 1916: Death in the Grey Wastes. London:
+Cassell, 2003.
+ 
+Summers, Harry G Jr . On Strategy: A Critical Analysis of the Vietnam War. Novato,
+CA: Presidio, 1982.
+ 
+Sunstein, Cass R. “Historical Explanations Always Involve Counterfactual History.”
+Journal of the Philosophy of History 10, no. 3 (2016): 433–440.
+ 
+Taleb, Nassim Nicholas . The Black Swan: The Impact of the Highly Improbable.
+London: Penguin, 2010.
+ 
+Taylor, Alan J. P. Bismarck: The Man and Statesman. London: Arrow, 1961.
+ 
+Taylor, Alan J. P. The Course of German History. London: Hamilton, 1945.
+ 
+Taylor, Alan J. P. War by Time-Table: How the First World War Began. London:
+Macdonald, 1969.
+ 
+Tetlock, Philip and Aaron Belkin eds. Counterfactual Thought Experiments in World
+Politics. Princeton, NJ: Princeton University Press, 1996.
+ 
+Tetlock, Philip and Dan Gardner . Superforecasting: the Art and Science of
+Prediction. London: Penguin, 2015.
+ 
+Tetlock, Philip E. and Richard Ned Lebow . “Poking Counterfactual Holes in
+Covering Laws: Cognitive Styles and Historical Reasoning.” American Political
+Science Review 95, no. 4 (2001): 829–843.
+ 
+Tetlock, Philip , Richard Ned Lebow and Geoffrey Parker . Unmaking the West:
+“What-If” Scenarios That Rewrite World History. Ann Arbor, MI: University of
+Michigan Press, 2006.
+ 
+Thayer, Thomas C. War Without Fronts: The American Experience in Vietnam. New
+York, NY: Routledge, 2019.
+ 
+Townsend, Peter . Duel of Eagles. London: Weidenfeld and Nicholson, 1970.
+ 
+Tuchman, Barbara . August 1914. London: Macmillan, 1980.
+ 
+Tucker, Aviezer . “Historiographical Counterfactuals and Historical Contingency.”
+History and Theory 38, no. 2 (1999): 264–276.
+ 
+Turchin, Peter . War and Peace and War. New York, NY: Plume, 2007.
+ 
+Turchin, Peter . “Arise ‘cliodynamics’.” Nature 454, no. 7200 (2008): 34.
+ 
+Turchin, Peter and Sergey A. Nefedov . Secular Cycles. Princeton, NJ: University
+Press, 2009.
+ 
+Warden, Col John A. The Air Campaign: Planning for Combat. Washington, DC:
+Brassey's, 1989.
+ 
+Watt, Donald Cameron . How War Came. London: Heinemann, 1989.
+ 
+Wells, Luke Benjamin . “The ‘bomber gap’: British Intelligence and an American
+Delusion.” Journal of Strategic Studies 40, no. 7 (2017): 963–989.
+ 
+Westmoreland, William C. A Soldier Reports. New York, NY: Dell, 1980.
+ 
+Wirtz, James J. “Intelligence Please? The Order of Battle Controversy During the
+Vietnam War.” Political Science Quarterly 106, no. 2 (1991): 239–263.
+ 
+Wood, Andrew Jamie and Graeme J. Ackland . “Evolving the Selfish Herd:
+Emergence of Distinct Aggregating Strategies in an Individual-Based Model.”
+Proceedings of the Royal Society B274, no. 1618 (2007): 1637–1642.
+ 
+Wood, Derek and Derek D. Dempster . The Narrow Margin: The Battle of Britain and
+the Rise of Air Power 1930–40. London: Hutchinson, 1961.
+ 
+Wyndham, John . Web. London: Michael Joseph, 1979.
+ 
+Wynn, Kenneth G. Men of the Battle of Britain: A Biographical Dictionary of the Few.
+Barnsley: Frontline, 2015.
+ 
+Young, Dave . “Computing War Narratives: The Hamlet Evaluation System in
+Vietnam.” Machine Research 6, no. 1 (2017): 50–64.
+
+
+===== PAGE 38 =====
+
+Yuravlivker, Dror . “‘Peace Without Conquest’: Lyndon Johnson's Speech of April 7,
+1965.” Presidential Studies Quarterly 36, no. 3 (September 2006): 470–472.
+ 
+ 

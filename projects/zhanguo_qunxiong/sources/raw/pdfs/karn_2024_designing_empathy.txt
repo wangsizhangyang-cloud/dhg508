@@ -1,0 +1,932 @@
+
+
+===== PAGE 1 =====
+
+History Education
+Research Journal
+Research article
+Designing historical empathy learning experiences: a
+pedagogical tool for history teachers
+Sara Karn1,*
+1 Postdoctoral Fellow, Department of History, McMaster University, Hamilton, Canada
+* Correspondence: karns1@mcmaster.ca
+Submission date: 14 October 2023; Acceptance date: 21 February 2024; Publication date:
+15 May 2024
+How to cite
+Karn, S. (2024). ‘Designing historical empathy learning experiences: a pedagogical tool for
+history teachers’. History Education Research Journal, 21 (1), 6.
+DOI: https://doi.org/10.14324/HERJ.21.1.06.
+Peer review
+This article has been peer-reviewed through the journal’s standard double-anonymous peer-review
+process, where both the reviewers and authors are anonymised during review.
+Copyright
+2024, Sara Karn. This is an open-access article distributed under the terms of the Creative
+Commons Attribution Licence (CC BY) 4.0 https://creativecommons.org/licenses/by/4.0/, which
+permits unrestricted use, distribution and reproduction in any medium, provided the original
+author and source are credited • DOI: https://doi.org/10.14324/HERJ.21.1.06.
+Open access
+History Education Research Journal is a peer-reviewed open-access journal.
+Abstract
+This article explores the pedagogies that history teachers use to foster historical
+empathy, drawing from interviews with secondary school history teachers in Canada.
+The findings highlight that historical empathy is nurtured by teachers over time
+using a variety of different teaching approaches and activities, tasks and projects.
+The article begins by examining the pedagogical choices that teachers make when
+designing and implementing historical empathy lessons, categorised as implicit, thematic,
+student-centred, scaffolded and comparative approaches. Next, consideration is given
+to the types of learning experiences that teachers use to develop historical empathy, and
+some of the opportunities and challenges involved. These learning experiences include
+role plays and simulations, first- and third-person writing tasks, experiential learning and
+virtual reality, and collaborative and project-based learning. The perspectives shared by
+the teachers in this study contributed towards the development of a research-informed
+pedagogical tool to guide the future design of learning experiences that foster historical
+empathy, which may be applied by teachers across educational jurisdictions, and adapted
+for various grade levels.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 2 =====
+
+Designing historical empathy learning experiences
+2
+Keywords historical empathy; history education; historical thinking; pedagogy; teaching
+and learning; history teachers; qualitative research; interviews
+Introduction
+Imagine, for a moment, a history teacher sitting down to design a learning experience that fosters
+historical empathy – defined here as a cognitive-affective process (in which thinking and feeling cannot
+be separated) of attempting to understand the thoughts, feelings, experiences, decisions and actions
+of people in the past, within their specific historical contexts (Barton and Levstik, 2004; Endacott and
+Brooks, 2013; Karn, 2023a).
+The teacher selects a topic within their current unit of study, and they
+have an idea about the activities and discussions they would like to facilitate with their students. But
+they are facing some difficulties with knowing where to begin, and they do not have access to many
+high-quality, teacher-friendly resources to support them. What if this teacher had a research-informed
+pedagogical tool to guide the design of historical empathy learning experiences, which was developed
+through conversations with other history teachers?
+For many of the history teachers I spoke with as part of this study (described in more detail
+below), this scenario was the reality they faced in their teaching. Despite being seasoned teachers, they
+sometimes struggled to incorporate historical empathy explicitly into their teaching, due to a lack of
+resources to support their pedagogical approaches, particularly when it comes to engaging the affective
+dimensions (emotions, feelings, connections) of learning about the past. Although scholars have placed
+different emphasis on cognitive (grounded in the historical method) and affective (feelings and emotions)
+elements of historical empathy, more recent scholarship tends to agree that historical empathy is a
+process that involves a range of feelings, emotions and connections alongside historical inquiry (Bartelds
+et al., 2022; Barton and Levstik, 2004; Davison, 2017; Endacott and Brooks, 2013; Kohlmeier, 2006).
+In Canada, where the teachers I interviewed are located, historical empathy and its associated
+affective dimensions have been marginalised within historical thinking research and practice. Instead,
+the more cognitive-oriented term ‘historical perspectives’ is used in the historical thinking framework
+conceptualised by Peter Seixas (Seixas, 2017; Seixas and Morton, 2013).
+Although Seixas’s earlier
+framework of historical understanding included empathy (Seixas, 1996), his later work no longer
+references historical empathy, due to concerns ‘that empathy would give rise to the belief among
+teachers that they were being encouraged to cultivate affective or emotional bonds with historical agents’
+(Retz, 2018: 195). In part because of the exclusion of the affective dimensions of historical empathy from
+this historical thinking framework, at the time of this study, little was known about how teachers in Canada
+approached historical empathy in their history classes, if at all.
+This study inquires into the pedagogies that history teachers use to foster historical empathy,
+drawing on interviews with secondary school history teachers in Canada. In doing so, I share insight
+into the range of pedagogical approaches to historical empathy the teachers employed, despite the
+noted absence of resources to support them. The findings highlight that historical empathy is nurtured
+by teachers over time using a variety of different approaches and activities, tasks and projects. This
+article begins by examining the pedagogical choices teachers make when designing and implementing
+historical empathy activities, expanding upon Deborah Cunningham’s (2007, 2009) focus on small-scale
+discourse strategies in teaching. Then I consider the types of learning experiences that teachers use to
+foster historical empathy, and their associated opportunities and challenges, adding to and expanding
+upon those identified in previous studies (for example, Bartelds et al., 2020; Brauer, 2016; Brooks, 2008,
+2011; Doppen, 2000; Endacott and Pelekanos, 2015; Innes and Sharp, 2021; Jensen, 2008; Kohlmeier,
+2006; Patterson et al., 2022; Rantala, 2011; Shemilt, 1984; Sweeney et al., 2018; Uppin and Timoštšuk,
+2019; Yeager and Doppen, 2001). The teachers’ perspectives contributed towards the development of a
+pedagogical tool for designing historical empathy lessons, presented in the final section, which may be
+taken up across educational jurisdictions and adapted for various grade levels.
+Context of the study
+The data that inform this article were collected as part of a larger study of historical empathy (Karn, 2023b),
+and here I draw specifically from the results of interviews with seven secondary school history teachers in
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 3 =====
+
+Designing historical empathy learning experiences
+3
+the province of Ontario, Canada. The participants were required to have five or more years of teaching
+experience, self-identify as being interested in historical empathy and historical thinking approaches to
+teaching history, and teach (or have previously taught) Canadian history. As displayed in Table 1, the
+teacher participants have a variety of expertise, and teach in a range of contexts. All the teachers have
+more than 15 years of experience, and their undergraduate studies (which correlate to qualified teaching
+subjects in Ontario) span beyond history to include the arts, languages, political science and economics.
+(Although secondary school teachers in Ontario are qualified to teach certain subjects, they may also
+teach other subjects they did not specialise in during their undergraduate degrees, as the need arises.)
+All but one of the teachers are located in public schools in the province. Collectively, they teach in a
+variety of school settings, ranging from urban to rural, and they predominantly teach Caucasian students,
+with more ethnic diversity in schools located in urban areas.
+Table 1. Demographic information for teacher participants 
+Name *
+Years of
+experience
+Undergraduate
+major/minor
+Location
+School
+type
+Student
+demographics
+Andrea
+>15
+History, French
+Urban
+Public
+Ethnic diversity
+Bradley
+>15
+History
+Rural
+Public
+Unknown
+Emily
+>15
+History, dramatic arts
+Rural
+Public
+Predominantly
+Caucasian;
+conservative
+Henry
+>15
+Political science,
+history
+Urban
+Private
+Predominantly
+Caucasian; some
+ethnic diversity
+Lydia
+>15
+English, history
+Rural/suburban
+Public
+Predominantly
+Caucasian;
+conservative
+Olivia
+>15
+Music, computer
+science
+Rural/urban
+Public
+Predominantly
+Caucasian
+Todd
+>15
+Political science,
+resource economics
+Rural
+Public
+Unknown
+* All teacher participants were assigned pseudonyms.
+Each teacher participated in two semi-structured interviews.
+The first interview focused on
+the teachers’ approaches to teaching history and how they conceptualise historical empathy.
+The
+second interview invited teachers to share classroom lessons and resources that highlight the purposes,
+approaches, benefits and challenges of teaching and learning with historical empathy. The data were
+analysed through a combination of inductive (data-driven) and deductive (literature- and theory-driven)
+approaches, using NVivo to code and categorise the data. As I searched for themes and patterns, I
+began to identify overall themes related to teachers’ pedagogical approaches to historical empathy.
+In my initial framing of this research, I intended to explore the activities, tasks and projects that
+history teachers use to foster historical empathy. However, as I began analysing the interviews, I realised
+that my analysis of ‘pedagogies’ needed to be broken down further into: (1) teachers’ pedagogical
+choices; and (2) activities, tasks and projects that elicit empathy. I was also reminded of Cunningham’s
+(2009: 693) assertion that ‘studies of teaching for empathy may miss much of the action by attending
+only to the culminating activity and display of understanding’. In an attempt to avoid overlooking a
+significant element of pedagogical approaches, this article also focuses on the choices teachers make in
+the process of developing and implementing lessons on historical empathy.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 4 =====
+
+Designing historical empathy learning experiences
+4
+Teachers’ pedagogical choices
+At present, there are only a few studies that reveal the pedagogical choices that teachers make
+while designing and implementing historical empathy activities (Bartelds et al., 2020; Brooks, 2011;
+Cunningham, 2007, 2009; Endacott and Sturtz, 2015; Grant, 2001).
+Although they all contribute to
+understanding how teachers approach historical empathy in practice, Cunningham’s (2007, 2009) study
+of four history teachers in England is most relevant to the present study, because it was the first to
+recognise discourse strategies for fostering historical empathy.
+This is significant because previous
+studies (for example, Shemilt, 1984) attended only to the culminating activity, or how students displayed
+their understanding, which overlooked other, small-scale methods that teachers use to develop historical
+empathy. Cunningham (2009) differentiates between empathy activities (such as discussions and role
+plays) and discourse strategies (such as language use and verbal devices), the latter of which are
+categorised further into three groups that aim at different goals: to encourage empathetic thought
+processes, to establish relevance, and to dramatise or enliven history. There are alignments between
+Cunningham’s (2009) findings and the results presented here; however, I broaden from ‘small-scale
+discourse strategies’ to also include other choices that teachers make during lesson design and
+instruction, from their perspectives.
+The teachers I interviewed shed light on the various pedagogical choices that they make in
+developing and implementing lessons on historical empathy.
+Teachers used their own professional
+knowledge and experience with teaching history, as well as that of their peers, to inform their
+pedagogical choices, which placed student learning and other interests at the heart of their decisions.
+Through my analysis, five categories emerged from the data, which I refer to as:
+(1) implicit
+approaches; (2) thematic approaches; (3) student-centred approaches; (4) scaffolded approaches; and
+(5) comparative approaches.
+Implicit approaches
+When asked about how they approach teaching historical empathy, the teachers began by prefacing
+their answers with a discussion about whether they explicitly use the term historical empathy:
+Well, the word empathy has come up. If I’ve used the term historical empathy, I don’t know.
+(Bradley)
+I think it arises indirectly, whereas the other six historical thinking concepts I would say I
+explicitly go through with them [students]. (Emily)
+The more specific version of empathy that you’ve described, historical empathy, I think I’m
+doing it but it’s not probably something that I am being as deliberate about as I might like to
+be. (Henry)
+As these quotations highlight, in most cases, the teachers admitted that they do not explicitly use the
+term historical empathy when teaching their students history.
+These findings corroborate Hanneke
+Bartelds et al.’s (2020) study, which found that 70 per cent of the teachers interviewed reported that
+they did not provide explicit instruction on historical empathy. However, through our conversations, it
+became clear that the teachers in my study were familiar with the idea of historical empathy and could
+articulate their related pedagogical approaches, even if they may not always make things transparent to
+their students.
+Through our conversations, I gathered that teachers also approached empathy implicitly in the ways
+they modelled empathy themselves, whether towards historical actors or through their relationships with
+other people in the present. They were especially inclined to model the affective dimensions by being
+open about their own emotional responses to difficult histories surrounding war, conflict and genocide.
+One teacher was particularly aware of how they embody empathy in their relationships with students and
+other teachers within the school community. Lydia expressed: ‘I hope in those implicit relationships they
+see empathy, as well. So, I think it comes from both sources. It comes from the material we review, but it
+also comes from the relationships we have with each other.’ With this, Lydia presents a strong argument
+for teachers being aware of their interactions with others, and how they exhibit empathy towards people
+in the present, in order to implicitly model approaches to historical empathy for students.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 5 =====
+
+Designing historical empathy learning experiences
+5
+These findings corroborate other studies that describe how teachers model empathy. For instance,
+Sarah Brooks (2011) observed a teacher thinking aloud to model how students might come to view a
+historical actor’s perspective as legitimate, rather than disregarding historical contexts to dismiss or
+condemn such perspectives. Similarly, Cunningham (2009: 698, emphasis in original) found that teachers
+‘guided students toward empathy by what they said – their language in the classroom and how they used
+it’. While teachers in my study may not have frequently used the term historical empathy, they implicitly
+fostered empathy through their words and actions within the classroom and school community.
+Thematic approaches
+An ongoing discussion within history education involves the extent to which emphasis should be
+placed on chronological (studying historical events, people and circumstances in sequence) or thematic
+(studying central themes across time) approaches to history (Turan, 2020).
+From my conversations
+with teachers, I learned that they and their colleagues have been experimenting with more thematic
+approaches (for example, units on Indigenous histories, women’s histories and LGBTQ2S+ histories).
+As such, a few teachers discussed their observation that thematic approaches hold greater potential for
+evoking empathy than chronological approaches. Henry explained that one year his units were thematic,
+‘where we were hopscotching around in terms of the timeline’, and although it could be confusing at
+times, he noticed that students developed stronger historical thinking skills. He also noted, ‘That’s where
+I saw themes like empathy really come to the fore.’ By focusing on certain themes that highlight human
+experiences (for example, immigration histories), Henry’s students were able to understand continuities
+in racial injustices over time, and to consider ways of reconciling historical wrongs in the present.
+According to teachers, thematic approaches can also help slow down the pace of learning, while
+at the same time ensuring that students learn to empathise with historical actors across a variety of time
+periods. As Andrea described, following a thematic approach allowed her students to become familiar
+with perspectives and experiences throughout the twentieth century, rather than remain stuck in the
+minutiae of a single historical period:
+We’re not on the clock. That’s why thematic teaching is awesome because if you don’t get to
+all the case studies, so what? If you don’t get to the end of the historical timeline, you’re going
+to get there at some point because you’re carrying the narratives forward to the present day
+… but when we were teaching from a chronological perspective, how many of our colleagues
+never got beyond the Second World War?
+Andrea’s students were able to take the time they needed to empathise with the perspectives and
+experiences of diverse groups, focusing on one thematic case study at a time. Slowing down the pace
+of learning in this way can provide students with an opportunity to sit with their emotions and take time
+for careful thought.
+The teachers in my study found that thematic approaches emphasise diverse human experiences
+and perspectives over time, and, for these reasons, may be best suited to developing empathy
+in students.
+This is a significant contribution to the literature, as previous studies have focused
+predominantly on how the structure of individual lessons contributes to historical empathy (for example,
+see the four-part instructional model presented by Endacott and Brooks, 2013) rather than throughout
+an entire unit or course. Further research into thematic approaches to units of study may help refocus the
+lens, zooming out to understand how historical empathy is developed over extended periods of time.
+Student-centred approaches
+To centre students within their approaches to historical empathy, teachers may begin by accounting for
+their students’ prior knowledge – including their interests, experiences and identities – in relation to the
+topic of study (Dulberg, 2002; Endacott and Brooks, 2013). In fact, Cunningham (2007: 618) discovered
+that teachers used ‘knowledge packages’, including student factors, to inform their pedagogical
+reasoning surrounding historical empathy lessons.
+The teachers in my study also highlighted the
+importance of considering a variety of student factors. For example, teachers commented that their
+students’ prior knowledge often shapes the way they understand various perspectives and experiences
+in the past and present, as well as their emotional responses to the histories they are learning.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 6 =====
+
+Designing historical empathy learning experiences
+6
+Prior knowledge can enable learning, as students may already be interested in a topic or know
+something about it, but it also can be a barrier for new learning, because students often hold certain
+preconceptions about people and circumstances in the past (Levstik and Barton, 1997). One teacher I
+spoke with explained how their students’ views are often informed by their parents, and so it can be
+difficult as a teacher to present other perspectives that may differ from, and even challenge, those with
+which students are familiar. It follows that a first step for teachers involves working to understand students’
+preconceived ideas on a topic and where their perspectives originate from. According to Lévesque and
+Croteau (2020: 161), educators should ‘explore students’ identity, prior knowledge, and historical beliefs
+– in other words, what they accept, ignore, or (dis)miss in their understandings of the past’. Teachers may
+also engage in these reflections alongside their students to increase awareness of how their views and
+assumptions influence their approaches to historical empathy.
+The teachers also discussed approaching historical empathy in ways that centre students by
+intentionally ‘hooking’ them from the beginning of the lesson or unit. Sometimes, this might involve
+starting with certain content areas that students are interested in or know more about, such as family
+histories (Barton and Levstik, 2004; von Heyking, 2014). In other cases, it is more about the approach
+teachers take within the first few minutes to discuss the significance of a new topic and why students
+might care about it. To incorporate historical empathy, Emily begins lessons by discussing with students
+how the topic impacts them, to help them connect to the ideas. She displays the questions, ‘Why does
+it affect me? Why do I care?’ for students to consider. Emily said: ‘I think that can incorporate historical
+empathy quite nicely’, because she and her students discuss the desire to ‘understand why people made
+the choices that they did’. She went on to explain how foregrounding the impacts for students today
+can increase empathy and engagement: ‘You do see that empathy start to grow a little bit more with
+students and they tend to ask more questions, they are more engaged in the lessons.’ When students
+see themselves reflected in the curriculum, they are often more motivated to learn (Barton, 2012).
+Scaffolded approaches
+In outlining a series of essential elements for empathy activities, Stuart Foster (2001) emphasises
+the importance of teachers scaffolding student learning.
+Teachers in my study were intentional
+about signalling to their students the direction of a particular lesson or unit, in order to scaffold the
+development of empathy and other historical thinking concepts and learning skills. Andrea provides her
+students with a clear outline of each unit to indicate the direction in which their learning is headed:
+I don’t think that you can easily teach empathy unless people are present and unless there is
+an understanding of where the narrative is going … Students do better when they know that
+the outcome is a presentation, a project, we’re going to answer a big question, you’re going
+to do this together or independently.
+While big or ‘essential questions’ are useful for students in many learning situations in history (Lattimer,
+2008), in relation to historical empathy, these questions can clarify who and what students are learning
+about, which may help them empathise with people’s lived experiences and perspectives.
+In addition to the verbal discourse strategies that teachers draw from in historical empathy lessons
+(such as questioning, using analogies, making then/now comparisons, language choice) (Cunningham,
+2009), some of the teachers in this study also accounted for visual cues. For example, Lydia assigns each
+of the historical thinking concepts, and historical empathy, a different colour, and her slideshows and
+handouts feature the corresponding colour throughout. These visual cues serve to remind students
+which concepts they are considering in a given lesson.
+This is an example of a heuristic teachers
+employ that is memorable for students and that, therefore, may aid in their learning. Making these
+scaffolded approaches commonplace practices for teachers when approaching historical empathy can
+help students better understand the direction and purpose of their learning, while gaining a deeper
+sense of care for who and what they are learning about.
+Comparative approaches
+Another approach that seems to be effective, from the perspective of the teachers I interviewed, is
+to highlight similarities and differences between certain perspectives and experiences in the past and
+present.
+Other studies of historical empathy have also found that teachers used the strategies of
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 7 =====
+
+Designing historical empathy learning experiences
+7
+‘then/now comparisons’ (Cunningham, 2009) and ‘drawing attention to the historical roots of present-day
+perspectives, practices, or circumstances’ (Brooks, 2011: 177) to great effect. Teachers in my study
+frequently discussed drawing comparisons between historical and current (or more recent) events to
+help students connect with situations that historical actors have faced in the past. According to Olivia: ‘I
+feel like that comparison allows them to have the empathy for what this person is going through.’
+To provide one example, when teaching about the Cold War, Olivia relates to her students by
+drawing comparisons between school safety drills during the 1950s–1960s and today.
+She shows
+students an educational film about the ‘duck and cover’ drill, which instructed Canadian students on
+how to hide under their desks to protect themselves in the event of a nuclear attack. According to
+Olivia, her students often react with scepticism, and conclude that hiding under a desk would not save
+anyone from a nuclear warhead. To help students understand the thinking behind these drills, she draws
+comparisons to fire, tornado and lockdown drills, which have become commonplace for many students
+today. She asks, ‘Why would teachers show this video and make students do these drills, even if it might
+not save them?’ After reflecting on how school safety drills make them feel (for example, more prepared
+for real situations, if they should occur), students realise that these drills gave many people in the past
+a sense of comfort and control. In drawing comparisons between safety drills in the past and present,
+Olivia’s students were able to reflect on their own feelings and use this information to infer how students
+in the past might have felt about the ‘duck and cover’ drills, and therefore why teachers during the Cold
+War may have been motivated to teach their students about them. Such an approach can be particularly
+useful in cases where there are no or few first-hand accounts in which historical actors explicitly discussed
+their innermost thoughts and feelings.
+Teachers provided a number of other relevant examples for how they build empathy through
+discussions of similarities and differences. In light of the Covid-19 pandemic, teachers encouraged their
+students to draw comparisons with the 1918–19 influenza pandemic, and to consider past and present
+experiences with public health emergencies. According to Henry:
+The more that students are able to connect to something from their own experience, or even
+not from their own experience but from what they see around them today … they can see and
+draw from other folks’ experiences that seem to be readily available to them. That seems to
+connect well [with students].
+In addition to becoming more engaged in learning, drawing these personal connections can also help
+students avoid making uninformed judgements. As Olivia explained, when students learned about
+instances where people in the past defied public health recommendations, they drew similarities to
+today, and thereby avoided judging people as simply ‘uninformed’ or less advanced, as students have
+been found to do by some researchers (Barton and Levstik, 2004). The students were aware that there
+are people in society today who are anti-maskers and anti-vaxxers, despite the scientific and medical
+knowledge that people have in the present. This led students to seek out further examples to illustrate
+similarities and differences between how people in the past and present have held certain views, and
+have taken particular actions in the face of public health emergencies.
+Activities, tasks and projects that elicit empathy
+This section turns to exploring specific activities, tasks and projects that elicit empathy, from teachers’
+perspectives. Over the past two decades, scholars have examined a range of different pedagogical
+approaches to historical empathy, including first- and third-person writing tasks (Brooks, 2008; de Leur
+et al., 2015, 2017), discussions (Bartelds et al., 2020; Brooks, 2011; Doppen, 2000; Kohlmeier, 2006),
+debates (Jensen, 2008), eyewitnesses (Bartelds et al., 2022), role plays and simulations (Endacott and
+Pelekanos, 2015; Geneser, 2005; Rantala, 2011; Rantala et al., 2016), multi-genre research projects
+(D’Adamo and Fallace, 2011), field trips (Bartelds et al., 2020; Cunningham, 2009), museum visits (Brauer,
+2016; Innes and Sharp, 2021; Uppin and Timoštšuk, 2019) and virtual/augmented reality (Patterson
+et al., 2022; Sweeney et al., 2018). These studies highlight the affordances and limitations that various
+pedagogical approaches – situated within and beyond the classroom setting – offer for fostering
+historical empathy.
+The participants in my study identified a number of different activities, tasks and projects that
+they use to develop empathy in their history classes. For the purposes of this study, ‘activities’ refers
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 8 =====
+
+Designing historical empathy learning experiences
+8
+to sustained engagement in a learning opportunity (for example, role plays, virtual reality), ‘tasks’ are
+assigned pieces of work that students complete and that are usually contained within a shorter time
+frame (for example, first- and third-person writing tasks), and ‘projects’ take place over a longer period
+of time (for example, research projects). The teachers discussed examples of each of these pedagogical
+approaches, which fall into four overall categories: (1) role plays and simulations; (2) first- and third-person
+writing tasks; (3) experiential learning and virtual reality; and (4) collaborative and project-based learning.
+Collectively, these discussions build from other studies of historical empathy, and provide an idea of the
+range of activities, tasks and projects that teachers currently use and might continue using to nurture
+historical empathy.
+Role plays and simulations
+According to Jukka Rantala (2011: 59), ‘simulations provide a natural basis for empathy exercises, since
+they often set out from historically authentic situations and the participants aim to assume a specific
+role’. For the teachers in my study, role plays and simulations seemed to be synonymous with historical
+empathy when it came to discussing pedagogical approaches. When asked about the approaches they
+use to foster empathy, nearly every teacher immediately began by discussing the benefits and limitations
+of role plays and simulations. More than one teacher discussed a simulation involving the Stock Market
+Crash in 1929, as it can be an effective way for students to understand individuals’ and companies’
+decision making. They emphasised the learning opportunities that can arise through these activities,
+especially students gaining a deeper understanding of different perspectives and experiences in the
+past. These views align with Pamela Geneser’s (2005) findings, which suggest that students were more
+motivated to learn about history by participating in simulations.
+Despite these pedagogical possibilities, there were also strong critiques of role plays and simulation
+activities that require perspective taking and attempting to ‘walk in the shoes’ of someone in the past.
+According to some teachers, problems with role plays and simulations may arise when students are
+asked to assume the perspectives of real people who lived in the past. In imagining that they are
+that person, students may be putting words into a historical actor’s mouth, without consideration for
+the circumstances and contexts in which that person lived. Further, it can be highly problematic to
+have students role play situations in which trauma, harm and injustice was inflicted upon particular
+groups, because this could cause additional suffering and victimisation (Gibson, 2020; Wright-Maley,
+2015). Other notable challenges include students projecting modern-day thinking and attitudes onto
+the past, an inability to link their knowledge of historical events to the actions of individual people, and
+student hesitancy to engage in the activity due to ‘stage fright’ (Rantala et al., 2016). In order to overcome
+some of these challenges, teachers might consider role playing and imagining activities that adopt the
+perspective of a historical object, instead of that of a historical actor.
+For example, Andrea has her students write first-hand narratives from the perspective of an object
+that would have been present during the period under study. One year, she had students write about
+the D-Day landings in 1944 from the perspective of an Allied landing craft: What did it see? Hear? Smell?
+Touch? Taste? Students began by reading primary accounts from soldiers who landed on the beach to
+gather evidence of what it was like to be there. From the perspective of the landing craft, students wrote
+about hearing soldiers praying that they would land safely on the beach, smelling soldiers vomiting in the
+boat, and seeing German bunkers and machine guns raining down bullets on the beaches. The historical
+object acts as an omniscient ‘being’ that takes multiple perspectives into consideration. Andrea finds that
+this activity allows students to have some distance from the realities of warfare, while also requiring them
+to draw conclusions about what it was like to participate in the Normandy Invasion. To avoid fabricating
+history, she emphasises using evidence from multiple sources to help students understand historical
+perspectives, and to infer the thoughts and feelings that may have been prompted by a particular
+historical circumstance or event.
+In our conversations, Andrea shared other related ideas; for instance, considering what a battlefield
+or historical monument might say about the events that took place there. There is also potential for
+this type of activity to shift focus away from exclusively human perspectives in history and towards
+more-than-human perspectives (plants, animals), creating opportunities for what Claudia Eppert (2023)
+terms ‘ecological witnessing’. Through the use of imagination, these activities can also bring voice to
+elements of the environment that have not been attributed sentience within Western/Eurocentric world
+views, such as rocks and soils, thereby disrupting ‘understandings of witnessing focused on sentience’
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 9 =====
+
+Designing historical empathy learning experiences
+9
+(Eppert, 2023: 3). This is a novel approach to role play and simulation activities, and one that could be
+explored further in future research on historical empathy.
+First- and third-person writing tasks
+Another pedagogical approach to historical empathy involves first-person (‘Imagine you are in the past’)
+and third-person (‘Imagine someone in the past’) writing tasks (de Leur et al., 2017).
+Studies have
+found that each type of writing task elicits different responses from students. While third-person writing
+tasks prompt students to focus more on providing accurate historical information (Brooks, 2008) and
+to demonstrate evidence of thinking historically (de Leur et al., 2015), with first-person writing tasks,
+students apply more inferential thinking (Brooks, 2008), but are more likely to engage in presentism (de
+Leur et al., 2017). Foster (2001: 169) offers a strong critique of first-person activities, arguing that they
+lead to an ‘irresponsible and erroneous understanding of our past’. The teachers in my study did not
+acknowledge any differences in student responses to these types of tasks, but overall they discussed
+third-person writing tasks more frequently than first-person writing tasks.
+To prepare students for writing tasks, the teachers ensured that their students had access to
+enough background information, provided through documentaries and primary source documents.
+From there, students use a combination of evidence and imagination to understand the historical actors’
+perspectives, feelings and experiences. In some cases, there may not be explicit descriptions of how
+individuals felt at the time, so students need to draw inferences based on the evidence. Todd gives his
+students the following prompt to help with this process: ‘Based on this evidence, I can imagine that they
+would be feeling … ’. Purposefully engaging students in imagining historical actors’ feelings can help
+them to incorporate the affective dimensions in their writing (de Leur et al., 2017).
+Teachers also highlighted a number of difficulties and challenges they face with writing tasks. In
+particular, teachers struggled with the wide range of responses they receive from students. For instance,
+Emily explained that depending on her group of students, she receives a different quality of work: ‘Some
+of the pieces become very contrived and literal, sort of regurgitating points in the lesson without getting
+that empathetic piece.’ Emily tries to prompt her students not just to retell information, but also to write
+about the sensory experiences a historical actor might have had (for example: How might it feel to be
+dirty in a trench? How might it feel to hear guns and explosions?). As a result, she often battles with time
+constraints and deciding how long to spend on these types of tasks, to allow students enough time to
+empathise with historical actors on a deeper level.
+Emily also raised a point about the difficulties in deciding which topics are appropriate for writing
+tasks. From her perspective, it is obvious to most teachers that they should not have their students
+pretend to be in a concentration camp or an Indian Residential School. She stated: ‘You don’t want to
+diminish the experience of survivors that have gone through such trauma and atrocities in moments of
+history. But could you say a soldier’s experience wasn’t traumatic? So, who’s deciding?’ Emily raised
+an important ethical question that demonstrates how difficult it can be for teachers to make these
+pedagogical choices, especially in light of the lack of empirical research to support their decision making
+in this area.
+Another challenge that the teachers highlighted in relation to writing tasks is providing students with
+a variety of sources that represent different perspectives. Henry admitted that when his students arrive at
+conclusions that may not be supported by evidence, ‘it’s reflective of whether I’ve done a good enough
+job of giving them enough, you know, if the buffet table was long enough with different samples … to
+make the claims they make’. For students to represent different voices in their writing pieces, they must
+identify various perspectives using appropriate evidence (Brooks, 2008; de Leur et al., 2017; Harris and
+Foreman-Peck, 2004). Many times, marginalised voices can be more difficult to access, but it is important
+that teachers do the work of trying to uncover them, alongside their students. This may involve rethinking
+Western/Eurocentric notions of what constitutes historical evidence (Anderson, 2017; Dion, 2009; Donald,
+2012; Marker, 2011). For instance, Andrea, gave a particularly useful example within the historical context
+of Indian Residential Schools in Canada, by explaining how her class examined photographs of graffiti left
+by students on the walls of the school buildings as a form of resistance. These considerations illustrate
+how writing tasks may be approached in ways that account for evidence and contextualisation, imagining
+and inferencing, diverse and multiple perspectives, and the affective dimensions of historical empathy.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 10 =====
+
+Designing historical empathy learning experiences
+10
+Experiential learning and virtual reality
+While experiential learning has been understudied in research on historical empathy (some exceptions
+are Bartelds et al., 2020; Cunningham, 2009; Karn, 2024), many of the teachers who took part in my
+study valued these learning opportunities for their ability to foster empathy in authentic ways. Teachers
+highlighted the importance of bringing students outside of the classroom to interact with historic sites,
+monuments and landscapes, whether in their local communities or on overseas trips. There were many
+contexts in which experiential learning was discussed, including community walking tours centred on
+different themes, a Water Walk to bring awareness of unclean drinking water in Indigenous communities,
+or battlefield tours in Europe.
+However, the majority of their discussions focused on the value of
+experiential learning for promoting an understanding of local histories, a connection that has not been
+emphasised enough in other studies of historical empathy.
+At the same time, the teachers also recognised that this type of experience may not always be
+available for students (due to cost, time, safety and accessibility, among other factors), and so they also
+discussed the potential for virtual reality (VR) experiences to develop historical empathy. Emily shared
+about a resource she used, the Within App, through which students were able to interact with immersive
+stories, including children’s experiences in a refugee camp. She also had her students take virtual tours
+of the Canadian National Vimy Memorial in France: ‘I can show my pictures [of the Vimy monument] and
+everything but students being able to move around having that sort of kinaesthetic feeling really sort of
+felt like they were there. And the feedback from using VR was that it really enhanced their experience.’
+The possibilities for virtual and augmented reality technology to enhance historical empathy has recently
+become an area of focus for empirical studies (Patterson et al., 2022; Sweeney et al., 2018). Important for
+the present study, Timothy Patterson et al. (2022) found that virtual reality should be used in combination
+with direct instruction that elaborates on historical contexts, examining primary source documents, as
+well as writing tasks and other activities that allow students to demonstrate historical empathy. In Canada,
+the Digital Oral Histories for Reconciliation project explored the potential for oral histories and virtual
+reality to support reconciliation for African Nova Scotians (Smith et al., 2020). Although possibilities
+for developing empathy were not explicitly considered as part of the project, building right relations
+between communities involves listening to and understanding others, which are also part of the process
+of empathising with others. As these immersive technologies become more widely available to teachers
+and students, future studies might consider how different combinations of the pedagogical approaches
+outlined in this section may be used alongside virtual reality. The teachers in my study demonstrated that,
+whether interacting with historic sites and landscapes outside of the classroom or using virtual reality to
+bring these opportunities into the classroom, experiential learning of all forms has been embraced by
+teachers in ways that elicit empathy.
+Collaborative and project-based learning
+Another way to promote historical empathy through a more experiential approach is by engaging
+students in collaborative learning projects that involve community partners, such as museums. As Bradley
+argued: ‘I think sometimes the longer one spends to really get into a project-based activity might even
+bring out more of that empathy.’ Many of the teachers discussed not only bringing students to museums,
+which has also been considered in other studies of historical empathy (Brauer, 2016; Innes and Sharp,
+2021; Savenije and de Bruijn, 2017; Uppin and Timoštšuk, 2019), but also extending learning by engaging
+students in creating their own exhibits to put on display in local museums.
+These types of projects demonstrate the potential that local history connections can have for
+students’ development of historical empathy, heretofore unrecognised in other studies. According to
+Bradley, local history connections can increase the ‘buy-in and relevance it [a historical topic] has to the
+student’ and, thereby, develop a greater sense of empathy. For example, his students were excited to
+learn that a First World War soldier’s former house still existed in their community. This led students to
+learn more about the individual’s wartime experiences and perspectives. Lydia engages her students in
+similar projects that involve researching historical actors within the local community, but then takes the
+learning one step further to integrate it throughout the entire course. Each student keeps their soldier
+or nursing sister photograph and biography, and, as they progress through the course, they revisit this
+individual to consider how the historical actor might have thought about and experienced whatever event
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 11 =====
+
+Designing historical empathy learning experiences
+11
+or circumstance the class is exploring. This helps students to consider history from the perspective of a
+real person who, in many cases, had different identities, backgrounds and experiences than their own.
+Other teachers brought together local histories and project-based learning in ways that fostered
+empathy in students.
+Andrea discussed one project she has engaged her students in, focused on
+commemorating the Second World War within their local neighbourhood. Students choose an individual
+and learn about the war from their perspective, using military records. Then students create an object of
+commemoration (such as a piece of poetry or a letter), which is displayed on a poster. During the week
+of Remembrance Day, students find the last recorded address of the individual they have researched,
+and hang the posters on telephone poles nearby. From this experience, students are able to identify
+personal connections to the Second World War, because they can see how it impacted people within
+their own community from diverse backgrounds. For instance, one student was surprised to learn about
+an individual from Singapore (where the student was also from) who enlisted in the Canadian military.
+When students researched individuals with the same cultural backgrounds as them, ‘they wanted to
+honour that person’s story’, and they wrote ‘very heartfelt’ letters and poems to tell their community
+about the individual (Andrea). Other studies (D’Adamo and Fallace, 2011: 75) have also found that
+research projects ‘increased students’ understanding of the differences in historical perspectives’, and
+revealed the cross-curricular possibilities of collaborative and project-based learning.
+Presenting a pedagogical tool
+Here, I draw together the findings from the previous sections to present a research-informed pedagogical
+tool (see Figure 1) that can support teachers in designing learning experiences that foster historical
+empathy. I use the term ‘learning experience’ because it encompasses everything from smaller activities
+and tasks to larger projects, lessons and entire units. Many of the teachers I spoke with expressed a need
+for resources to support their pedagogical approaches, especially in making historical empathy more
+explicit to their students. Other studies have also emphasised the importance of explicit instruction on
+historical empathy (Bartelds et al., 2022), and this tool can serve as a guide for teachers. It is likely to be
+useful in addressing the reality that engaging students in historical empathy learning experiences often
+requires significant time and resources (Foster, 2001).
+The intention behind this pedagogical tool is to summarise the key takeaways related to
+pedagogical choices and activities, tasks and projects, and to present a teacher-friendly diagram that
+offers educators a starting place for developing new learning experiences. These takeaways are grouped
+into six different categories, generated from the findings: overall considerations, historical content,
+student connections, learning experiences, teacher reflections and teacher actions. Each of these is
+associated with a series of questions that teachers can ask themselves, to present this pedagogical tool
+as part of an ongoing conversation and reflective exercise. Although the categories are presented as a
+series of steps, teachers are likely to flow back and forth between them, and they may use their discretion
+about where within the diagram they might start the design process for any given learning experience.
+This pedagogical tool is intended to be used in combination with Endacott and Brooks’s (2013)
+instructional model, which has proven to be effective in structuring historical empathy lessons (Endacott,
+2014; Endacott and Pelekanos, 2015; Endacott and Sturtz, 2015).
+Their model includes:
+(1) an
+introductory phase to introduce students to historical topics and figures; (2) an investigation phase
+that involves students examining primary and secondary sources; (3) a display phase in which students
+demonstrate their learning; and (4) a reflection phase which brings learning into the present (Endacott
+and Brooks, 2013). If their model is meant to ‘clarify the elements of instruction that should be included
+if historical empathy, and its potential benefits for students, is to be truly realized’ (Endacott and Brooks,
+2013: 46), then this pedagogical tool scaffolds teachers’ decision making within and beyond each of
+these four instructional phases.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 12 =====
+
+Designing historical empathy learning experiences
+12
+Figure 1. A pedagogical tool for designing historical empathy learning experiences
+Guided by the categories in the diagram, teachers can purposefully design lessons that elicit historical
+empathy, while making learning more engaging, meaningful and explicit for students. It also prompts
+teachers to reflect on their own positionality, and how their views and assumptions shape their
+approaches throughout the planning and implementation process. Teachers should be mindful of their
+responses to students’ engagement with historical empathy, and how their own views may be unduly
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 13 =====
+
+Designing historical empathy learning experiences
+13
+influencing students’ thoughts and feelings. Teachers may draw from their past teaching experiences
+to identify any problematic approaches when encountering difficult topics, and work to contextualise
+students’ perspectives. To avoid communicating that only certain emotions are welcome in the history
+classroom, it is also important for teachers to validate and support students’ affective responses (Boler,
+1999). These safeguards, presented as a series of questions for teachers’ reflection within the diagram,
+are meant to address ethical concerns expressed by some scholars (Low-Beer, 1989) surrounding the
+manipulation of students’ feelings when approaching the affective dimensions of historical empathy.
+Overall, this visual, informed by the findings from the interviews I conducted with teachers, provides a
+comprehensive view of how historical empathy has been – and may continue to be – approached by
+teachers in practice.
+Conclusions
+This study has reinforced the notion that there is no single lesson or approach that holds the ‘key’
+to historical empathy, but it is rather a combination of ideas that contribute towards the process
+of attempting to understand historical actors.
+In other words, ‘Historical empathy … is not a
+once-and-forever matter’ (Davis Jr, 2001: 3). This is demonstrated by the diversity of choices that teachers
+described, and their emphasis on sustained efforts and different entry points to developing empathy
+over time. These findings align with Lisa Buchanan’s (2014: 91) conclusion that empathy ‘is an ongoing
+process that cannot be packaged or reduced to a few lessons about one topic or theme’. In presenting
+the teachers’ choices, and the activities, tasks and projects they engage their students in, the aim is for
+history educators to have a plethora of ideas to draw from and adapt for their own teaching contexts.
+It should be acknowledged that these findings are the result of discussions with teachers that shed
+light on their perspectives on how they approach historical empathy; without observing their teaching,
+we cannot know how they actually approach historical empathy in practice. While this may be a limitation
+of the study, the categories identified through conversations with teachers could be used in future studies
+involving classroom observations. As part of such studies, the effectiveness of teachers’ approaches
+to each strategy could be evaluated by researchers, and other strategies may arise in the process of
+observation. For instance, it is likely that there are other pedagogical choices that teachers make before
+and during their lessons that they may not be consciously aware of, and that they therefore did not
+discuss as part of the interviews.
+Moving forward, empirical studies could contribute to additional refinement of these pedagogical
+approaches by examining their use in practice. In particular, there is a need for more studies of the
+pedagogical value of experiential learning and local history for developing historical empathy. There are
+also opportunities to conduct studies that consider how effective the pedagogical tool is for teachers in
+practice, and ways that it may be expanded to address other considerations, challenges and approaches.
+In the meantime, the ideas offered by teachers in this study provide other teachers with starting points
+for planning learning experiences centred on the development of historical empathy.
+Funding
+This article draws on research supported by the Social Sciences and Humanities Research Council.
+Acknowledgements
+I would like to thank my teacher participants for sharing their perspectives and experiences with me. I
+would also like to thank Dr Heather E. McGregor, Dr Theodore Christou and Dr Thashika Pillay for their
+mentorship throughout this research, and Dr Amy von Heyking for her valuable feedback on an earlier
+version of what later became this article.
+Open data and materials availability statement
+The datasets generated during and/or analysed during the current study are available from the
+corresponding author on reasonable request.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 14 =====
+
+Designing historical empathy learning experiences
+14
+Declarations and conflicts of interest
+Research ethics statement
+The author declares that research ethics approval for this article was provided by the ethics board of
+Queen’s University at Kingston, Ontario, Canada.
+Consent for publication statement
+The author declares that research participants’ informed consent to publication of findings – including
+photos, videos and any personal or identifiable information – was secured prior to publication.
+Conflicts of interest statement
+The author declares no conflicts of interest with this work.
+All efforts to sufficiently anonymise the
+author during peer review of this article have been made. The author declares no further conflicts with
+this article.
+References
+Anderson, S. (2017) ‘The stories nations tell: Sites of pedagogy, historical consciousness, and national
+narratives’. Canadian Journal of Education/Revue canadienne de l’éducation, 40 (1), 1–38.
+Bartelds, H., Savenije, G.M. and van Boxtel, C. (2020) ‘Students’ and teachers’ beliefs about historical
+empathy in secondary history education’. Theory & Research in Social Education, 48 (4), 529–51.
+[CrossRef]
+Bartelds, H., Savenije, G.M., van Drie, J. and van Boxtel, C. (2022) ‘Using eyewitnesses to promote
+students’ understanding of empathy in the history classroom’. The Journal of Social Studies
+Research. Advance online publication. [CrossRef]
+Barton, K.C. (2012) ‘Agency, choice and historical action: How history teaching can help students think
+about democratic decision making’. Citizenship Teaching & Learning, 7 (2), 131–42. [CrossRef]
+Barton, K.C. and Levstik, L.S. (2004) Teaching History for the Common Good. Mahwah, NJ: Lawrence
+Erlbaum Associates.
+Boler, M. (1999) Feeling Power: Emotions and education. New York: Routledge.
+Brauer, J. (2016) ‘Empathy as an emotional practice in historical pedagogy’. Miscellanea Anthropologica
+et Sociologica, 17 (4), 27–44.
+Brooks, S. (2008) ‘Displaying historical empathy: What impact can a writing assignment have?’ Social
+Studies: Research and practice, 3 (2), 130–46. [CrossRef]
+Brooks, S. (2011) ‘Historical empathy as perspective recognition and care in one secondary social studies
+classroom’. Theory & Research in Social Education, 39 (2), 166–202. [CrossRef]
+Buchanan, L.B. (2014) ‘From Freedom Riders to the Children’s March: Civil rights documentaries as
+catalysts for historical empathy’. Social Education, 78 (2), 91–5.
+Cunningham, D.L. (2007) ‘Understanding pedagogical reasoning in history teaching through the case of
+cultivating empathy’. Theory and Research in Social Education, 35 (4), 592–630. [CrossRef]
+Cunningham, D.L. (2009) ‘An empirical framework for understanding how teachers conceptualize and
+cultivate historical empathy in students’. Journal of Curriculum Studies, 41 (5), 679–709. [CrossRef]
+D’Adamo, L. and Fallace, T. (2011) ‘The multigenre research project: An approach to developing historical
+empathy’. Social Studies Research & Practice, 6 (1), 75–88. [CrossRef]
+Davis Jr, O.L. (2001) ‘In pursuit of historical empathy’. In O.L. Davis Jr, E.A. Yeager and S.J. Foster (eds),
+Historical Empathy and Perspective Taking in the Social Studies. Lanham, MD: Rowman & Littlefield,
+1–11.
+Davison, M. (2017) ‘Teaching about the First World War today: Historical empathy and participatory
+citizenship’. Citizenship, Social and Economics Education, 16 (3), 148–156. [CrossRef]
+de Leur, T., Van Boxtel, C. and Wilschut, A. (2015) ‘“Just imagine ... ”: Students’ perspectives on empathy
+tasks in secondary history education’. International Journal of Historical Learning, Teaching and
+Research, 13 (1), 69–84.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 15 =====
+
+Designing historical empathy learning experiences
+15
+de Leur, T., Van Boxtel, C. and Wilschut, A. (2017) ‘“I saw angry people and broken statues”: Historical
+empathy in secondary history education’. British Journal of Educational Studies, 65 (3), 331–52.
+[CrossRef]
+Dion, S.D. (2009) Braiding Histories: Learning from Aboriginal peoples’ experiences and perspectives.
+Vancouver, BC: UBC Press.
+Donald, D. (2012) ‘Indigenous Métissage: A decolonizing research sensibility’. International Journal of
+Qualitative Studies in Education, 25 (5), 533–55. [CrossRef]
+Doppen, F.H. (2000) ‘Teaching and learning multiple perspectives: The atomic bomb’. The Social Studies,
+91 (40), 159–69. [CrossRef]
+Dulberg, N. (2002) ‘Engaging in history: Empathy and perspective-taking in children’s historical thinking’.
+Paper presented at the Annual Meeting of the American Educational Research Association, New
+Orleans, USA, 1–5 April. Accessed 11 March 2024. https://files.eric.ed.gov/fulltext/ED474135.pdf.
+Endacott, J.L. (2014) ‘Negotiating the process of historical empathy’. Theory & Research in Social
+Education, 42 (1), 4–34. [CrossRef]
+Endacott, J.L. and Brooks, S. (2013) ‘An updated theoretical and practical model for promoting historical
+empathy’. Social Studies Research and Practice, 8 (1), 41–58. [CrossRef]
+Endacott, J.L. and Pelekanos, C. (2015) ‘Slaves, women, and war!: Engaging middle school students in
+historical empathy for enduring understanding’. The Social Studies, 106 (1), 1–7. [CrossRef]
+Endacott, J.L. and Sturtz, J. (2015) ‘Historical empathy and pedagogical reasoning’. The Journal of Social
+Studies Research, 39: 1–16. [CrossRef]
+Eppert, C. (2023) ‘Ruminations on rocks: Ethical and ecological turns in witnessing’. In P.P. Trifonas and S.
+Jagger (eds), Handbook of Curriculum Theory, Research, and Practice. New York: Springer, 1–17.
+Foster, S.J. (2001) ‘Historical empathy in theory and practice: Some final thoughts’. In O.L. Davis Jr, E.A.
+Yeager and S.J. Foster, Historical Empathy and Perspective Taking in the Social Studies. Lanham,
+MD: Rowman & Littlefield, 167–81.
+Geneser, P.V.L. (2005) ‘Children learning from children of the past: A study of fifth graders’ development
+of historical empathy with historical characters’. PhD thesis. The University of Texas at Austin, Austin,
+USA. Accessed 11 March 2024. http://hdl.handle.net/2152/1921.
+Gibson, L. (2020) ‘Handle with care: Using historical simulations to teach history’. CHA Teaching|Learning
+Blog. Accessed 25 January 2024. https://cha-shc.ca/teachers-learning-bl/handle-with-care-using-
+historical-simulations-to-teach-history/.
+Grant, S.G. (2001) ‘It’s just the facts, or is it? The relationship between teachers’ practices and students’
+understandings of history’. Theory and Research in Social Education, 29 (1), 65–108. [CrossRef]
+Harris, R. and Foreman-Peck, L. (2004) ‘”Stepping into other people’s shoes”: Teaching and assessing
+empathy in the secondary history curriculum’. International Journal of Historical Learning, Teaching
+and Research, 4, 98–111. [CrossRef]
+Innes, M. and Sharp, H. (2021) ‘Historical empathy and museum culture’. Journal of Museum Education,
+46 (3), 307–20. [CrossRef]
+Jensen, J. (2008) ‘Developing historical empathy through debate: An action research study’. Social
+Studies Research and Practice, 3 (1), 55–66. [CrossRef]
+Karn, S. (2023a) ‘Historical empathy: A cognitive-affective theory for history education in Canada’.
+Canadian Journal of Education/Revue canadienne de l’éducation, 46 (1), 80–110. [CrossRef]
+Karn, S. (2023b) ‘Perspectives on Historical Empathy for History Education in Canada:
+Purposes,
+problems, and possibilities’. PhD thesis. Queen’s University, Kingston, ON, Canada. Accessed 11
+March 2024. https://hdl.handle.net/1974/31960.
+Karn, S. (2024) ‘Walking in their footsteps: Historical empathy and experiential learning on battlefield
+study tours’. Historical Encounters, 11 (1), 30–42. [CrossRef]
+Kohlmeier, J. (2006) ‘“Couldn’t she just leave?”: The relationship between consistently using class
+discussions and the development of historical empathy in a 9th grade world history course’. Theory
+and Research in Social Education, 24 (1), 34–57. [CrossRef]
+Lattimer, H. (2008) ‘Challenging history: Essential questions in the social studies classroom’. Social
+Education, 72 (6), 326–29.
+Lévesque, S. and Croteau, J.-P. (2020) Beyond History for Historical Consciousness: Students, narrative,
+and memory. Toronto, ON: University of Toronto Press.
+Levstik, L.S. and Barton, K.C. (1997) Doing History: Investigating with children in elementary and middle
+schools. Mahwah, NJ: Lawrence Erlbaum.
+Low-Beer, A. (1989) ‘Empathy and history’. Teaching History, 55, 8–12.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06
+
+
+===== PAGE 16 =====
+
+Designing historical empathy learning experiences
+16
+Marker, M. (2011) ‘Teaching history from an Indigenous perspective’. In P. Clark (ed.), New Possibilities
+for the Past: Shaping history education in Canada. Vancouver: UBC Press, 98-112.
+Patterson, T., Han, I. and Esposito, L. (2022) ‘Virtual reality for the promotion of historical empathy: A
+mixed-methods analysis’. Theory & Research in Social Education, 50 (4), 553–80. [CrossRef]
+Rantala, J. (2011) ‘Assessing historical empathy through simulation: How do Finnish teacher students
+achieve contextual historical empathy?’ Nordidactica: Journal of humanities and social science
+education, 1, 58–76.
+Rantala, J., Manninen, M. and Van Den Berg, M. (2016) ‘Stepping into other people’s shoes proves to be
+a difficult task for high school students: Assessing historical empathy through simulation exercise’.
+Journal of Curriculum Studies, 48 (3), 323–45. [CrossRef]
+Retz, T. (2018) Empathy and History: Historical understanding in re-enactment, hermeneutics and
+education. Oxford, NY: Berghahn Books.
+Savenije, G.M. and de Bruijn, P. (2017) ‘Historical empathy in a museum: Uniting contextualisation and
+emotional engagement’. International Journal of Heritage Studies, 23 (9), 832–45. [CrossRef]
+Seixas, P. (1996) ’Conceptualizing the growth of historical understanding’. In D.R. Olson and N. Torrance
+(eds), The Handbook of Education and Human Development. Oxford: Blackwell Publishers, 765–83.
+Seixas, P. (2017) ‘A model of historical thinking’. Educational Philosophy and Theory, 49 (5), 593–605.
+[CrossRef]
+Seixas, P. and Morton, T. (2013) The Big Six Historical Thinking Concepts. Toronto, ON: Nelson Education.
+Shemilt, D. (1984) ‘Beauty and the philosopher: Empathy in history and classroom’. In A.K. Dickinson, P.J.
+Lee and P.J. Rogers (eds), Learning History. London: Heinemann, 39–114.
+Smith, T., Morrison, G., Dorrington-Skinner, T., Llewellyn, K., Llewellyn, J., Roberts-Smith, J., Gibson, L.
+and Peck, C. (2020) ‘Digital oral histories for reconciliation: The Nova Scotia Home for Colored
+Children History Education Initiative (DOHR)’. Journal of the Canadian Association for Curriculum
+Studies, 18 (1), 60–61. [CrossRef]
+Sweeney, S.K., Newbill, P., Ogle, T. and Terry, K. (2018) ‘Using augmented reality and virtual environments
+in historic places to scaffold historical empathy’. TechTrends, 62 (1), 114–18. [CrossRef]
+Turan, I. (2020) ‘Thematic vs. chronological history teaching debate: A social media research’. Journal of
+Education and Learning, 9 (1), 205–16. [CrossRef]
+Uppin, H. and Timoštšuk, I. (2019) ‘“We’ll be back by Christmas”: Developing historical empathy during
+a museum activity’. Journal of Museum Education, 44 (3), 310–24. [CrossRef]
+von Heyking, A. (2014) ‘Children’s perspectives on the past: Possibilities and challenges’. Canadian Issues,
+49–53.
+Wright-Maley, C. (2015) ‘What every social studies teacher should know about simulations’. Canadian
+Social Studies, 48 (1), 8–23.
+Yeager, E.A. and Doppen, F.H. (2001) ‘Teaching and learning multiple perspectives on the use of the
+atomic bomb: Historical empathy in the secondary classroom’. In O.L. Davis Jr, E.A. Yeager and S.J.
+Foster (eds), Historical Empathy and Perspective Taking in the Social Studies. Lanham, MD: Rowman
+& Littlefield, 97–114.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.21.1.06

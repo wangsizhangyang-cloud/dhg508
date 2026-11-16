@@ -1,0 +1,61 @@
+[
+  {
+    "file": "harnes_2025_historical_empathy_review.txt",
+    "checks": [
+      {
+        "term": "minimally contested in empirical research",
+        "found": true,
+        "page": "7"
+      },
+      {
+        "term": "from taking to understanding",
+        "found": true,
+        "page": "7"
+      },
+      {
+        "term": "Teachers cannot assume that students have the skills",
+        "found": true,
+        "page": "9"
+      },
+      {
+        "term": "taking multiple perspectives is easier",
+        "found": true,
+        "page": "10"
+      },
+      {
+        "term": "students? first-person written accounts",
+        "found": false
+      },
+      {
+        "term": "prioritising moral responses and affective connections",
+        "found": true,
+        "page": "12"
+      },
+      {
+        "term": "cannot be understood separately from historical topics",
+        "found": true,
+        "page": "14"
+      },
+      {
+        "term": "without a thorough appraisal",
+        "found": true,
+        "page": "4"
+      }
+    ]
+  },
+  {
+    "file": "karn_2024_designing_empathy.txt",
+    "checks": [
+      {
+        "term": "teachers are likely to flow back and forth",
+        "found": true,
+        "page": "11"
+      },
+      {
+        "term": "without observing their teaching",
+        "found": true,
+        "page": "13"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1287 @@
+
+
+===== PAGE 1 =====
+
+communications earth & environment
+Article
+A Nature Portfolio journal
+https://doi.org/10.1038/s43247-025-02769-1
+The 2.8 ka climatic event contributed to
+the collapse of the Western Zhou Dynasty
+Check for updates
+Miaofa Li
+1, Luo Wang
+1,2
+, Binggui Cai
+3,4, Linghao Zhao5, Fang Wang6, Guoliang Lei3,4,
+Xuefeng Wang
+1, Lisheng Wang1, Zhibang Ma1 & Qingzhen Hao
+1,2
+Theimpactofrapid climatechangeoncivilizationsisofglobalconcern. TheWesternZhou(1045–771BC)
+was ancient China’s third dynastyand one of the mostpowerfulempires of itstime. After a 274-year reign,
+the dynasty collapsed, accompanied by signiﬁcant population migration. Various factors have been
+proposed to explain its fall, while the role of climate change has been largely ignored. Here we present
+well-dated, high-resolution stalagmite records from Northeast and Southeast China, along with other
+paleoclimatic and archaeological evidence, to demonstrate the critical role of the 2.8 ka climatic event in
+the dynasty’s collapse and subsequent migration. Our results indicate a “north dry–south wet” dipolar
+pattern in the Chinese monsoon region during this event. The drought and cold severely affected the
+Western Zhou core areas and exacerbated invasions by northern nomads, contributing to its collapse.
+The resulting environmental stresses and conﬂicts likely triggered substantial southward migration.
+Climate change is a potential major threat to human civilization and our
+living environment1–4. Understanding the impact of past climate change on
+societaldevelopmentandhumanactivitiesmayprovidevaluableinsightsfor
+addressing current and future climate challenges5.
+The Western Zhou (1045–771 BC)—one of the most important
+dynasties in ancient China—was the largest geopolitical unity ever achieved
+by a single power until the rise of the Qin Empire in 221 BC6. At its apex, the
+Western Zhou controlled regions from the Liupan Mountains in the west to
+theShandongPeninsulaintheeast,andfromtheYanshanMountainsinthe
+north to the Huai and middle Yangze Rivers in the south6,7 (Fig. 1).
+Moreover, the fundamental concept and system of Chinese civilization were
+developed during the Western Zhou6,8,9. For example, much of the Con-
+fuciantraditioncentersaroundcoretextsthatoriginatedduringthisperiod6.
+The collapse of the Western Zhou dynasty remains an enigma in the
+history of early human civilizations. After 274 years of reign, the Western
+Zhou collapsed in 771 BC, accompanied by prolonged political disorder,
+social unrest, and population migration6,10,11. An important mark of the end
+of the Western Zhou was the eastward relocation of King Ping—known as
+the “Ping Wang Dong Qian”, which not only shifted the political center but
+also a large-scale migration of royal family members, ofﬁcials, and asso-
+ciated groups6. Archeological12–14 and genomic evidence15 further support
+theoccurrenceofsubstantialpopulationmovementsduringthistransitional
+period. Explanations for the collapse and population migration typically
+focusonmilitarydefeats,invasions,internalpolitico-economicconﬂictsand
+rebellions6,16–18. However, the potential role of climate change in the collapse
+of the Western Zhou and the subsequent population migration has been
+largely ignored, despite the fact that this period may coincide with the
+documented weakened East Asian summer monsoon (EASM) event at 2.8
+ka10,11,19. Until now, the lack of paleoclimate records from East Asia, with
+sufﬁcient age control, temporal resolution, and spatial coverage comparable
+to the historical and archeological records for the Western Zhou, has pre-
+cluded an assessment of whether regional climate change contributed to the
+dynasty’s collapse and associated population migration.
+Here, we present two precisely-dated multi-proxy (stable isotope and
+trace elements) stalagmite records from Northeast and Southeast China,
+spanningtheintervalfrom2.95to2.50kaBP.Thesenewrecords,alongwith
+existing climate data, provide information on the changes in atmospheric
+circulation and hydrology in the Chinese monsoonal region around the 2.8
+ka event, and they enable us to examine the impact of climate change on the
+collapse of the Western Zhou and the associated population migration via
+comparison with archeological data.
+Results
+Paleoclimatic records
+Stalagmites MD12 and CXY1701 are from Miaodong cave (41.05°N,
+125.52°E, 193 m above sea level (a.s.l.)), in northeastern China; and from
+1State Key Laboratory of Lithospheric and Environmental Coevolution, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing, China.
+2University of Chinese Academy of Sciences, Beijing, China. 3Key Laboratory for Humid Subtropical Eco-Geographical Processes of the Ministry of Education,
+Fujian Normal University, Fuzhou, China. 4Institute of Geography, Fujian Normal University, Fuzhou, China. 5Key Laboratory of in-situ Elemental Micro-probe and
+Speciation Analysis, China Geological Survey, National Research Center for Geoanalysis, Beijing, China. 6Key Laboratory of Tourism and Resources Environment
+in Universities of Shandong, Taishan University, Taian, China.
+e-mail: wangluo@mail.iggcas.ac.cn; haoqz@mail.iggcas.ac.cn
+Communications Earth & Environment | (2025) 6:808 
+1
+1234567890():,;
+1234567890():,;
+
+
+===== PAGE 2 =====
+
+Xianyun cave (25.55°N, 116.98°E, 968 m a.s.l.), in southeastern China,
+respectively (Supplementary Fig. 1). The stable oxygen (δ18O) and carbon
+(δ13C) isotope records of MD12 and CXY1701 are based on 240 and 214
+measurements, respectively. The trace element ratios Mg/Ca,Sr/Ca,and Ba/
+Cawereobtainedusingthelinescanningmodeandarepresentedataspatial
+resolution of 50 μm for both samples (“Methods”). The chronological fra-
+meworks of MD12 and CXY1701 are constrained by 5 and 11 230Th dates,
+respectively. Three different age-modeling schemes (linear interpolation,
+COPRA20, and ISCAM21 (“Methods”)) are generally consistent within the
+analytical uncertainties, and our conclusions are not sensitive to the choice
+of age model (Supplementary Fig. 2). We thus adopted ISCAM age models,
+because this scheme: (1) increases the signal-to-noise ratio, (2) reduced the
+age uncertainty of the records during the overlapping time intervals, and (3)
+enables the construction of a composite δ18O record based on multiple
+proﬁles21.
+The average temporal resolutions of stalagmites MD12 and CXY1701
+δ18O are 1.3 and 2.7 years, respectively. Stalagmite MD12 δ18O values vary
+between−9.84‰and−7.33‰,withtheaverageof−8.44‰,spanningthe
+interval from ~2.591 to 2.893 ka BP (Fig. 2a); and stalagmite CXY1701 δ18O
+values range from −8.15 ‰ to −6.93 ‰, with the average of −7.55 ‰,
+spanning the interval from ~2.384 to 2.963 ka BP (Fig. 2b). The trace
+element records from stalagmites MD12 and CXY1701 provide an average
+resolution of better than 0.3 years. The Mg/Ca, Sr/Ca, Ba/Ca ratios of sta-
+lagmite MD12 ﬂuctuate within the ranges of 0.010‒0.055, 0.010‒0.042, and
+0.0005‒0.0030, respectively (Fig. 2a). The Mg/Ca, Sr/Ca, Ba/Ca ratios of
+stalagmite CXY17 ﬂuctuate within the ranges of 0.020‒0.085, 0.046‒0.260
+and 0.0002‒0.003, respectively (Fig. 2b).
+The two stalagmite δ18O proﬁles exhibit consistent multidecadal- to
+centennial-scale oscillations (Supplementary Figs. 3, 4a–c), with the most
+notable positive excursion being during ~2.65–2.77 ka BP (Fig. 2a, b and
+Supplementary Fig. 4). There are signiﬁcant positive correlations among the
+Mg/Ca, Sr/Ca, and Ba/Ca time series (hereafter X/Ca) for each stalagmite
+(Fig. 2c, d). The X/Ca series for MD12 show very similar temporal patterns
+to its δ18O record, with pronounced positive excursions during ~2.65–2.77
+ka BP (Fig. 2a). In contrast, the correlation between the X/Ca ratios and
+stable isotopes is much weaker in CXY1701 than in MD12 (Fig. 2d). During
+2.50–2.95 ka BP, the X/Ca ratios of CXY1701 exhibit an overall W-shaped
+structure, with a negative excursion during 2.65–2.74 ka BP (Fig. 2b).
+Discussion
+Interpretation of stalagmite δ18O
+The climatic signiﬁcance of stalagmite δ18O from the EASM region remains
+controversial (e.g., refs. 22–26). Previously, we suggested that stalagmite
+δ18O in the northern margin of the EASM area can be used as a proxy for
+EASM intensity and associated monsoon precipitation. More positive
+stalagmite δ18O values imply a weaker EASM, a southward shift of the
+monsoon rainbelt, and hence, less summer precipitation in northern China,
+and vice versa27–29. This interpretation is supported by the signiﬁcant posi-
+tive correlation (r = 0.44–0.51, Fig. 2c) between δ18O and the X/Ca ratios of
+stalagmite MD12 from northeastern China (Fig. 2a, c), where the X/Ca
+ratios primarily reﬂect local hydrological changes.
+However, stalagmite δ18O in monsoonal China, especially in southern
+China, may not always be a reliable proxy for local rainfall amount, given
+that the principal inﬂuencing factors (e.g., rainfall amount, precipitation
+seasonality, and moisture source) are timescale dependent30. Indeed, the
+stalagmite CXY1701 δ18O record from southeastern China shows a weaker
+correlation with its corresponding X/Ca ratios on decadal-to-centennial
+timescales (r = 0.24–0.33, Fig. 2d).
+Although the dominant factors affecting stalagmite δ18O may vary
+acrossdifferent areasand timescales,thesimilaritybetween the δ18O records
+in the EASM regions, on multidecadal-to-centennial timescales, suggests
+that these factors are fundamentally linked to changes in large-scale mon-
+sooncirculation(SupplementaryFig.5).Therefore,consistentwithprevious
+studies (e.g., refs. 22,26), we propose that stalagmite δ18O reﬂects the overall
+EASM intensity associated with large-scale atmospheric circulation and the
+concomitant north-south movement of the monsoon rainbelt.
+Interpretation of trace element ratios
+StalagmiteX/Caratioshavebeenwidelyusedasproxiesoflocalhydrological
+changes31–34, as they are primarily inﬂuenced by karst hydrological
+processes31,32,35.Duringarid periods,decreased water storage and inﬁltration
+in the karst aquifer can intensify the ventilation within the karst fracture
+network, triggering more intensive CO2 degassing from water. As a result,
+the water becomes supersaturated, causing calcite to precipitate before the
+drip waters reach the growing stalagmite. This phenomenon, known as
+prior calcite precipitation (PCP)32,35, leads to the enrichment of Mg, Sr, and
+Ba relative to Ca in the seepage water and thus in the stalagmites. Fur-
+thermore, during arid periods, the increased residence time of groundwater
+allows for more extensive water-rock interaction. This interaction can
+enhance the leaching and dissolution of Mg and Sr from the surrounding
+rock, leading to the enrichment of Mg and Sr in stalagmites35–37. In contrast,
+during wet periods, the opposite process occurs, resulting in lower X/Ca
+ratios.
+The covariation among the X/Ca ratios in stalagmites MD12 and
+CXY1701(Fig. 2c,d) supports the viewthat PCP and water-rockinteraction
+are likely the primary factors inﬂuencing these ratios. Therefore, we inter-
+prettheX/CaratiosofstalagmitesMD12andCXY1701asindicatorsoflocal
+hydrological conditions. To effectively integrate the climate records, we
+performed principal component analysis on the X/Ca ratios of each sta-
+lagmite (Fig. 2a, b). The ﬁrst principal component (PC1) of the X/Ca ratios
+Fig. 1 | Locations of hydrological proxy sites
+mentioned in the text. 1—Miaodong cave (this
+study), 2—Daihai lake45, 3—Gonghai lake25, 4—
+Xianglong cave46, 5—lacustrine sediments of the Pu
+Tian core47, 6—Liang’ercun archeological site11, 7—
+Heshang cave49, 8—JH001 sediment core from the
+Jianghan Plain50, 9—Xianyun cave (this study). The
+yellow circle denotes the capital of the Western
+Zhou. The red dashed line represents the maximum
+area controlled by the Western Zhou6,7. Background
+is the summer (June–September) precipitation trend
+during 1950‒2010 AD, based on a precipitation
+dataset with a spatial resolution of 0.025° (named
+LZU002574).
+  96°E 
+ 104°E 
+ 112°E 
+ 120°E 
+ 128°E 
+ 136°E 
+  20°N 
+  25°N 
+  30°N 
+  35°N 
+  40°N 
+  45°N 
+-5
+-2.5
+0
+2.5
+5
+Summer precipitataion trend (mm/year)
+Modern EASM Limit
+Yellow River
+2.8 ka proxy records
+Dry
+Wet
+This study
+Published records
+Yangtze River
+1
+2
+3
+Feng-hao
+5
+4
+6
+7
+8
+9
+https://doi.org/10.1038/s43247-025-02769-1
+Article
+Communications Earth & Environment | (2025) 6:808 
+2
+
+
+===== PAGE 3 =====
+
+explained more than 72% of the variance for both stalagmites, with higher
+values indicating drier conditions and vice versa.
+HydrologicalchangesinmonsoonalChinaduring the2.8kaevent
+The 2.8 ka event was ﬁrst reported as a cold event that occurred in the North
+Atlanticareaat~2.8kaBP,knownasBond2event38,39.Duringthisevent,the
+temperature in the Northern Hemisphere dropped by ~0.8 °C40 (Fig. 3a). In
+the Asian monsoon region, numerous studies have reported a weak mon-
+soon event corresponding to the 2.8 ka cold event, which occurred roughly
+between 2.90 and 2.65 ka BP27,41,42. However, due to the limitations imposed
+by dating uncertainties, sample resolution, and disparities in deﬁning the
+event, there are discrepancies in the timing and structure of this event
+among different studies27,41,42. Our new composite δ18O record, with a time
+resolution of 1–3 years and an average age error of 12 years (Supplementary
+Fig.4d),providesarareopportunitytoanalyzethisweakmonsoonevent.To
+identify this event, we followed our prior approach of deﬁning Holocene
+climatic events28. Anomalies were deﬁned as the positive deviation of δ18O
+values from the long-term average, with the central extreme portions
+exceeding one standard deviation (1σ).As a result, our δ18O record indicates
+that the 2.8 ka event in monsoonal China occurredmainlybetween2.77 and
+2.65 ka BP, centered around 2.70 ± 0.01 ka BP, and lasted for ~120 years
+(Supplementary Fig. 4d).
+During the 2.8 ka weak monsoon event, the regional hydrological
+changes in eastern China showed a “north dry‒south wet” dipolar pattern
+(Figs. 1, 3), like the spatial changes in modern summer precipitation in the
+region under monsoon weakening over the past few decades43,44. In north-
+eastern China, our new stalagmite MD12 X/Ca PC1 reached its maximum
+during the 2.8 ka event, indicating severe drought conditions (Fig. 3c). The
+integrated analysis on modern observations and other paleo-hydrological
+records suggest the MD12 X/Ca record captures hydroclimatic variability
+representative of a broader region across main northern China (Fig. 3d‒g
+and SupplementaryFig. 6).Pollen-based precipitationreconstructions from
+2.55
+2.60
+2.65
+2.70
+2.75
+2.80
+2.85
+2.90
+2.95
+Age (ka BP)
+6
+4
+2
+0
+-2
+-4
+(X/Ca) PC1
+-7.2
+-8
+-8.8
+-9.6
+δ18O (‰,VPDB)
+-4
+-6
+-8
+-10
+δ13C (‰,VPDB)
+5
+4
+3
+2
+1
+100 * Mg/Ca
+0.32
+0.24
+0.16
+0.08
+100 * Ba/Ca
+4
+3.2
+2.4
+1.6
+0.8
+100 * Sr/Ca
+4
+2
+0
+-2
+-4
+(X/Ca) PC1
+2.40
+2.50
+2.60
+2.70
+2.80
+2.90
+3.00
+Age (ka BP)
+-6.8
+-7.2
+-7.6
+-8
+δ18O(‰,VPDB)
+-3.2
+-4
+-4.8
+-5.6
+-6.4
+δ13C (‰,VPDB)
+9
+8
+7
+6
+5
+4
+3
+100 * Mg/Ca
+0.24
+0.2
+0.16
+0.12
+0.08
+100 * Ba/Ca
+28
+24
+20
+16
+12
+8
+4
+100 * Sr/Ca
+77% var.
+72% var.
+c
+d
+Correlation coefficient
+Correlation coefficient
+δ18O
+δ13C
+Mg/Ca
+Sr/Ca
+Ba/Ca
+(X/Ca) PC1
+δ18O
+δ13C
+Mg/Ca
+Sr/Ca
+Ba/Ca
+(X/Ca) PC1
+0.49**
+0.48**
+0.44**
+0.46**
+0.51**
+0.63**
+0.38*
+0.47**
+0.55**
+0.37**
+0.54**
+0.72**
+1.00
+1.00
+1.00
+1.00
+0.80**
+0.88**
+1.00
+0.94**
+1.00
+0
+0.2
+0.4
+0.6
+0.8
+1
+ 
+δ18O
+δ13C
+Mg/Ca
+Sr/Ca
+Ba/Ca
+(X/Ca) PC1
+δ18O
+δ13C
+Mg/Ca
+Sr/Ca
+Ba/Ca
+(X/Ca) PC1
+0.49**
+0.24
+0.33**
+0.24*
+0.31**
+0.03
+0.48**
+0.28**
+0.31*
+0.59**
+0.48**
+1.00
+1.00
+1.00
+0.77**
+1.00
+0.85**
+0.94**
+1.00
+0.91**
+1.00
+0
+0.2
+0.4
+0.6
+0.8
+1
+ 
+CXY1701
+MD12
+MD12
+CXY1701
+a
+b
+North China
+South China
+Fig. 2 | Multi-proxy time series and their correlation for stalagmites MD12 and
+CXY1701. a Stable isotope (δ18O, δ13C), trace element ratios (Mg/Ca, Sr/Ca, Ba/Ca),
+and PC1 of the trace element ratios (X/Ca) of stalagmite MD12 from northeastern
+China. The vertical gray bar highlights the 2.8 ka event. b Same as (a) but for
+stalagmite CXY1701 from southeastern China. c, d Correlation heat map of the
+stable isotope and trace element data for MD12 and CXY1701, respectively. The
+correlation is calculated using 3-year bins whenthe records had different resolutions.
+“*” denotes p ≤0.05, “**” denotes p ≤0.01.
+https://doi.org/10.1038/s43247-025-02769-1
+Article
+Communications Earth & Environment | (2025) 6:808 
+3
+
+
+===== PAGE 4 =====
+
+Gonghai Lake25 and Daihai Lake45, in northern China, both show decreased
+precipitation during this event, within the age uncertainty (Fig. 3d). The Sr/
+Ca record from Xianglong cave in northwestern China indicates a dry
+climate during this event46 (Fig. 3e). A recent pollen-based precipitation
+reconstruction from lacustrine sediments of the Pu Tian core in the lower
+Yellow River region indicate a decline in precipitation during this event47
+(Fig. 3f). Archeological evidence indicates that during the 2.8 ka event, the
+groundwaterlevelinthelowerYellowRiverareawas~3 mlowerthantoday,
+and the number of water wells increased signiﬁcantly in the middle and
+lower Yellow River region11 (Fig. 3g). Furthermore, historical records19,48
+document fourteen droughts during 2.6–3.0 ka, seven of which occurred
+during this period, suggesting a high frequency of droughts linked to this
+event (Fig. 3 and Supplementary Table 1). Due to limited historical records,
+these drought accounts provide qualitative support for climate anomalies,
+Fig. 3 | Comparisons of Northern Hemisphere
+temperature, stacked stalagmite δ18O, hydro-
+logical proxy records and archeological data.
+a Northern Hemisphere temperature anomaly
+record40. b Stacked stalagmite δ18O record across the
+monsoon region of China (see Supplementary Fig. 5
+for details). cPC1 of the MD12 trace elementrecords
+(X/Ca PC1) (this study). d Pollen-based precipita-
+tion reconstruction from Gonghai lake25 (lighter
+curve) and Daihai lake45 (darker curve). e Sr/Ca
+record for stalagmite XL16 from Xianglong cave in
+Northwestern China46. f Pollen-based precipitation
+reconstruction from lacustrine sediments of the Pu
+Tian core in the middle and lower Yellow River areas
+(Henan)47. g Number of water wells in the middle
+and lower Yellow River areas11. h Environmental
+magnetic parameter IRMsoft-ﬂux (representing det-
+rital inputs) in stalagmite HS4 from Heshang cave49.
+i Grain size end-member fraction (EM4) from the
+JH001 sediment core from the Jianghan Plain, a
+proxy of paleoﬂoods50. j PC1 of stalagmite CXY1701
+trace element records (X/Ca PC1) (this study).
+k Number of archeological sites in the monsoon
+region of China64,75. Speciﬁcally, N = 208 arche-
+ological sites and n = 449 radiocarbon dates are
+included in the dataset. l δ13C data of human bones
+of upper and lower socio-economic status from
+different archeological sites in Northern China61. ‘×‘
+represents dry events recorded in historical docu-
+ments (Supplementary Table 1). The vertical gray
+bar highlights the 2.8 ka event.
+2
+0
+-2
+CXY1701
+(X/Ca)_PC1
+2.40
+2.50
+2.60
+2.70
+2.80
+2.90
+3.00
+Age (ka BP)
+3
+1.5
+0
+-1.5
+-3
+MD12 (X/Ca)_PC1
+40
+20
+0
+Number of water wells
+500
+520
+540
+560
+Precipitation (mm)
+300
+350
+400
+Precipitation (mm)
+1.2
+0.6
+0
+-0.6
+-1.2
+0
+15
+30
+Number of sites
+0
+1
+2
+0
+25
+50
+EM4 (%)
+5
+4
+3
+2
+ 1000*Sr/Ca
+(counts/counts)
+-8
+-10
+-12
+-14
+-16
+-1.2
+-0.6
+0
+Temperature
+anomaly (℃)
+500
+600
+700
+800
+900
+Precipitation (mm)
+Wester Zhou Empire
+Spring and Autumn period
+a
+b
+c
+d
+e
+f
+g
+h
+i
+North China
+South China
+Weak
+EASM
+Dry
+Dry
+Dry
+Wet
+Wet
+Dry
+Wet
+Cold
+j
+k
+l
+Dry
+Miaodong Cave
+Gonghai Lake & Daihai Lake
+Xianglong Cave
+Heshang Cave
+Xianyun Cave
+Middle and lower Yellow River
+Jianghan Plain
+Stacked δ18O
+IRMsoft_flux 
+(×10-9Am2 yr-1)
+δ13C(‰)
+Pu Tian core, Henan
+Upper status
+Lower status
+Monsoon region of China
+Northern China
+https://doi.org/10.1038/s43247-025-02769-1
+Article
+Communications Earth & Environment | (2025) 6:808 
+4
+
+
+===== PAGE 5 =====
+
+not quantitative evidence of drought frequency. The above results indicate
+that northern China experienced drought conditions during the 2.8 ka weak
+monsoon event. Conversely, in southern China, hydrological records from
+the Yangtze River valley indicate wet conditions during this event, as seenin
+the environmental magnetic record from Heshang cave49 (Fig. 3h) and a
+recentpaleo-ﬂoodrecordfromtheJianghanPlain50(Fig.3i).Insoutheastern
+China, our stalagmite CXY1701 X/Ca PC1 record also indicates an overall
+wet climate during the 2.8 ka event (Fig. 3j). This study conﬁrms that the
+dipolar pattern of precipitation observed over the past few decades also
+occurred in the past, on the centennial timescale.
+Possible mechanism of the 2.8 ka event
+The 2.8 ka event coincided with a grand solar minimum (Homeric mini-
+mum) during the late Holocene51 (Supplementary Fig. 7a). This synchro-
+neity supports the view that this event was driven by a change in solar
+activity27,41,52.Theclimaticimpactofsolarvariabilitymaybeampliﬁedbythe
+“top-down” stratospheric ozone mechanism, and/or the “bottom-up”
+coupled atmospheric–oceanic mechanism53,54. Previous research based on
+annually laminated sedimentary records from Meerfelder Maar Lake in
+Germany, and on model simulations, has revealed that the low solar activity
+during the 2.8 ka event led to the strengthening and southward shift of the
+westerly jet (Supplementary Fig. 7c), via the “top-down” mechanism52. This
+strengthening and southward shift of the westerly jet can limit the north-
+ward extent of the southernly monsoon airﬂow penetrating into East
+Asia34,55. As a result, the major rainbelt remains in the south, causing
+increasedprecipitationinsouthernChinaanddecreasedrainfallinnorthern
+China. However, the response of tropical ocean processes to solar radiation
+may also play an important role53. During the Homeric minimum, an
+increase in El Niño-Southern Oscillation (ENSO) activity was observed56
+(Supplementary Fig. 7d), which may have contributed to the dipolar pre-
+cipitation pattern in eastern China. During the decaying phase of El Niño,
+cooler sea surface temperatures of the West Paciﬁc may lead to the south-
+ward movement of the subtropical high and the rainbelt, resulting in more
+rainfall in southern China (especially in the Yangtze River valley) and
+reduced rainfall in northern China57,58.
+Collapse of the Western Zhou Dynasty and population migration
+Climate and civilization are closely linked. Climate inﬂuences the devel-
+opment and sustainability of societies via its effects on key factors, including
+agriculture, water resources, and economic stability. A favorable climate is a
+prerequisite for the maintenance of food production and water supplies,
+which are essential for the prosperity of civilization; while adverse climatic
+conditions—like droughts, ﬂoods, or temperature shifts—often led to
+societal stress or collapse2–4,30,59. Previous studies have shown that changes in
+the East Asian monsoon had a profound impact on the succession of
+Chinesedynasties59,60.However,thedetailedimpactsofchangesinmonsoon
+circulation and the regional hydroclimate on the collapse of dynasties, as
+well as on population migration, on the centennial timescale, are poorly
+understood. The 2.8 ka event coincided with the historical transition from
+the Western Zhou (1045–771 BC) to the Spring and Autumn Period
+(771–476 BC) in ancient China, which was a period of political and social
+turmoil10,11.Thesynchroneityofthe2.8kaeventandsocialunrestpointstoa
+potential causal relationship between them, and this climatic event thus
+offers the opportunity to examine the impact of climate change on the
+collapse of the Western Zhou and subsequent population migration.
+Agricultural production was the mainstay of the economy of the
+Western Zhou17,18. Verses in ancient texts such as “With your ten thousand
+men all in pairs” (from the Yixi ode) and “And the ground is laid open by
+their ploughs; In thousands of pairs they remove the roots” (from the
+Zaishan ode) reﬂect the intensity of agricultural activity during the Western
+Zhou period. However, agricultural output was highly susceptible to climate
+variability, particularly in northern China, where rainfall was limited.
+During the 2.8 ka event, drought and cold in northern China likely had a
+severe impact on agriculture. When drought restricted growing-season
+moisture availability, cooling may have further impaired crop development
+by reducing growing-season temperatures or duration. Carbon isotope
+values from human skeletal remains in northern China show a decreasing
+trendafter~800 BC,indicatingadietaryshiftfromprimarilyC₄-basedfoods
+(e.g., millet) to increasing reliance on C₃-based foods (e.g., wheat)61 (Fig. 3l).
+This transition likely reﬂects changes in crop availability and adaptive
+survival strategies. Furthermore, historical records from the “Zhu Shu Ji
+Nian” describe unusual seasonal phenomena—peaches and apricots
+ripened two months late in October (772 BC), suggesting marked climatic
+anomalies that would have disrupted agricultural productivity. These lines
+of evidence demonstrate that drought and cold during the 2.8 ka event had a
+direct and adverse impact on agricultural systems, particularly in the semi-
+arid regions of northern China. Therefore, the 2.8 ka event likely presented
+the northern nomadic tribes with resource shortages, forcing them to
+migrate southward to obtain resources and food. This may have led to
+frequent conﬂicts and wars between the nomadic tribes and the Western
+Zhou; indeed, inscriptions on bronze artifacts indicate frequent wars
+between the two during the lateWestern Zhou6.Therefore, the combination
+of adverse climatic conditions and wars seemingly weakened the Western
+Zhou, eventually leading to its collapse in 771 BC (2.721 ka BP), when
+nomadic tribes attacked its capital. The survivors of the Zhou Dynasty
+abandoned their homeland and moved ~400 km eastward across the gorges
+of the Yellow River to the Luoyang Basin6,10.
+To further explore the impact of the 2.8 ka event on this population
+migration, we analyzed the spatial changes in the density of radiocarbon
+datesofarcheologicalsitesacrossthemonsoonregionofChinabefore(2.87‒
+2.77 ka BP), during (2.77‒2.65 ka BP), and after (2.65‒2.55 ka BP) the 2.8 ka
+event (Fig. 4). This follows the assumption that the density of radiocarbon
+dates at archeological sites can reﬂectpast ﬂuctuationsinhuman population
+size (e.g., refs. 62–65). The results show that, before the 2.8 ka event, the
+radiocarbon dates of archeological sites were concentrated in the adminis-
+trative center of the Western Zhou Dynasty (Feng-hao, Fig. 4a), located in
+present-day Xi’an, indicating that the population was concentrated in this
+region. However, a remarkable shift occurred during the 2.8 ka event, when
+the number of archeological sites and associated radiocarbon dates
+decreased in previously inhabited regions, and the spatial distribution of
+radiocarbon dates of archeological sites became more dispersed (Figs. 3k,
+4b).Concurrently,therewasanincreaseinthenumberof archeologicalsites
+alongthemiddleandlowerreachesofthe YangtzeRiver,inthesoutheastern
+region(Fig.4b),indicatingpopulationmigrationtothisarea.Afterthe2.8ka
+event, the numbers of archeological sites and radiocarbon dates increased
+signiﬁcantly (Figs. 3k, 4c), and the middle and lower reaches of the Yangtze
+River became a new population center (Fig. 4c). In addition, recent studies
+provide archeological and genomic support for population migration dur-
+ing thetransition from the Western Zhou totheSpringand Autumnperiod.
+For example, Li pottery, a cooking tripod originally from the Yellow River
+basin, spread southeast into the Jianghuai region after ~2.8 ka BP14. At the
+same time, agriculture in the Jianghuai region shifted from mainly rice
+farming to the mixed cropping pattern, which suggests that people from
+northern dryland farming areas migrated into this region and brought their
+agricultural practices with them14. Furthermore, ancient genomic data from
+13 individuals at the Shangshihe cemetery in Yima, Henan, reveal genetic
+admixture from the Yellow River, Yangtze River, and Eurasian Steppe
+regions15. This indicates increased population migration and interactions
+between different regions during this period.
+The dispersal and migration of populations in China during the 2.8 ka
+event were arguably a consequence of adverse climatic conditions and wars
+(Figs.1, 3). Duringthe 2.8 ka event, prolonged drought and cold innorthern
+China may have reduced crop yields, which would have led to food
+shortages and famine. Concurrently, conﬂicts with nomadic tribes exacer-
+bated this situation, forcing the majority of the inhabitants of the Feng-hao
+area to abandon their settlements in search of more hospitable environ-
+ments. In contrast, southern China experienced relatively favorable condi-
+tions during this period (Fig. 3h–j), which prompted the southward
+migration of population and led to an increase in the number of arche-
+ological sites in the middle and lower reaches of the Yangtze River (Fig. 4b).
+https://doi.org/10.1038/s43247-025-02769-1
+Article
+Communications Earth & Environment | (2025) 6:808 
+5
+
+
+===== PAGE 6 =====
+
+After the 2.8 ka event, the recovery of the monsoon, improved climatic
+conditions, and adjustments in crop structure in response to environmental
+stress collectively contributed to population growth across the monsoon
+region,andthemiddleandlowerreachesoftheYangtzeRiverbecameanew
+population center (Fig. 4c).
+Conclusion
+We provide the ﬁrst robust evidence to show that climate deterioration was
+the underlying factor in the demise of the Western Zhou and subsequent
+population migration. Two precisely-dated multi-proxy (stable isotope and
+trace elements) stalagmite records from Northeast and Southeast China,
+covering the interval of 2.95–2.50ka BP, were yielded. Our results show that
+the 2.8 ka weak monsoon event primarily occurred during 2.77‒2.65 ka BP,
+with a duration of ~120 years and centered on ~2.70 ± 0.01 ka BP. Com-
+bining this evidence with other palaeohydrological records, we observed a
+“north dry–south wet” dipolar pattern in the Chinese monsoon region
+during this weak monsoon event. During the 2.8 ka event, severe drought
+and cold in northern China profoundly affected the core regions of the
+Western Zhou, contributing to its decline. Concurrently, the drought and
+coldforcedthesouthwardmigrationofnorthernnomadictribesinsearchof
+resources, which intensiﬁed conﬂicts with the Western Zhou, and these
+combined pressuresultimatelyled to the demiseof the WesternZhouin771
+BC. Furthermore, by integrating archeological data, we found that adverse
+climatic conditions and conﬂicts in northern China may have triggered
+signiﬁcant population migration toward southern China, where the climate
+was relatively humid.
+Methods
+Cave sites, modern climate, and samples
+Miaodong cave (41.05°N, 125.52°E, 193 m above sea level (a.s.l.)) is in
+Huanren county, Benxi City, Liaoning Province, in northeastern China.
+Thisregionhasatemperatemonsoonclimate,withwarm/wetsummersand
+cold/dry winters. The annual mean rainfall and air temperature of the two
+meteorological stations near Miaodong cave are 752 ± 157 mm and
+8.4 ± 0.7°C,respectively(1951–2012)(SupplementaryFig.1d).Over80%of
+the total annual precipitation occurs from June to September (Supple-
+mentary Fig. 1a). Miaodong cave is developed in Ordovician and Cambrian
+carbonate rocks, at a depth of 30–70 m below the surface. The cave is 500 m
+long with a cave air temperature of ~11.5 °C and relative humidity greater
+than 95% all year27. Two-year (2012–2013) cave monitoring indicated that
+the drip water δ18O mainly inherits the signal of summer precipitation
+δ18O27.
+Xianyun cave (25.55°N, 116.98°E, 968 m a.s.l.) is in Laiyuan county,
+260 km southwest of Fuzhou City, Fujian Province, in southeastern China.
+Today, this region is dominated by a typical subtropical monsoon climate.
+Two meteorological stations near Xianyun cave show that the annual mean
+rainfall and temperature are 1641 ± 314 mm and 20.5 ± 0.4 °C, respectively
+(1951–2016) (Supplementary Fig. 1e). More than 50% of the total annual
+precipitation occurs from June to September (Supplementary Fig. 1a).
+Xianyun cave is developed in Permian limestone at a depth of 10–60 m. The
+cave is ~2500 m long and has a year-round air temperature of ~17.5 °C and
+relative humidity close to 100%66,67.
+Stalagmite MD12 was collected from Miaodong cave, 400 m behind
+the entrance. MD12 is 169 mm long and composed of calcite27. Stalagmite
+CXY1701 was collected in the southern branch gallery of Xianyun cave,
+~600 m beyond the entrance (Supplementary Fig. 1c). CXY1701 is 145 mm
+in length and composed of calcite. In this study, we focus on the lower
+80 mm of MD12 and the 30–145 mm interval of CXY1701 (Supplemen-
+tary Fig. 2).
+230Th dating
+The results of
+230Th dating of stalagmite MD12 have been reported
+previously27. For the new stalagmite CXY1701, calcite samples with weights
+of ~15 mg were obtained along the growth axis using a 0.3-mm carbide
+dental burr. The U and Th isotope ratios were measured at the Institute of
+Geology and Geophysics, Chinese Academy of Sciences, using a multi-
+collector inductively coupled plasma-mass spectrometer (MC-ICP-MS)
+(ThermoScientiﬁcNeptunePlus).ThechemicalprocedureforseparatingU
+and Th68,69, and details of the instrumental procedures are given in previous
+studies70. 230Th ages relative to AD 1950 (with 2-sigma errors) were calcu-
+lated using the half-lives in Jaffey et al.71 and Cheng et al.70, assuming an
+initial 230Th/232Th atomic ratio of (4.4 ± 2.2) × 10−6, and the values for a
+material at secular equilibrium with the bulk earth 232Th/238U value of 3.8.
+Age models
+We used point-wise linear interpolation, COPRA (Constructing Proxy
+Records from Age models)20 and ISCAM (intra-site correlation age
+modeling)21 schemes to construct the age models for stalagmites CXY1701
+and MD12. The COPRA algorithm was used to generate 1000 random age
+realizations within the dating uncertainties, and the median ages are then
+used. The ISCAM approach uses a piecewise cubic Hermite interpolating
+polynomial between dates to obtain the best correlation among the
+CXY1701 and MD12 δ18O time series, calculated from 10,000 Monte Carlo
+simulations (within the age uncertainties). Conﬁdence levels of the age-
+depth models were calculated against a red-noise background using 1000
+pairs of artiﬁcially simulated ﬁrst-order autoregressive time series (AR1).
+Stable isotope analysis
+The oxygen isotope data of stalagmite MD12, at a 1 mm resolution, have
+been reported previously27. To further improve the resolution, we milled
+  90°E 
+  99°E  108°E  117°E  126°E  135°E 
+  18°N
+  24°N
+  30°N
+  36°N
+  42°N
+  48°N
+  90°E 
+  99°E  108°E  117°E  126°E  135°E 
+  18°N
+  24°N
+  30°N
+  36°N
+  42°N
+  48°N
+  90°E 
+  99°E  108°E  117°E  126°E  135°E 
+  18°N
+  24°N
+  30°N
+  36°N
+  42°N
+  48°N
+0
+0.1
+0.2
+0.3
+10-2
+0
+0.2
+0.4
+0.6
+0.8
+1
+10-2
+Probability density estimate of 14C dates
+Probability density estimate of 14C dates
+10-2
+Probability  density estimate of 14C dates
+0
+0.1
+0.2
+0.3
+a
+b 
+Before 2.8 ka event (2.87-2.77 ka BP)
+During 2.8 ka event (2.77-2.65 ka BP)
+c
+After 2.8 ka event (2.65-2.55 ka BP)
+Modern EASM Limit
+Modern EASM Limit
+Modern EASM Limit
+N=78
+N=67
+N=108
+Feng-hao
+Fig. 4 | Probability distribution of radiocarbon dates (14C) of archeological sites
+before, during, and after the 2.8 ka event (dots and shading). a Before the 2.8 ka
+event (2.87‒2.77 ka BP). The yellow circle denotes the capital of the Western Zhou
+(Feng-hao). b During the 2.8 ka event (2.77‒2.65 ka BP). c After the 2.8 ka event
+(2.65‒2.55 ka BP). Archeological radiocarbon dates are summarized from Wang
+et al.64 and Dong et al.75.
+https://doi.org/10.1038/s43247-025-02769-1
+Article
+Communications Earth & Environment | (2025) 6:808 
+6
+
+
+===== PAGE 7 =====
+
+calcite powder continuously along the stalagmite’s growth axis using a
+stainless-steel surgical blade. Twelve sub-samples per millimeter were taken
+and each weighing 120–150 μg. Sub-sampling of stalagmite MD12 was
+measured every third interval, equating to three samples per millimeter. For
+stalagmite CXY1701, we used a 0.3 mm carbide dental burr to drill
+120–150 μg sub-samples at 0.5 mm intervals along the growth axis. A total
+of 481 sub-samples, 214 from CXY1701 and 240 from MD12, were mea-
+sured.Stableisotopemeasurementsofbothstalagmiteswereperformedona
+MAT-253 mass spectrometer linked to an online carbonate preparation
+system (Kiel-IV) at the College of Geological Science, Fujian Normal Uni-
+versity.
+The
+international
+standard
+IAEA-603
+(δ18O = −2.37‰,
+δ13C = 2.46‰)
+and
+in-house
+standard
+CAI-13
+(δ18O = −9.46‰,
+δ13C = −10.73‰) were bracketed to evaluate accuracy and precision. The
+one-sigma uncertainty was better than ±0.06‰ for δ18O and ±0.03‰ for
+δ13C. All isotope values are reported in per mill (‰) relative to the Vienna
+Pee Dee Belemnite Standard (VPDB).
+Trace element analysis
+The trace element ratios Mg/Ca, Sr/Ca, and Ba/Ca were measured by Laser
+ablation-inductively-coupled plasma-mass spectrometry (LA-ICP-MS) at
+the National Research Center for Geoanalysis, Beijing, China, using a New
+Wave UP213 laser ablation system (wavelength = 213 nm; Fremont, USA),
+coupled to a Thermo Finnigan Element Ⅱsector ﬁeld ICP-MS. Helium was
+used as the carrier gas due to its advantages in signal enhancement72. The
+laser ablation was conducted in line scanning mode, targeting the growth
+axes of the stalagmites. The laser repletion rate was 10 Hz, with a laser spot
+diameter of 50 μm and scan speed of 10 μm/s. The length of a continuous
+sample scan is 2 mm each time. NIST SRM 610 and NIST SRM 612 were
+used for the external calibration standard and data quality control. The
+analysis yielded a total of 44,372 trace element measurements: 20,912 from
+MD12 (ranging from 2.5 to 75 mm) and 23,460 from CXY1701 (ranging
+from 50 to 138 mm). The trace element data for the stalagmites were then
+binned to achieve a spatial resolution of 50 μm.
+Stacking the stalagmite δ¹⁸O records
+To construct a composite δ¹⁸O time series reﬂecting the overall EASM
+intensity associated with large-scale atmospheric circulation, we stacked
+multiple high-resolution stalagmite δ¹⁸O records from the East Asian
+monsoon domain during the 3.0–2.4 ka BP interval. All individual δ¹⁸O
+records were ﬁrst standardized (z-score) to remove site-speciﬁc differences
+in mean and amplitude. Each standardized record was then binned into 10-
+year intervals, as all included records have temporal resolutions better than
+10 years. For each time bin, the median of the available δ¹⁸O values was
+calculated to represent the composite δ¹⁸O record, thereby reducing the
+inﬂuence of outliers. Additionally, we computed the standard deviation
+across all records within each bin to estimate the variability and uncertainty
+of the stacked curve.
+Statistical analysis
+Pearson correlation coefﬁcients between the time series were calculated
+(Fig. 2 and Supplementary Figs. 3, 4). The statistical signiﬁcance of the
+correlations was determined using the “isopersistent” test. The “iso-
+persistent” test assesses the signiﬁcance via a non-parametric (Monte Carlo)
+simulation of correlations with a large number (e.g., 10,000) ﬁrst-order
+autoregressive (AR1) processes, with identical persistence properties as the
+original time series73.
+Reporting summary
+Further information on research design is available in the Nature Portfolio
+Reporting Summary linked to this article.
+Data availability
+The data presented in this study are publicly available from the ﬁgshare
+archive https://doi.org/10.6084/m9.ﬁgshare.29967898.v1.
+Received: 1 April 2025; Accepted: 4 September 2025;
+References
+1.
+Xiang, L. X. et al. Prehistoric population expansion in Central Asia
+promoted by the Altai Holocene Climatic Optimum. Nat. Commun. 14,
+3102 (2023).
+2.
+Steel, D., DesRoches, C. T. & Mintz-Woo, K. Climate change and the
+threat to civilization. Proc. Natl. Acad. Sci. USA 119, e2210525119
+(2022).
+3.
+Manning, S. W., Kocik, C., Lorentzen, B. & Sparks, J. P. Severe multi-
+year drought coincident with Hittite collapse around 1198–1196 BC.
+Nature 614, 719–724 (2023).
+4.
+Fleitmann, D. et al. Droughts and societal change: the environmental
+context for the emergence of Islam in late Antique Arabia. Science
+376, 1317–1321 (2022).
+5.
+Douglas, P. M. J., Demarest, A. A., Brenner, M. & Canuto, M. A.
+Impacts of climate change on the collapse of Lowland Maya
+civilization. Annu. Rev. Earth Planet. Sci. 44, 613–645 (2016).
+6.
+Li, F. Landscape and Power in Early China: The Crisis and Fall of the
+Western Zhou 1045‒771 BC (Cambridge University Press, 2006).
+7.
+Tan, Q. The Historical Atlas of China (Sino Maps Press, 1982).
+8.
+Shaughnessy, E. L. Sources of Western Zhou History: Inscribed
+Bronze Vessels (California University Press, 1992).
+9.
+Li, F. The Western Zhou state in Routledge Handbook of Early Chinese
+History (ed. Goldin, P.) (Routledge, 2018).
+10. Huang, C. C. & Su, H. Climate change and Zhou relocations in early
+Chinese history. J. Hist. Geogr. 35, 297–310 (2009).
+11. Yu, S. Y. et al. Ancient water wells reveal a prolonged drought in the
+lower Yellow River area about 2800 years ago. Sci. Bull. 63,
+1324–1327 (2018).
+12. Ren, W. A veriﬁcation of Guo state. J. Hist. Sci. 2, 22–27 (2001).
+13. Peng, Y. An examination of the eastward movement of the state of
+Guo. Hist. Res. 5, 12–22 (2006).
+14. Jia, X. et al. The “2.8 ka BP cold event” indirectly inﬂuenced the
+agricultural exploitation during the Late Zhou Dynasty in the coastal
+areas of the Jianghuai Region. Front. Plant Sci. 13, 902534 (2022).
+15. Wu, X. et al. Ancient genomes reveal the genetic structure and
+population interaction in the Central Plains of China during the Eastern
+Zhou Period. Front. Microbiol. 16, 1602625 (2025).
+16. Li, F. Early China: A Social and Cultural History (Cambridge University
+Press, 2013).
+17. Yang, K. History of the Western Zhou Dynasty (Shanghai People’s
+Publishing House, 2019).
+18. Zhang, G., Li, X. & Meng, S. The History and Civilization of the Western
+Zhou Dynasty (Shanghai Scientiﬁc and Technological Literature
+Publishing Press, 2007).
+19. Wang, S. W., Huang, J. B., Wen, X. Y. & Zhu, J. H. Evidence and
+modeling study of droughts in China during 4-2 ka BP. Sci. Bull. 53,
+2215–2221 (2008).
+20. Breitenbach, S. F. M. et al. Constructing proxy records from age
+models (COPRA). Clim. Past 8, 1765–1779 (2012).
+21. Fohlmeister, J. A statistical approach to construct composite climate
+records of dated archives. Quat. Geochronol. 14, 48–56 (2012).
+22. Wang, Y. J. et al. A high-resolution absolute-dated Late Pleistocene
+monsoon record from Hulu Cave, China. Science 294, 2345–2348
+(2001).
+23. Pausata, F. S. R., Battisti, D. S., Nisancioglu, K. H. & Bitz, C. M.
+Chinese stalagmite δ18O controlled by changes in the Indian monsoon
+during a simulated Heinrich event. Nat. Geosci. 4, 474–480 (2011).
+24. Tan, M. Circulation effect: response of precipitation δ18O to the ENSO
+cycle in monsoon regions of China. Clim. Dyn. 42, 1067–1077 (2013).
+25. Chen, F. et al. East Asian summer monsoon precipitation variability
+since the last deglaciation. Sci. Rep. 5, 11186 (2015).
+https://doi.org/10.1038/s43247-025-02769-1
+Article
+Communications Earth & Environment | (2025) 6:808 
+7
+
+
+===== PAGE 8 =====
+
+26. Cheng, H. et al. The Asian monsoon over the past 640,000 years and
+ice age terminations. Nature 534, 640–646 (2016).
+27. Cai, B. G. et al. Variability of Eastern Asian summer monsoon during
+2.8 ka climate event recorded in a stalagmite oxygen isotope
+sequence from Miaodong Cave, Northeastern China. Quat. Sci. 39,
+755–764 (2019).
+28. Li, M. F. et al. Timing and structure of 10.9 and 10.3 ka BP events
+revealed by annually laminated stalagmite records from Shihua Cave,
+Northern China. Paleoceanogr. Paleoclim. 37, e2022PA004459
+(2022).
+29. Wang, F. et al. Multi-decadal to centennial scales variability in the East
+Asian Summer Monsoon around the 5.5 kyr BP climate event.
+Palaeogeogr. Palaeoclimatol. Palaeoecol. 607, 111262 (2022).
+30. Zhang, H. W. et al. Collapse of the Liangzhu and other Neolithic
+cultures in the lower Yangtze region in response to climate change.
+Sci. Adv. 7, eabi9275 (2021).
+31. Johnson,K. R., Hu, C. Y., Belshaw,N. S. & Henderson, G. M. Seasonal
+trace-element and stable-isotope variations in a Chinese speleothem:
+the potential for high-resolution paleomonsoon reconstruction. Earth
+Planet. Sci. Lett. 244, 394–407 (2006).
+32. Fairchild, I. J. & Treble, P. C. Trace elements in speleothems as
+recorders of environmental change. Quat. Sci. Rev. 28, 449–468
+(2009).
+33. Grifﬁths, M. L. et al. Evidence for Holocene changes in Australian-
+Indonesian monsoon rainfall from stalagmite trace element and stable
+isotope ratios. Earth Planet. Sci. Lett. 292, 27–38 (2010).
+34. Zhang, H. B. et al. East Asian hydroclimate modulated by the position
+of the westerlies during Termination I. Science 362, 580–583 (2018).
+35. Fairchild, I. J. et al. Controls on trace element (Sr-Mg) compositions of
+carbonate cave waters: implications for speleothem climatic records.
+Chem. Geol. 166, 255–269 (2000).
+36. Musgrove, M. & Banner, J. L. Controls on the spatial and temporal
+variability of vadose dripwater geochemistry: Edwards Aquifer,
+central Texas. Geochim. Cosmochim. Acta 68, 1007–1020 (2004).
+37. Wong, C. I., Banner, J. L. & Musgrove, M. Seasonal dripwater Mg/Ca
+and Sr/Ca variations driven by cave ventilation: implications for and
+modeling of speleothem paleoclimate records. Geochim.
+Cosmochim. Acta 75, 3514–3529 (2011).
+38. Bond, G. et al. A pervasive millennial-scale cycle in North Atlantic
+Holocene and glacial climates. Science 278, 1257–1266 (1997).
+39. Bond, G. et al. Persistent solar inﬂuence on North Atlantic climate
+during the Holocene. Science 294, 2130–2136 (2001).
+40. Kobashi, T., Goto-Azuma, K., Box, J. E., Gao, C. C. & Nakaegawa, T.
+Causes of Greenland temperature variability over the past 4000 yr:
+implications for northern hemispheric temperature changes. Clim.
+Past 9, 2299–2317 (2013).
+41. Zhang, Z. Q. et al. Multi-scale variability of the Asian monsoon
+recorded in an annually-banded stalagmite during the Neoglacial from
+Qixing Cave, Southwestern China. Quat. Int. 487, 78–86 (2018).
+42. Jin, X. H., Hu, C. Y., Hu, Z. Y., Fan, H. W. & Liu, Y. H. Weakening
+monsoon event during 2.8 ka BP in East China linked to the North
+Atlantic cooling. Quat. Sci. Rev. 306, 108037 (2023).
+43. Yu, R. C., Wang, B. & Zhou, T. J. Tropospheric cooling and summer
+monsoon weakening trend over East Asia. Geophys. Res. Lett. 31, 22
+(2004).
+44. Ding, Y. H., Wang, Z. Y. & Sun, Y. Inter-decadal variation of the
+summer precipitation in East China and its association with
+decreasing Asian summer monsoon. Part I: Observed evidences. Int.
+J. Climatol. 28, 1139–1161 (2008).
+45. Xu, Q. H., Xiao, J. L., Li, Y. C., Tian, F. & Nakagawa, T. Pollen-based
+quantitative reconstruction of Holocene climate changes in the Daihai
+Lake Area, Inner Mongolia, China. J. Clim. 23, 2856–2868 (2010).
+46. Tan, L. C. et al. Centennial- to decadal-scale monsoon precipitation
+variations in the upper Hanjiang River region,China over the past 6650
+years. Earth Planet. Sci. Lett. 482, 580–590 (2018).
+47. Chen, P., Zhou, X., Hu, L., Liu, C. & Hui, Z. Late Holocene vegetation
+succession and climate change in the Central Plains of China:
+evidence from a high-resolution pollen record. Catena 248, 108589
+(2025).
+48. Zhang, D. E. A Compendium of Chinese Meteorological Records of
+the Last 3000 Years (Jiangsu Education House, 2004).
+49. Zhu, Z. M. et al. Holocene ENSO-related cyclic storms recorded by
+magnetic minerals in speleothems of central China. Proc. Natl. Acad.
+Sci. USA 114, 852–857 (2017).
+50. Guan, S., Yang, Q., Li, Y. A., Liu, H. Y. & Gu, Y. S. River ﬂooding
+response to ENSO-related monsoon precipitation: evidence from late
+Holocene core sediments in the Jianghan Plain. Palaeogeogr.
+Palaeoclimatol. Palaeoecol. 589, 110834 (2022).
+51. Steinhilber, F. et al. 9,400 years of cosmic radiation and solar activity
+from ice cores and tree rings. Proc. Natl. Acad. Sci. USA 109,
+5967–5971 (2012).
+52. Martin-Puertas, C. et al. Regional atmospheric circulation shifts
+induced by a grand solar minimum. Nat. Geosci. 5, 397–401 (2012).
+53. Meehl, G. A., Arblaster, J. M., Matthes, K., Sassi, F. & van Loon, H.
+Amplifying the Paciﬁc climate system response to a small 11-year
+solar cycle forcing. Science 325, 1114–1118 (2009).
+54. Gray, L. J. et al. Solar inﬂuences on climate. Rev. Geophys. 48,
+RG4001 (2010).
+55. Chiang, J. C. H. et al. Role of seasonal transitions and westerly jets in
+East Asian paleoclimate. Quat. Sci. Rev. 108, 111–129 (2015).
+56. Moy, C. M., Seltzer, G. O., Rodbell, D. T. & Anderson, D. M. Variability
+of El Nino/Southern Oscillation activity at millennial timescales during
+the Holocene epoch. Nature 420, 162–165 (2002).
+57. Huang,R.H. & Sun, F. Y. Impactsof thetropicalWesternPaciﬁc onthe
+East-Asian summer monsoon. J. Meteorol. Soc. Jpn. 70, 243–256
+(1992).
+58. Jin, D. C., Hameed, S. N. & Huo, L. W. Recent changes in ENSO
+teleconnection over the Western Paciﬁc impacts the Eastern China
+precipitation dipole. J. Clim. 29, 7587–7598 (2016).
+59. Yancheva, G. et al. Inﬂuence of the intertropical convergence zone on
+the East Asian monsoon. Nature 445, 74–77 (2007).
+60. Zhang, P. et al. A test of climate, sun, and culture relationships from an
+1810-year Chinese cave record. Science 322, 940–942 (2008).
+61. Li, X. et al. Dietary shift and social hierarchy from the Proto-Shang to
+Zhou Dynasty in the Central Plains of China. Environ. Res. Lett. 15,
+035002 (2020).
+62. Shennan, S. & Edinborough, K. Prehistoric population history: from
+the late glacial to the late neolithic in central and northern Europe. J.
+Archaeol. Sci. 34, 1339–1345 (2007).
+63. Manning, K. & Timpson, A. The demographic response to Holocene
+climate change in the Sahara. Quat. Sci. Rev. 101, 28–35 (2014).
+64. Wang, C., Lu, H. Y., Zhang, J. P., Gu, Z. Y. & He, K. Y. Prehistoric
+demographic ﬂuctuations in China inferred from radiocarbon data and
+their linkage with climate change over the past 50,000 years. Quat.
+Sci. Rev. 98, 45–59 (2014).
+65. Bevan, A. et al. Holocene ﬂuctuations in human population
+demonstrate repeated links to food production and climate. Proc.
+Natl. Acad. Sci. USA 114, E10524–E10531 (2017).
+66. Zhang, F. Q. et al. Spatial structure and inﬂuencing factors of the
+Xianyun cave in western Fujian Province. J. Subtrop. Resour. Environ.
+13, 88–94 (2018).
+67. Zhang, X. et al. A detailed East Asian monsoon history of Greenland
+Interstadial 21 in southeastern China. Palaeogeogr. Palaeoclimatol.
+Palaeoecol. 552, 109752 (2020).
+68. Wang, L. S., Ma, Z. B., Cheng, H., Duan, W. H. & Xiao, J. L.
+Determination of 230Th dating age of uranium-series standard samples
+by multiple collector inductively coupled plasma mass spectrometry.
+J. Chin. Mass Spectrom. Soc. 37, 262–272 (2016).
+69. Lawrence Edwards, R., Chen, J. H. & Wasserburg, G. J.
+238U-234U-230Th-232Th systematics and the precise measurement of
+https://doi.org/10.1038/s43247-025-02769-1
+Article
+Communications Earth & Environment | (2025) 6:808 
+8
+
+
+===== PAGE 9 =====
+
+time over the past 500,000 years. Earth Planet. Sci. Lett. 81, 175–192
+(1987).
+70. Cheng, H. et al. Improvements in Th-230 dating, 230Th and 234U half-life
+values, and U-Th isotopic measurements by multi-collector
+inductively coupled plasma mass spectrometry. Earth Planet. Sci.
+Lett. 371, 82–91 (2013).
+71. Jaffey, A. H., Flynn, K. F., Glendenin, L. E., Bentley, W. C. & Essling, A.
+M. Precision measurement of half-lives and speciﬁc activities of 235U
+and 238U. Phys. Rev. C4, 1889–1906 (1971).
+72. Eggins, S. M., Kinsley, L. & Shelley, J. Deposition and element
+fractionation processes during atmospheric pressure laser sampling
+for analysis by ICP-MS. Appl. Surf. Sci. 127–129, 278–286 (1998).
+73. McKay, N. P., Emile-Geay, J. & Khider, D. geoChronR—an R package
+to model, analyze, and visualize age-uncertain data. Geochronology
+3, 149–169 (2021).
+74. Zhao, H. et al. Optimization and evaluation of a monthly air
+temperature and precipitation gridded dataset with a 0.025° spatial
+resolution in China during 1951–2011. Theor. Appl. Climatol. 138,
+491–507 (2019).
+75. Dong, G. H., Li, R., Lu, M. X., Zhang, D. J. & James, N. Evolution of
+human-environmental interactions in China from the Late Paleolithic
+to the Bronze Age. Prog. Phys. Geogr. 44, 233–250 (2020).
+Acknowledgements
+We gratefully acknowledge the support from the Laiyuan Cave Scenic Area
+and local peoplein Fujian, and local people in Liaoningduring ﬁeld sampling.
+We sincerely thank the Editor and three anonymous reviewers for their
+constructive comments on the manuscript. We are grateful to Dr.
+Liangcheng Tan for providing the published stalagmite XL16 Sr/Ca data.
+This work was supported by the National Natural Science Foundation of
+China(NSFC) (42488201),the StrategyPriorityResearch Program(Category
+B) of Chinese Academy of Sciences (XDB0710000), the Postdoctoral
+Fellowship Program of Chinese Postdoctoral Science Foundation
+(GZC20232631), the NSFC (42402191), and the National Key Research and
+Development Program of China (2023YFF0804603).
+Author contributions
+B.G.C., L.W. and Q.Z.H. designed the study. B.G.C., M.F.L. and G.L.L.
+collected the samples. M.F.L. performed the oxygen isotope
+measurements. M.F.L. and L.H.Z. performed the trace element
+measurements. M.F.L. and F.W. conducted the 230Th measurements with
+thehelpofZ.B.M.,X.F.W.andL.S.W.M.F.L.carriedoutthedataanalysisand
+produced all the ﬁgures. M.F.L. wrote the ﬁrst draft. Q.Z.H., B.G.C. and L.W.
+contributed to the manuscript revision. All authors contributed to the
+discussion and the ﬁnal version of the manuscript.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains
+supplementary material available at
+https://doi.org/10.1038/s43247-025-02769-1.
+Correspondence and requests for materials should be addressed to
+Luo Wang or Qingzhen Hao.
+Peer review information Communications Earth and Environment thanks
+the anonymous reviewers for their contribution to the peer review of this
+work. Primary handling editors: Jiaoyang Ruan, Alice Drinkwater, and
+Carolina Ortiz Guerrero. A peer review ﬁle is available.
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long
+as you give appropriate credit to the original author(s) and the source,
+provide a link to the Creative Commons licence, and indicate if changes
+were made. The images or other third party material in this article are
+included in the article’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons licence and your intended use is not permitted
+by statutory regulation or exceeds the permitted use, you will need to
+obtain permission directly from the copyright holder. To view a copy of this
+licence, visit http://creativecommons.org/licenses/by/4.0/.
+© The Author(s) 2025
+https://doi.org/10.1038/s43247-025-02769-1
+Article
+Communications Earth & Environment | (2025) 6:808 
+9

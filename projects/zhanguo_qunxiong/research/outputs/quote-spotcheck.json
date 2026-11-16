@@ -1,0 +1,102 @@
+[
+  {
+    "file": "belyaev_2022_historical_video_games.txt",
+    "checks": [
+      {
+        "term": "excludes the possibility of a gamer",
+        "found": true,
+        "page": "7",
+        "snippet": "ideo game broadcasts a general event-driven fabula of a specific historical episode. This excludes the possibility of a gamer’s influence on the global plot which simulates the main dynamics of real historical events. This restructuring model fits well with such linear "
+      }
+    ]
+  },
+  {
+    "file": "odonnell_2026_ludonarrative.txt",
+    "checks": [
+      {
+        "term": "purposeful alignment of mechanical action",
+        "found": false
+      }
+    ]
+  },
+  {
+    "file": "fagan_2023_counterfactual_military.txt",
+    "checks": [
+      {
+        "term": "akin to playing a board game",
+        "found": false
+      }
+    ]
+  },
+  {
+    "file": "park_2023_generative_agents.txt",
+    "checks": [
+      {
+        "term": "memory retrieval model combines",
+        "found": false
+      }
+    ]
+  },
+  {
+    "file": "ahn_2024_timechara.txt",
+    "checks": [
+      {
+        "term": "All baselines exhibit confusion",
+        "found": false
+      }
+    ]
+  },
+  {
+    "file": "nadjamuddin_2026_augmented_historical_simulation.txt",
+    "checks": [
+      {
+        "term": "M = 85.9",
+        "found": true,
+        "page": "1",
+        "snippet": "tal group gained significantly higher  historical thinking skills than the control group (M = 85.9 vs. 77.6; F(1,492)  = 40.68; p < 0.001; η² = 0.314) and maintained their achievements at the  follow-up stage (M = 84.1 vs. 74.8). Historical empathy also increased  signi"
+      }
+    ]
+  },
+  {
+    "file": "karn_2022_historical_empathy.txt",
+    "checks": [
+      {
+        "term": "not intended to be sequential",
+        "found": true,
+        "page": "7",
+        "snippet": "ture from their framework. Although these elements are presented in this order,  they are not intended to be sequential. In other words, teachers and students are likely to  find themselves engaging in many of them concurrently, which is visually represented in  Figure "
+      }
+    ]
+  },
+  {
+    "file": "li_2025_zhou_climate.txt",
+    "checks": [
+      {
+        "term": "critical role of the 2.8",
+        "found": true,
+        "page": "1",
+        "snippet": "ast China, along with other paleoclimatic and archaeological evidence, to demonstrate the critical role of the 2.8 ka climatic event in the dynasty’s collapse and subsequent migration. Our results indicate a “north dry–south wet” dipolar pattern in the Chinese monsoon r"
+      }
+    ]
+  },
+  {
+    "file": "zhang_2023_chronology_western_zhou.txt",
+    "checks": [
+      {
+        "term": "King You?s reign began",
+        "found": false
+      }
+    ]
+  },
+  {
+    "file": "grundmann_2019_zhou_kingship.txt",
+    "checks": [
+      {
+        "term": "royal commands themselves anticipated",
+        "found": true,
+        "page": "183",
+        "snippet": "omic interactions between king and appointee presuppose an existing  authority structure, royal commands themselves anticipated and created (or retrieved)  these structures. Their issuing as well as their acceptance played equally important                              "
+      }
+    ]
+  }
+]

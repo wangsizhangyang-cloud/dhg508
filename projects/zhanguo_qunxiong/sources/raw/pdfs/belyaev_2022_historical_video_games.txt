@@ -1,0 +1,955 @@
+
+
+===== PAGE 1 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Game Studies | https://doi.org/10.46539/gmd.v4i1.204
+Historical Video Games in the Context of 
+Public History: Strategies for Reconstruction, 
+Deconstruction and Politization of History
+Dmitriy A. Belyaev1 & Ulyana P. Belyaeva2
+Lipetsk State Pedagogical University named after P.P. Semenov-Tyan-Shan. Lipetsk, Russia
+Abstract
+Today, historical video games going beyond the boundaries of the purely entertainment framework of
+screen media are increasingly influencing the formation of the public history infosphere. The aim of 
+the study is a comprehensive analysis of historical video games as a tool for constructing mass histor-
+ical consciousness and the implementation of ideologized strategies for the politics of memory. 
+Methodologically, the work is based on the concepts of “public history infosphere” and “politics of 
+memory”, as well as the historical method and classification approach. In addition, elements of 
+comparative analysis, the method of narrative research of cultural artifacts and the optics of 
+I. Bogost’s procedural rhetoric are used. 
+The study determines the specificity and nature of broadcasting historical plots in the context of 
+procedural actualization of video game narratives. Starting from the interactive-procedural nature of 
+video games, the original possibilities and objective constraints in the reproduction of “stories about 
+the past” are revealed. It is demonstrated that the programmatic and subjective-user modalities of 
+a video game existence endow it with rhizome and nomadic characteristics. Video game architec-
+tonics has an intention to deconstruct the “metaphysics of presence” and the main repressive 
+instances characteristic of traditional historical narrative. At the same time, based on the concept of 
+simulations by G. Frasca, three main formats of historical video game reconstructions are revealed: 
+factual (plot and setting), logical-dynamic and hybrid. The article identifies the most common ways of
+distorting, mythologizing and politicizing history in video games. Special attention is paid 
+to the explication of the ideologized concept of “anti-Sovietism” in video game plots, as a form of 
+quasi-historical criticism of the Soviet regime and the continuation of the rhetoric of the “Cold War”. 
+The results of the study can be used in the expert assessment of the space of public history, 
+in the identification of relevant media tools and meaningful concepts that form its semantic frame-
+work. In addition, certain conclusions are essential for the effective correction of memory policy 
+strategies implemented in screen digital media.
+Keywords
+Historical Video Games; Politicization of History; Screen Media; Mass Historical Consciousness; 
+Historical Reconstructions; Memory Politics; Mythologizing History; Public History; Anti-Sovietism; 
+Deconstruction of History
+This work is licensed under a Creative Commons «Attribution» 4.0 International License
+1
+Email: dm.a.belyaev[at]gmail.com
+2
+Email: ulyana-sin[at]yandex.ru
+51
+
+
+===== PAGE 2 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Исследования игр | https://doi.org/10.46539/gmd.v4i1.204
+Исторические видеоигры в контексте 
+Public History: стратегии реконструкции, 
+деконструкции и политизации истории
+Беляев Дмитрий Анатольевич1, Беляева Ульяна Павловна2
+Липецкий государственный педагогический университет 
+имени П.П. Семенова-Тян-Шанского. Липецк, Россия
+Аннотация
+Сегодня исторические видеоигры, выйдя за границы исключительно развлекательной рамки 
+экранных медиа, все заметнее оказывают влияние на формирование инфосферы public history. 
+Целью исследования является комплексная аналитика исторических видеоигр как инструмента
+конструирования массового исторического сознания и имплементации идеологизированных 
+стратегий политики памяти. Методологически работа опирается на концепты “public history 
+infosphere” и «политика памяти», а также исторический метод и классификационный подход. 
+Кроме того, используются элементы компаративного анализа, метода нарративных исследо-
+ваний культурных артефактов и оптика процедурной риторики Я. Богоста. 
+В исследовании определяется специфика и характер трансляции исторических сюжетов 
+в контексте процедурной актуализации видеоигровых нарративов. Отталкиваясь от интерак-
+тивно-процедурной природы видеоигр, раскрываются оригинальные возможности и объек-
+тивные ограничители в воспроизведении «рассказов о прошлом». Выявлено, что программная 
+и субъектно-пользовательская модальности существования видеоигры наделяют ее ризом-
+ными и номадическими характеристиками. Видеоигровая архитектоника обладает интенцией 
+к деконструкции «метафизики присутствия» и основных репрессивных инстанций, харак-
+терных для традиционного исторического нарратива. В то же время, основываясь на концепции
+симуляций Г. Фраски, раскрываются три основных формата исторических видеоигровых 
+реконструкций: фактологический (сюжетный и сеттинговый), логико-динамический и 
+гибридный. В статье определены наиболее распространенные способы искажения, мифологи-
+зации и политизации истории в видеоиграх. Отдельное внимание уделяется экспликации 
+в видеоигровых сюжетах идеологизированного концепта «антисоветизм», как формы квазии-
+сторической критики советского режима и продолжения риторики «холодной войны». 
+Результаты исследования могут быть использованы при экспертной оценке пространства 
+публичной истории, выявлении актуальных медиаинструментов и содержательных концептов, 
+формирующих его смысловую рамку. Кроме того, отдельные выводы существенны для эффек-
+тивной коррекции стратегий политики памяти, реализуемых в экранно-цифровых медиа.
+Ключевые слова
+исторические видеоигры; политизация истории; экранные медиа; массовое историческое 
+сознание; исторические реконструкции; политика памяти; мифологизация истории; public 
+history; антисоветизм; деконструкция истории
+Это произведение доступно по лицензии Creative
+ 
+  Commons
+ 
+  «  Attribution
+ 
+ » («Атрибуция») 4.0 
+ 
+ 
+Всемирная 
+1
+Email: dm.a.belyaev[at]gmail.com
+2
+Email: ulyana-sin[at]yandex.ru
+52
+
+
+===== PAGE 3 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Game Studies | https://doi.org/10.46539/gmd.v4i1.204
+Introduction
+Against the background of the aggravated geopolitical situation expressed
+in the emergence of new international challenges and risks, as well as the actualiza-
+tion of regional confrontations and the trend towards hybridization of conflicts,
+references to history are intensified as an element of legitimization of various polit-
+ical activities. Accordingly, the leading states are purposefully building strategies of
+the policy of memory to form a quite definite (often tendentious and even ideolo-
+gized) image of the event series of the past, its logic and main determinants. 
+Today, the collective historical consciousness is formed by a multitude of
+information sources, broadcast, first of all in the context of various media of mass
+culture. Historical knowledge in its socially significant dimension is increasingly
+consolidated, and it begins to dominate the cultural space in the modality of public
+history. In it, the actual historical information is recoded into cultural texts (various
+symbols, manifestations, works of art, etc. to which we refer here), which are
+comparatively simple for primary assimilation by the broad masses (Fogu, 2009,
+pp. 110-114). 
+From the second half of the 20th century various screen media began to play
+a significant role in formation of the public history infosphere (Aurell, 2015,
+pp. 149-150; Montero Diaz, 2013, pp. 162-165). The film industry has especially
+succeeded here, which quickly mastered and filmed a number of historical plots.
+Feature films based on various historical episodes are becoming an important factor
+in the construction of historical public consciousness. 
+At the same time, since the beginning of the 21st century, video games have
+begun to occupy an increasingly important place among the variety of screen
+media. They overcame their initially exclusively entertaining “ghetto” and relatively
+quickly institutionalized as a kind of digital art, a sport and a special communication
+environment. They also became the nucleus of many subcultural formations
+and contributed to the popularization of gamification practices. In the context of
+the increasing importance of game narratives and complication of gameplay
+mechanics, video games have become quite common to refer to various historical
+themes. As a result, today it is the video game format that many socially important
+historical plots are represented in, influencing the content and semantic accentua-
+tion in the public history infosphere (Chapman, 2020, pp. 135-136).
+Despite the comparative novelty of this cultural practice in the integration of
+historical narratives into video games, a research discourse on this issue has already
+been formed. In the foreign segment of game studies there is a separate direction
+called historical studies, which examines the specifics of the presence and interac-
+tive disclosure of historical plots in a video game format. In particular, these topics
+are developed in the works of L. Traynor (2020), E. Wright (2018), K. Lewis (2020)
+and D. Spring (2015). Within the framework of the domestic discourse of game
+studies, these are the PhD dissertation by K.V. Yablokov (2005) supported
+53
+
+
+===== PAGE 4 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Исследования игр | https://doi.org/10.46539/gmd.v4i1.204
+in the already relatively distant 2005, as well as a number of topical articles by
+S. I. Belov (2018; 2020; 2021), M. A. Bochanov (2018), V. V. Kirichenko (2019),
+L. V. Moyzhes (2020), S. O. Osekin (2016) and S. Yu. Cherny (2017). 
+At the same time, most of the works on this topic are thematically private
+in nature or differ in descriptive presentation. This actualizes additionally
+the research focus we have chosen and the methodological format of the analysis of
+historical video games as a special screen dimension of public history, where the
+practices of reconstruction, deconstruction and politicization of history are imple-
+mented.
+Methodologically, the paper is based on the concepts of “public history infos-
+phere” and “politics of memory”. They form the general focus of the study of history
+in a wide socio-cultural space, including various media. Historical method
+is the central, setting the appropriate research perspective for the exposure of
+the topic, as well as the classification approach which makes it possible to structure
+and group historical video games. In addition, elements of comparative analysis,
+the method of narrative research of cultural artifacts, and the optics of procedural
+rhetoric of I. Bogost are used.
+Architectonics of Historical Video Games
+The first video games the plot and setting of which correlated with various
+historical themes, appeared in the late 60s or early 70s., 20th century. However, due
+to the underdevelopment of the narrative structure of the games of that time,
+addressing history in them was formal and extremely simplified. This situation
+began to change in the late 90s, when, firstly, the developers began to master new
+narrative techniques combining them with the procedural mechanics of the game,
+and secondly, the graphic component of video games improved significantly, which
+allowed applying more realistic visual solutions. All this contributed to the emer-
+gence of many historical games from the beginning of the 21st century.
+It should be noted right away that the very concept of “historical video games”
+is very amorphous in content and has different definitions. In this study, we mean
+by the term the entire set of video games which reflect any historical elements that
+are part of the plot, gameplay or graphic design. 
+At the same time it should be emphasized that the adaptation of historical
+narration to a video game format has a number of peculiar features due to the soft-
+ware architectonics of video games. It is pertinent here to recall numerous discus-
+sions regarding strategies for defining video games that I. Bogost summarized in his
+work “Video-games are a Mess”. Without going into the debate about the ontology
+of video games, we note that a video game exists in at least two modalities that are
+essential for our consideration. First, it is in the form of a program code containing,
+potentially, the entire set of procedural and narrative structures of the game.
+Secondly, it is in the form of an actual gaming session implemented by a specific
+user.
+54
+
+
+===== PAGE 5 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Game Studies | https://doi.org/10.46539/gmd.v4i1.204
+However, there is a noticeable distance in content between these modalities.
+The first, in fact, is a set of rules and syncretic informational array of the game,
+where game elements and possible paths are combined into a single matrix. In this
+case, the rules can be either categorical or optional imperative. The second
+modality is the subjective (user) interpretation (through gameplay) of the given rules
+and texts. Here the player, by his actions, mediated by game interfaces and program
+code, influences the disclosure, course and dynamics of the story. Accordingly,
+the historical plot, translated into the video-game architectonics, must also be real-
+ized in these two modalities, which creates a new optics of looking at history.
+A particularly obvious meaningful imbalance between these ranges arises
+in the case of nonlinear video games that allow for the implementation of several
+plot options or are based on the “open plot” model. In this case, the historical text at
+the programmatic, implicit level is represented by a multivariate matrix of possibili-
+ties and limitations. It is meaningfully voluminous and has a fundamentally nomadic,
+rhizome structure. It contains a lot of local plot branches, which not only do not co-
+hide with each other, but mutually exclude each other. The grammar of this text is
+such that it cannot be read in a binary system of coordinates (“truth and falsehood”,
+“real and unreal”), inherent in the traditional perception of facts and events. These
+contradictions are removed only by the virtual status of its existence. Accordingly,
+at this level, the historical text undergoes a radical reformatting, acquiring
+a nomadic structure. At the same time, user access to it is limited to a narrow circle
+of conditional programmers.
+The general user reads the historical text of a video game exclusively
+in the second, subjectively oriented modality. By her actions, she actualizes one of
+the many program-potential options for the development of the plot, perceiving
+the historical narrative precisely in this focus of personal game preferences. In this
+case, the game plot can completely lose its connection with factology of the histor-
+ical narrative. Some games use special software tools trying to save it. For example,
+in “Europa Universalis IV” (2013), a system of dynamic events is realized, when
+certain historically reliable events are integrated into the plot. They are designed
+to preserve the illusion of a recognizable historicity of the development of the plot,
+but they do not have a significant narrative influence, fulfilling more a decorative
+function. As a result, the historical narrative is largely individualized, being coherent,
+first of all, with the goals and playing skills of a particular user. 
+It is known that the view of the historical narrative is traditionally carried out
+from the position of “metaphysics of presence” (according to M. Heidegger),
+in which the present prevails over the past. This optics forms the stereotype of
+the linearity and inconstancy of history. However, it is becoming apparent that
+the architectonics of video games is destroying this stereotype. In addition
+to the two nomadic modalities for the implementation of historical text in video
+games, the “reload” function additionally deconstructs the “metaphysics of pres-
+ence”. It creates an opportunity for multiple actualizations of various variations of
+the game narrative, absorbing its traditional constancy. 
+55
+
+
+===== PAGE 6 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Исследования игр | https://doi.org/10.46539/gmd.v4i1.204
+This all applies, first of all, to historical video games, which initially allow for
+nonlinearity of the plot and openness of the game world for the actualization of
+various scenarios. We can give examples of plot-linear video games, where
+the choice of a gamer affects exclusively the tactics of overcoming game obstacles
+without meaningfully changing the general narrative. However, even in this case,
+the user may lose, i.e. not be able to solve the programmed tasks that make up
+the core of the procedural part of the game, which will lead to an objective inter-
+ruption of the narrative. Thus, performing the mission called “Battle of Kursk” for
+the side USSR in an actually reliable and plot-based linear strategic game, the gamer
+may not be able to cope with it. This is quite natural for a game narrative,
+but fundamentally foreign to a strictly historical one. At the level of game narration,
+this will lead to a losing situation in this battle which will narratively lead to a distor-
+tion of the story. Let us emphasize that this possibility is imminent in the game
+architecture itself. As a result, such video games create an opportunity for fragmen-
+tation and collage transformation of historical memory.
+All of the above mentioned allows us to apply the deconstruction optics of
+J. Derrida to historical video games. Conceptually, a referent historical narrative has
+at least two repressive instances – ontological-objective, the situation of fact-given-
+ness, availability, and subjective-evaluative, expressed in the person of the condi-
+tional architect of historical memory. They are both deconstructed in video games.
+Fact-given is absorbed by the locally actual subjectivity of the historical text of video
+games and the “reload” function. Factuality in a video game loses its general,
+universal ontology, depending on the user and restarting game sessions. The histor-
+ical architect is partially blurred by the programmatic nomadism of the historical
+text. However, its repressive function does not disappear completely, but receives
+a new toolkit for implementing supervision and correcting user actions (this topic
+will be discussed in more detail in the part devoted to the politicization of video
+games). 
+As a result, video games organically fit into some principles of postmodern
+culture, serving as an original space for the deconstruction of historical narrative.
+Here the principle of invariance of history is destroyed, and its content turns into
+a nomadic text. The modern researcher F. Furtai notes that in such video games
+there is a deformation of the “common human memory”, which “in the process of
+creating a game reality loses its logic, integrity, factual immutability, irreversibility,
+what allows to characterize it as a perfect reality. It decomposes into elements that
+are mixed in the virtuality plot arbitrarily, obeying only the will of the authors”
+(2009, p. 116). Given the above-mentioned significant politically motivational role of
+history, this situation opens up new opportunities for reformatting “stories about
+the past” (Uricchio, 2005, pp. 330-332). In fact, the public history discourse created
+by video games teaches the user to the inconstancy of history, its factual mobility,
+greatly facilitating and even latently legitimizing the practice of “rewriting” history.
+56
+
+
+===== PAGE 7 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Game Studies | https://doi.org/10.46539/gmd.v4i1.204
+Reconstruction Potential Historical Video Games
+Our theory of the reconstruction potential of video games is based on
+G. Frasca’s concept of simulations. He proposes to consider video games first of all
+in the optics of simulations, as one of their varieties. It is especially important how
+Frasca defines the very practice of simulation: “to simulate is to model a (source)
+system through a different system which maintains to somebody some of the beha-
+viors of the original system” (2003, p. 223). It is obvious that the absolute identity of
+the systems is fundamentally impossible. Only the key characteristics (properties,
+signs) of the primary system reproduced in its model, matter. 
+Accordingly, a historical video game explicated in the optics of simulation
+always reconstructs only individual elements of the historical continuum. It recre-
+ates a significant (for the authors of the game) set of characteristics of a certain
+historical episode. They can be determined, for example, by the genre of the game
+or its regional positioning, and by the ideological predilections of the authors. At the
+same time it is important, for the analytics of historical reconstructions of video
+games, not only what set of features is simulated, but also what the authors have
+excluded from the simulation. The very implicit marking of some elements of
+the historical plot / event as insignificant can act as an ideological message and
+form a certain focus of the interpretation of history.
+All video game historical reconstructions can be divided into three main types
+according to the nature of the operation of historical material and its explication:
+factual reconstructions, logical-dynamic reconstructions and hybrid reconstructions1. 
+Factual reconstructions, at first glance, is the most obvious tool and a factor of
+direct influence on the public history infosphere. Concrete historical facts, events
+and images are quite authentically recreated in them. Their implementation has two
+typological varieties – plot-linear and setting-based. 
+In the first case a video game broadcasts a general event-driven fabula of
+a specific historical episode. This excludes the possibility of a gamer’s influence
+on the global plot which simulates the main dynamics of real historical events.
+This restructuring model fits well with such linear game series as Blitzkrieg
+(2003-2017), Men of War (2004-2016), Sniper Elite (2005-2021) and Sudden Strike
+(2000-2017). Also, this type of a game often allows for a private fictional story, which,
+for example, focuses on the game protagonist. His personal story is integrated into
+the global historical plot without affecting its authenticity. A similar technique is
+implemented in the series “Brothers in Arms” (2005-2015), “Medal of Honour”
+(1999-2020) and many other projects. A particularly interesting embodiment
+in terms of narrative design and semantic content of this technique is found
+in “Valiant Hearts: The Great War” (2014).
+1
+This typology is certainly not devoid of shortcomings and is somewhat conventional, but, in our opinion, it may 
+well be used as a working classification for the varieties of historical reconstructions. We believe that the intro-
+duction of this distinction is important for a productive, differentiated study of historical video games.
+57
+
+
+===== PAGE 8 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Исследования игр | https://doi.org/10.46539/gmd.v4i1.204
+According to its game mechanics, “Valiant Hearts: The Great War” is not a very
+original platformer with elements of puzzles, which, at first glance, does not create
+expectations of historical depth and elaboration. However, in reality, “Valiant Hearts:
+The Great War” turns out to be a very distinctive project that has managed to show
+the tragedy and anti-humanistic essence of war. The narrative of the game is served
+through tracing the fate of three heroes who, by the will of external circumstances,
+were drawn into the events of the First World War. The gamer becomes a parti-
+cipant in a very personal story, which is broken and dramatized by the war. “Valiant
+Hearts: The Great War” contains a powerful anti-militaristic semantic message
+combining elements of the existential tragedy of the novels by E.M. Remarque and
+E. Hemingway with subtle humour of the works of J. Hasek. At the same time it
+reconstructs quite reliably the general factology and global dynamics of the events
+of the First World War.
+Setting-oriented factual reconstructions have a slightly different specificity.
+In them, historical simulations are realized through the recreation of the general
+environment of the game action. Here, attention is paid to relative authenticity of
+the visual and aesthetic component of the game world and the design of activities
+in it. Historicity can also be enhanced by the presence of certain historic figures
+typical of the epoch. At the same time, the actual plot component of these games
+can admit noticeable deviations from historical accuracy or even completely break
+with it. 
+Such projects include the strategic series “Age of Empires”. On the one hand,
+in the “Age of Empires” there are several game civilizations that have their own
+design of units and architectural structures, as well as formally unique trajectories
+of cultural and technological development. On the other hand, these differences are
+largely decorative in nature, carrying no deep semantic content. The factors of
+the development of civilization are schematic and in many respects conventional;
+they absolutely do not reflect the historical reality. Obviously, “Age of Empires” is
+more focused on screen-interactive entertainment, which is externally (designer-)
+framed by historical elements. The setting of the project is historically quite recog-
+nizable and relatively reliable, but only where its reconstructive potential is
+exhausted. Nevertheless, the game can act as a factual framework of ideas about
+a number of the most important events in world history, thereby influencing
+the public history infosphere (Wainwright, 2014, pp. 598-602).
+Another example of setting-oriented historical video games is economic
+strategies implemented in historical scenery. First of all, it is necessary to note
+the famous game series “Caesar”, as well as a number of projects created according
+to its templates: “Pharaoh” (1999) “Cleopatra: Queen of the Nile” (2000), “Emperor:
+Rise of the Middle Kingdom” (2002), “Zeus: Master of Olympus” (2000), “Poseidon:
+Master of Atlantis” (2001), “Immortal Cities: Children of the Nile” (2004) and
+“CivCity: Rome” (2006). Basically, they are focused on simulating the construction
+and functioning of a complex socio-economic ecological environment of a city/
+58
+
+
+===== PAGE 9 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Game Studies | https://doi.org/10.46539/gmd.v4i1.204
+state. Their reconstructive-historical part is limited to external design and setting
+bearing, in many respects, a formal character.
+In general there are a lot of historical-setting games. For example,
+the entourage of Medieval Europe is very popular, which is used in the series
+“Crusader Kings” (2004-2020) and “Stronghold” (2001-2021), as well as in “Chivalry:
+Medieval Warfare” (2012). Also, in strategy and action games, the setting of
+the Second World War is often reproduced. The aesthetics of Ancient Rome are
+embodied in “Ryse: Son of Rome” (2014); the scenery of feudal Japan is very impress-
+ively reconstructed in “Way of the Samurai” (2002-2015) and especially in “Ghost of
+Tsushima” (2020). Obviously, in this format, it is relatively easy to implement
+external historicity, thereby creating visual recognition and attractiveness of
+the project, but, at the same time, not being limited by the framework of plot
+authenticity. 
+It is important to note that in reality the plot-linear and setting accentuation
+of the historical-reenactment content of video games can intersect, blurring
+the distinction within the framework of the factological type of simulations. There-
+fore, this selection is not applicable to some fact-oriented games. 
+Logic-dynamic reconstructions are another large class of video game histor-
+ical reconstructions. In terms of the grammatical design of narrative and simulative
+accentuations, they are fundamentally different from factual simulations. Factual
+reliability is of secondary importance here, usually expressed in a point-like repro-
+duction of individual historical facts. At the same time it is usually absorbed by the
+nomadic dynamics of the game process, which is not limited by the framework of
+historical reliability. They change the optics regarding the reconstruction of history,
+where the simulation of logic of a historical process, its multifactorial nature,
+permanent dynamics and optionality is the primary.
+The most typical examples of such projects are the global strategic game series
+“Civilization” (1991-2016), “Europa Universalis” (2000-2013) and “Hearts of Iron”
+(2002-2016). 
+The core of the game concept “Civilization” is the presentation of world history
+through the evolution of individual civilizations. The gamer controlling a separate
+civilization leads it through the main stages of historical development – from
+the Ancient World to the present (with elements of futurology). The game has many
+development parameters – economy, politics, technology, military force, etc., which
+simulate the main areas of development of real countries. The general trajectory of
+its historical development depends on the initial choice of civilization by the gamer.
+Thus the priorities of its socio-political, economic, scientific and military organiza-
+tion are predetermined.
+ At the same time, there is not much of narrative history proper in “Civiliza-
+tion”; its external historicity is expressed more in individual facts (often in isolation
+from the real historical context) and general design decisions on visualizing
+the architecture of cult buildings (Chen, 2004, pp. 101-103). But I think that the main
+historical-reconstructive merit of “Civilization” is the simulation of the dynamics of
+59
+
+
+===== PAGE 10 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Исследования игр | https://doi.org/10.46539/gmd.v4i1.204
+historical development, taking into account its multifactorial nature. In other words,
+this video game is more aimed not at broadcasting a historical narrative, but
+at a procedurally-interactive demonstration of the principles of historical evolution.
+Of course the dynamic model of history in “Civilization” contains many
+conventions due to its simulation nature. However, it manages to present a funda-
+mentally new look at the historical and re-enactment potential of video games,
+which distinguishes them from other on-screen media. This type of reconstruction
+departs from the descriptive simulation of history, trying to recreate the logic of
+the historical process through procedural practices. 
+“Europa Universalis” and “Hearts of Iron” series are based on similar game
+principles, but these have a clearly limited historical framework in which the gamer
+will have to implement various strategies for world domination. Here, at the start of
+the gameplay, a historically authentic political disposition is modelled as a whole.
+The political geography of the historical period and a certain set of indicators of
+the development of a particular country (adjusted for their simulation nature) are
+conveyed realistically. This is the basic factual realism of “Europa Universalis” and
+“Hearts of Iron”. After the start of the game session, the dynamics of the optional-
+interactive historical development is launched, which is modelled bearing in mind
+the initial factors of the development of states, program goals and subjective activ-
+ities of the player. Taking into account the initially set time frame, in these series,
+multifactoriality and nonlinear determinism of historical development have been
+worked out in more detail. All this allows the player to more deeply and rather reli-
+ably investigate procedurally the cause-and-effect foundations and logic of
+the historical process (Cherny, 2017, p. 79). 
+It can be stated that within the framework of logical-dynamic re-construc-
+tions, video games do not act as a tool for the mechanical reflection of the past and
+do not strive to reproduce an authentic historical narrative. They offer to become
+a participant in the original media discourse of procedural comparative analytics of
+history. Logical-dynamic reconstructions contain the intention to study the histor-
+ical conditions, determinants and paths of development. At the same time, they do
+not completely lose touch with the conditionally objective historical reality. 
+Finally, from the point of view of historical accuracy, hybrid reconstructions
+represent a plot and / or procedural eclectic text, in which the syncretism of
+the real and the fictional is realized. At the same time, within the framework of
+the game narrative itself, there is no marking of their distinction and priority.
+They are broadcast as equivalent elements of simulation, leading to an aberration of
+the historical narrative.
+This type of reconstruction includes, for example, the popular video game
+series “Assassin’s Creed” (2007-2020), which features a wide range of historical
+themes, plots, and personalities. The user will be able to become through a virtual
+avatar a member of the Third Crusade, political conspiracies of Renaissance Italy
+at the end of the 15th century, the War of Independence in the United States and
+60
+
+
+===== PAGE 11 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Game Studies | https://doi.org/10.46539/gmd.v4i1.204
+the Great French Revolution, as well as visit Ancient Greece during the Pelo-
+ponnesian War, Hellenistic Egypt and lead the Viking invasion into England. 
+At first glance, “Assassin’s Creed” strikes with visual authenticity and attention
+to private historical details. The game also attracts with the concentration of
+famous historical personalities – military commanders, politicians, philosophers,
+scientists, and artists. Moreover, the gamer has the opportunity to enter into direct
+interaction with them, becoming an actor and participant in important historical
+events. However, a fictional plot-motivational political basis is integrated into
+the “Assassin’s Creed” narrative – the global opposition of the religiously paramili-
+tary organizations of the Assassins and Templars. It acts as a conceptual factor
+in the teleology of the historical process within the “Assassin’s Creed” metaplot.
+Accordingly, the key facts and events of history, as well as the actions of famous
+historical figures in this virtual universe, are explained through the influence of this
+fictional conflict. Mythological motivation is superimposed on real events through
+which they are explained. 
+In addition we can mention the well-known multiplayer projects “World of
+Tanks” and “World of Warships”. They thoroughly reconstruct the appearance and
+tactical-technical characteristics of armoured vehicles and warships of different
+countries, designed in the 20-50s of the XX century. At the same time the emphasis
+is laid on the equipment that took a noticeable part in the Second World War. And
+this sonority of connection with the historical framework of the World War
+permeates latently both games creating a very definite optics of looking at game
+events. However, the organization of game sessions allows the teams possessing
+equipment from combating countries during the war years to participate in virtual
+battles. This leads to quite eclectic (from a historical point of view) battles, where
+the same team may include the Soviet “T-34”, the German “Tiger I”, the American
+“Sherman”, the French “Lorraine” and the Italian “Pogetto”... Accordingly, an asym-
+metric historical-reenactment situation of mixing the authentic and the fictional is
+created, where authentic facts (in the form of military equipment) are randomly
+organized in the game process. 
+Ideologization and Politization of Historical Video Games
+It is quite indicative that even in Russia where the relationship to video games
+traditionally has a touch of entertainment marginality, in 2018 at the official state
+level (in the person of the First Deputy Chief of Staff of the Presidential Administra-
+tion of the Russian Federation S.V. Kirienko, who oversees the direction of domestic
+policy) it was stated that video games are today “a space for political strife”
+(News, 11.09.2018). According to a senior official, video games are often used as
+a tool for ideological influence and manipulation of public opinion. It is through
+video games that the space of political mythology and tendentious manifestations is
+created.
+61
+
+
+===== PAGE 12 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Исследования игр | https://doi.org/10.46539/gmd.v4i1.204
+In addition to the already discussed general “window of political opportunities”
+in terms of the impact on historical memory and public consciousness that video
+games open, they become a screen-digital media space for broadcasting relevant
+political concepts (Belyantsev, 2010). Their presence in the grammatical structure
+of video games is realized in several modalities: firstly, in the direct text of
+the plot narration, secondly, in the form of a silence figure, and finally, thirdly,
+in the programmatic architectonics of game rules. 
+The first modality is the most obvious, easily readable and, as a consequence,
+exploratively identifiable. In this case, this or that political concept is incorporated
+directly into the plot narrative and is broadcast through its play-based disclosure.
+You can cite a number of historical video games, the narrative of which is based
+on quite distinct ideologemes. Moreover, one can partly agree with S.I. Belov who
+claims that “the practice of creating games often implies large-scale distortions of
+history or its politicization” (2018, p. 97).
+One of the most striking examples of such projects which caused the greatest
+public outcry in our country, precisely for ideological reasons, was the strategic
+video game “Company of Heroes 2” (2013). There were even attempts to prohibit
+the distribution of this video game on the territory of the Russian Federation
+as a source of falsification of Russian history. Its plot is dedicated to the events of
+the Great Patriotic War (WWII), which are presented in a very tendentious ideolog-
+ical key (Griban, 2017). In it, the narration is conducted on behalf of a certain dissi-
+dent and a prisoner of the GULAG L.A. Isakovich. Previously, being in the ranks of
+the Red Army, he participated in individual battles of the Second World War,
+the memories of which make up the mission structure of the game narrative. 
+These memories which make up the plot of “Company of Heroes 2” are mean-
+ingfully composed of a multitude of “facts” that are designed to demonstrate
+the anti-humanist and totalitarian-repressive essence of the Soviet political regime.
+For example, barrage detachments unreasonably kill their own soldiers, unarmed
+soldiers are forced to storm machine-gun bunkers, and officers shoot their soldiers
+for any disagreement, even with an obviously absurd order. It is noteworthy that
+criticism of the Soviet regime also extends to certain game mechanics.
+So, according to the scenario, the player is obliged to burn the houses of civilians
+filled with people when retreating, and to clear minefields by deliberately deto-
+nating the soldiers of the Red Army on them. 
+At the same time, the plot of the game demonstrates individual examples of
+personal valour of the soldiers of the Red Army, but they are often shown
+in a conflict situation with the official army leadership. The feat is shown as a spon-
+taneous grassroots initiative, sometimes contrary to the plans of the authorities. 
+All this clearly shows the gamer that even the victory in the Second World War
+itself took place rather contrary to the Soviet leadership and the accepted practices
+of political governance. A quite obvious conclusion is drawn from the plot campaign:
+Soviet power is absolutely immoral, antihuman, irrationally destructive and
+62
+
+
+===== PAGE 13 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Game Studies | https://doi.org/10.46539/gmd.v4i1.204
+managerially untenable. Accordingly, in “Company of Heroes 2” the ideological
+concept of anti-Sovietism is narratively expounded.
+Finally, in alternative historical variations of video game plots, the theme of
+the beginning of the Third World War initiated by the USSR, is often encountered.
+In particular, this is the plot of the game “World in Conflict: Soviet Assault” (2009)
+and the popular strategy series “Command & Conquer: Red Alert” (1995-2020).
+The plot of the latter exploits the theme of the identity of guilt in the outbreak of
+World War II between Hitler’s Germany and the Stalinist USSR. The alternative
+history line “Command & Conquer: Red Alert” demonstrates that the preventive
+elimination of A. Hitler does not disallow the outbreak of the Second World War,
+because I. Stalin becomes its initiator. And even though this series of games is made
+in a frankly parodic and farcical vein, without pretending to even “alternative” reli-
+ability, it becomes a conductor of a completely obvious anti-Soviet ideologeme. 
+It seems that largely due to such game projects a partially justified position has
+formed in Russian public opinion that historical video games are often filled with
+clearly russophobic ideas. In particular, this idea was voiced in 2019 by the Prime
+Minister of the Russian Federation D.A. Medvedev. He noted that video games often
+distort and politicize historical facts, presenting them in an anti-Russian tune
+(News, 29.03.2019). At the same time, the idea of these obvious historical distortions
+being largely related to the historical inertia of perceiving and reproducing persis-
+tent mental stereotypes of the Cold War seems quite reasonable to us (Belov, 2018,
+p. 99). 
+The next form of grammatical design for the translation of political meanings
+in historical video games is the figure of plot silence. It is based on the method of
+factual selection of information arrays, during which individual historical plots fall
+out of the general narrative. This is a more subtle, implicit way of political influence,
+aimed at forming a censored idea of a particular historical event.
+Here, as an example, we can cite the popular multi-user action game “Battle-
+field 1” (2016), the plot of which is sacred to the events of the First World War.
+The game narrative consists of 6 main plots. The gamer alternately fights
+in different theatres of war – in the forests of France, in the skies of Britain,
+in the Italian Alps, in the waters of the Gallipoli Peninsula and even in the Arabian
+Desert. However, in this series, military campaigns on the Eastern Front in which
+the Russian Empire took part, are completely absent. Accordingly, within the frame-
+work of the historical narrative proposed by the game, Russia, through silence, was
+actually excluded from the ranks of the participants in the First World War.
+Similar techniques are used in World War II video games. Red Army campaign
+and, in general, any mention of actions in the Eastern Front is excluded from
+the plots of “Medal of Honor”, “Brothers in Arms”, “Battlefield V” (2018) and
+a number of other games. (Fedorchenko, 2020, 429 -432). Naturally, all these tech-
+niques form a truncated and, as a consequence, distorted perception of the events
+of the World Wars. Russia as a participant in these wars is simply “erased” from
+63
+
+
+===== PAGE 14 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Исследования игр | https://doi.org/10.46539/gmd.v4i1.204
+virtual history and, more importantly, from the formed matrix of the historical
+consciousness of gamers through the figure of silence.
+At the same time, it is important to remember that the theme of the Second
+World War is not only a historical plot today, but also in many respects a geopolitical
+one. Thus, the current institutional disposition of states in the international arena
+(including the composition and powers of the permanent members of the UN
+Security Council) was formulated by the countries of the anti-Hitler coalition (USSR,
+USA and Great Britain), taking into account their role in World War II. Therefore,
+disavowing the role of the USSR in World War II is the practice of mythologizing
+history, potentially having quite definite geo-political goals. In addition, in our
+country, the Second World War and its results are a significant “national bond” and
+a valuable factor in domestic politics. All of this points to an important political
+dimension of the narrative figures of silence in historical video games.
+Finally, the third and, in our opinion, instrumentally most interesting and
+original form of ideologizing historical games is a set of internal program rules for
+organizing gameplay and achieving in-game goals. Such techniques are typical for
+globally strategic video games, typical examples of which are the popular series
+“Civilization” and “Europa Universalis”. 
+In Civilization, the overall game goal is the maximum development of
+the initially chosen virtual civilization. At the same time, the programmatically
+prescribed (i.e. virtually independent of the player's will) conditions for achieving
+the designated goal are concretized in two main dominant-expansionist strategies
+of behaviour in the international arena – military-political and cultural-economic.
+They are, in fact, an expression of two well-known models of power coercion –
+hard power and soft power. In fact, in “Civilization” the gamer is faced with
+the objective need to implement aggressive models of civilizational development,
+aimed at explicit or veiled oppression of other states. Accordingly, this game
+concept legitimizes forceful methods and expansionist strategies in the interna-
+tional arena. 
+In addition, Europa Universalis, in which the player also rules the state over
+a wide historical period, has very characteristic development options. The game
+provides a programmatically strategy for the westernization of the country,
+the implementation of which is presented as an undoubtedly positive, civilization-
+ally progressive phenomenon. Although the player is free not to implement it, this
+will automatically lead to a lag in the development of his virtual state and make
+the victory more problematic (Cherny, 2017, pp. 88-89). As a result, in-game rules
+push a person to prefer the Western (Euro-Atlantic) model of state and civilizational
+development.
+It is especially important that the procedural rhetoric of video games presup-
+poses the process of implantation of translated images including “using methods of
+operant conditioning that are highly effective” (Belov, 2018, p. 101). It is quite symp-
+tomatic that, apparently, realizing the political significance of historical video games
+back in 2012, D.A. Medvedev, speaking at a meeting of the Presidiums of the Council
+64
+
+
+===== PAGE 15 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Game Studies | https://doi.org/10.46539/gmd.v4i1.204
+for Culture and the Council for Science and Technology under President of
+the Russian Federation, proposed to create a Russian analogue of the popular multi-
+player online game “World of Warcraft” (News, 2011), which would become a media
+tool state policy of memory.
+Conclusions
+The study showed that video games occupy a prominent place in contem-
+porary space of screen culture, being an original virtual-interactive medium. Their
+methods of information delivery are based on a unique procedural and rhetorical
+toolkit. It creates a wide range of opportunities in the field of formation of mass
+historical consciousness and the public history infosphere. “The system of inter-
+pretation of historical events fixed in the game is integrated into the cultural
+memory of the player” (Belov, 2020, p. 60).
+It can be stated that historical video games have objective limitations in recon-
+struction of history at the level of their software architectonics. The programmatic
+and subjective-user modalities of the existence of a video game endow it with
+rhizome and nomadic characteristics. In addition, video-game architectonics has an
+intention to deconstruct the “metaphysics of presence” and the main repressive
+instances characteristic of traditional historical narrative. 
+At the same time video games have significant reconstructive potential.
+It is implemented in three main formats of simulations: factual (plot and setting),
+logical-dynamic and hybrid. A wide range of historical themes and plots are
+revealed, presented within the framework of video game narratives. Almost every
+significant cultural and historical era is reflected in the video game format with
+an emphasis on military battle episodes, contributing to the formation of public
+history.
+Finally, the main strategies for politicizing and ideologizing historical video
+games as an instrument of memory politics were identified. In particular, using
+specific examples, the presence of the ideologized concept of “anti-Sovietism” is
+revealed in video game plots, within the framework of which ideologically biased
+and frankly mythologized historical narratives are created. In them, the USSR is
+portrayed as an aggressive militaristic and totalitarian state, the supreme power of
+which is pursuing an extremely inhuman policy that poses a threat to both its own
+citizens and all “civilized countries”. This quasi-historical critique of the Soviet
+regime is often automatically applied to the image of modern-day Russia, with
+the whole set of menacing clichés and stereotypes almost entirely preserved.
+It seems that in this video games reproduce the standard set of ideologemes
+that have been formed in the countries of the Euro-Atlantic community during the
+20th century in a situation of acute ideological confrontation with the USSR. Taking
+into account the tone of presentation of information in many modern Western
+media, this rhetoric of the Cold War is still popular and remains in demand
+in the countries mentioned. It is designed to consolidate, already in new genera-
+65
+
+
+===== PAGE 16 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Исследования игр | https://doi.org/10.46539/gmd.v4i1.204
+tions, a hostile or, at least, a wary attitude towards Russia, as well as to disavow its
+progressive and decisive role in the fight against the Third Reich and the threat of
+the spread of fascism. 
+At the same time, most of the video games reviewed were developed by private
+companies and formally are, above all, commercial projects. Therefore, development
+studios initially focus on marketing attractive and massively demanded semantic
+concepts that will help increase the sales of their video games. And in this sense,
+they do not (apparently?) have an initial goal of politicizing games; they just often
+use ideologemes and political myths that have already been formed and are firmly
+entrenched in the mass consciousness. That is, in them the plot reproduces and
+sells what is understandable to a mass user and is popular in the Western world.
+It seems that in this aspect, video games are more likely to adapt to the information
+mainstream that has already been formed over the past decades, reproducing
+themes and agendas characteristic of it. 
+In addition, historical video games often cultivate forceful, Westernizing
+geopolitical values and strategies. They create misconceptions about the facts and
+dynamics of the historical process, often having an explicit American-centric focus
+on the representation of historical events. It is aimed at formation of historical
+mythology, which consolidates the absolute superiority of the Western matrix of
+values in public consciousness.
+As a result, fixing that historical video games today have been fully legitimized
+as an actual media platform that constructs a part of the public history infosphere,
+one should consider both their positive enlightenment potential and the risks of
+becoming an idealized instrument of memory politics. 
+Acknowledgments
+The article was prepared within the framework of the project “Shaping
+the public history infosphere in video game narratives: transformation of historical
+consciousness and media strategies of the politics of memory” (a grant from
+the President of the Russian Federation for state support of young Russian scient-
+ists – PhDs in 2022. Project No. MK-3617.2022.2).
+Статья подготовлена в рамках проекта «Формирование инфосферы
+публичной истории в видеоигровых нарративах: трансформация историче-
+ского сознания и медиастратегии политики памяти» (грант Президента
+Российской Федерации для государственной поддержки молодых российских
+ученых – кандидатов наук 2022 года. Проект № МК-3617.2022.2). 
+References
+Aurell, J. (2015). Rethinking historical genres in the twenty-first century. Rethinking History, 19(2), 
+145-157. https://doi.org/10.1080/13642529.2014.983706 
+66
+
+
+===== PAGE 17 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Game Studies | https://doi.org/10.46539/gmd.v4i1.204
+Belov, S. I. (2018). Computer Games as a Tool for Implementation of Memory Policy (on the Example of 
+Displaying Events of The Great Patriotic War in Video Games). RUDN Journal of Political 
+Science, 20(1), 96–104. https://doi.org/10.22363/2313-1438-2018-20-1-96-104 (In Russian).
+Belov, S. I. (2021). Prospects for using video games with a historical plot as a memory policy instrument
+of the Russian Federation. Political Science Issues, 11(4), 1089–1096. 
+https://doi.org/10.35775/PSI.2021.68.4.013 (In Russian).
+Belov, S. I., & Kretova, A. A. (2020). Computer games as a resource of the politics of memory: practical 
+experience and hidden opportunities(based on games representing World War II events). 
+Bulletin MSRU. Series: History and Political Science, 1, 54–63. https://doi.org/10.18384/2310-
+676X-2020-1-54-63 (In Russian).
+Belyantsev, A. E., & Gerstein, I. Z. (2010). A country's image through the computer game: the historico-
+political aspect. Vestnik of Lobachevsky University of Nizhni Novgorod, 6, 279–283. (In Russian).
+Bochanov, M. A., Iglin, D. A., & Popov, S. I. (2018). Computer games as a tool for the potential develop-
+ment of political culture and communication. Political Science Issues, 8(5), 7–14. (In Russian).
+Bogost, I. (2009, September 3). Videogames are a Mess. Bogost.Com. 
+http://bogost.com/writing/videogames_are_a_mess/ 
+Chapman, A. (2020). Playing Against the Past?: Representing the Play Element of Historical Cultures 
+in Video Games. In Historia Ludens: The Playing Historian (pp. 133–154). Routledge.
+Chen, K. (2003). Civilization and its disk contents two essays on civilisation and civilization. Radical 
+Society, 30(2), 95–107. https://doi.org/10.1080/1476085032000175056 
+Cherny, S. Y. (2017). Constructing the Past in Video Games: The Player as Consumer and Co-Author of 
+the Historical Narrative (Europa Universalis 4 Project). Steps, 3(2), 77–97. (In Russian).
+Fedorchenko, S. N. (2020). Interpretation of the Great Patriotic War events in computer games: Risks 
+and prospects of regime legitimization through the politics of memory. Post-Soviet studies, 
+3(5), 427–438. (In Russian).
+Fogu, C. (2009). Digitalizing Historical Consciousness. History and Theory, 48(2), 103–121. 
+https://doi.org/10.1111/j.1468-2303.2009.00500.x 
+Frasca, G. (2004). Simulation versus Narrative: Introduction to Ludology. In The Video Game Theory 
+Reader (pp. 221–236). Routledge.
+Furtai, F. (2009). The phenomenon of virtuality in popular culture, or “Welcome to our nightmare”. 
+Bulletin of A.S. Pushkin Leningrad State University, 2(3–2), 112–121. (In Russian).
+Griban, O. N. (2017). Transforming memory: reflection of the Second World War in computer games. 
+Teacher education in Russia, 2, 32–38. https://doi.org/10.26170/po17-02-05 (In Russian).
+Kirichenko, V. V. (2019). «Encyclopedic Games» as a Way of Historical Reflection. Galactica Media: 
+Journal of Media Studies, 4, 130–152. https://doi.org/10.24411/2658-7734-2019-10040 
+(In Russian).
+Kiriyenko talks about trying to influence children through images in computer games. (2018, September 
+11). TASS. https://tass.ru/obschestvo/5551452 (In Russian).
+Koski, J. (2017). Reflections of history: Representations of the Second World War in Valkyria Chronicles.
+Rethinking History, 21(3), 396–414. https://doi.org/10.1080/13642529.2016.1256625 
+Lewis, K. J. (Ed.). (2020). Grand Theft Longboat: Using Video Games and Medievalism to Teach 
+Medieval History. In Historia Ludens: The Playing Historian (pp. 54–70). Routledge.
+67
+
+
+===== PAGE 18 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Исследования игр | https://doi.org/10.46539/gmd.v4i1.204
+Medvedev criticises foreign-made historical computer games. (2019, March 29). Interfax.ru. 
+https://www.interfax.ru/russia/656237 (In Russian).
+Medvedev proposes to make a Russian analogue of World of Warcraft. (2011, July 22). RIA Novosti. 
+https://ria.ru/20110722/405663550.html (In Russian).
+Montero Díaz, J., & Paz Rebollo, M. A. (2013). Audiovisual History for an audiovisual society. 
+Historia Crítica, 49, 159–183.
+Moyzhes, L. V. (2020). An Analysis of the Ideological Potential of VideoGames from the Point of View of
+James Gibson’s Theory of Affordances. Sociology of Power, 32(3), 32–52. 
+https://doi.org/10.22394/2074-0492-2020-3-32-52 (In Russian).
+Osekin, S. O. (2016). Russia as an aggressor in contemporary computer games. Culture and Civilisa-
+tion, 1, 116–127. (In Russian).
+Spring, D. (2015). Gaming history: Computer and video games as historical scholarship. Rethinking 
+History, 19(2), 207–221. https://doi.org/10.1080/13642529.2014.973714 
+Traynor, L., & Ferguson, J. (2020). Shooting for Accuracy: Historicity and Video Gaming. In Historia 
+Ludens (pp. 243–254). Routledge.
+Uricchio, W. (2005). Simulation, history and computer games. In Handbook of computer game studies 
+(pp. 327–338). MIT Press.
+Wainwright, A. M. (2014). Teaching Historical Theory through Video Games. The History Teacher, 47(4),
+579–612.
+Wright, E. (2018). On the promotional context of historical video games. Rethinking History, 22(4), 
+598-608. https://doi.org/10.1080/13642529.2018.1507910 
+Yablokov, K. V. (2005). Computer History Games from the 1990s to the 2000s: Problems of Interpreting 
+Historical Information [PhD Thesis]. Russian State University for the Humanities. (In Russian).
+Zahlmann, S. (2015). Early Modern History in the Video Game: Historical Perspectives. German 
+History, 33(4), 656–658.
+Список литературы
+Aurell, J. (2015). Rethinking historical genres in the twenty-first century. Rethinking History, 19(2), 
+145-157. https://doi.org/10.1080/13642529.2014.983706 
+Bogost, I. (2009, September 3). Videogames are a Mess. Bogost.Com. 
+http://bogost.com/writing/videogames_are_a_mess/ 
+Chapman, A. (2020). Playing Against the Past?: Representing the Play Element of Historical Cultures 
+in Video Games. In Historia Ludens: The Playing Historian (pp. 133–154). Routledge.
+Chen, K. (2003). Civilization and its disk contents two essays on civilisation and civilization. Radical 
+Society, 30(2), 95–107. https://doi.org/10.1080/1476085032000175056 
+Fogu, C. (2009). Digitalizing Historical Consciousness. History and Theory, 48(2), 103–121. 
+https://doi.org/10.1111/j.1468-2303.2009.00500.x 
+Frasca, G. (2004). Simulation versus Narrative: Introduction to Ludology. In The Video Game Theory 
+Reader (pp. 221–236). Routledge.
+68
+
+
+===== PAGE 19 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Game Studies | https://doi.org/10.46539/gmd.v4i1.204
+Koski, J. (2017). Reflections of history: Representations of the Second World War in Valkyria Chronicles.
+Rethinking History, 21(3), 396–414. https://doi.org/10.1080/13642529.2016.1256625 
+Lewis, K. J. (Ed.). (2020). Grand Theft Longboat: Using Video Games and Medievalism to Teach 
+Medieval History. In Historia Ludens: The Playing Historian (pp. 54–70). Routledge.
+Montero Díaz, J., & Paz Rebollo, M. A. (2013). Audiovisual History for an audiovisual society. 
+Historia Crítica, 49, 159–183.
+Spring, D. (2015). Gaming history: Computer and video games as historical scholarship. Rethinking 
+History, 19(2), 207–221. https://doi.org/10.1080/13642529.2014.973714 
+Traynor, L., & Ferguson, J. (2020). Shooting for Accuracy: Historicity and Video Gaming. In Historia 
+Ludens (pp. 243–254). Routledge.
+Uricchio, W. (2005). Simulation, history and computer games. In Handbook of computer game studies 
+(pp. 327–338). MIT Press.
+Wainwright, A. M. (2014). Teaching Historical Theory through Video Games. The History Teacher, 47(4),
+579–612.
+Wright, E. (2018). On the promotional context of historical video games. Rethinking History, 22(4), 
+598-608. https://doi.org/10.1080/13642529.2018.1507910 
+Zahlmann, S. (2015). Early Modern History in the Video Game: Historical Perspectives. German 
+History, 33(4), 656–658.
+Белов, С. И. (2018). Компьютерные игры как инструмент реализации политики памяти (на 
+примере отображения событий Великой Отечественной войны в видеоиграх). Вестник 
+РУДН. Серия: Политология, 20(1), 96–104. https://doi.org/10.22363/2313-1438-2018-20-1-
+96-104 
+Белов, С. И. (2021). Перспективы использования видеоигр с историческим сюжетом как инстру-
+мента политики памяти Российской Федерации. Вопросы политологии, 11(4), 1089–1096. 
+https://doi.org/10.35775/PSI.2021.68.4.013 
+Белов, С. И., & Кретова, А. А. (2020). Компьютерные игры как ресурс реализации политики 
+памяти: Практический опыт и скрытые возможности (на материалах позиционирования 
+событий Великой отечественной войны). Вестник Московского государственного 
+областного университета. Серия: история и политические науки, 1, 54–63. 
+https://doi.org/10.18384/2310-676X-2020-1-54-63 
+Белянцев, А. Е., & Герштейн, И. З. (2010). Образ страны через компьютерную игру: Историко-
+политический аспект. Вестник Нижегородского университета им. Н.И. Лобачевского, 
+6, 279–283.
+Бочанов, М. А., Иглин, Д. А., & Попов, С. И. (2018). Компьютерные игры как инструмент потенци-
+ального развития политической культуры и коммуникации. Вопросы политологии, 8(5), 
+7–14.
+Грибан, О. Н. (2017). Трансформируя память: Отражение Второй мировой войны в компью-
+терных играх. Педагогическое образование в России, 2, 32–38. 
+https://doi.org/10.26170/po17-02-05 
+Кириенко рассказал о попытках влиять на детей через образы в компьютерных играх. (2018, 
+сентябрь 11). ТАСС. https://tass.ru/obschestvo/5551452 
+69
+
+
+===== PAGE 20 =====
+
+Galactica Media: Journal of Media Studies. 2022. No 1 | ISSN: 2658-7734
+Исследования игр | https://doi.org/10.46539/gmd.v4i1.204
+Кириченко, В. В. (2019). «Энциклопедические игры» как способ исторической рефлексии. 
+Galactica Media: Journal of Media Studies, 4, 130–152. https://doi.org/10.24411/2658-7734-
+2019-10040 
+Медведев предложил сделать российский аналог игры World of Warcraft. (2011, июль 22). РИА 
+Новости. https://ria.ru/20110722/405663550.html 
+Медведев раскритиковал исторические компьютерные игры иностранного производства. 
+(2019, март 29). Interfax.ru. https://www.interfax.ru/russia/656237 
+Мойжес, Л. В. (2020). Анализ идеологического потенциала видеоигры с точки зрения теории 
+аффордансов Джеймса Гибсона. Социология власти, 32(3), 32–52. 
+https://doi.org/10.22394/2074-0492-2020-3-32-52 
+Осекин, С. О. (2016). Россия как агрессор в современных компьютерных играх. Культура и циви-
+лизация, 1, 116–127.
+Федорченко, С. Н. (2020). Интерпретация событий Великой Отечественной войны в компью-
+терных играх: Риски и перспективы легитимации режима через политику памяти. 
+Постсоветские исследования, 3(5), 427–438.
+Фуртай, Ф. (2009). Феномен виртуалити в массовой культуре, или «Добро пожаловать в наш 
+кошмар». Вестник Ленинградского государственного университета им. А.С. Пушкина, 
+2(3–2), 112–121.
+Черный, С. Ю. (2017). Конструирование прошлого в видеоиграх: Игрок как потребитель и соавтор
+исторического нарратива (проект «Europa Universalis 4»). Шаги-Steps, 3(2), 77–97.
+Яблоков, К. В. (2005). Компьютерные исторические игры 1990-2000-х гг.: Проблемы интерпре-
+тации исторической информации [Диссертация кандидата исторических наук]. Россий-
+ский государственный гуманитарный университет.
+70

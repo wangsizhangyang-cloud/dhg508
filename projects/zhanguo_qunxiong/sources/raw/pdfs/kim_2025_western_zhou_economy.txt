@@ -1,0 +1,478 @@
+
+
+===== PAGE 1 =====
+
+The Western Zhou Economy:
+A Missing Puzzle in the Economic
+History of Bronze Age China
+Historians have, over the past decade, worked to reveal a more nuanced
+and dynamic economic history of early Chinese states (e.g., Ma & Von
+Glahn, 2022; Sabattini & Schwermann, 2022; Von Glahn, 2016). What role
+can archaeology play in this renewed inquiry? How can the study of mate-
+rial remains deepen and expand our understanding of ancient Chinese
+economies? The six essays in this special issue address these questions by
+focusing on the Western Zhou (1045–771 BCE), the apex of China’s
+Bronze Age, and a pivotal period for the formation of Chinese civilization,
+through the lens of recent archaeological discoveries and their interpreta-
+tion.
+Scholarship on the economies of the ancient world has, for the better
+part of a century, generated long-lasting debates, models, and approaches
+elucidating the economic systems of ancient societies (see summary, e.g.,
+Andreau, 2002; Smith, 2004; Hirth, 2020). Two major lines of thought are
+important to highlight: one is the long-standing debate between primitivist
+and modernist views, on whether ancient economies are embedded in their
+social contexts and can be studied in universal terms (Garraty, 2010; Pola-
+nyi, 1957; Meikle, 2002) and the other is whether or not the ancient
+economies in the entire Mediterranean world (including its adjacent Near
+Eastern areas) should be studied as a whole, focusing on commonality or
+as individual systems, emphasizing the Greco-Roman and Near Eastern
+areas, each with their fundamentally different political-economic systems
+(Finley, 1973, 27–29; Horden & Purcell, 2000; Manning & Morris, 2005).
+These issues are highly relevant to the study of ancient Chinese econo-
+mies even though scholars are generally not engaged explicitly with the
+primitivist–modernist debate (for an exception, see Barbieri-Low 2007).
+Similarly, the question of whether to study the ancient Mediterranean as a
+whole or as a set of distinct zones finds resonance in the study of early
+Chinese economic history, particularly in relation to the dynamics between
+Christopher F. Kim, Institute for the Study of the Ancient World, New York University,
+New York, USA
+Wu Dongming
+, University of Macau, Macau, China
+E-mail: dongmingwu@um.edu.mo
+Sun Yan, Gettysburg College, Gettysburg, USA
+Archaeologies: Journal of the World Archaeological Congress (© 2025)
+https://doi.org/10.1007/s11759-025-09538-8
+Published online: 26 July 2025
+GUEST EDITORIAL
+ARCHAEOLOGIES Volume 21 Number 2 August 2025
+314
+© 2025 World Archaeological Congress
+
+
+===== PAGE 2 =====
+
+the Central Plains in the mid-Yellow River valley, the core of Chinese civi-
+lization, and its surrounding peripheries. In recent years, increasing archae-
+ological discoveries have prompted scholars to reassess the center-focused
+framework deeply rooted in Chinese historiography, highlighting the piv-
+otal role of the peripheries in the formation of early Chinese civilization (e.
+g., Flad & Chen, 2013; Li, 2018; Linduff et al., 2018; Yao, 2016).
+Moving beyond the Central Plains paradigm has, in turn, led to new
+understandings of early Chinese political economies. New archaeological
+discoveries and ongoing investigations of key sites such as Liangzhu, Shi-
+mao, Taosi, Sanxingdui, and Jinsha clearly demonstrate the existence of
+highly sophisticated economic and political systems beyond the traditional
+dynastic centers. More importantly, studies of archaeological materials have
+enriched our understanding of the political and economic expansion of the
+early Chinese states (Cao, 2014; Liu & Chen, 2003; Underhill & Fang,
+2004), the nature of craft production (Barbieri-Low, 2007; Li, 2023; Shi,
+2021; Sun, 2008; Wang, 2021), and the development of markets and taxa-
+tion (Korkolkov, 2021, 2023; Sabattini & Schwermann, 2022). These issues,
+central to debates about the economic history of the ancient world, high-
+light the value of comparative studies across early civilizations (Campbell
+et al., 2022).
+Despite this, the formative period of Chinese civilization from the Neo-
+lithic period to the end of the Han empire (i.e., early China) remains
+underrepresented in comparative studies of ancient economies (Hirth,
+2020). This is due, in part, to a lack of engagement with social history and
+social theories in both Western sinology and modern Chinese historiogra-
+phy (Li, 2023). Studies collected in this special issue seek to fill that gap,
+offering fresh insights into the economic dynamics of the Western Zhou
+period and, more broadly, initiating a theoretical dialog between early Chi-
+nese economies and research on ancient economies elsewhere in the world.
+At the height of the Bronze Age, the Western Zhou period developed a
+sophisticated political economy centered on bronze production. Its expan-
+sive, cross-regional exchange networks linked the Zhou heartland in the
+Wei and Luo River valleys with surrounding regions, laying the ground-
+work for the rapid economic transformations that would define the suc-
+ceeding Eastern Zhou period (770–221 BCE)—sometimes termed the
+Eastern Zhou “economic miracle” (Falkenhausen, 2022).
+The surge of archaeological discoveries beyond the Zhou political cen-
+ters in the recent two decades has also yielded a substantial corpus of data,
+illuminating various dimensions of the Western Zhou economy. Yet, much
+of this material, largely accessible only to Chinese-reading scholars, has
+remained underexplored and only minimally integrated into the wider dis-
+course on ancient economic history. To address this gap, we argue that it
+is essential to critically assess the scope and significance of these new find-
+The Western Zhou Economy: A Missing Puzzle in the Economic History...
+315
+
+
+===== PAGE 3 =====
+
+ings and to apply effective analytical frameworks to advance our under-
+standing of the Western Zhou economic landscape.
+New Evidence
+Our current knowledge of Western Zhou history derives primarily from
+transmitted texts, bronze ritual vessels from elite tombs, and inscriptions
+cast on bronzes (Creel, 1970; Li 2006, 2008; Shaughnessy, 1991). This evi-
+dence focuses on the social lives of the elite who commissioned and used
+the bronzes in ritual contexts. In Chinese archaeology, there has been dis-
+proportionate scholarly attention to elite material culture as archaeological
+fieldwork often gives preference on rich burials that often yield finely cast
+bronzes. This limitation on data has caused a lack of holistic approaches
+toward investigating the economic activities surrounding different types of
+goods aside from bronzes across all levels of society. If we define the econ-
+omy as “a system of actions and institutions that are related to the fields
+of production, exchange, distribution and consumption of goods and utili-
+ties” (Sabattini & Schwermann, 2022, 4), the focus of current scholarship
+has predominantly been on the production and consumption of prestige
+goods.
+Fortunately, this situation has begun to shift in recent years. Scholars
+have begun examining the role of the production and exchange of other
+types of goods, such as stone earrings, bone-working, and proto-porcelain
+in the socio-economic lives of the Western Zhou period (Li, 2021; Sun,
+2008; Zhao, 2017). These studies shift the focus from the bronze industry
+to other economic sectors and underscore the critical role of archaeological
+materials in illuminating the breadth and complexity of the Western Zhou
+economy.
+The role of cowrie shells—long used as mortuary goods and increasingly
+recognized as media of exchange during the late Shang and Western Zhou
+periods—has likewise been the subject of considerable debate (Li, 2003;
+Yang, 2019). Similarly, salt production in early China has become a central
+theme of archaeological inquiry, attracting significant scholarly attention
+over the past few decades (Falkenhausen, 2006; Flad, 2011). Christopher
+Kim’s paper analyzes the most recent archaeological and paleographic evi-
+dence for salt in the Western Zhou political economy, arguing that elite-
+centered salt exchange networks constituted an important pillar of the
+Western Zhou political economy but by no means its only one. The paper
+further highlights the possible existence of alternative, localized, and regio-
+nal exchange networks, revealing the complexity and multi-layered nature
+of economic life during the Western Zhou.
+316
+C. F. KIM, W. DONGMING AND S. YAN
+
+
+===== PAGE 4 =====
+
+Exciting research in the field of archaeometallurgy has yielded invaluable
+new data on local bronze production, including insights into ore extrac-
+tion, mold preparation, and the distinct roles of different artisans across
+the stages of metal manufacture (Hsu et al., 2021; Li, 2020; Li et al., 2020;
+Pollard et al., 2017; Shi, 2021). Two papers in this issue contribute to this
+growing body of scholarship, viewing the Western Zhou bronze industry in
+a new light. Su Rongyu’s study of the foundry remains at Beiyao, Luoyang,
+the eastern capital of Zhou, reevaluates the productive capacity and scale
+of the site, challenging the long-held assumption that large-scale bronze
+production took place there during the early Western Zhou.
+Wu Dongming’s paper presents exciting new evidence about mines and
+miners in southeastern Hubei, discussing the Sifangtang cemetery, the only
+known burial site of a mining community of this period. It sheds unprece-
+dented light on the lives of miners and the social dynamics of mining com-
+munities outside the Western Zhou dynastic center.
+New Perspectives
+As Li Feng (2023: 76) has observed, “the economy of early China was char-
+acterized by strong reliance on the political state.” In keeping with this
+view, scholars have long approached the study of early Chinese economic
+systems through the lens of political economies. In the context of Bronze
+Age Chinese polities, top-down redistribution has been a dominant model.
+Earlier studies on the Shang state, for example, portrayed its political econ-
+omy as largely reliant on elite redistribution of prestige goods, with state
+expansion driven primarily by economic interests (Chang, 1975, 1980; Liu
+& Chen, 2001, 2003). More recent scholarship, however, has advocated a
+less state-centric approach, highlighting the existence of multiple levels of
+elite and non-elite exchange and interaction (Campbell, 2009; Underhill,
+2002). These studies have also drawn new evidence from economic sectors
+such as bone-working to challenge the traditional tributary or top-down
+redistributive model long ascribed to the Shang state (Campbell et al.,
+2011; Hou et al., 2018; Li et al., 2018).
+In this special issue, Roderick Campbell’s research echoes these recent
+approaches, situating the Western Zhou economy in the longue dure´e and
+exploring how it was shaped by broader transformations in the Shang eco-
+nomic and political systems, including emerging commercialization and
+decentralized local economic structures.
+The Western Zhou political economy has long been characterized as a
+centralized, redistributive system in which royal gift-giving was the primary
+mechanism through which society was ordered (Cook, 1997). This model
+assumes an absence of market exchange and centers on a state-controlled
+The Western Zhou Economy: A Missing Puzzle in the Economic History...
+317
+
+
+===== PAGE 5 =====
+
+bronze industry, with the state monopolizing raw materials and casting
+technologies, and redistributing metal ingots or finished bronzes to regio-
+nal elites (Li, 2020; Von Glahn, 2016).
+Recent studies have challenged top-down models of the Western Zhou
+economy, highlighting diverse modes of interaction and exchange between
+the Central Plains and surrounding regions (Chao, 2017; Jaffe, 2016; Lei,
+2023; Sun, 2021; Wu, 2013). New archaeological evidence further suggests
+that elite gift exchange was only one part of a more complex economic
+landscape. Sun Zhouyong’s (2008) study of a stone earring workshop in
+the Zhouyuan area, for example, reveals that an elite lineage produced
+everyday goods on a scale far exceeding local demand, pointing to broader
+commercial distribution and market-oriented exchange.
+Sun Yan’s research investigates the conspicuous consumption of bronzes
+in high-ranking elite tombs, challenging conventional interpretations that
+frame their ritual use as strictly governed by top-down sumptuary regula-
+tions. By foregrounding the agency of individuals and lineages operating
+within specific geopolitical contexts, her work shifts the analytical focus
+from centralized authority to localized socio-political strategies.
+Lei Chin-hau’s paper examines land management, an essential compo-
+nent of the Western Zhou political economy, through a close study of
+bronze inscriptions. He argues that the land crisis during the reign of king
+Zhao (the first part of the 10th c. BCE) reflects the king’s struggle to assert
+centralized political and economic control over the southern regions of the
+Zhou world.
+Taken together, these studies—alongside emerging archaeological evi-
+dence and new theoretical approaches—indicate that models of elite redis-
+tributive economies represent only one facet of a far more complex
+political-economic landscape in Bronze Age China (Campbell et al., 2022;
+Falkenhausen, 2022). Scholars have increasingly recognized the importance
+of incorporating the pivotal Western Zhou period into broader frameworks
+for understanding the ancient economy of early China. This special issue
+explores how diverse methodologies and bodies of evidence can be inte-
+grated to develop a more comprehensive and nuanced model of the Wes-
+tern Zhou economy. It represents one of the first coordinated efforts to
+construct analytically robust frameworks for examining the Western Zhou
+economy and, by extension, the ancient Chinese economy. Only by doing
+so can we identify shared questions across ancient societies and apply pro-
+ductive comparative theories to interpret the increasingly rich archaeologi-
+cal and textual record of early China.
+318
+C. F. KIM, W. DONGMING AND S. YAN
+
+
+===== PAGE 6 =====
+
+Acknowledgements
+The authors wish to thank the Tang Center for Early China at Columbia
+University for hosting the workshop “Making the Economy: Production
+and Distribution of Goods in the Western Zhou Dynasty (1045–771
+BCE),” held on April 1–3, 2022, where early versions of the majority of the
+papers in this issue were presented.
+References
+Andreau, J.
+(2002). Twenty years after Moses I. Finley: The ancient economy. In W. Scheidel
+& S. von Reden (Eds.), The ancient economy (pp. 33–49). Routledge.
+Barbieri-Low, A.
+(2007). Artisans in early imperial China. University of Washington Press.
+Campbell, R. B.
+(2009). Toward a networks and boundaries approach to early complex polities:
+The late Shang case. Current Anthropology, 50(6), 821–848.
+Campbell, R. B., Jaffe, Y., Kim, C., Sturm, C., & Li, J.
+(2022). Chinese bronze age political economies: A complex polity provisioning
+approach. Journal of Archaeological Research, 30, 69–116.
+Campbell, R. B., Li, Z., He, Y., & Jing, Y.
+(2011). Consumption, exchange and production at the great settlement Shang:
+Bone-working at Tiesanlu, Anyang. Antiquity, 85, 1279–1297.
+Cao, D.
+(2014). The loess highland in a trading network (1300–1050 BC) [Doctoral disser-
+tation, Princeton University]. ProQuest Dissertations and Theses Global.
+Chang, K. C.
+(1975). Ancient trade as economics or as ecology. In J. A. Sabloff & C. C. Lam-
+berg-Karlovsky (Eds.), Ancient civilization and trade (pp. 211–224).
+University of New Mexico Press.
+Chang, K. C.
+(1980). Shang civilization. Yale University Press.
+Chao, G.
+(2017). Culture change and imperial incorporation in early China: An archaeologi-
+cal study of the Middle Han River Valley (ca. 8th century BCE – 1st cen-
+tury
+CE)
+[Doctoral
+dissertation,
+Columbia
+University].
+ProQuest
+Dissertations and Theses Global.
+The Western Zhou Economy: A Missing Puzzle in the Economic History...
+319
+
+
+===== PAGE 7 =====
+
+Cook, C. A.
+(1997). Wealth and the Western Zhou. Bulletin of the School of Oriental and
+African Studies, 60(2), 253–294.
+Creel, H. G.
+(1970). The origins of statecraft in China, volume one: The Western Chou empire.
+Chicago University Press.
+Falkenhausen, L.
+(2006). The salt of Ba: Reflections on the role of the “peripheries” in the pro-
+duction systems of bronze age China. Arts Asiatiques, 61, 45–56.
+Falkenhausen, L.
+(2022). The economy of late pre-imperial China: Archaeological perspectives. In
+D. Ma & R. von Glahn (Eds.), The Cambridge economic history of China,
+volume 1: To 1800 (pp. 15–51). Cambridge University Press.
+Falkenhausen, L.
+(Forthcoming). Economic Trends in China during the Age of Confucius (1000–250
+BC): The Archaeological Evidence. Cotsen Institute of Archaeol-
+ogy.
+Finley, M. I.
+(1973). The ancient economy. University of California Press.
+Flad, R. K.
+(2011). Salt production and social hierarchy in ancient China: An archaeological
+investigation of specialization in China’s three gorges. Cambridge Univer-
+sity Press.
+Flad, R., & Chen, P.
+(2013). Ancient central China: Centers and peripheries along the Yangzi River.
+Cambridge University Press.
+Garraty, C. P.
+(2010). Investigating market exchange in ancient societies: A theoretical over-
+view. In C. P. Garraty & B. L. Stark (Eds.), Archaeological approaches to
+market exchange in ancient societies (pp. 3–32). University Press of Col-
+orado.
+Hirth, K.
+(2020). The organization of ancient economies: A global perspective. Cambridge
+University Press.
+Horden, P., & Purcell, N.
+(2000). The corrupting sea: A study of Mediterranean history. Blackwell.
+Hou, Y., Campbell, R., Li, Z., Zhang, Y., Li, S., & He, Y.
+(2018). The Guandimiao bone assemblage (and what it says about the Shang
+Economy). Asian Perspectives, 57(2), 281–310.
+320
+C. F. KIM, W. DONGMING AND S. YAN
+
+
+===== PAGE 8 =====
+
+Hsu, Y., O’Sullivan, R., & Li, H.
+(2021). Sources of Western Zhou lead: A new understanding of Chinese bronze
+age supply networks. Archaeological and Anthropological Sciences, 13, 30.
+Jaffe, Y. Y.
+(2016). The continued creation of communities of practice—Finding variation in
+the Western Zhou expansion (1046−771 BCE) [Doctoral dissertation,
+Harvard University]. ProQuest Dissertations and Theses Global.
+Korolkov, M.
+(2021). Fiscal transformation during the formative period of ancient Chinese
+empire (late fourth to first century BCE). In J. Valk & I. S. Marı´n
+(Eds.), Ancient taxation: The mechanics of extraction in comparative per-
+spective (pp. 203–261). Institute for the Study of the Ancient World.
+Korolkov, M.
+(2023). Building empire, creating markets: Commercial policies and practices in
+imperial China (221–207 BCE). Journal of the Economic and Social His-
+tory of the Orient, 66, 206–236.
+Lei, C.
+(2023). Territoriality and state power: Southern lands and the triplex formation
+of early Western Zhou. Asia Major, 36(1), 53–93.
+Li, F.
+(2006). Landscape and power in early China: The crisis and fall of the Western
+Zhou, 1045–771 BCE. Cambridge University Press.
+Li, F.
+(2008). Bureaucracy and the state in early China: Governing the Western Zhou.
+Cambridge University Press.
+Li, F.
+(2023). The state and goals of economic history: A review of ‘between command
+and market: Economic thought and practice in Early China’, edited by
+Elisa Levi Sabattini and Christian Schwermann. Journal of Chinese His-
+tory, 7(2), 704–718.
+Li, H. 黎海超
+(2020). Ziyuan yu shehui: Yi Shang Zhou shiqi tongqi liutong wei zhongxin 資源
+與社會: 以商周時期銅器流通為中心[Resources and society: A study
+of bronze circulation systems in the Shang and Western Zhou dynas-
+ties]. China Social Sciences Press.
+Li, H.
+(2021). Hierarchical, ethnic, and provenance features of Western Zhou period
+proto-porcelain in Northern China: New evidence of a redistribution
+system during the Western Zhou dynasty. Asian Perspectives, 60(2), 417–
+443.
+The Western Zhou Economy: A Missing Puzzle in the Economic History...
+321
+
+
+===== PAGE 9 =====
+
+Li, H., Chen, J., Cui, J., Wu, X., Yang, Y., Huang, F., & Xu, T.
+(2020). Production and circulation of bronzes among the regional states in the
+Western Zhou dynasty. Journal of Archaeological Science, 121, 1–15.
+Li, M.
+(2018). Social memory and state formation in early China. Cambridge University
+Press.
+Li, S., Campbell, R., & Hou, Y.
+(2018). Guandimiao: A Shang village site and its significance. Antiquity, 92,
+1511–1529.
+Li, Y.
+(2003). On the function of cowries in Shang and Western Zhou China. Journal
+of East Asian Archaeology, 5(1–4), 1–25.
+Li, Y.
+(2023). Kingly crafts: The archaeology of craft production in late Shang China.
+Columbia University Press.
+Linduff, K. M., Sun, Y., Cao, W., & Liu, Y.
+(2018). Ancient China and its Eurasian neighbors: Artifacts, identity and death in
+the frontier, 3000–700 BCE. Cambridge University Press.
+Liu, L., & Chen, X.
+(2001). Cities and towns: The control of natural resources in early states, China.
+Bulletin of the Museum of Far Eastern Antiquities, 73, 5–47.
+Liu, L., & Chen, X.
+(2003). State formation in early China. Duckworth.
+Ma, D., & Von Glahn, R. (Eds.).
+(2022). The Cambridge economic history of China, volume 1: To 1800. Cambridge
+University Press.
+Manning, J. G., & Morris, I. (Eds.).
+(2005). The ancient economy: Evidence and models. Stanford University Press.
+Meikle, S.
+(2002). Modernism, economics and the ancient economy. In W. Scheidel & S.
+von Reden (Eds.), The ancient economy (pp. 233–250). Routledge.
+Polanyi, K.
+(1957). The economy as instituted process and sociology and the substantive
+view of the economy. In K. Polanyi, C. M. Arensberg, & H. W. Pearson
+(Eds.), Trade and market in the early empires (pp. 243–306). The Free
+Press.
+Pollard, A. M., Bray, P., Hommel, P., Hsu, Y., Liu, R., & Rawson, J.
+(2017). Bronze age metal circulation in China. Antiquity, 91(357), 674–687.
+322
+C. F. KIM, W. DONGMING AND S. YAN
+
+
+===== PAGE 10 =====
+
+Sabattini, E. L., & Schwermann, C. (Eds.).
+(2022). Between command and market: Economic thought and practice in Early
+China. Brill.
+Shaughnessy, E. L.
+(1991). Sources of Western Zhou history: Inscribed bronze vessels. University of
+California Press.
+Shi, T.
+(2021). Copper mining and metallurgy in the Zhongtiao mountains and Yangzi
+river valleys in Early China. Asian Perspectives, 60(2), 382–416.
+Smith, M.
+(2004). The archaeology of ancient state economies. Annual Review of Anthropol-
+ogy, 33, 73–102.
+Sun, Y.
+(2021). Many worlds under one heaven: Material culture, identity, and power in
+the northern frontiers of the Western Zhou, 1045–771 BCE. Columbia
+University Press.
+Sun, Z.
+(2008). Craft production in the Western Zhou dynasty (1046–771 BC): A case
+study of a Jue-earrings workshop at the predynastic capital site, Zhouyuan,
+China. Archaeopress.
+Underhill, A. P.
+(2002). Craft production and social change in northern China. Springer.
+Underhill, A., & Fang, H.
+(2004). Early state economic systems in China. In G. Feinman & L. Nicholas
+(Eds.), Archaeological perspectives on political economies (pp. 129–144).
+University of Utah Press.
+Von Glahn, R.
+(2016). The economic history of China: From antiquity to the nineteenth century.
+Cambridge University Press.
+Wang, Q.
+(2021). Copper mining and bronze production in Shandong province: A new per-
+spective on the political economy of the Shang State [Doctoral dissertation,
+Yale University]. ProQuest Dissertations and Theses Global.
+Wu, M.
+(2013). On the periphery of a great “empire”: Secondary formation of states and
+their material basis in the Shandong Peninsula during the late bronze age,
+ca. 1000–500 B.C.E. [Doctoral dissertation, Columbia University]. Pro-
+Quest Dissertations and Theses Global.
+Yang, B.
+(2019). Cowrie shells and cowrie money: A global history. Routledge.
+The Western Zhou Economy: A Missing Puzzle in the Economic History...
+323
+
+
+===== PAGE 11 =====
+
+Yao, A.
+(2016). The ancient highlands of southwest China: From the bronze age to the Han
+Empire. Oxford University Press.
+Zhao, H.
+(2017). Mass bone-working industry in the Western Zhou period (1046–771 BC)
+[Doctoral dissertation, Stanford University]. ProQuest Dissertations and
+Theses Global.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional
+claims in published maps and institutional affiliations.
+324
+C. F. KIM, W. DONGMING AND S. YAN

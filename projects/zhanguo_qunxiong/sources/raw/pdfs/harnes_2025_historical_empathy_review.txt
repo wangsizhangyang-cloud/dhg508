@@ -1,0 +1,1519 @@
+
+
+===== PAGE 1 =====
+
+History Education
+Research Journal
+Review article
+What can empirical research tell us about how to develop
+students’ historical empathy? A scoping review
+Helga Bjørke Harnes1,*
+1 Department of Teacher Education, NLA University College, Bergen, Norway
+* Correspondence: hbh@nla.no
+Submission date: 4 July 2024; Acceptance date: 16 May 2025; Publication date: 16 July 2025
+How to cite
+Harnes, H.B. (2025) ‘What can empirical research tell us about how to develop students’ historical
+empathy? A scoping review’. History Education Research Journal, 22 (1), 18.
+DOI: https://doi.org/10.14324/HERJ.22.1.18.
+Peer review
+This article has been peer-reviewed through the journal’s standard double-anonymous peer-review
+process, where both the reviewers and authors are anonymised during review.
+Copyright
+2025, Helga Bjørke Harnes. This is an open-access article distributed under the terms of the
+Creative Commons Attribution Licence (CC BY) 4.0 https://creativecommons.org/licenses/by/4.0/,
+which permits unrestricted use, distribution and reproduction in any medium, provided the
+original author and source are credited • DOI: https://doi.org/10.14324/HERJ.22.1.18.
+Open access
+History Education Research Journal is a peer-reviewed open-access journal.
+Abstract
+The aim of this scoping review is to systematically select, analyse and synthesise
+recent empirical research to better understand the factors that influence students’
+learning of historical empathy, as well as the implications for educators.
+The review
+also maps conceptualisations of historical empathy, finding that it is predominantly
+understood as both an affective and a cognitive concept. Notably, there appears to
+be a slight shift in conceptualisations over time, from a notion of ‘stepping into other
+people’s shoes’ to a focus on ‘understanding’ perspectives of people in the past. Two
+particularly influential pedagogical frameworks are identified: one by Keith C. Barton
+and Linda S. Levstik, and the other by Jason L. Endacott and Sarah Brooks. Key factors
+influencing students’ learning of historical empathy include the ability to contextualise
+and see multiple perspectives, student engagement and emotions, presentism and
+moral judgment, and student identification and identity.
+The synthesis of findings
+suggests several implications for educators aiming to foster historical empathy. These
+include the importance of introducing multiple historical perspectives, providing sufficient
+substantive knowledge, scaffolding contextualisation, harnessing affective dimensions,
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 2 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+2
+encouraging moral responses while challenging presentist judgment, and being aware of
+the influence of contemporary contexts, namely societal narratives and values, students’
+identities and the historical topic at hand.
+Keywords historical empathy; scoping review; empirical research; student; primary
+education; secondary education; history education
+Introduction
+The aim of this scoping review is to analyse relevant recent research to understand factors that influence
+students’ learning for historical empathy, and implications these factors may have for educators.
+The concept of historical empathy was first introduced in the English Schools Council History 13–16
+Project in the 1970s as part of a new approach to history education. This approach aimed to move
+away from mere memorisation of facts and national narratives, focusing instead on both disciplinary
+competences and democratic citizenship (Endacott and Brooks, 2018).
+Broadly speaking, historical
+empathy can be described as taking, understanding and/or explaining perspectives of people in the
+past within their historical contexts. However, since its inception, historical empathy has remained a
+contested concept (Karn, 2023).
+There have been several discussions on historical empathy, including how it should be
+conceptualised, its role in history education classrooms and the best ways to promote and measure
+it (Endacott and Brooks, 2018).
+Historical empathy has faced criticism for embracing identification,
+sympathy and pure imagination (Perikleous, 2014), for allowing imagination to override the rigorous work
+of contextualisation, and for prioritising causes over consequences and justice (Endacott and Brooks,
+2018). Additionally, it has been criticised for aiming at the impossible, namely completely taking a past
+actor’s perspective (Retz, 2015). Another discussion centres on whether historical empathy introduces
+anything substantially new to history education or if it is merely a renaming of already exciting goals. An
+argument for the latter is that goals of historical empathy were implicitly present in curricular documents
+in the USA both in the early 1900s (Perrotta and Bohan, 2018) and in the period 1950–80 (Perrotta and
+Bohan, 2020). Nevertheless, over the years, the concept has become well established in both theory and
+practice in history education.
+In
+2009,
+Sarah
+Brooks published
+a
+literature review
+on
+historical
+empathy,
+discussing
+conceptualisations and empirical findings concerning student learning. She found that studies failed
+‘to acknowledge and analyse the competing conceptualizations’, and that research interventions did not
+necessarily build on earlier research (Brooks, 2009: 230). Brooks (2009) also found that students had
+a capacity for historical empathy and achieved this through different practices: working with historical
+evidence to write historical explanations, reflective essays and first- and third-person writing tasks; as well
+as through Socratic seminars and debates. However, students’ presentism and deficit explanations of the
+past were fundamental obstacles to achieving historical empathy (Brooks, 2009). Endacott and Brooks
+(2018: 214) found that ‘background historical information’, ‘primary source work’ and different types of
+questions are important for developing historical empathy. Several instructional activities have been
+used, all with their ‘affordances and constraints’, including discussion and debate, writing assignments
+and reflection (Endacott and Brooks, 2018: 215).
+Over the years, the body of empirical research on historical empathy and student learning has grown
+substantially. Most of this research is qualitative, making it challenging for practitioners to navigate the
+myriad of complex and contextualised findings (Thomas and Harden, 2008). Therefore, there is a need for
+a broad mapping of central findings relevant to educational practices. This scoping review contributes to
+the body of knowledge by systematically selecting, analysing, summarising and disseminating empirical
+research findings (Arksey and O’Malley, 2005: 21) on historical empathy in educational settings published
+since 2009. The research questions are:
+RQ1.
+In the included studies, what factors are particularly influential on students’ learning processes
+towards historical empathy?
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 3 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+3
+RQ2.
+What are possible implications of these factors for educators who seek to enhance historical
+empathy?
+These research questions aim to synthesise insights that can be derived from empirical research.
+Consequently, this study does not include analyses of curricula or theoretical studies, as these provide a
+different type of insight into our understanding of historical empathy. In the following, I first present and
+discuss methodological considerations. Then, I outline different conceptualisations of historical empathy
+in the included studies to provide a foundation and context for the subsequent analysis. In the main body
+of the article, I analyse and highlight important factors for learning, and in the final section I synthesise
+the findings and discuss the implications for educators.
+Method
+The search process has been iterative, beginning with initial searches conducted for my PhD research
+(Harnes, 2022), followed by new searches carried out in January 2024. I searched for empirical studies
+from 2009 onwards that investigated student perspectives and used historical empathy as a main concept.
+For the purposes of this article, only studies that use the concept of historical empathy have been
+included and analysed. Still, it must be noted that there are overlaps between historical empathy and
+other concepts in history education, such as contextualisation (see, for instance, Huijgen et al., 2018) and
+multiperspectivity (see, for instance, Wansink et al., 2018).
+The searches were conducted in English, Norwegian, Swedish and Danish, across multiple
+databases accessed via NLA University College: Academic Search Premier (EBSCO), Eric (EBSCO),
+ISI Web of Science, DOAJ, Oria (the search engine for Norwegian academic libraries) and Idunn.
+Additionally, the archives of some central history education research journals were hand searched,
+although these searches did not yield additional articles: International Journal of Historical Learning
+Teaching and Research/History Education Research Journal; Acta Didactica Norden; Nordidactica; The
+Journal of Social Studies Research; Historical Encounters; Theory and Research in Social Education;
+Journal of Curriculum Studies.
+Upon completion of all searches, 41 articles were included (see Table 1). The included studies are
+peer-reviewed journal articles in history education or social studies, in primary and secondary education,
+and in various educational settings, such as classrooms, museums and historic sites.
+Scoping reviews aim to systematically summarise a wide array of studies to provide a comprehensive
+overview of existing knowledge.
+To ensure breadth, quality and manageability, only peer-reviewed
+articles have been included, while book chapters and monographs have been excluded. Additionally,
+research contributions in other languages have been excluded due to the author’s lack of proficiency in
+these languages.
+The included studies vary in geographical context, with most conducted in the USA (12 studies),
+followed by the Netherlands (6 studies) and Sweden (4 studies). The studies used a variety of qualitative
+approaches, and they vary in the number and age of participants, historical themes and research topics
+(see Table 1 for information about each study). The age of students in primary and secondary education
+differs from one country to another. In the included articles, students are aged between 7 and 19 years,
+with one exception (Berti et al., 2009), which includes students up to 25 years old.
+Thus, the process of synthesis and analysis has been complex and iterative, and, as in all qualitative
+research, interpretative. Other research questions would shed a different light on the included studies.
+To gain an initial overview, a short and systematic summary of each of the included studies was made, as
+recommended by Krumsvik and Røkenes (2016), and the categories should include the following options:
+•
+author(s), year, title
+•
+country
+•
+conceptualisation
+•
+research question(s)
+•
+historical topic
+•
+educational settings
+•
+method(s)
+•
+age of participants
+•
+findings and implications.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 4 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+4
+Then, conceptualisations were mapped for each article: overall definitions, cognitive and/or affective
+dimensions, the role of primary sources, ‘taking’ or ‘understanding’ historical perspectives, philosophical
+underpinnings and pedagogical frameworks or models. Comparisons were made between them, and
+development tracked over time.
+The summaries in the category ‘findings and implications’ were analysed abductively, constantly
+alternating between summary, article, codes and theory (Timmermans and Tavory, 2012). Deductive
+codes were based on previous research on historical empathy and included the following:
+contextualisation, feelings and affective connection, multiple perspectives, moral dimension, sources
+and inquiry, past and present.
+Inductive codes were added during the process and comprised:
+substantive knowledge, student identity, imagination, pitfalls.
+There are some limitations to this analysis. First, since the aim is to look for patterns across a
+disparate body of research, a full analysis of each study is not presented, and some nuance is lost. For
+instance, findings that do not relate to historical empathy are not included, which risks de-contextualising
+the included findings. Nevertheless, the analysis brings out patterns across the studies which provide
+valuable insights into answering the research question in this review. Second, a scoping review aims at
+broadly mapping a research area and allows for the inclusion of studies which vary in scope and quality,
+without a thorough appraisal of ‘the quality of evidence’ of each included study (Arksey and O’Malley,
+2005). Thus, rigorous, large projects of high quality are juxtaposed with small case studies to identify
+overall patterns and trends. Still, the reader will gain an impression of the scope and methodology of
+the included studies, as seen in Table 1.
+Table 1. Overview of included research, chronological order
+Country
+Method
+N
+Age
+Historical
+theme
+Research topic
+Berti et al.
+(2009)
+Italy
+Quasi-experimental
+intervention
+N =
+150
+8–25
+The medieval
+practice of
+ordeal
+How students construe the
+concept of historical
+empathy
+Colby (2010)
+USA
+Intervention, case
+study
+N = 4
+12–13
+The Alamo
+invasion
+How students think
+historically and
+empathetically in historical
+inquiry
+Endacott
+(2010)
+USA
+Descriptive, case
+study
+N = 20
+13–14
+Historical figures
+in difficult
+situations
+Students’ affective
+engagement in a learning
+process in history
+instruction
+Seng and
+Wei (2010)
+Singapore
+Intervention, case
+study
+N = 5
+13–14
+Housing in
+Singapore,
+1950–60s
+The roles of teacher and
+student in nurturing
+imagination and empathy
+Brooks
+(2011)
+USA
+Descriptive, case
+study
+N = 4
+14–18
+European history
+How students display the
+subjective and objective
+components of historical
+empathy
+D’Adamo
+and Fallace
+(2011)
+USA
+Action research
+N = 22
+9–10
+Virginian history,
+the American
+Civil War
+Students’ development of
+historical
+empathy/historical
+perspective-taking skills
+Perikleous
+(2011)
+Cyprus
+Text study, student
+tasks
+N = 32
+9–12
+History of
+childhood
+Students’ ideas of
+historical empathy
+Metzger
+(2012)
+USA
+Descriptive, case
+study
+N = 26
+15–16
+The Holocaust
+The use of a dramatic film
+about an emotionally
+difficult topic with historical
+empathy as learning goal
+Davison
+(2014)
+New
+Zealand
+Intervention,
+comparative case
+study
+N = 45
+14–15
+The 1915
+Gallipoli
+campaign
+Students’ interpretation of
+historical empathy
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 5 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+5
+Endacott
+(2014)
+USA
+Descriptive, case
+study
+N = 6
+16–17
+Harry Truman’s
+decision to
+deploy atomic
+bombs
+How students engage in
+the process of historical
+empathy to shape
+historical understanding
+and contextual knowledge
+Nygren et al.
+(2014)
+Sweden
+Intervention, case
+study
+N =
+110
+16–19
+Children born
+out of wedlock
+Possibilities and
+challenges when students
+use a digital database to
+learn historical thinking
+and historical empathy
+Virja and
+Kouki (2014)
+Finland
+Text analysis,
+student essays
+N = 96
+16–19
+Finnish child
+transportation to
+Sweden during
+the Second
+World War
+Students’ expression of
+historical empathy in
+essays
+de Leur
+et al. (2015)
+The
+Netherlands
+Interview and text
+study, student
+tasks
+N = 16
+15–16
+Empathy tasks
+Types of empathy tasks in
+textbooks, cognitive and
+affective elements in
+students’ responses to
+empathy tasks, students’
+perceptions of empathy
+tasks
+Kosti et al.
+(2015)
+Greece
+Pilot study, teacher
+research
+N = 22
+12–13
+Bronze age,
+Hellenic
+colonisation, the
+legislation of
+Solon, from
+Peisistratus to
+Cleisthenes
+Drama-in-education and
+the development of
+historical empathy
+Nygren
+(2016)
+Sweden
+Practice-based
+research
+N = 39
+17–18
+Indigenous
+peoples’ human
+rights
+The relationship between
+historical thinking and
+empathy in ethically
+charged and
+pedagogically challenging
+topics
+Rantala et al.
+(2016)
+Finland
+Intervention, case
+study
+N = 22
+16–17
+The Civil War in
+Finland
+Assessing students’
+historical empathy during a
+teaching intervention
+Davison
+(2017)
+New
+Zealand
+Intervention,
+comparative case
+study
+N = 45
+14–15
+The 1915
+Gallipoli
+campaign
+Presents and discusses
+affective and cognitive
+dimensions of historical
+empathy in ‘The Empathic
+Pathway’
+de Leur
+et al. (2017)
+The
+Netherlands
+Experimental
+study, pre- and
+post-test design
+N =
+254
+14–16
+Dutch
+Iconoclasm
+The effect of first-person,
+third-person and factual
+recount writing tasks on
+students’ responses to
+empathy tasks
+Savenije and
+De Bruijn
+(2017)
+The
+Netherlands
+Descriptive, case
+study
+N = 22
+15–19
+‘Child at war’, a
+Dutch museum
+exhibition
+Students’ engagement in
+the cognitive and affective
+dimensions of historical
+empathy in the museum
+exhibition
+Perrotta
+(2018)
+USA
+Intervention, case
+study
+N = 24
+12–14 +
+16–18
+An
+under-represented
+historical figure:
+Elizabeth
+Jennings
+Impact of students’ social
+identities on historical
+empathy
+Efstathiou
+et al. (2018)
+Cyprus
+Mixed methods,
+pre- and
+post-design
+N = 53
+7–8
+Neolithic
+settlement
+Location-based
+augmented reality
+technologies in an
+archaeological site to
+enhance historical
+empathy
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 6 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+6
+Gilbert
+(2019)
+USA
+Interview study
+N = 14
+14–18
+Assassin’s Creed,
+different
+historical
+scenarios
+How Assassin’s Creed
+influences students’
+perceptions of the past,
+and how they perceive
+historical characters and
+stories in the game
+Nolgård and
+Nygren
+(2019)
+Sweden
+Document analysis,
+student tasks
+N =
+126
+15–16
+Romani people,
+national minority
+in Sweden
+The interplay of historical
+thinking and empathy as
+caring in students’ writing
+Perikleous
+(2019)
+Cyprus
+Collective case
+study, descriptive
+N = 68
+9–12
+Religious
+practices to cure
+illnesses
+Primary students’ ideas of
+historical empathy
+Uppin and
+Timostsuk
+(2019)
+Estonia
+Intervention, case
+study
+N = 76
+15–16
+Estonian
+refugees during
+the Second
+World War
+Testing the usefulness of a
+historical empathy
+framework (Endacott and
+Brooks, 2013) in a museum
+setting
+Wilschut and
+Schiphorst
+(2019)
+The
+Netherlands
+Mixed methods,
+pre- and post-test
+design
+N = 99
+15–16
+Controversial
+historical
+persons:
+Robespierre and
+Thomas
+Jefferson
+Quantitative and
+qualitative assessment of
+historical empathy and
+perspective reconstruction
+Jun (2020)
+South Korea
+Group interviews,
+task-based
+N = 16
+16–17
+‘Comfort
+women’ in South
+Korea
+The interplay of students’
+national identity and
+affective historical empathy
+Bartelds
+et al. (2020)
+The
+Netherlands
+Interviews
+N = 17
+16–19
+Historical
+empathy as a
+concept
+Teachers’ and students’
+beliefs about historical
+empathy
+Palma Flores
+and
+Albornoz
+Muñoz
+(2022)
+Chile
+Intervention, case
+study
+N = 27
+11–15
+Difficult past:
+the 1973 coup
+d’etat in Chile,
+dictatorship
+The historical thinking
+operations that young
+people deploy when
+taught about a difficult
+past
+Petousi et al.
+(2022)
+Greece
+Mixed methods
+N = 15
+Teenagers
+Ancient Athens,
+slavery
+Collaborative interactive
+digital storytelling and the
+promotion of historical
+empathy, focus on affective
+connection
+Riner et al.
+(2022)
+USA
+Mixed methods,
+quasi-experimental
+N = 44
+14–15
+Anne Frank
+Virtual reality and the
+development of historical
+empathy
+Wagner and
+Dversnes
+(2022)
+Norway
+Action research
+N = 24
+18–19
+Slavery in the
+USA, feature film
+Using a feature film about
+slavery to enhance
+historical empathy
+Yancie (2022)
+USA
+Intervention, case
+study
+N = 25
+16–17
+Racism and
+racial injustice in
+American history
+Perspective-writing tasks
+and dialogue, and their
+influence on students’
+historical empathy skills
+Bartelds
+et al. (2023)
+The
+Netherlands
+Quasi-experimental,
+pre-post-follow-up-
+design
+N = 97
+15–16
+The
+Israel–Palestine
+conflict
+Promoting general
+empathy using
+eyewitnesses in the history
+classroom
+Çakiroglu
+et al. (2023)
+Turkey
+Mixed methods,
+intervention, case
+study
+N = 17
+13–14
+Atatürk, Turkish
+history
+Examine the effectiveness
+of using augmented reality
+in gaining historical
+empathy skills
+Conner and
+Graham
+(2023)
+USA
+Mixed methods,
+intervention, case
+study
+N = 16
+15–16
+The Holocaust
+The impact of a model of
+historical empathy
+(Endacott and Brooks,
+2013) to teach the
+Holocaust
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 7 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+7
+Çopur et al.
+(2023)
+Turkey
+Intervention, case
+study
+N = 32
+12–13
+Ancient history
+Determine the effect of
+creative drama method on
+students’ historical
+empathy skills
+Hagen
+(2023)
+Norway
+Focus group
+interviews
+N = 41
+14–15
+The Holocaust
+Students’ understanding of
+perpetrators’ motivation,
+and reflection on
+contemporary extremism
+Nielsen
+(2023)
+Sweden
+Descriptive, case
+study
+N = 38
+8–10
+Bronze Age,
+1700–300 BCE
+How young students’ visit
+to a heritage site
+contributes to their
+historical empathy
+Karn (2024b)
+Canada
+Reflection on her
+own practice
+–
+14–17
+First and Second
+World War
+battlefields in
+Belgium and
+France
+Experiential learning
+outside classrooms and
+the fostering of historical
+empathy
+Conceptualisations
+Brooks (2009) concluded that historical empathy was conceptualised in multiple and sometimes
+incoherent ways. The studies included in this review also present different conceptualisations; however,
+some clear patterns can be found. First, most researchers conceptualise historical empathy as consisting
+of both cognitive and affective dimensions. In addition, a subtle shift in the description of the concept
+seems to have occurred over time: from taking to understanding a historical agent’s perspective.
+Last, two conceptual frameworks or models of historical empathy emerge as particularly influential on
+empirical research.
+Most of the included articles assert that historical empathy is a contested concept, referring to
+the debate on whether historical empathy should primarily promote cognitive skills and/or affective
+approaches to historical topics. However, when it comes to the actual application of historical empathy
+in these studies, there is little controversy. Thus, an important finding of this review is that the concept
+appears to be minimally contested in empirical research, with broad consensus that it encompasses
+both cognitive and affective dimensions. There are only two exceptions which emphasise the cognitive
+dimension alone: D’Adamo and Fallace (2011) and Wilschut and Schiphorst (2019). Five studies focus
+only on the affective dimension in their research, although they acknowledge that there are cognitive
+dimensions as well (Endacott, 2010; Nygren, 2016; Nolgård and Nygren, 2019; Jun, 2020; Riner et al.,
+2022). In some studies exploring students’ perceptions of historical empathy (Davison, 2014; de Leur
+et al., 2015; Bartelds et al., 2020), students also mentioned both cognitive and affective dimensions.
+However, two studies found that students primarily emphasised the cognitive aspect of historical
+empathy (Wilschut and Schiphorst, 2019; Bartelds et al., 2023).
+Thus, there is broad agreement that historical empathy encompasses both cognitive and affective
+dimensions. This finding supports Karn’s (2023: 83) claim that researchers and educators today tend
+to understand historical empathy as a ‘cognitive-affective’ concept. Additionally, some of the included
+studies report empirical results that underscore this theoretical stance: results show that both dimensions
+were present in students’ learning processes (Palma Flores and Albornoz Muñoz, 2022), and that both
+were important for enhancing historical empathy (Seng and Wei, 2010). Furthermore, there is evidence
+that cognitive and affective dimensions are closely interwoven in students’ learning processes (Nygren,
+2016; Nolgård and Nygren, 2019; Nielsen, 2023; Karn, 2024b).
+Another interesting pattern is a subtle change in the description of the concept over time, from
+metaphors that describe an experience, such as walking in other people’s shoes, to descriptions of a
+skill, outcome or process, namely, to understand and explain perspectives. Perhaps this development is
+a response to the criticisms of historical empathy presented above: it is impossible to fully step into past
+agents’ ‘shoes’, and efforts to do so may lead to over-identification, sympathy or pure imagination, rather
+than to historical learning (Perikleous, 2014; Retz, 2015; Endacott and Brooks, 2018). The development
+could also be influenced by language in the influential framework by Endacott and Brooks (2013: 41),
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 8 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+8
+which describes historical empathy as ‘the process of students’ cognitive and affective engagement with
+historical figures to better understand and contextualize their lived experiences, decisions, or actions’.
+Few of the included studies discuss theoretical or philosophical underpinnings. Four articles briefly
+present R.G. Collingwood, one Leopold von Ranke and one Hans-Georg Gadamer. One exception is
+Wilschut and Schiphorst (2019), who thoroughly discuss the influence of several philosophers of history
+(Wilhelm Dilthey, R.G. Collingwood, Carl G. Hempel and William H. Dray) on the concept of historical
+empathy. That few discuss philosophical underpinnings suggests that the pedagogical frameworks and
+models serve to bridge the gap between theoretical work on historical empathy and classroom practices,
+supporting educators and researchers as they plan instruction.
+Two frameworks or models are particularly influential in the included studies. First, Barton and
+Levstik’s (2004) idea of historical empathy as perspective recognition and care has been used in 13 studies
+(Colby, 2010; Brooks, 2011; Metzger, 2012; Nygren et al., 2014; Nygren, 2016; Savenije and De Bruijn,
+2017; Gilbert, 2019; Nolgård and Nygren, 2019; Jun, 2020; Palma Flores and Albornoz Muñoz, 2022;
+Riner et al., 2022; Wagner and Dversnes, 2022; Nielsen, 2023). Perspective recognition includes a ‘sense
+of otherness’ (people of the past were different from myself), and the idea of ‘shared normalcy’ (we still
+share a common humanity). Additionally, historical contextualisation, incorporating multiple historical
+perspectives, and contextualising the present are important elements of perspective recognition (Barton
+and Levstik, 2004). There are four types of care: (1) caring about the historical topic gives motivation and
+interest; (2) caring that injustices have happened incites moral responses; (3) caring for historical actors
+who experienced injustice creates a longing for change; and (4) consequently, students may care to
+change the present.
+Equally important is Endacott and Brooks’s (2013) theoretical and practical model for promoting
+historical empathy, which has been used in 12 articles (Endacott, 2014; Virja and Kouki, 2014; Rantala
+et al., 2016; de Leur et al., 2017; Savenije and De Bruijn, 2017; Efstathiou et al., 2018; Uppin and Timostsuk,
+2019; Palma Flores and Albornoz Muñoz, 2022; Petousi et al., 2022; Wagner and Dversnes, 2022; Conner
+and Graham, 2023; Hagen, 2023). Three studies use both frameworks and therefore appear in both
+lists above: Savenije and De Bruijn (2017); Palma Flores and Albornoz Muñoz (2022); and Wagner and
+Dversnes (2022).
+According to Endacott and Brooks (2013), historical empathy combines historical contextualisation,
+perspective taking and affective connection.
+Historical contextualisation entails gaining a broad
+understanding of the society and/or event in question. Perspective taking involves understanding that
+past agents’ thoughts were influenced by their contexts. Affective connection brings understanding
+of how affections may have influenced the lives of past agents, given our ‘similar yet different life
+experiences’ (Endacott and Brooks, 2013: 43).
+To sum up, a broad consensus has emerged that historical empathy encompasses both cognitive
+and affective dimensions, as Karn (2023) also suggests. This dual understanding is found in Endacott
+and Brooks (2013) and Barton and Levstik (2004), as well as in conceptualisations in the included studies,
+and this understanding is supported by empirical evidence. A shift seems to have taken place from
+a more experiential, metaphorical description of the concept to one that emphasises understanding
+and explanations of historical perspectives. These conceptualisations provide important context for
+presenting and discussing the findings in this review, as the included research generally shares this
+understanding of what it means to take or understand historical perspectives: students need to develop
+both cognitive skills, such as contextualisation and working with evidence, and affective dispositions,
+such as care, mentalisation and longing for justice. This corresponds to what Endacott and Brooks (2018:
+212) call ‘proximate goals’ of curricular and methodological learning and ‘ultimate goals’ of democratic
+learning for life.
+Factors that influence learning
+Ability to contextualise and work with evidence
+Three studies report that working with sources facilitated historical empathy.
+Seng and Wei (2010:
+526) argued that sources presenting different perspectives were useful, when students were allowed
+to ‘approach the sources from their own perspectives, knowledge, and experience’.
+Kosti et al.
+(2015: 15) suggested that drama-in-education, combined with sources, helped students in ‘“harnessing”
+imagination with evidence’. Participants in Karn (2024b: 34) were given ample opportunity to work with
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 9 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+9
+historical sources, including written sources, ‘artefacts, monuments, and landscapes’, and oral sources.
+One finding was that being in situ, experiencing, for instance, weather or distance, influenced students’
+understanding of other types of sources, such as a diary written in the same place (Karn, 2024b: 35).
+Another finding was that the affective elements of historical empathy ‘augmented students’ abilities to
+examine sources’ (Karn, 2024b: 35).
+Conversely, other studies found that students struggled to use sources effectively in their learning.
+Colby (2010) gave examples of four students’ reading of the same historical sources and found that
+their understanding of sources as event, text and subtext was limited. Nygren et al. (2014) show that
+students were not used to working with primary sources. Nygren (2016) concluded that there was minimal
+sourcing and corroboration in students’ texts, and Nolgård and Nygren (2019: 8) found that sourcing
+was ‘the least salient category’ in their data.
+Savenije and De Bruijn (2017) reported that students
+generally did not include historical sources and evidence in their end products, and Gilbert (2019)
+found that the participants trusted the narrative of Assassin’s Creed without corroboration. Although
+the participants were aware that the game was a narrative with a particular purpose, they trusted that
+historians’ involvement ensured an ‘unbiased’ history (Gilbert, 2019: 127). This suggests that teachers
+need to prepare students to work critically with both primary and secondary sources, considering their
+reliability and purpose.
+Historical contextualisation also posed challenges for students in many studies, for different reasons.
+Age and maturity play a role (D’Adamo and Fallace, 2011). However, progression with age is not universal
+and linear; rather, students approach different historical topics differently (Brooks, 2011). Berti et al. (2009)
+found that deficit explanations of the medieval practice of ordeal were most frequent among participants
+aged 12 and above, not among the youngest. The researchers argued that this is due to a bleak picture
+of the Middle Ages in school textbooks. In addition, participants perceived the past as unintelligible
+or incoherent when they did not understand the texts they were working with or the ‘rationale behind’
+practices (Berti et al., 2009: 286).
+Strong moral messages conveyed in teaching situations may also hinder contextualisation (Metzger,
+2012; Savenije and De Bruijn, 2017). Additionally, students’ lack of substantive knowledge may impede
+contextualisation (Perikleous, 2011; Savenije and De Bruijn, 2017; Perikleous, 2019; Hagen, 2023). de
+Leur et al. (2017: 343) found that students generally ‘scored relatively low on the historical knowledge
+test’, highlighting the possibility that students may lack the substantive knowledge required for effective
+contextualisation.
+In seven studies, students managed processes of contextualisation (Brooks, 2011; Chisholm et al.,
+2017; Palma Flores and Albornoz Muñoz, 2022; Çakiroglu et al., 2023; Conner and Graham, 2023; Nielsen,
+2023; Karn, 2024b), and three studies found slight improvement in student contextualisation (Rantala
+et al., 2016; Wilschut and Schiphorst, 2019; Petousi et al., 2022). Several factors are important to enhance
+contextualisation: teacher beliefs, planning and scaffolding practices (Brooks, 2011; Conner and Graham,
+2023); temporal and personal distance to national difficult history (Palma Flores and Albornoz Muñoz,
+2022); immersion in augmented reality, paired with teacher-led discussions about students’ learning
+(Çakiroglu et al., 2023); and learning in situ (Nielsen, 2023; Karn, 2024b).
+To sum up, working with sources as evidence and contextualisation are important yet challenging
+elements of historical empathy.
+Teachers cannot assume that students have the skills or sufficient
+substantive knowledge; they need to consider students’ age and cognitive development, and to
+challenge presentist moral judgement.
+Ability to see multiple perspectives
+A surprising finding is that all text fragments coded as multiple perspectives indicate that students
+demonstrated the ability to recognise multiple historical perspectives. Nygren (2016: 131) found that
+students engaged in ‘perspective recognition’. Various studies report student progress towards a deeper
+understanding of multi-perspectivity (Brooks, 2011; Rantala et al., 2016; Savenije and De Bruijn, 2017;
+Petousi et al., 2022; Yancie, 2022; Conner and Graham, 2023; Nielsen, 2023), with some indicating
+greater progress in relation to multiple perspectives compared to other dimensions of historical empathy
+(D’Adamo and Fallace, 2011; Nygren, 2016; Efstathiou et al., 2018; Gilbert, 2019).
+Adding nuances to these findings, de Leur et al. (2017) found that multiple perspectives were
+used most in factual recount tasks, while first and third person tasks encouraged the perspective of
+the antagonist. Savenije and De Bruijn (2017: 840) claimed that although the multiple perspectives
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 10 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+10
+students encountered in the museum exhibition fostered engagement and new understanding, students
+did not ‘move towards integrating these points of view into their existing narratives’. Gilbert (2019: 124)
+found that the gamers in her study recognised and considered new historical perspectives, but inferred,
+somewhat problematically, that this validated Assassin’s Creed as an ‘impartial and trustworthy portrayal
+of history’. These findings suggest that students may need help to critically evaluate and integrate
+different historical perspectives.
+Nevertheless, evidence indicates that taking multiple perspectives is easier for students than
+working with sources, and the skill of contextualisation, and that it might be a good starting point for
+enhancing historical empathy.
+Students’ engagement and emotions
+Generally, studies that have researched the affective dimensions of historical empathy report that
+students demonstrated affective connection, as described by Endacott and Brooks (2013), and/or care,
+as understood by Barton and Levstik (2004).
+Many studies explicitly reported heightened student motivation, curiosity and interest (Brooks,
+2011; Kosti et al., 2015; Gilbert, 2019; Wilschut and Schiphorst, 2019; Riner et al., 2022; Wagner and
+Dversnes, 2022; Çakiroglu et al., 2023; Çopur et al., 2023; Nielsen, 2023). This increase in engagement
+is attributed to a sense of historical authenticity, of coming closer to history, and of history coming to
+life. Notably, many of these studies employed immersive teaching approaches: feature films (Wagner
+and Dversnes, 2022), drama (Kosti et al., 2015; Çopur et al., 2023), narrative video games (Gilbert, 2019),
+augmented and virtual reality (Riner et al., 2022; Çakiroglu et al., 2023) or experiential learning (Nielsen,
+2023).
+Some of the included studies found that the learning process evoked challengingly strong feelings,
+likely due to the combination of historical topic and teaching material. Some examples are the film The
+Pianist about the Holocaust (Metzger, 2012); a digital story about slaves in ancient Athens where students
+played a first-person character (Petousi et al., 2022); the film 12 Years a Slave about slavery in the USA
+(Wagner and Dversnes, 2022) and personal narratives and visits to battlefields used to teach about the
+First and Second World Wars (Karn, 2024b). The historical topics in these projects are likely to spark
+emotions, and the media used are immersive.
+Strong feelings can be difficult for students to manage. Karn (2024b: 37) suggested that students
+need support to process strong feelings such as ‘sadness or despair’. Learning about the Holocaust,
+for instance, reveals how ordinary people can become part of violent systems, and Hagen (2023)
+recommended being aware of the potential emotional difficulty for students.
+Metzger (2012: 399)
+highlighted a case where a student with a German father was not helped to ‘navigate the complicated
+personal and moral issue’ raised by watching The Pianist.
+Conversely, other students expressed little engagement, emotion or affective connections. Half of
+the students in Savenije and De Bruijn (2017: 839) said that they were not emotionally triggered ‘enough’
+by the museum exhibition and would have preferred a film. Rantala et al. (2016) stated that students
+find it difficult to relate to emotions of people in the past, particularly regarding extreme actions. Karn
+(2024b: 37) found that some students felt ‘a significant sense of separation between the past and the
+present’.
+Few articles explicitly discussed results concerning imagination, but the few that did were positive.
+This is somewhat surprising, given the critique that imagination may hinder historical empathy. Seng and
+Wei (2010) and Kosti et al. (2015) argued that imagination could enhance historical learning when paired
+with evidence. Davison (2014: 17) suggested that imagination should be part of ‘affectively entering into
+the past’, the first step of his Empathy Pathway. Nielsen (2023: 9) found support for this starting point
+in her research: emotional involvement helped to ‘kick-start the pupils’ imaginations and empathy’, and
+made them want to travel back in time.
+Overall, it seems that affective connections and emotions are readily, and perhaps even intuitively,
+present in students’ learning processes, more so than the skills of working with evidence and
+contextualisation. This aligns with Karn (2023), who argued for the inclusion of affective dimensions
+in historical empathy, as they are influential in learning processes even when not explicitly planned for
+by teachers.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 11 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+11
+Presentism and moral judgement
+Perspective recognition encompasses shared normalcy and a sense of otherness (Barton and Levstik,
+2004). These complementary concepts acknowledge that learners and historical agents share a common
+humanity yet exist in very different worlds.
+Evidence indicates that students can hold these ideas
+simultaneously (Brooks, 2011; Nielsen, 2023). However, balancing the two is difficult for students, and
+presentism has been observed in many studies (D’Adamo and Fallace, 2011; Perikleous, 2011; Rantala
+et al., 2016; Gilbert, 2019; Perikleous, 2019; Wilschut and Schiphorst, 2019; Çopur et al., 2023; Nielsen,
+2023; Karn, 2024b). For instance, participants discussed past events through the lens of general moral
+reasoning or modern ideas of civil and human rights, but detached from specific historical contexts
+(Nygren et al., 2014; Virja and Kouki, 2014; Yancie, 2022). Furthermore, there appears to be a close
+relationship between presentism and moral condemnation of the past. Rantala et al. (2016) found that
+some students moralised rather than empathised and Nygren (2016) that the category ‘judging’ was
+prominent in students’ writing. de Leur et al. (2015) showed that affective responses to empathy tasks
+often led to condemning the past from a present-day perspective, while de Leur et al. (2017) found that
+students’ first-person written accounts of historical events heightened the risk of both presentism and
+moral judgement.
+Several studies suggest explanations for students’ moral judgement. One explanation may lie in
+students’ acceptance of grand narratives in contemporary society, such as narratives of progress (Nygren,
+2016) or the ‘poor little child laborer’ (de Leur et al., 2015: 81). There is also a connection between explicit
+teaching goals and moral responses. Metzger (2012: 404) noted that the teacher ‘framed the Holocaust
+as a universal narrative of hatred, excessive brutality, and human progress’, resulting in deeply moral
+learning outcomes, such as universal justice and anti-racism. There are similar findings in Savenije and
+De Bruijn (2017). Based on his results, Nygren (2016: 130) questioned whether ‘history teaching may
+become a moral tool at the expense of historical thinking’.
+Nygren (2016) and Nolgård and Nygren (2019) both raised the question of how to teach emotionally
+or ethically charged topics in a way that balances caring and thinking. Table 2 shows that many of the
+included studies address emotionally or ethically charged topics.
+Table 2. Historical topics in the included studies
+Historical topic
+Number of studies
+Other conflicts or wars
+7
+First World War and Second World War
+6
+The Holocaust
+4
+Historical figures – controversial or under-represented
+4
+Minority groups
+4
+Slavery, racial injustice
+2
+The literature offers limited discussion on why certain historical topics have been chosen over others in
+research on historical empathy. On the one hand, the First and Second World Wars, the Holocaust and
+the history of different minority groups are central to many national curricula, making their inclusion in
+history education expected. On the other hand, other important historical topics are also part of curricula
+and could have been chosen. Perhaps the ultimate goal of historical empathy, democratic citizenship,
+influences the choice of topics.
+However, it is possible for students to avoid presentism and develop more contextualised thinking
+to some degree (Brooks, 2011; Rantala et al., 2016; Wilschut and Schiphorst, 2019; Nielsen, 2023).
+Wagner and Dversnes (2022) found that the degree of presentism varied within the student group. Those
+at the highest level ‘acknowledged that they would probably have held the values of that time’, indicating
+their ability to set aside their own ideas (Wagner and Dversnes, 2022: 11). Karn (2024b) concluded
+that participants were able to judge leaders in the past based on historical sources, geographical and
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 12 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+12
+contextual knowledge, and multiple perspectives. These results indicate that making judgements is
+possible without succumbing to presentism and condemnation.
+An important finding is that all explicit discussion of pitfalls and challenges (Endacott, 2010; Brooks,
+2011; Metzger, 2012; Endacott, 2014; Virja and Kouki, 2014; Uppin and Timostsuk, 2019) relate to moral
+responses, affective connections, care and feelings. There are no cautions that excessive emphasis on
+contextualisation or evidence may inhibit moral responses, affective connection or emotions. Rather,
+there are warnings that prioritising moral responses and affective connections can overshadow the
+importance of contextualisation and evidence.
+Identification and identity
+Several articles discuss student identities and identification, and their influence on historical empathy.
+Jun (2020) found that national identity impacted how the participants expressed care for South Korean
+‘comfort women’. Berti et al. (2009) suggested that the cultural differences between Catholic Italy and
+Anglican England may explain why students perceived the ordeal differently in their study than in the
+original study (Lee and Shemilt, 2003). Wagner and Dversnes (2022) found that boys contextualised
+better than girls, who exhibited higher emotional involvement. Endacott (2014) argued that affective
+responses are influenced by students’ personality and personal background.
+Perrotta (2018: 53) aimed to explore whether students’ social identities influenced ‘exhibition of’
+historical empathy. Her project introduced students to Elizabeth Jennings, an African American woman
+who protested against segregation on public transport in the 1850s. Perrotta (2018) found an ‘empathy
+gap’ in the exhibition of historical empathy.
+White students displayed written skills in ‘identifying
+historical context and perspectives’ (Perrotta, 2018: 65) yet claimed that racism was not a problem
+in their contemporary society.
+African American students ‘were more proficient in making affective
+connections to content during class discussions, the debate activity, and focus group sessions’ (Perrotta,
+2018: 63). Yancie (2022) also found that African American students connected affectively yet performed
+less contextualisation. In the study by Conner and Graham (2023), 15 out of 16 students identified as
+minorities in ‘race, religion, or immigration status’, and they used their own experiences to connect to
+Holocaust survivors and to ordinary Germans during the Holocaust. Palma Flores and Albornoz Muñoz
+(2022) conducted their research on difficult past periods in Chile at a school in a low-income area, finding
+that students empathised with victims of injustices, whether these victims belonged to their family or
+to other disadvantaged groups and were members of underprivileged classes. Thus, social identities
+influence the degree to which students connect to people in the past, possibly in particular when they
+share a minority identity.
+There are also examples that learning historical empathy influenced participants’ identities, their
+reflections on the present and their actions in the present. Some students were able to contextualise
+their present society and/or saw it as a result of past processes (Brooks, 2011; Nolgård and Nygren,
+2019; Nielsen, 2023). Uppin and Timostsuk (2019: 318) found that the museum visit they studied helped
+students identify with ‘their own ancestors’, leading some to talk to their grandparents about the Second
+World War. They also made comparisons between ‘the WWII Baltic Sea boat refugees’ and contemporary
+migration across the Mediterranean Sea (Uppin and Timostsuk, 2019: 318). Playing Assassin’s Creed led
+participants to revisit ‘their understandings of themselves’, such as their social identity as ‘American’
+(Gilbert, 2019: 125). They also experienced multiple historical perspectives that differed from what they
+had been taught in the US school system, prompting some to question the ‘heroizing narratives’ (Gilbert,
+2019: 128) in school history instruction. Students in Jun (2020) cared to change the present as democratic
+citizens, and some participants in Karn (2024b: 36) acted in the present, for instance, by organising an
+‘appreciation luncheon’ for Canadian war veterans.
+Implications for teaching historical empathy
+In this last section, I briefly summarise the findings presented above and discuss their implications for
+educators. The research questions for this review have been:
+RQ1.
+In the included studies, what factors are particularly influential on students’ learning processes
+towards historical empathy?
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 13 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+13
+RQ2.
+What are possible implications of these factors for educators who seek to enhance historical
+empathy?
+To answer RQ1, several patterns of influential factors emerge from the included studies. First, students’
+ability to contextualise is a fundamentally influential factor. However, several articles find that historical
+contextualisation is difficult for students, although it can be facilitated with effective teacher scaffolding.
+Additionally, substantive knowledge is crucial for developing historical empathy.
+Further, multiple
+perspective-taking appears to be easier than contextualisation for students. Affective connection and
+emotional engagement are also influential factors, often strongly present in learning processes aimed at
+historical empathy. These affective dimensions may lead not only to interest and new understanding, but
+also to the pitfalls of presentism and moral judgement. Last, the contemporary society through values
+and grand narratives and students’ identities are factors that significantly shape students’ learning of
+historical empathy. Moreover, students’ present identities are influenced by the process of learning
+historical empathy.
+These findings suggest several implications for educators, summed up in Table 3.
+Table 3. Implications for teaching for historical empathy
+Considerations concerning elements of historical empathy
+Introducing multiple historical perspectives
+Providing substantive knowledge
+Scaffolding students’ historical contextualisation and work with evidence
+Harnessing affective dimensions
+Encouraging moral responses yet challenging presentist judgement
+Considerations concerning other factors
+Awareness of student identity
+Awareness of societal and educational contexts
+The historical topic
+These considerations are essential for planning historical empathy teaching, and they are relevant at
+a pedagogical level that bridges theoretical models (see, for instance, Karn, 2023; or the theoretical
+model in Endacott and Brooks, 2013) and detailed lesson planning tools (see, for instance, Karn, 2024a,
+or the instructional model in Endacott and Brooks, 2013). Table 3 is not an exhaustive list of possible
+considerations, but it highlights the central themes in empirical research from 2009 and onward.
+The first five considerations relate to different elements of historical empathy. They bring nuance to,
+and adjust the balance between, elements found in established theoretical models of historical empathy
+(Endacott and Brooks, 2013; Davison, 2014; Karn, 2023).
+First, introducing multiple historical perspectives could be a useful gateway into historical
+empathy. This element is present in all the previous theoretical models: ‘Historical perspectives’ (Karn,
+2023), ‘Perspective taking’ (Endacott and Brooks, 2013) and ‘Finding multiple perspectives’ (Davison,
+2014).
+As discussed above, findings indicate that students often progress in recognising multiple
+historical perspectives, although they may need help to integrate new perspectives into their existing
+understanding. Still, this could serve as a good starting point for enhancing historical empathy, and
+further research could empirically explore this approach.
+Second, educators need to provide substantive knowledge. Based on findings in this review, the
+importance of substantive knowledge should be emphasised more strongly than in previous models.
+Substantive knowledge is implicitly present in these models in the elements of contextualisation and
+working with evidence.
+Yet findings suggest that substantive knowledge is essential for effective
+contextualisation. Based on Christine Counsell’s research, Schüllerqvist (2014) warned against a shift
+in history education from mere memorisation of substantive facts to generic competences devoid of
+historical content.
+Today, there are indications that the warnings were appropriate.
+Internationally,
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 14 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+14
+the idea of competences has become influential also in history education – see, for instance, how the
+Council of Europe’s (2018) guidelines for quality history education are intertwined with competences for
+democratic culture. The Norwegian Curriculum for Social Studies (Utdanningsdirektoratet, 2019) also
+exemplifies how historical content receives less attention. These developments warrant a reminder that
+substantive knowledge of the historical topic at hand is fundamental for developing historical empathy.
+The third consideration calls for scaffolding students’ historical contextualisation and work with
+evidence. That contextualisation is crucial is evident in the previous theoretical models, as well as in the
+studies included in this review. This skill is important for understanding the historical context and how it
+influenced historical actors’ lives. However, contextualisation is difficult for students, and teachers need
+to carefully scaffold this process. More research is needed to understand and enhance students’ ability
+to contextualise. Research on the concept of contextualisation can give relevant insight here (see, for
+instance, Huijgen et al., 2018).
+The fourth consideration involves harnessing affective dimensions.
+Affective dimensions are
+described in all the models, and findings reveal that they are often strongly present in teaching for
+historical empathy. Immersive teaching media, such as excursions, augmented reality, films and video
+games, heighten interest and motivation, and make students feel closer to the past. Harnessed affective
+dimensions, paired with substantive knowledge and evidence, allow students to apply their feelings,
+ideas and imagination to connect affectively to the past, while avoiding the affective pitfalls of pure
+imagination, over-identification or emotional distancing.
+Last, educators should encourage moral responses while challenging presentist moral judgement.
+Judging the past is an element in theoretical models of historical empathy. Karn (2023) referred to it as
+‘Ethical Judgments’, and judgement is also found in her element ‘Caring’, while Davison (2014: 17) called
+the corresponding element ‘Making judgements’. Findings in this review show that one fundamental
+obstacle to historical empathy is students’ presentist views and interpretations of the past, echoing
+Brooks (2009). There is a danger of presentist moral judgement, particularly when the topic is emotionally
+or ethically loaded. However, the ultimate goal of democratic citizenship and value-laden curricula
+often require educators and students to take a stand against injustice or discrimination, and to respond
+morally to the past. Many historical topics, such as war, slavery and discrimination, demand a moral
+response. However, this response must be based on substantive knowledge, historical contextualisation
+and awareness of one’s own positionality in the present.
+The last three considerations relate to an awareness of how external factors influence different
+elements of historical empathy.
+Findings in this review underscore that educators must consider
+present-day contexts, a point also emphasised in the theoretical work of Tyson Retz (2015, 2018).
+One context concerns students’ social identities, which may influence learning processes for historical
+empathy, which in turn may affect students’ lives in the present.
+An awareness of this influence is
+important, as historical empathy invites present-day perspectives into the learning process through
+affective connections, moral responses and care. More research is needed on the influence of students’
+social identities on their development of historical empathy.
+The other context is contemporary society, with its narratives and values.
+Educators need to
+keep this in mind, since narratives and values influence how a particular historical topic is perceived,
+understood and judged.
+This need is corroborated by Harnes (2022), who found that neither the
+researcher nor the participating teachers considered the extent to which contemporary values and
+narratives about the historical topic, colonialism in Africa, influenced the learning processes. Thus, one
+might argue that the concept of historical empathy cannot be understood separately from historical
+topics; rather, the topic influences the way historical empathy plays out in the learning situation.
+Emotionally or morally charged topics require different considerations than topics that activate feelings
+to a lesser degree, and students’ relation to the topic is also influential. The interplay between present
+contexts, different historical topics and teaching for historical empathy is an interesting area for further
+research.
+The analysis in this review reveals a broader consensus about conceptualisations of historical
+empathy in empirical research on student learning. At the same time, it confirms that historical empathy
+is indeed a complex approach to teaching history, which can be rewarding yet challenging for both
+educators and learners. The synthesis of findings provides important insights into considerations that
+educators need to take into account when managing the balance of affective, cognitive and moral
+dimensions of historical empathy, in light of both past and present contexts.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 15 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+15
+Data and materials availability statement
+Data sharing not applicable to this article as no datasets were generated or analysed during the current
+study.
+Declarations and conflicts of interest
+Research ethics statement
+Not applicable to this article.
+Consent for publication statement
+Not applicable to this article.
+Conflicts of interest statement
+The author declares no conflicts of interest with this work. All efforts to sufficiently anonymise the author
+during peer review of this article have been made. The author declares no further conflicts with this
+article.
+References
+Arksey, H. and O’Malley, L. (2005) ‘Scoping studies: Towards a methodological framework’. International
+Journal of Social Research Methodology: Theory & Practice, 8 (1), 19–32. [CrossRef]
+Bartelds, H., Savenije, G.M. and Van Boxtel, C. (2020) ‘Students’ and teachers’ beliefs about historical
+empathy in secondary history education’. Theory and Research in Social Education, 48 (4), 529–51.
+[CrossRef]
+Bartelds, H., Savenije, G.M., Van Drie, J. and Van Boxtel, C. (2023) ‘Using eyewitnesses to promote
+students’ understanding of empathy in the history classroom’. The Journal of Social Studies
+Research, 47 (2), 129–44. [CrossRef]
+Barton, K.C. and Levstik, L.S. (2004) Teaching History for the Common Good. Mahwah, NJ: Erlbaum.
+Berti, A.E., Baldin, I. and Toneatti, L. (2009) ‘Empathy in history: Understanding a past institution
+(ordeal) in children and young adults when description and rationale are provided’. Contemporary
+Educational Psychology, 34 (4), 278–88. [CrossRef]
+Brooks, S. (2009) ‘Historical empathy in the social studies classroom: A review of the literature’. Journal
+of Social Studies Research, 33 (2), 213–34. [CrossRef]
+Brooks, S. (2011) ‘Historical empathy as perspective recognition and care in one secondary social studies
+classroom’. Theory and Research in Social Education, 39 (2), 166–202. [CrossRef]
+Çakiroglu, U., Aydin, M., Köroglu, Y. and Kina, M.A. (2023) ‘Looking past seeing present: Teaching
+historical empathy skills via augmented reality’. Interactive Learning Environments, 32 (7), 3364–76.
+[CrossRef]
+Chisholm, J.S., Shelton, A.L. and Sheffield, C.C. (2017) ‘Mediating emotive empathy with informational
+text:
+Three students’ think-aloud protocols of Gettysburg:
+The graphic novel’. Journal of
+Adolescent & Adult Literacy, 61 (3), 289–98. [CrossRef]
+Colby, S.R. (2010) ‘Contextualization and historical empathy’. Curriculum & Teaching Dialogue, 12 (1/2),
+69–83.
+Conner, C.J. and Graham, T.C. (2023) ‘Using an instructional model of historical empathy to teach the
+Holocaust’. Social Studies, 114 (1), 19–35. [CrossRef]
+Çopur, A., Ahiskali, E.E., Varol, A., Bilgenur, B. and Ekinay, Y.D. (2023) ‘The effect of creative drama method
+on the development of historical empathy skill in secondary school students’. International Journal
+of Education Technology and Scientific Researches, 8 (23), 1368–93.
+Council of Europe (2018) ‘Quality history education in the 21st century: Principles and guidelines’.
+Accessed 31 January 2025. https://www.coe.int/en/web/campaign-free-to-speak-safe-to-learn/-/
+quality-history-education-in-the-21st-century-principles-and-guidelines-2018-.
+D’Adamo, L. and Fallace, T. (2011) ‘The multigenre research project: An approach to developing historical
+empathy’. Social Studies Research & Practice, 6 (1), 75–88. [CrossRef]
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 16 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+16
+Davison, M. (2014) ‘Developing an historical empathy pathway with New Zealand secondary school
+students’. History Education Research Journal, 12 (2), 5–21. [CrossRef]
+Davison, M. (2017) ‘Teaching about the First World War today: Historical empathy and participatory
+citizenship’. Citizenship, Social and Economics Education, 16 (3), 148–56. [CrossRef]
+de Leur, T., Van Boxtel, C. and Wilschut, A. (2015) ‘“Just imagine …”: Students’ perspectives on empathy
+tasks in secondary history education’. International Journal of Historical Learning, Teaching and
+Research, 13 (1), 69–84. [CrossRef]
+de Leur, T., Van Boxtel, C. and Wilschut, A. (2017) ‘“I saw angry people and broken statues”: Historical
+empathy in secondary history education’. British Journal of Educational Studies, 65 (3), 331–52.
+[CrossRef]
+Efstathiou, I., Kyza, E.A. and Georgiou, Y. (2018) ‘An inquiry-based augmented reality mobile learning
+approach to fostering primary school students’ historical reasoning in non-formal settings’.
+Interactive Learning Environments, 26 (1), 22–41. [CrossRef]
+Endacott, J.L. (2010) ‘Reconsidering affective engagement in historical empathy’. Theory and Research
+in Social Education, 38 (1), 6–47. [CrossRef]
+Endacott, J.L. (2014) ‘Negotiating the process of historical empathy’. Theory and Research in Social
+Education, 42 (1), 4–34. [CrossRef]
+Endacott, J.L. and Brooks, S. (2013) ‘An updated theoretical and practical model for promoting historical
+empathy’. Social Studies Research and Practice, 8 (1), 41–58. [CrossRef]
+Endacott, J.L. and Brooks, S. (2018) ‘Historical empathy: Perspectives and responding to the past’. In S.A.
+Metzger and L.M. Harris (eds), The Wiley International Handbook of History Teaching and Learning.
+New York: Blackwell Wiley, 203–26.
+Gilbert, L. (2019) ‘“Assassin’s Creed reminds us that history is human experience”: Students’ senses
+of empathy while playing a narrative video game’. Theory & Research in Social Education, 47 (1),
+108–37. [CrossRef]
+Hagen, F.S. (2023) ‘Elevers forståelse av motivene til de som bidro til gjennomføringen av Holocaust’.
+Acta Didactica Norden, 17 (1), 20. [CrossRef]
+Harnes, H.B. (2022) ‘Historisk empati i møte med vanskelig historie:
+En kvalitativ studie av
+historieundervisning i ungdomsskolen’ [Historical empathy and difficult history: A qualitative study
+of history teaching in lower secondary school]. PhD thesis, University of Stavanger, Stavanger,
+Norway.
+Huijgen, T., Van de Grift, W., Van Boxtel, C. and Holthuis, P. (2018) ‘Promoting historical contextualization:
+The development and testing of a pedagogy’. Journal of Curriculum Studies, 50 (3), 410–34.
+[CrossRef]
+Jun, H. (2020) ‘“I think the comfort women are us”: National identity and affective historical empathy in
+students’ understanding of “comfort women” in South Korea’. Journal of Social Studies Research,
+44 (1), 7–19. [CrossRef]
+Karn, S. (2023) ‘Historical empathy:
+A cognitive-affective theory for history education in Canada’.
+Canadian Journal of Education/Revue Canadienne de L’éducation, 46 (1), 80–110. [CrossRef]
+Karn, S. (2024a) ‘Designing historical empathy learning experiences: A pedagogical tool for history
+teachers’. History Education Research Journal, 21 (1), 1–15. [CrossRef]
+Karn, S. (2024b) ‘Walking in their footsteps: Historical empathy and experiential learning on battlefield
+study tours’. Historical Encounters, 11 (1), 30–42. [CrossRef]
+Kosti,
+K.,
+Kondoyianni,
+A.
+and
+Tsiaras,
+A.
+(2015)
+‘Fostering
+historical
+empathy
+through
+drama-in-education: A pilot study on secondary school students in Greece’. Drama Research:
+International Journal of Drama in Education, 6 (1), 2–23.
+Krumsvik, R.J. and Røkenes, F.M. (2016) ‘Litteraturreview i ph.d-avhandlingen’. In R.J. Krumsvik (ed.),
+Doktorgradsutdanning i Endring. Et Fokus på den Artikkelbaserte ph.d-Avhandlingen. Bergen:
+Fagbokforlaget, 51–91.
+Lee, P.J. and Shemilt, D. (2003) ‘A scaffold, not a cage: Progression and progression models in history’.
+Teaching History, 111, 13–23.
+Metzger, S.A. (2012) ‘The borders of historical empathy: Students encounter the Holocaust through film’.
+Journal of Social Studies Research, 36 (4), 387–410. [CrossRef]
+Nielsen, L.A. (2023) ‘Prehistoric history in Swedish primary school education: Pupils’ expression of
+empathy after visiting a cultural heritage site’. Education, 53 (3), 3–13. [CrossRef]
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 17 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+17
+Nolgård, O. and Nygren, T. (2019) ‘Considering the past and present of Romani in Sweden: Secondary
+school pupils’ thinking and caring about the history of the Romani in national tests’. Education
+Inquiry, 10 (4), 344–67. [CrossRef]
+Nygren, T. (2016) ‘Thinking and caring about indigenous peoples’ human rights: Swedish students writing
+history beyond scholarly debate’. Journal of Peace Education, 13 (2), 113–35. [CrossRef]
+Nygren, T., Sandberg, K. and Vikström, L. (2014) ‘Digitala primärkällor i historieundervisningen:
+En utmaning för elevers historiska tänkande och historiska empati’. Nordidactica:
+Journal of
+Humanities and Social Science Education, 4 (2), 208–45.
+Palma Flores, E. and Albornoz Muñoz, N. (2022) ‘Between identification and empathy to elaborate
+the difficult past: An experience of a classroom debate with Chilean children’. Journal of Peace
+Education, 19 (1), 25–46. [CrossRef]
+Perikleous, L. (2011) ‘Why did they treat their children like this? A case study of 9–12 year-old Greek
+Cypriot students’ ideas of historical empathy’. In L. Perikleous and D. Shemilt (eds), The Future of
+the Past: Why history education matters. Nicosia: AHDR, 217–51.
+Perikleous, L. (2014) ‘Deanna Troi and the TARDIS: Does historical empathy have a place in education?’.
+International Journal of Historical Learning, Teaching and Research, 12 (2), 22–30. [CrossRef]
+Perikleous, L. (2019) ‘“Because they believed”: Students’ ideas of historical empathy in Greek Cypriot
+primary education’. History Education Research Journal, 16 (2), 195–208. [CrossRef]
+Perrotta, K. (2018) ‘A study of students’ social identities and a “historical empathy gap” in middle
+and secondary social studies classes with the instructional unit “The Elizabeth Jennings Project”’.
+Curriculum & Teaching Dialogue, 20 (1/2), 53–9.
+Perrotta, K. and Bohan, C.H. (2018) ‘More than a feeling: Tracing the progressive era origins of historical
+empathy in the social studies curriculum, 1890–1940s’. The Journal of Social Studies Research, 42,
+27–37. [CrossRef]
+Perrotta, K. and Bohan, C.H. (2020) ‘Can’t stop this feeling: Tracing the origins of historical empathy
+during the Cold War era, 1950–1980’. Educational Studies, 56 (6), 599–618. [CrossRef]
+Petousi, D., Katifori, A., Servi, K., Roussou, M. and Ioannidis, Y. (2022) ‘History education done different:
+A collaborative interactive digital storytelling approach for remote learners’. Frontiers in Education,
+7, 942834. [CrossRef]
+Rantala, J., Manninen, M. and Van den Berg, M. (2016) ‘Stepping into other people’s shoes proves to be
+a difficult task for high school students: Assessing historical empathy through simulation exercise’.
+Journal of Curriculum Studies, 48 (3), 323–45. [CrossRef]
+Retz, T. (2015) ‘A moderate hermeneutical approach to empathy in history education’. Educational
+Philosophy & Theory, 47 (3), 214–26. [CrossRef]
+Retz, T. (2018) Empathy and History. New York: Berghahn.
+Riner, A., Hur, J.W. and Kohlmeier, J. (2022) ‘Virtual reality integration in social studies classroom: Impact
+on student knowledge, classroom engagement, and historical empathy development’. Journal of
+Educational Technology Systems, 51 (2), 146–68. [CrossRef]
+Savenije, G.M. and De Bruijn, P. (2017) ‘Historical empathy in a museum: Uniting contextualisation and
+emotional engagement’. International Journal of Heritage Studies, 23 (9), 832–45. [CrossRef]
+Schüllerqvist, B. (2014) ‘Vad finns i din historiska innehållsrepertoar?
+Ett bidrag til historiedidaktisk
+teoriutveckling’. In L. Kvande (ed.),
+Faglig kunnskap i skole og lærerutdanning. Bergen:
+Fagbokforlaget, 59–73.
+Seng, L.K. and Wei, L.S. (2010) ‘From living under attap to residing in the sky: Imagination and empathy
+in source-based history education in Singapore’. History Teacher, 43 (4), 513–33.
+Thomas, J. and Harden, A. (2008) ‘Methods for the thematic synthesis of qualitative research in systematic
+reviews’. BMC Medical Research Methodology, 8, 45. [CrossRef]
+Timmermans, S. and Tavory, I. (2012) ‘Theory construction in qualitative research: From grounded theory
+to abductive analysis’. Sociological Theory, 30 (3), 167–86. [CrossRef]
+Uppin, H. and Timostsuk, I. (2019) ‘“We’ll be back by Christmas”–Developing historical empathy during
+a museum activity’. Journal of Museum Education, 44 (3), 310–24. [CrossRef]
+Utdanningsdirektoratet (2019) Curriculum for Social Studies. Oslo: Kunnskapsdepartementet.
+Virja, A. and Kouki, E. (2014) ‘Dimensions of historical empathy in upper secondary students’ essays’.
+Nordidactica: Journal of Humanities and Social Science Education, 4 (2), 137–60.
+Wagner, D.-A. and Dversnes, T. (2022) ‘Film as a gateway to teaching about slavery through historical
+empathy: A case study using 12 Years a Slave (McQueen, 2013)’. History Education Research Journal,
+19 (1), 6. [CrossRef]
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18
+
+
+===== PAGE 18 =====
+
+What can empirical research tell us about how to develop students’ historical empathy?
+18
+Wansink, B., Akkerman, S., Zuiker, I. and Wubbels, T. (2018) ‘Where does teaching multiperspectivity in
+history education begin and end? An analysis of the uses of temporality’. Theory & Research in
+Social Education, 46 (4), 495–527. [CrossRef]
+Wilschut, A. and Schiphorst, K. (2019) ‘“One has to take leave as much as possible of one’s own standards
+and values”: Improving and measuring historical empathy and perspective reconstruction’. History
+Education Research Journal, 16 (1), 74–87. [CrossRef]
+Yancie, N. (2022) ‘Exploring race issues at turn of the 20th century: A qualitative study’. Research Issues
+in Contemporary Education, 7 (3), 29–66.
+History Education Research Journal
+https://doi.org/10.14324/HERJ.22.1.18

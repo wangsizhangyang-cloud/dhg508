@@ -1,0 +1,1187 @@
+
+
+===== PAGE 1 =====
+
+ 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+5 
+ 
+ 
+International Journal of Serious Games 
+ 
+ISSN: 2384-8766 
+https://journal.seriousgamessociety.org/ 
+ 
+ 
+Article 
+Ludonarrative Consonance and Affective Empathy in 
+Historical Boardgames 
+Hugh O’Donnell 
+ 
+English Department, Port Glasgow High School, Inverclyde, Scotland 
+{hugh.o’donnell} @portglasgow.inverclyde.sch.uk 
+ 
+ 
+Keywords: 
+ 
+Historically-structured 
+boardgames 
+Historical empathy 
+Ludonarrative consonance 
+Serious games 
+Northern Ireland 
+Contested histories 
+ 
+Received: August 2025 
+Accepted: April 2026 
+Published: June 2026 
+DOI: 10.17083/c78jfn34 
+Abstract  
+Historical 
+education 
+routinely 
+privileges 
+cognitive 
+over 
+affective 
+understanding, leaving learners intellectually informed yet emotionally 
+disengaged from the human cost of conflict. This paper asks how the design of 
+a historically-structured boardgame (HSBG) can operationalise affective 
+historical empathy. Taking The Troubles: Shadow War in Northern Ireland as 
+its case, it employs a qualitative design analysis grounded in Ambrosio's 
+HSBG framework and Endacott and Brooks's dual cognitive–affective model 
+of empathy, triangulated with expert elicitation from the designer and artist, a 
+structured comparison with six reference games, and findings from a 
+companion empirical study. The analysis demonstrates that the game achieves 
+ludonarrative consonance — a purposeful alignment of procedural mechanics 
+and historical narrative — across three interlocking dimensions: 260 
+historically-grounded event cards, period-authentic imagery, and tangible 
+physical components. Each activates distinct affective mechanisms, including 
+identifiable-victim effects and perspective-taking through asymmetric faction 
+roles. Whereas existing game-based learning scholarship has documented the 
+cognitive outcomes of historical games but rarely isolated the design features 
+that generate their affective dimension, this paper advances the state of the art 
+by specifying the design conditions under which ludonarrative consonance 
+produces affective — not merely cognitive — empathy, and derives 
+transferable design principles for serious games addressing contested histories.
+ 
+1. Introduction 
+Traditional history education frequently privileges cognitive understanding — the mastery of 
+events, motivations, and consequences — while systematically neglecting the affective 
+dimension of historical experience. Yet historical empathy, as Endacott and Brooks [1] 
+demonstrate, is constitutively dual: it requires both cognitive contextualisation and affective 
+connection to the lived experiences of historical actors. Without the latter, students may 
+accumulate factual knowledge of atrocity whilst remaining emotionally insulated from its 
+human cost. 
+
+
+===== PAGE 2 =====
+
+ 
+6 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+This paper addresses a specific research question: How do the mechanics, narrative 
+structure, and physical and visual components of a historically-structured boardgame 
+operationalise affective empathy? The study takes The Troubles: Shadow War in Northern 
+Ireland (Compass Games, forthcoming; designed by Hugh O'Donnell) as its case. The Troubles 
+is an exemplary instance of what Ambrosio [2] terms historically-structured boardgames 
+(HSBGs) — games designed to simulate the social, economic, and political forces of a 
+historical conflict through period-appropriate mechanics, rather than using history as mere 
+thematic flavouring (see Figure 1). 
+ 
+ 
+  
+Figure 1. Box cover artwork depicting the actors and organisations involved in the Troubles. 
+Source: The Troubles: Shadow War in Northern Ireland. Reprinted with permission from 
+Compass Games LLC. 
+ 
+The paper's advancement over the existing state of the art is twofold. First, whilst game-
+based learning (GBL) scholarship has extensively documented cognitive outcomes of historical 
+games [3]–[6], comparatively little work isolates the affective mechanisms and design features 
+through which empathy — particularly its emotional, felt dimension — is generated. Second, 
+the paper situates this analysis within Ambrosio's HSBG framework, extending it to specify 
+the design conditions under which ludonarrative consonance (the purposeful alignment of 
+procedural mechanics and historical narrative) produces affective rather than merely cognitive 
+engagement. 
+Preliminary empirical grounding for these design-analytical claims is provided by a 
+companion study [7] examining participant perceptions of the game across a 65-person 
+questionnaire sample. That study found that 87.7% of respondents agreed that simulation-based 
+approaches are appropriate for teaching sensitive historical events, and 96.9% stressed the 
+importance of including all factional voices. These findings provide supporting empirical 
+context for the design-analytical claims advanced here, whilst the limitations of that study — 
+a predominantly male hobbyist gaming sample (92.3% male) with fewer than 5% of 
+participants from Ireland — underline the need for the pedagogically-grounded design analysis 
+this paper offers. The current paper makes no claim about what specific populations will feel 
+or understand as a result of playing the game; it evaluates the design conditions under which 
+affective empathy mechanisms are operationalised. Future empirical studies examining player 
+responses in educational settings would constitute a complementary research contribution 
+building on this foundation. 
+The paper proceeds as follows: Section 2 reviews literature on historical empathy, game-
+based learning, and HSBG design. Section 3 describes the analytical methods, and also 
+provides the historical context of the Troubles and introduces the game. Sections 4.1–4.3 
+
+
+===== PAGE 3 =====
+
+H. O’Donnell  
+ 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+7 
+ 
+analyse the narrative, visual, and physical dimensions of The Troubles as affective empathy 
+mechanisms. Section 4.4 presents a comparative analysis. Section 5 discusses implications for 
+design and pedagogy, including limitations and boundary conditions. 
+2. Literature Review 
+ 
+2.1 
+Historical Empathy: Cognitive and Affective Dimensions 
+The study of actors from the past requires situating them within the societal, geopolitical, and 
+ideological structures that shaped their lives [8]. Historical empathy provides the 
+epistemological framework for this task. Endacott and Brooks [1] establish the field's 
+foundational distinction: cognitive empathy — the intellectual understanding of another's 
+perspective, motivations, and constraints — and affective empathy — the emotional resonance 
+with another's lived experience. These are complementary but distinct. Cognitive empathy 
+enables critical analysis; affective empathy enables the felt connection that makes history 
+personally meaningful. 
+This paper is primarily concerned with the latter. Affective empathy is the dimension 
+most frequently underdeveloped in history education [9], [10] and the dimension most 
+theoretically tractable in game design, where the mechanic — the rule system a player inhabits 
+— can simulate not merely the facts of a historical constraint but its experience. 
+ 
+2.2 
+Game-Based Learning and Historical Games 
+Game-based learning (GBL) is an educational approach using games as pedagogical tools to 
+promote learning through engagement, problem-solving, and critical thinking [5], [6]. Unlike 
+traditional methods, games provide interactive environments in which students step into the 
+roles of historical actors, make decisions, and encounter the consequences of those choices. 
+Historical Game Studies (HGS), as theorised by Chapman [3], [4], examines how games serve 
+as media for conveying historical knowledge and empathy. Chapman argues that historical 
+games have the capacity to engage players in critical thinking while enabling a visceral, 
+emotionally veridical experience of the past — a "lived" encounter with history that textbooks 
+and documentaries cannot provide. Through interactive mechanics such as role-playing and 
+decision-making, players can experience the first-hand consequences of historical actions. 
+Research on empathy in historical games has been substantial [11]–[13]. Studies of titles such 
+as Freedom: The Underground Railroad and Twilight Struggle demonstrate that games not only 
+transmit historical knowledge but evoke emotional responses that facilitate personal connection 
+with the past. The more immersive and emotionally engaging a game is, the more likely it is to 
+foster deeper empathy [14], [15]. However, this scholarship rarely distinguishes the specific 
+design features — the mechanics, visuals, and materials — through which affective (as opposed 
+to cognitive) empathy is generated. The present paper addresses this gap. 
+  
+2.3 
+Historically-Structured Boardgames 
+Historically-structured boardgames (HSBGs), as defined by Ambrosio [2], immerse players 
+within a "heuristic cycle in which imagination is informed by evidence" [8]. These games are 
+designed to place players within the social and political context of a historical conflict, where 
+choices are shaped by the documented structures of that environment. This distinguishes 
+HSBGs from games that use historical settings as backdrops for entertainment mechanics: in 
+an HSBG, the mechanics are the historiographical argument [16]. 
+Ambrosio's framework emphasises that cognitive and affective dimensions of empathy 
+are not incidental by-products of play but intentionally cultivated through the entire design 
+architecture — the mechanics, narrative, visual components, and physical objects that together 
+
+
+===== PAGE 4 =====
+
+ 
+8 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+constitute the game's world. This paper applies and extends that framework by specifying the 
+affective mechanisms activated by each design layer in a specific HSBG. 
+ 
+2.4 
+Narrative, Visual Representation, and Physical Components 
+Narratives humanise history, transforming abstract events into personal stories that evoke 
+emotional responses [17]–[19]. In HSBGs, narrative structures provide the context for players 
+to immerse themselves in the lives and perspectives of historical individuals, enabling the 
+emotional resonance that cognitive engagement alone cannot produce [20], [21]. The concept 
+of "narrative agency" [22] — the capacity of players to make choices that shape the story — 
+amplifies empathic investment, as players internalise the consequences of decisions that bear 
+on the lives of historical others. 
+Visual representations — particularly images of fatalities, violence, and suffering — 
+powerfully influence both cognitive and affective empathy [23]. Period-authentic imagery 
+grounds players in historical reality rather than aestheticised reconstruction, resisting the 
+distancing effect of abstraction. 
+The tangible elements of a game — maps, boards, cards, wooden and plastic components 
+— play a crucial role in shaping affective engagement [24]. The physical act of handling game 
+pieces can evoke emotional reactions unavailable through digital representation: removing a 
+token representing a person personalises loss; placing a casualty marker makes the human cost 
+of a decision physically present. As Pearce observes, objects "provoke certain reactions and 
+expectations which we project back on to [them]" [24, p. 220], deepening players' connection 
+to the history those objects represent. 
+3. Methods and Material 
+This paper employs a qualitative design analysis methodology, examining The Troubles as a 
+designed artefact intended to produce specific affective outcomes. The analytical framework 
+draws on two established bodies of work: Ambrosio's model of historically-structured 
+boardgames [2], [16], [25], which provides criteria for evaluating how game mechanics 
+operationalise historical structures; and Endacott and Brooks's dual cognitive–affective model 
+of historical empathy [1], which specifies the psychological conditions for each empathic 
+dimension. 
+The analysis proceeds across three levels corresponding to the game's principal design 
+layers: (1) narrative structure, examined through the game's 260 narrative event cards and 
+accompanying historical playbook; (2) visual design, examined through the imagery deployed 
+in cards, components, and board art; and (3) physical and material components, examined 
+through the game's tactile elements and their role in producing embodied historical 
+engagement. At each level, the analysis asks: What affective empathy mechanisms are 
+activated by this design feature, and what documented psychological processes account for 
+those effects? 
+Three forms of triangulation supplement the design analysis. First, expert elicitation: 
+the game's artist, Domhnall Hegarty, provided direct commentary on design intentions for the 
+visual and aesthetic dimensions, enabling the analysis to attend to intended as well as observed 
+effects. Second, a structured comparative analysis situates The Troubles against six comparable 
+serious and historical games (see Table 1), establishing the game's distinctive contribution to 
+the HSBG genre. Third, selected findings from a companion empirical study [7] — a 65-
+participant questionnaire examining perceptions of the game among hobbyist gamers — 
+provide preliminary empirical context for the design-analytical claims advanced at each stage 
+of the analysis. 
+Consistent with Ambrosio's framework [2], the analysis does not evaluate player outcomes 
+empirically: this paper makes no claim about what specific populations will feel or understand 
+
+
+===== PAGE 5 =====
+
+H. O’Donnell  
+ 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+9 
+ 
+as a result of playing the game. Rather, it evaluates the design conditions under which affective 
+empathy mechanisms are operationalised — the necessary architectural features without which 
+those mechanisms cannot operate. The companion study's findings are cited as supporting 
+rather than confirmatory evidence, and its demographic limitations (92.3% male hobbyist 
+gamers, fewer than 5% from Ireland) are acknowledged throughout. This constitutes an 
+advance on descriptive game analysis by providing a theoretically grounded account of why 
+particular design decisions are expected to produce particular affective effects, rather than 
+merely cataloguing what the game contains. 
+ 
+3.1 
+Case Selection: the Troubles 
+ 
+3.1.1 
+Historical Context 
+The period of conflict that engulfed Northern Ireland between 1969 and 1998 is commonly 
+known as the Troubles. Its origins can be traced to the sectarian divisions that emerged 
+following the partition of Ireland in 1922, when six of Ireland's thirty-two counties were 
+incorporated into the United Kingdom while the remaining twenty-six counties became the 
+Irish Free State. 
+Between 1922 and 1969, Northern Ireland operated under a Unionist-controlled electoral 
+system widely regarded as structurally disadvantaging the Nationalist, predominantly Catholic 
+population (see Figure 2) [27]. 
+  
+ 
+ 
+Figure 2. Map of 1966 Westminster Election Results in Northern Ireland: Unionists dominate 
+Nationalist MPs (11–1). Source: ARK Northern Ireland, 2025. 
+ 
+Although Unionist Prime Minister Sir Terence O'Neill sought reform amid the rise of the 
+civil rights movement, his measures provoked a resurgence of Loyalist paramilitarism. In 
+August 1969, as sectarian violence escalated, British troops were deployed — what became the 
+longest military deployment in British history (see Figure 3). The conflict resulted in 
+approximately 3,500 direct fatalities, with an estimated 24,000 additional deaths attributed to 
+structural violence [26]. 
+  
+
+
+===== PAGE 6 =====
+
+ 
+10 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+ 
+ 
+Figure 3. Balbane Pass man, Billy Campbell, pictured in foreground, sustained head injuries 
+at the People's Democracy march at Burntollet, January 1969. Source: Derry Journal, 2019. 
+ 
+For historical events of this magnitude and political sensitivity, affective empathy is an 
+essential pedagogical goal. Cognitive empathy enables students to grasp the competing 
+ideological stances of the conflict's factions; affective empathy enables them to engage 
+emotionally with the personal toll of violence, loss, and division. 
+ 
+3.1.2 
+The Game  
+The Troubles: Shadow War in Northern Ireland is a forthcoming card-driven game (CDG) 
+published by Compass Games (see Figure 4). 
+ 
+ 
+  
+Figure 4. Iconic image of the 'Boy in the Gas Mask'. Source: The Troubles: Shadow War in 
+Northern Ireland. Reprinted with permission from Compass Games LLC. 
+ 
+Designed by Hugh O'Donnell and illustrated by Domhnall Hegarty, the game simulates the 
+conflict through competing factions — British Forces, the Ulster Defence Regiment, the Royal 
+Ulster Constabulary, the IRA, Loyalist paramilitaries, and civilian and political organisations 
+— each pursuing asymmetric objectives within a shared historical environment. Play is 
+structured around 260 narrative event cards, each representing actual historical episodes across 
+nine chronological scenarios ('Epochs') spanning 1964–1998. 
+The game is selected as the primary case for three reasons. First, it exemplifies Ambrosio's 
+HSBG design philosophy [2]: its mechanics are derived from historical structures rather than 
+imposed as entertainment features. Second, it addresses a contested history characterised by 
+living memory, ongoing community sensitivity, and structural violence that demands affective 
+rather than merely cognitive engagement. Third, it provides sufficient design complexity — 
+across narrative, visual, and material dimensions — for a multi-layered analysis of affective 
+empathy mechanisms. 
+ 
+
+
+===== PAGE 7 =====
+
+H. O’Donnell  
+ 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+11 
+ 
+ 
+4. Results 
+4.1 
+Narrative as Affective Mechanism 
+4.1.1 
+Card-Driven Narrative and Ludonarrative Consonance 
+Released in 1993 and designed by Mark Herman, We the People is widely regarded as the first 
+wargame to incorporate the card-driven mechanic, in which cards both support and direct 
+player actions through historically-framed events. The Troubles adopts and deepens this 
+mechanic: its 260 Narrative Event Cards are the primary vehicle through which historical 
+reality enters gameplay. 
+Each card represents an actual episode in the Northern Ireland conflict's timeline — ranging 
+from the strategic and geopolitical to the domestic and deeply personal. Most provide 
+historically accurate instructions for the executing faction, while some enable a Temporary 
+Effect that mimics a historical event, alters player capabilities, or modifies victory conditions. 
+Cards are grouped into nine Epochs, each covering a distinct chronological period; the full 
+sequence of all 260 cards, played in order, constitutes the complete game (see Figure 5). 
+ 
+ 
+ 
+Figure 5. Overview of the nine Epochs into which the Narrative Cards are divided; 'The 
+Troubles' is the use of all 260 cards played in chronological order. Source: Scenario table from 
+Rulebook, The Troubles: Shadow War in Northern Ireland. Reprinted with permission from 
+Compass Games LLC. 
+ 
+This design creates what this paper terms ludonarrative consonance — the purposeful 
+alignment of mechanical action and historical meaning. Where ludonarrative dissonance [28] 
+describes the mismatch between a game's mechanical logic and its narrative claims, consonance 
+describes the condition in which the two are mutually reinforcing. Playing a Narrative Event 
+Card in The Troubles is not merely a strategic action: it is the enactment of a historical event 
+whose consequences reverberate through the game system. Players co-construct an emergent 
+narrative [25], [29] that is simultaneously their own and historically grounded. 
+The accompanying Historical Playbook provides expanded textual narratives for each card, 
+enabling players to situate each mechanic within its documented historical context. This 
+paratextual dimension ensures that historical authenticity is not merely aesthetic but accessible: 
+players are, as Hegarty notes: 
+"under no illusion that they are dealing with anything other than actual events, many of which 
+involved atrocities and the fatalities of approximately two thousand innocent human beings" 
+[30]. 
+
+
+===== PAGE 8 =====
+
+ 
+12 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+4.2 
+Visual Representation as Affective Mechanism 
+4.2.1 
+Period-Authentic Imagery 
+The visual design of The Troubles is the work of artist Domhnall Hegarty, whose prior credits 
+include political and wargame titles such as 1960: The Making of a President, Labyrinth, and Red 
+Flag Over Paris. The visual approach is explicitly memory-driven: 
+ 
+"I went with a color scheme that most reflects my memories of the troubles. Late 
+Seventies through mid-Eighties, the time when I was least consciously aware that there 
+was anything out of the norm with the state of things" [30]. 
+ 
+Each of the 260 Narrative Cards features a still image derived from the dominant media of its 
+historical period — initially high-contrast black-and-white, graduating to colour with the game's 
+later Epochs, mimicking the shift from print journalism to television as the dominant news 
+medium (see Figure 6). 
+ 
+ 
+ 
+Figure 6. Narrative Card No. 153: Two IRA prisoners depicted undertaking the 'blanket protests' 
+in the Maze Prison. Source: The Troubles: Shadow War in Northern Ireland. Reprinted with 
+permission from Compass Games LLC. 
+ 
+As Hegarty elaborates: 
+ 
+"The images are meant to evoke the main media of news in my youth — newspapers, with 
+TV style and color coming later in the cards. They are meant to be rough and a bit 
+fragmentary like many of my memories of the Troubles… Hard black/white contrast like 
+the narratives of the sides" [30]. 
+ 
+This period-authenticity is not merely aesthetic: it situates each card's image within the 
+perceptual and emotional register in which the Troubles were actually experienced by those who 
+lived through them. Players are not viewing a reconstructed or aestheticised conflict; they are 
+encountering the visual record of the event itself. 
+4.2.2 
+Categories of Visual Subject and Their Affective Effects 
+The images deployed across the 260 cards and the game's physical components can be analysed 
+according to four categories of visual subject, each activating distinct cognitive and affective 
+empathy mechanisms. 
+ 
+
+
+===== PAGE 9 =====
+
+H. O’Donnell  
+ 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+13 
+ 
+Civilians. Images depicting civilians — particularly those in positions of vulnerability, suffering, 
+or grief — are among the most affectively potent elements of the game's visual design. 
+Cognitively, these images foreground the disproportionate impact of political violence on non-
+combatants, prompting players to consider the consequences of their factional decisions for those 
+with the least agency in the conflict. Affectively, the personalisation effect [38] operates: a 
+photograph of a family displaced from their home or an injured civilian in the aftermath of a 
+bombing gives "a human face" to abstract casualty statistics, generating sorrow and compassion 
+that more generalised representations do not. 
+Players who have made decisions that harm civilians encounter these images as a form of 
+moral accountability — a visual confrontation with the consequences of strategic choices (see 
+Figure 7). This confrontation deepens affective empathy by requiring players to feel the human 
+cost of decisions that they made, rather than merely recording their strategic outcome. 
+ 
+ 
+ 
+Figure 7. Civilian casualties and prisoners sit alongside British and RUC Forces, IRA and 
+Loyalist factions. Source: VASSAL, The Troubles: Shadow War in Northern Ireland. Reprinted 
+with permission from Compass Games LLC. 
+ 
+Soldiers. Images of soldiers — both the British Forces and Ulster Defence Regiment who 
+represent state authority, and the paramilitaries who contest it — activate a more complex 
+affective response. At the cognitive level, soldier imagery prompts reflection on the personal toll 
+of military participation: soldiers are individuals caught within large ideological and political 
+structures, and images that humanise rather than simply instrumentalise them challenge players to 
+extend empathy to those whose roles they may find morally difficult. A soldier mourning a fallen 
+colleague may prompt sympathy even from a player opposed to the faction that soldier represents. 
+The affective response to soldier imagery is more ambivalent than to civilian imagery, 
+and this ambivalence is pedagogically productive: it resists the binary moral simplification of the 
+conflict into "good" and "bad" actors, reflecting instead the complex moral landscape that 
+historical actors actually inhabited. 
+ 
+Victims and Perpetrators. The visual representation of victims — civilian and military alike — 
+activates strong affective responses including grief, anger, and guilt [23]. Images that give 
+individual faces and names to casualties resist the psychological mechanism of numerical 
+insensitivity [38] that allows mass casualty figures to be processed without emotional impact. 
+When a player encounters an image of a specific individual — a named victim of a named 
+bombing — the statistical becomes personal. 
+Images depicting perpetrators of violence produce a more cognitively demanding form of 
+empathy: the capacity to understand motivations and circumstances without endorsing actions. 
+This is the form of empathy that Endacott and Brooks [1] identify as most challenging and most 
+valuable in historical education. Images that show perpetrators in moments of vulnerability or 
+internal conflict create what this paper terms moral dissonance: the unsettling recognition that 
+those who inflict harm are also human. 
+The practical significance of this visual design is suggested by the companion study's 
+finding that 75% of participants viewed simulation engagement as a tool for ethical reflection, 
+and 71% agreed that the Troubles involves moral dilemmas not reducible to binary right/wrong 
+judgements [7] — a resistance to moral simplification that the game's victim and perpetrator 
+
+
+===== PAGE 10 =====
+
+ 
+14 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+imagery is specifically designed to cultivate. The finding that over 95% of participants endorsed 
+including personal and emotional experiences in history education further supports the role of 
+affectively-charged visual content in facilitating the kind of engaged historical learning this 
+design analysis theorises. 
+ 
+Paramilitaries. Images of paramilitary fighters and figures labelled as "terrorists" in the 
+historical record require the most careful visual and analytical handling. These images challenge 
+players to reflect on how ideology, community identity, and historical grievance shape 
+participation in political violence, and to resist the temptation to reduce complex actors to simple 
+moral categories. The game's visual treatment — placing paramilitary members in moments of 
+loss, imprisonment, or everyday life alongside their operational roles — creates the moral 
+dissonance through which affective empathy becomes possible even toward actors whose actions 
+are indefensible (see Figure 8). 
+ 
+ 
+ 
+Figure 8. Two IRA prisoners undertaking hunger strikes. Source: An Phoblacht. [Online]. 
+Available: http://www.anphoblacht.com 
+ 
+As Bermudez [33, p. 282] argues, narratives that "de-normalize violence expose the agency 
+and responsibility of different actors, on different sides of a conflict." The visual design of The 
+Troubles performs this de-normalisation: it presents paramilitaries as historical actors with 
+comprehensible motivations rather than as monolithic villains, demanding from players an 
+empathic effort that is simultaneously intellectually rigorous and emotionally costly. 
+ 
+ 
+ 
+4.3 
+Physical and Material Components as Affective Mechanism 
+4.3.1 
+The Game's Material World 
+The physical components of The Troubles — its two map-boards, 260 narrative cards, wooden 
+cubes, octagonal tokens, military checkpoint markers, and status tables — are not merely the 
+mechanical substrate of gameplay. They are material representations of the conflict, and the 
+acts of handling, placing, and removing them constitute a form of tactile engagement with 
+history that differs fundamentally from reading about it. 
+The main playing area depicts the six counties of Northern Ireland — 14,000 square 
+kilometres of urban, open, and rural land upon which thousands of lives were lost (see Figure 9). 
+A smaller separate insert depicts Belfast in detail. The names on the map — Londonderry 
+(Derry), Belfast, Westminster, Dublin, Enniskillen, Omagh — are not merely geographical 
+
+
+===== PAGE 11 =====
+
+H. O’Donnell  
+ 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+15 
+ 
+designations but reservoirs of historical memory, each associated with specific atrocities, 
+negotiations, and moments of grief and hope. 
+ 
+ 
+ 
+Figure 9. The Main Map and Belfast Insert. Source: VASSAL, The Troubles: Shadow War in 
+Northern Ireland. Reprinted with permission from Compass Games LLC. 
+ 
+Every object in The Troubles, as Leinhardt (in [39]) observes of museum artefacts, maintains a 
+"veridical resolution and density of information" that cannot be replicated through photographs or 
+drawings, and which can evoke stronger empathic responses through its tangibility. 
+4.3.2 
+Cognitive Empathy through Tactile Engagement 
+From a cognitive empathy perspective, the physical manipulation of game components — moving 
+wooden cubes, placing military checkpoint tokens, managing resources and funds — encourages 
+players to think critically about historical constraints and decision-making. The act of positioning 
+figures or drawing narrative event cards helps players grasp the complex interplay of geopolitical 
+strategy, violence, and community resilience, making the conflict's historical dynamics 
+comprehensible in ways that abstract description cannot achieve. 
+The game's asymmetric faction design — each faction's resources, capabilities, and victory 
+conditions reflecting its documented historical position — requires players to adopt the cognitive 
+disposition of their assigned group. Understanding why a faction acts as it does, even when those 
+actions are morally repugnant [40], [37, p. 12], develops the perspective-taking that lies at the 
+heart of cognitive empathy. 
+The companion study provides supporting evidence for the perspective-taking mechanism 
+activated by asymmetric faction design: willingness to assume controversial roles was high 
+overall, with 87.7% willing to play British Forces, 86.2% the IRA, and 84.6% Nationalist 
+politicians [7]. A noteworthy asymmetry emerged, however: willingness to play Loyalist 
+paramilitaries was lower (70.8%), a pattern the study interprets as reflecting pre-existing cultural 
+narratives granting republican violence greater perceived international legibility than loyalist 
+violence, rather than a failure of the game's design per se. This asymmetry is itself pedagogically 
+significant: it demonstrates the game's capacity to surface rather than conceal the interpretive 
+frameworks players bring to contested histories — precisely the kind of critical reflexivity that 
+HSBG pedagogy aims to cultivate. 
+4.3.3 
+Affective Empathy through Material Interaction 
+The affective dimension of physical interaction is most powerfully activated by the game's 
+casualty and imprisonment mechanics. When a player must physically remove a game piece 
+representing a person — or place a casualty marker on the board — the act personalises loss in a 
+way that abstract casualty tallies do not. The physical removal of a token creates a felt sense of 
+
+
+===== PAGE 12 =====
+
+ 
+16 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+finitude, grief, and consequence: the tangible act of removing a piece can create a sense of sorrow 
+or loss, reinforcing an emotional connection to the historical experience (see Figure 10). 
+ 
+ 
+ 
+Figure 10. Belfast West is in a state of 'Civil Disorder' as the result of the Loyalist faction 
+activating an active service unit. Source: VASSAL, The Troubles: Shadow War in Northern 
+Ireland. Reprinted with permission from Compass Games LLC. 
+ 
+This mechanism operationalises what Small, Loewenstein and Slovic [38] term the identifiable 
+victim effect — the well-documented psychological finding that identified individuals elicit 
+stronger emotional responses than statistical aggregates. By rendering each casualty as a specific, 
+physically placed (and removed) component, the game transforms the Troubles' approximately 
+3,500 direct fatalities from a number into a sequence of discrete, felt losses. 
+The texture, weight, and design of the components also contribute to affective engagement: 
+period-appropriate colour schemes, image quality, and font design for narrative event cards create 
+a sensory link to the past that enhances immersion. Custom-designed character cards with 
+individual biographies encourage players to form attachments to specific individuals within the 
+game, amplifying the affective stakes of decisions that affect those individuals. 
+4.3.4 
+Narrative Mechanisms for Affective Empathy 
+The narrative structure of The Troubles activates three documented affective processes. 
+Narrative transportation [31], [32]: by positioning each card as an episode within a longer 
+historical process, the game's narrative pulls players into the flow of the Troubles' chronology. 
+Rather than encountering isolated historical facts, players experience historical time as a 
+sequence of episodes in which their decisions bear on what comes next. Bermudez [33, p. 279] 
+describes this effect in historical memory education as narrativising "the meaning of a violent 
+past by positioning it as an episode of longer historical processes." 
+Narrative agency and consequence [22]: players are not passive recipients of the narrative 
+but active participants whose choices shape its direction. This agency creates emotional 
+investment: when a faction decision leads to civilian casualties, the player experiences the 
+consequences not as historical information but as the outcome of their own action. Kaplan, 
+Garner, and Brock [34] and Kello and Wagner [35] document how this form of participatory 
+consequence-bearing generates stronger affective empathy than passive exposure to historical 
+narratives. 
+Empirical support for this mechanism is provided by the companion study, in which only 
+12.3% of participants reported difficulty empathising with individuals involved in violent 
+political conflict, despite just 32.3% believing that violence could be justified — a 20-
+percentage-point "empathy gap" suggesting that the game's narrative structure successfully 
+cultivates affective connection without endorsing violent action [7]. This pattern directly 
+instantiates what Endacott and Brooks [1] identify as the distinguishing condition of mature 
+
+
+===== PAGE 13 =====
+
+H. O’Donnell  
+ 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+17 
+ 
+historical empathy: understanding a perspective is not the same as endorsing it. These findings 
+should be interpreted cautiously given the sample's demographic limitations, but they provide 
+preliminary support for the narrative agency mechanism the design intends to activate. 
+Humanisation through specificity [36], [37]: the granular specificity of the narrative event 
+cards — each representing named events, named individuals, and specific dates — resists the 
+abstraction through which historical violence is routinely depersonalised in textbook accounts 
+(see Figure 11). 
+ 
+ 
+ 
+Figure 11. Narrative Card No. 136: Firemen attend the scene of the Birmingham Pub Bombing 
+which claimed 21 lives, with over 180 others injured. Source: The Troubles: Shadow War in 
+Northern Ireland. Reprinted with permission from Compass Games LLC. 
+ 
+Halpern (cited in [10, p. 398]) observes that "when one person truly listens to another's 
+story, emotional resonance and empathy often arise naturally." The card-driven narrative 
+creates an analogue of this listening — a structured attentiveness to the particularity of each 
+historical episode. 
+4.3.5 
+Ethical Reflection through Physical Components 
+The physical components of The Troubles are also vehicles for ethical reflection. When players 
+must allocate limited resources using physical tokens — deciding which communities receive 
+protection, which operations are sanctioned, which compromises are accepted — the materiality 
+of the decision makes its moral weight tangible. This differs from digital decision-making, where 
+consequences can feel more detached: the physical act of choosing between different game pieces 
+or tokens creates a sense of responsibility that invites reflection on the ethical dimensions of the 
+historical choices being simulated. 
+ 
+Symbolism operates throughout the game's material design. A deck of Narrative Cards that 
+diminishes as each Epoch progresses represents not merely the passage of time but the exhaustion 
+of historical alternatives; the Belfast insert, where violence is densest and civilian casualties most 
+concentrated, focuses the player's attention on what is at stake in urban tactical decisions. As 
+Pearce [24, p. 220] observes, "the need to decipher gives us the chance both to bring out what is 
+in the object and what is in ourselves; it is a dynamic, complex movement which unfolds as time 
+passes." 
+4.4 
+Comparative Analysis 
+
+
+===== PAGE 14 =====
+
+ 
+18 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+Table 1 situates The Troubles against six comparable serious and historical games, illustrating the 
+specific contribution of its affective empathy design within the broader HSBG genre. 
+ 
+Table 1. Comparative Analysis of Selected Historical and Serious Games. 
+Game 
+Historical Setting 
+Narrative & Empathy 
+Approach 
+Affective Empathy 
+Mechanisms 
+Comparison to The 
+Troubles 
+Twilight Struggle 
+Cold War (1945–
+1991) 
+Geopolitical strategy; 
+limited personal 
+narrative 
+Minimal: focuses on 
+ideological competition, 
+not human cost 
+High-level politics 
+without the personal and 
+civilian dimensions 
+central to The Troubles 
+Labyrinth: The War 
+on Terror 
+Post-9/11 Global 
+Conflict 
+Asymmetric 
+counterinsurgency 
+mechanics 
+Moderate: ideological 
+struggle, but abstract 
+representation of 
+populations 
+Shares asymmetry but 
+lacks The Troubles' 
+civilian-centred design 
+and period-authentic 
+imagery 
+This War of Mine 
+Civilian 
+perspective in war 
+Survival-based; strong 
+affective empathy for 
+non-combatants 
+High: suffering of 
+civilians central; moral 
+choices with emotional 
+consequences 
+More focused on civilian 
+suffering; The Troubles 
+balances all factional 
+perspectives 
+simultaneously 
+Freedom: The 
+Underground 
+Railroad 
+US Slavery (19th 
+c.) 
+Players as abolitionists; 
+forced moral choices 
+High: human cost of 
+systemic oppression 
+made tangible through 
+mechanics 
+Similar moral agency 
+and consequence design; 
+The Troubles adds 
+polyvocal faction 
+structure 
+1979: Revolution in 
+Iran 
+Iranian Revolution 
+(1979) 
+Story-driven; personal 
+choices; strong affective 
+empathy 
+High: individual 
+perspectives in broader 
+historical conflict 
+Emphasises individual 
+perspectives like The 
+Troubles but adopts a 
+more cinematic and 
+linear narrative approach 
+Wir Sind Das Volk! 
+Divided Germany 
+(1945–89) 
+Economic and social 
+struggle; structural 
+empathy 
+Moderate: structural 
+constraints well-
+modelled; limited 
+personal emotional 
+engagement 
+Shares asymmetric 
+dynamic; The Troubles 
+adds period-authentic 
+imagery and explicit 
+civilian casualty tracking 
+ 
+The comparative analysis reveals The Troubles' distinctive contribution: it is the only game in 
+this set to combine (a) period-authentic imagery across all 260 event cards, (b) explicit civilian 
+casualty and imprisonment tracking as core mechanical elements, (c) polyvocal six-faction 
+asymmetry encoding the perspectives of all major actors, and (d) a card-driven narrative 
+structure that requires players to engage with the specific historical chronology rather than an 
+abstracted version of it. Together, these features constitute the ludonarrative consonance 
+through which affective rather than merely cognitive empathy is operationalised. 
+5. Discussion 
+5.1 
+Implications for Game Design 
+The analysis yields four transferable design principles for educators and designers working 
+with contested and emotionally charged histories. 
+
+
+===== PAGE 15 =====
+
+H. O’Donnell  
+ 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+19 
+ 
+5.1.1 
+Ludonarrative consonance as foundational principle 
+Games should ensure that mechanics are derived from historical structures rather than applied 
+as narrative decoration. When a player experiences mechanical consequences that authentically 
+reflect documented historical patterns — counterinsurgency tactics that deepen rather than 
+resolve conflict; civilian casualties that erode rather than build community support — the 
+procedural system becomes a historiographical argument. This procedural approach enables 
+experiential understanding that propositional pedagogy cannot produce [42]. 
+5.1.2 
+Asymmetric polyvocality 
+The use of asymmetric faction design, in which no faction occupies a position of uncomplicated 
+moral authority, is essential for historical honesty in games about multi-party conflicts. As 
+Bermudez [33, p. 282] argues, narratives that "de-normalize violence expose the agency and 
+responsibility of different actors, on different sides of a conflict." Game designers should 
+ensure that each faction's capabilities and constraints reflect the documented structural position 
+of the historical group it represents. 
+5.1.3 
+Period-authentic visual design 
+The use of colour schemes and imagery that evoke the media of a specific historical period 
+deepens emotional engagement by situating the game's world within the perceptual register in 
+which historical actors actually experienced events. Sensitively deployed graphics with non-
+gratuitous imagery help "to mitigate some of the weight of the subject matter" [41] while 
+maintaining the emotional authenticity that affective empathy requires. 
+5.1.4 
+Physical representation of human cost 
+Designers should ensure that human casualties and suffering are rendered physically present 
+through game components, not merely noted as numeric variables. The physical act of placing 
+and removing tokens representing individuals activates the identifiable victim effect [38] in 
+ways that abstract tallying does not. 
+5.2 
+Implications for Education 
+HSBGs like The Troubles offer significant pedagogical potential for teaching contested 
+histories, a claim given preliminary empirical grounding by the companion study in which 
+93.8% of participants endorsed the simulation as appropriate for sensitive historical subject 
+matter, and over 95% agreed that personal and emotional experiences should be included in 
+history education [7]. The companion study also found that 96.9% of participants stressed the 
+importance of including all factional voices — an endorsement of the polyvocal design central 
+to this paper's analysis. However, this potential is conditional on appropriate educational 
+framing, and the companion study's demographic profile — 92.3% male, predominantly 
+hobbyist gamers, with fewer than 5% from Ireland — itself illustrates why structured 
+pedagogical implementation matters: the populations most likely to use this game in 
+educational settings differ substantially from those who participated in that study. 
+The following strategies are recommended for classroom use. 
+5.2.1 
+Pre-game historical scaffolding 
+Players must possess sufficient baseline knowledge of the conflict to recognise the game's 
+structural constraints as historically grounded rather than arbitrary design features. Educators 
+should provide chronological background, introduce the conflict's major factions and their 
+documented positions, and establish the political and social context before play begins. 
+
+
+===== PAGE 16 =====
+
+ 
+20 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+5.2.2 
+Structured debriefing 
+The most important pedagogical work occurs in the post-game discussion. Educators should 
+guide students through three phases: affective acknowledgement (naming what was felt during 
+play), structural reflection (connecting game mechanics to historical realities), and contextual 
+extension (drawing transferable insights about conflict, power, and human cost). Without this 
+facilitated transition from affect to cognition, the game's emotional impact dissipates without 
+being converted into historical understanding. 
+5.2.3 
+Role play and perspective-taking 
+Pairing game sessions with structured role-playing exercises — requiring students to adopt the 
+perspective of a specific faction or individual before or after play — enhances the capacity to 
+hold multiple competing viewpoints simultaneously. 
+5.2.4 
+Integrating primary sources and media 
+Educators can enrich the game's narrative dimension by supplementing gameplay with 
+documentaries, primary source documents, and testimonial accounts, enabling students to 
+situate the game's episodic cards within the broader historical record. 
+5.3 
+Limitations and Boundary Conditions 
+This paper has several limitations that future research should address. Most fundamentally, the 
+analysis is design-analytical rather than empirical: it specifies the conditions under which 
+affective empathy mechanisms should operate, not evidence that they do operate for specific 
+player populations. Empirical studies measuring player affective and cognitive responses — 
+including pre- and post-play assessment instruments, think-aloud protocols during play, and 
+qualitative interviews — would be required to validate the design-analytical claims advanced 
+here. The companion study [7] provides a first step in this direction, but its convenience sample 
+of hobbyist gamers is not a pedagogical population, and its findings should be treated as 
+indicative rather than confirmatory. 
+The paper's conclusions should also be understood as bounded by three contextual 
+conditions. First, facilitator expertise: the game's affective empathy mechanisms operate within 
+a structured educational context and require a facilitator who possesses both substantive 
+knowledge of the conflict and pedagogical expertise in game-based learning. Without this dual 
+competence, the productive tension between player agency and historical constraint may 
+generate distress rather than understanding. Second, participant readiness: the game is 
+appropriate for participants aged approximately 16 and above, who possess the cognitive and 
+emotional capacities for sustained engagement with moral ambiguity. Third, trauma proximity: 
+in educational settings where participants have direct personal or familial connection to the 
+Troubles, educators must assess the risk that the game's affective demands may re-activate 
+personal trauma rather than producing the historical reflection the design intends. 
+This concern is empirically grounded: the companion study found that participants with 
+greater proximity to the conflict — predominantly UK respondents — showed notably higher 
+willingness to justify political violence than international participants, suggesting that 
+geographic and biographical proximity fundamentally shapes moral engagement with the 
+simulation [7]. The study cautions, however, that with fewer than 5% of participants from 
+Ireland and Northern Ireland itself, these proximity effects remain provisional: the voices most 
+central to the conflict are precisely those most underrepresented in the existing empirical 
+evidence base. Future studies should prioritise recruiting from affected communities in 
+Northern Ireland and the Republic of Ireland. 
+Finally, the paper acknowledges the methodological limitations of expert elicitation data 
+drawn from the game's own designer and artist. While this data provides valuable insight into 
+
+
+===== PAGE 17 =====
+
+H. O’Donnell  
+ 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+21 
+ 
+design intentions, it cannot substitute for independent critical analysis or player testimony, and 
+is used here as one triangulating source among several rather than as primary evidence. 
+6. Conclusions 
+This paper has argued that The Troubles: Shadow War in Northern Ireland operationalises 
+affective historical empathy through three interlocking design dimensions — narrative, visual, 
+and material — each activating documented psychological processes that produce the felt 
+emotional connection to historical actors and events that cognitive engagement alone cannot 
+achieve. The analysis extends Ambrosio's framework for historically-structured boardgames 
+[2] by specifying the affective mechanisms activated by each design layer, advancing the state 
+of the art in HSBG scholarship beyond documentation of cognitive outcomes toward a 
+principled account of affective ones. 
+The paper's central finding is that ludonarrative consonance — the purposeful alignment of 
+procedural mechanics and historical narrative — is the necessary condition for this affective 
+engagement. When what players do (mechanics) is authentically consonant with what the game 
+means (historical narrative), players do not merely learn about the Troubles; they experience 
+the structural constraints, moral costs, and human weight of a conflict that claims 
+approximately 3,500 documented lives. Preliminary empirical support for this claim is 
+provided by the companion study's "empathy gap" finding — that participants could empathise 
+with those involved in political violence without endorsing their actions — which is precisely 
+the affective–cognitive distinction the design intends to cultivate [7]. 
+HSBGs thus represent a form of pedagogical possibility unavailable through conventional 
+approaches — not because they replace the factual knowledge that cognitive engagement 
+provides, but because they add the affective dimension that, as Endacott and Brooks [1] 
+establish, is essential to genuinely historical empathy. Through co-constructed interactive 
+storytelling, historically-structured boardgames transform history from a curriculum subject 
+into a contested field that requires players to engage ethically with the past — providing 
+insights beyond what textbooks can provide, and demanding emotional as well as intellectual 
+response. This article's contribution to the state of the art is to specify — at the level of design 
+— the conditions under which that emotional response becomes pedagogically reliable. 
+Acknowledgments 
+This research is dedicated to those who were directly and indirectly affected by the Troubles 
+in Northern Ireland. The author acknowledges the immense suffering and trauma experienced 
+by individuals, families, and communities during this period, and extends deepest sympathy 
+and respect to those who lost loved ones or were impacted by the violence, conflict, and 
+division. 
+ 
+The author expresses gratitude to Liz Boyle and Murray Leith for their guidance and 
+support, and to Thomas Ambrosio for his invaluable work on historically-structured 
+boardgames. The author thanks Domhnall Hegarty and Compass Games LLC for permission 
+to reproduce game images and for the personal communications that inform this analysis. 
+Financial Support 
+The author received no specific funding for this work. 
+
+
+===== PAGE 18 =====
+
+ 
+22 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+Conflicts of interest 
+The author is the designer of The Troubles: Shadow War in Northern Ireland, the game 
+analysed in this paper. This relationship is declared in the methodology and is reflected in the 
+paper's use of expert elicitation as one of several triangulating sources rather than as primary 
+evidence. 
+References 
+[1] 
+J. L. Endacott and S. Brooks, "An updated theoretical and practical model for 
+promoting historical empathy," Social Studies Research and Practice, vol. 8, no. 1, pp. 41–58, 
+2013, doi: 10.1108/SSRP-01-2013-B0003. 
+[2] 
+T. Ambrosio, Tabletop History: Engaging the Past Through Historically-Structured 
+Boardgames. North Dakota State University, 2024, unpublished. 
+[3] 
+A. Chapman, Digital Games as History: How Videogames Represent the Past and Offer 
+Access 
+to 
+Historical 
+Practice. 
+New 
+York, 
+NY, 
+USA: 
+Routledge, 
+2016, 
+doi: 
+10.4324/9781315718408. 
+[4] 
+A. Chapman, A. Foka, and J. Westin, "Introduction: What is historical game studies?," 
+Rethinking History, vol. 21, no. 3, pp. 358–371, 2017, doi: 10.1080/13642529.2016.1256638. 
+[5] 
+T. M. Connolly, E. A. Boyle, E. MacArthur, T. Hainey, and J. M. Boyle, "A systematic 
+literature review of empirical evidence on computer games and serious games," Comput. Educ., 
+vol. 59, no. 2, pp. 661–686, 2012, doi: 10.1016/j.compedu.2012.03.004. 
+[6] 
+E. Boyle, T. M. Connolly, and T. Hainey, "The role of psychology in understanding the 
+impact of computer games," Entertain. Comput., vol. 2, no. 2, pp. 69–74, 2011, doi: 
+10.1016/j.entcom.2010.12.002. 
+[7] 
+H. O'Donnell, "Exploring ethical and moral complexities of the Troubles through 
+simulation and empathy," Soc. Stud. Res. Pract., early access, 2026, doi: 10.1108/SSRP-09-
+2025-0059. 
+[8] 
+J. Smith, "What remains of history?," The Curriculum Journal, vol. 27, no. 4, pp. 500–
+517, 2016, doi: 10.1080/09585176.2016.1197138. 
+[9] 
+A. M. Rodino, "Teaching about the recent past and citizenship education during 
+democratic transitions," in Transitional Justice and Education: Learning Peace. New York, NY, 
+USA: SSRC, 2017, pp. [26–63]. 
+[10] 
+K. C. Barton and A. W. McCully, "Trying to 'see things differently': Northern Ireland 
+students' struggle to understand alternative historical perspectives," Theory Res. Soc. Educ., 
+vol. 40, no. 4, pp. 371–408, 2012, doi: 10.1080/00933104.2012.710928. 
+[11] 
+L. O. Boltz, "The cognitive-affective model of historical empathy in videogame play," 
+J. Appl. Develop. Psychol., vol. 51, pp. 32–39, 2017, doi: 10.1016/j.appdev.2017.03.003. 
+[12] 
+A. Johnson, "Using empathy games in the social sciences," EDUCAUSE Rev., Nov. 
+2019. 
+Accessed: 
+[21/01/2026]. 
+[Online]. 
+Available: 
+https://er.educause.edu/articles/2019/11/using-empathy-games-in-the-social-sciences 
+[13] 
+K. Schrier and M. Farber, "Museum-inspired video games as a symbolic transitional 
+justice," in Proc. 2022 CHI Conf. Human Factors in Computing Systems, 2022, doi: 
+10.1145/3491101.3516378. 
+[14] 
+A. Kasem and N. Noor, "Critical thinking, empathy, and problem solving using a 
+modern board game," in Proc. 2021 3rd Int. Conf. Computer Science and Application 
+Engineering, 2021, doi: 10.1145/3486011.3486526. 
+[15]  
+E. I. Villena Martínez, J. J. Rienda Gómez, D. L. Sutil Martín, and F. E. García Muiña, 
+"Serious board games for enhancing socioemotional skills and their impact on motivation in 
+university students," J. Manage. Bus. Educ., vol. 6, no. 3, pp. 488–508, 2023, doi: 
+10.35564/jmbe.2023.0026. 
+
+
+===== PAGE 19 =====
+
+H. O’Donnell  
+ 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+23 
+ 
+[16] 
+T. Ambrosio and J. Ross, "Performing the Cold War through 'The best board game on 
+the planet': The ludic geopolitics of Twilight Struggle," Geopolitics, vol. 28, no. 2, pp. 846–
+878, 2023, doi: 10.1080/14650045.2021.1951251. 
+[17] 
+H. Wei, "Analyzing the game narrative: Structure and technique," M.S. thesis, Dept. 
+Interact. Arts Technol., Simon Fraser Univ., Burnaby, BC, Canada, 2011. [Online]. Available: 
+https://summit.sfu.ca/item/11597 
+[18] 
+J. Bruner, "The narrative construction of reality," Critical Inquiry, vol. 18, no. 1, pp. 
+1–21, 1991, doi: 10.1086/448619. 
+[19] 
+J. H. Falk and L. D. Dierking, Learning from Museums, 2nd ed. Lanham, MD, USA: 
+Rowman & Littlefield, 2018. 
+[20] 
+R. J. Allan, "Narrative immersion," in Experience, Narrative, and Criticism in Ancient 
+Greece. 
+Oxford, 
+UK: 
+Oxford 
+Univ. 
+Press, 
+2019, 
+pp. 
+15–35, 
+doi: 
+10.1093/oso/9780198848295.003.0002. 
+[21] 
+E. Naul and M. Liu, "Why story matters: A review of narrative in serious games," J. 
+Educ. Comput. Res., vol. 58, no. 3, pp. 687–707, 2019, doi: 10.1177/0735633119859904. 
+[22] 
+J. Cohen, "Defining identification: A theoretical look at the identification of audiences 
+with media characters," Mass Commun. Soc., vol. 4, no. 3, pp. 245–264, 2001, doi: 
+10.1207/s15327825mcs0403_01. 
+[23] 
+R. Hunicke, M. LeBlanc, and R. Zubek, "MDA: A formal approach to game design and 
+game research," in Proc. AAAI Workshop Challenges Game AI, 2004. [Online]. Available: 
+https://users.cs.northwestern.edu/~hunicke/MDA.pdf 
+[24] 
+S. M. Pearce, Museums, Objects and Collections: A Cultural Study. Leicester, UK: 
+Leicester Univ. Press, 1992. 
+[25] 
+T. Ambrosio and J. Ross, "The war on terror beyond the barrel of a gun: The procedural 
+rhetorics of the boardgame Labyrinth," Media, War & Conflict, vol. 16, no. 4, pp. 495–515, 
+2023, doi: 10.1177/17506352221108824. 
+[26] 
+"Was 'Troubles'-related death toll as high as 30,000?," Treason Felony Blog, Dec. 6, 
+2017. 
+Accessed: 
+[05/01/2026]. 
+[Online]. 
+Available: 
+https://treasonfelony.wordpress.com/2017/12/06/was-troubles-related-death-toll-as-high-as-
+30000/ 
+[27] 
+ARK Northern Ireland, "1966 Westminster elections," 2025. Accessed: [03/03/2026]. 
+[Online]. Available: https://www.ark.ac.uk/elections/fw66.htm 
+[28] 
+C. Hocking, "Ludonarrative dissonance in Bioshock," Click Nothing, Oct. 7, 2007. 
+[Online]. Available: https://clicknothing.typepad.com/click_nothing/2007/10/ludonarrative-
+d.html 
+[29] 
+J. Raessens and J. Goldstein, Eds., Handbook of Computer Game Studies. Cambridge, 
+MA, USA: MIT Press, 2005. 
+[30] 
+D. Hegarty, "Artwork for the narrative cards," personal communication, Apr. 29, 2023. 
+[31] 
+M. C. Green, "Transportation into narrative worlds," in Entertainment-Education 
+Behind the Scenes. Cham, Switzerland: Springer, 2021, pp. 87–101, doi: 10.1007/978-3-030-
+63614-2_6. 
+[32] 
+D. A. Prentice and R. J. Gerrig, "Exploring the boundary between fiction and reality," 
+in Dual-Process Theories in Social Psychology. New York, NY, USA: Guilford Press, 1999, 
+pp. 529–546. 
+[33] 
+A. Bermudez, "Narrative justice? Ten tools to deconstruct narratives about violent 
+pasts," in Historical Justice and History Education. Cham, Switzerland: Palgrave Macmillan, 
+2021, doi: 10.1007/978-3-030-70412-4_13. 
+[34] 
+A. Kaplan, J. K. Garner, and B. Brock, "Identity and motivation in a changing world," 
+in Advances in Motivation and Achievement, vol. 20. Bingley, UK: Emerald, 2019, pp. 101–
+127, doi: 10.1108/S0749-742320190000020006. 
+
+
+===== PAGE 20 =====
+
+ 
+24 
+International Journal of Serious Games   I   Volume 13, Issue 3, June 2026 
+[35] 
+K. Kello and W. Wagner, "History teaching as 'propaganda'?," in History Education 
+and Conflict Transformation. Cham, Switzerland: Springer, 2017, pp. 201–230, doi: 
+10.1007/978-3-319-54681-0_8. 
+[36] 
+M. Pasupathi and C. Wainryb, "Developing moral agency through narrative," Human 
+Development, vol. 53, no. 2, pp. 55–80, 2010, doi: 10.1159/000288208. 
+[37] 
+H. O'Donnell, "The design of The Troubles: Simulating terror in Northern Ireland," 
+Rethinking History, vol. 28, no. 4, pp. 588–626, 2024, doi: 10.1080/13642529.2024.2436270. 
+[38] 
+D. A. Small, G. Loewenstein, and P. Slovic, "Sympathy and callousness: The impact 
+of deliberative thought on donations to identifiable and statistical victims," Org. Behav. Hum. 
+Decis. Process., vol. 102, no. 2, pp. 143–153, 2007, doi: 10.1016/j.obhdp.2006.01.005. 
+[39] 
+S. G. Paris, Ed., Perspectives on Object-Centered Learning in Museums. Mahwah, NJ, 
+USA: Lawrence Erlbaum, 2002. 
+[40] 
+J. Juul, "Games telling stories? A brief note on games and narratives," Game Studies, 
+vol. 1, no. 1, 2001. [Online]. Available: http://www.gamestudies.org/0101/juul-gts/ 
+[41] 
+J. Juul, The Art of Failure: An Essay on the Pain of Playing Video Games. Cambridge, 
+MA, USA: MIT Press, 2013, doi: 10.7551/mitpress/9017.001.0001. 
+[42] 
+I. Bogost, Persuasive Games: The Expressive Power of Videogames. Cambridge, MA, 
+USA: MIT Press, 2007. https://doi.org/10.7551/mitpress/5334.001.0001 
+[43] 
+11 bit studios. This War of Mine. Digital game. 11 bit studios, 2014. 
+[44] 
+Academy Games. Freedom: The Underground Railroad. Board game. Academy Games, 
+2013. 
+[45] 
+H. O’Donnell (des.). The Troubles: Shadow War in Northern Ireland. Board game. 
+Compass Games, forthcoming. 
+[46] 
+GMT Games. Labyrinth: The War on Terror. Board game. GMT Games, 2010. 
+[47] 
+GMT Games. Twilight Struggle. Board game. GMT Games, 2005; revised ed. 2012. 
+[48] 
+Histogame. Wir sind das Volk!. Board game. Histogame, 2014. 
+[49] 
+The Dietz Foundation / iNK Stories. 1979 Revolution: Black Friday. Digital game. iNK 
+Stories, 2016. 
+Games 
+11 bit studios. This War of Mine (2014). 
+Academy Games. Freedom: The Underground Railroad (2013). 
+Compass Games. The Troubles: Shadow War in Northern Ireland (forthcoming). 
+GMT Games. Labyrinth: The War on Terror (2010). 
+GMT Games. Twilight Struggle (2005; revised ed. 2012). 
+Histogame. Wir sind das Volk! (2014). 
+The Dietz Foundation / iNK Stories. 1979 Revolution: Black Friday (2016). 

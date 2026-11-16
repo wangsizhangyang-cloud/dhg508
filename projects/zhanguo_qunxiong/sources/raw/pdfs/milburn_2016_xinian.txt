@@ -1,0 +1,3073 @@
+
+
+===== PAGE 1 =====
+
+THE XINIAN: AN ANCIENT HISTORICAL TEXT
+FROM THE QINGHUA UNIVERSITY COLLECTION
+OF BAMBOO BOOKS
+Olivia Milburn*
+Abstract
+The Xinian or Annalistic History is one of an important collection of
+ancient bamboo texts donated anonymously to Qinghua University
+in . The Xinian covers events from the history of the Western
+Zhou dynasty (–
+B.C.E.), through the Spring and Autumn
+Period (–B.C.E.) and into the Warring States era (–B.C.E.).
+Since the first publication of this manuscript in , it has been the
+subject of much research, though this has usually been focused on
+the sections which have important parallels within the transmitted
+tradition. This article proposes a new way of understanding the
+Xinian, as a compilation produced from at least five source texts, and
+provides a complete translation of the entire text. Furthermore,
+although the contents of the Xinian are frequently at variance with
+the transmitted tradition, in particular the account of events given in
+the Zuozhuan, in some instances it may prove the more reliable
+source. The Xinian also provides some information concerning the
+history of the early Warring States era that helps to explain events in
+this generally badly documented era.
+Introduction
+In , in the final chapter of his study of the Zhushu jinian 竹書紀年
+(Bamboo Annals) and other ancient Chinese historical writings,
+Edward Shaughnessy suggested that it was only a matter of time
+before some new textual discovery transformed our understanding of
+ancient Chinese history: “We may see the day when the Bamboo
+Annals or a text something like it, is rediscovered, not in a tomb, but
+in the libraries of hardworking editors.”1 As it has transpired, he was
+quite correct, though this rediscovery has not come from reconstructing
+the Zhushu jinian text (work which is still ongoing), but from the donation
+* Olivia Milburn, 米歐敏, Seoul National University, milburn@snu.ac.kr.
+. Edward Shaughnessy, Rewriting Early Chinese Texts (Albany: State University of
+New York Press, ), .
+Early China (2016) vol 39 pp 53–109
+doi:10.1017/eac.2016.2
+First published online 27 May 2016
+© The Society for the Study of Early China and Cambridge University Press 2016
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 2 =====
+
+by an anonymous alumnus of a major collection of bamboo texts to
+Qinghua University 清華大學in . The provenance of the Qinghua
+group of texts (comprising more than ,individual bamboo strips) is
+not known, but they are thought to derive from a tomb robbery in either
+Hubei or Hunan Province. One of these texts is the Xinian 繫年, or
+Annalistic History.2 The Xinian covers events from the history of the
+Western Zhou dynasty (–B.C.E.), through the Spring and Autumn
+Period (–B.C.E.) and into the Warring States era (–B.C.E.); the
+most recent events recorded in this text concern the reign of King Dao
+楚悼王(r. –B.C.E.).3 This is compatible with the date obtained by
+Canalysis of one of the bamboo strips: B.C.E. +/−years.4
+Although much of the material found in the Xinian records the history of
+the Zhou confederacy, there is a significant focus on the kingdom of Chu.
+This agrees with the supposed location of the tomb from which this text
+was derived, within the borders of this ancient southern kingdom.
+The Xinian consists of twenty-three individual pericopes written on 
+bamboo strips, each ranging from .–cm in length. For the conveni-
+ence of readers of the original manuscript, the number of each strip was
+written on the back. However, there are two mistakes in the count:
+numberfifty-twoisduplicatedbutnumbereighty-eightismissing;further-
+more the final strip of the text, number , is not numbered. Most scholars
+have simply followed the ordering of the text indicated by the Warring
+States era numbering; however, Wang Liancheng 王連成has suggested
+that this represents a post facto addition to the text and is not necessarily
+correct.5 In particular, he notes that pericopes one, three and four begin
+with accounts of the events at the time of the founding of the Zhou
+. The original manuscript of the Xinian is untitled. The title was chosen specifically
+by modern scholars working on the text to make a connection with the Zhushu jinian;
+see Li Xueqin 李學勤, ed., Qinghua daxue cang Zhanguo zhujian 清華大學戰國竹簡(Vol.
+; Shanghai: Zhongxi, ), .
+. It has long been understood that there are problems with the chronology given in
+the Shiji 史記(Records of the Grand Historian) for the early Warring States era kings of
+Chu. This study will follow the corrected chronology given in Bai Guangqi 白光琦,
+“You Qinghua jian Xinian dingzheng Zhanguo Chu nian” 由清華簡繫年訂正戰國楚
+年(http://www.bsm.org.cn/show_article .php?id=[accessed on September ,
+]). An identical revised chronology is also given in Tao Jin 陶金, “You Qinghua
+jian Xinian tan Huanzi Meng Jiang hu xiangguan wenti” 由清華簡繫年談洹子孟姜壺
+相關問題(http://www.gwz.fudan.edu.cn/ScrShow.asp?Src_ID=[accessed on
+September , ]).
+. See Li Xueqin, “Xinian chuban de zhongyao yiyi” 繫年出版的重要意義, Handan
+xueyuan xuebao 邯鄲學院學報(), –.
+. See Wang Liancheng 王連成, “Jianyi Qinghua jian Xinian zhi bianlian yu ‘Zhou
+wang wang jiuninan’ de lijie wenti” 淺議清華簡繫年之編聯與周亡王九年的理解問題
+(http://www.jianbo.org/uploadfile/.doc [accessed on September , ]).
+OLIVIA MILBURN
+54
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 3 =====
+
+dynasty, while pericope two describes the collapse of the Western Zhou
+dynasty in B.C.E. Therefore, he suggests that the original order was dis-
+turbed, and the mistake has been preserved in the modern transcription
+thanks to the ancient numbering imposed on the text.
+Classifying the Xinian
+Unlike the Chunqiu 春秋(Spring and Autumn Annals) and its commen-
+taries, or indeed the Zhushu jinian, the Xinian is not an annalistic history
+in the strict sense of the words. As has been pointed out by a number of
+scholars, the name chosen for this text is a misnomer: each entry does
+not start with a date, and the present ordering of the text is not complete-
+ly chronological.6 Although some scholars have persisted in attempting
+to classify the Xinian as an annalistic history, this is rendered extremely
+difficult by the range of dates covered by the text.7 Within each
+individual pericope, events that took place over the course of many
+decades—or even centuries—are discussed together, with considerable
+chronological overlap (see Table ):
+Although it has frequently been stated that the Xinian is a Chu histor-
+ical text, much of the focus of the narrative is upon the changing and
+developing relationship between Chu and Jin.8 The internal evidence
+of origin seems to be extremely problematic, given that some events
+are dated according to the Jin calendar, and some according to the
+Chu calendar. This dual focus has resulted in scholars suggesting that
+the Xinian may be related to the Guoyu 國語(Discourses of the States)
+discovered with the Zhushu jinian—a text which has now been lost.9
+This text is described in the Jinshu 晉書(History of the Jin dynasty):
+“A Guoyu in three chapters, describing the history of Chu and Jin” (國
+語三篇, 言楚晉事).10 It is certainly true that the second half of the text
+. See Chen Minzhen 陳民鎮, “Xinian guzhi shuo: Qinghua jian Xinian xingzhi ji
+xuanzuo beijing chuyi” 繫年故志說清華簡繫年性質及撰作背景芻議, Handan xueyuan
+xuebao .(), –.
+. This point is made in Hou Wenxue 侯文學, Li Mingli 李明麗, “Qinghua jian
+Xinian de xushi lili, hexin yu linian” 清華簡繫年的叙事體例核心與理念, Huaxia
+wenhua luntan 華夏文化論壇(), –.
+. ThisisextensivelydiscussedinHuKai胡凱,ChenMinzhen陳民鎮,“CongQinghua
+jian Xinian kan Jinguode bangjiao: Yi Jin–Chu, Jin–Qin guanxi wei zhongxin” 從清華簡繫
+年看晉國的邦交以晉楚晉秦關系為中心, Handan xueyuan xuebao .(), –.
+. See for example Liu Quanzhi 劉全志, “Lun Qinghua jian Xinian de xingzhi” 論清
+華簡繫年的性質, Zhongyuan wenwu 中原文物., –.
+. See Fang Xuanling 房玄齡, Jinshu 晉書(Beijing: Zhonghua, ), :. As
+noted by Chen Mengjia 陳夢家, Xi-Zhou niandai kao: Liuguo jinian 西周年代考: 六國紀
+年(Beijing: Zhonghua, ), , this text was probably different from the transmitted
+Guoyu, since otherwise the nature of the contents would not need to be mentioned.
+THE XINIAN
+55
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 4 =====
+
+Table . Dates of events recorded in the Xinian*
+Date of First Event
+Date of Last Event
+.*
+Before B.C.E.
+th year of King Xuan of Zhou
+(B.C.E.)
+.*
+c. st year of King You of Zhou
+(B.C.E.)
+Reign of King Wen of Chu
+(–B.C.E.)
+.*
+Conquest of Shang (B.C.E.)
+King Ping moves capital
+(c. B.C.E.)
+.*
+King Cheng of Zhou
+(r. /–B.C.E.)
+State of Wei moves to Diqiu
+(B.C.E.)
+.*
+Marriage of Lord Ai of Cai
+(pre-B.C.E.)
+King Wen of Chu attacks Chen
+(B.C.E.)
+.*
+Marriage of Lord Xian of Jin
+(pre-B.C.E.)
+Qin and Jin attack Ruo (B.C.E.)
+.
+th year of Lord Wen of Jin
+(B.C.E.)
+Covenant at Jiantu (B.C.E.)
+.
+th year of Lord Wen of Jin
+(B.C.E.)
+Before Lord Mu of Qin’s death
+(pre-B.C.E.)
+.*
+Death of Lord Xiang of Jin
+(B.C.E.)
+Establishment of Lord Ling of Jin
+(B.C.E.)
+.*
+Battle of Jinyin (B.C.E.)
+Battle of Hequ (B.C.E.)
+.
+th year of King Mu of Chu
+(B.C.E.)
+Peace treaty between Chu and
+Song (B.C.E.)
+.
+th year of King Zhuang of Chu
+(B.C.E.)
+Death of Lord Cheng of Jin
+(B.C.E.)
+. ?
+th year of King Zhuang of
+Chu? (B.C.E.)
+?
+.
+th year of Lord Jing of Jin
+(B.C.E.)
+Lord Qing of Qi pays court to Jin
+(B.C.E.)
+.*
+King Zhuang of Chu established
+(B.C.E.)
+King Zhao of Chu returns
+(B.C.E.)
+.
+th year of King Gong of Chu
+(B.C.E.)
+Death of Lord Li of Jin (B.C.E.)
+.
+st year of Lord Ping of Jin
+(B.C.E.)
+Murder of Lord Zhuang of Qi
+(B.C.E.)
+.
+th year of Lord Ping of Jin
+(B.C.E.)
+Covenant at Xianquan (B.C.E.)
+.
+Occupation of Chen and Cai
+(B.C.E.)
+Moving Cai to Zhoulai (B.C.E.)
+.
+th year of Lord Jing of Jin
+(B.C.E.)
+th year of Lord You of Jin
+(B.C.E.)
+.
+th year of King Jian of Chu
+(B.C.E.)
+th year of King Jian of Chu
+(B.C.E.)
+Continued
+OLIVIA MILBURN
+56
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 5 =====
+
+concentrates on the history of these two states, but it is premature to
+associate the Xinian with an earlier textual discovery about which so
+very little is known. Alternatively, a number of scholars researching
+the Xinian have been drawn to the idea that this text represents a
+précis produced within the Chu court, and just such a text is described
+in the Shiji: “Duo Jiao was the tutor to King Wei of Chu, and since the
+king was not able to comprehend the entire Chunqiu [Zuozhuan], he
+selected the most important events, forty pericopes in all, thus
+forming the Duoshi wei (Highlights of Master Duo)” (鐸椒為楚威王傅,
+為王不能盡觀春秋, 采取成敗, 卒四十章, 為鐸氏微).11 For some scholars,
+in spite of the different lengths recorded for this text, the Xinian is—if not
+identical to the Duoshi wei—then at the very least closely related to it.12
+The wish to identify recently discovered bamboo texts with previously
+recorded but lost ancient writings is extremely strong, and the Xinian is
+not the only historical text to have been linked with the Duoshi wei. The
+Zhengzi jia sang 鄭子家喪(The Funeral of Zijia of Zheng), a text recount-
+ing a single historical story concerning conflict between Jin and Chu, has
+also been identified as deriving from the Duoshi wei.13 Likewise, it has
+been suggested that the badly damaged historical text excavated from
+the late Warring States era tomb at Cili 慈利in Hunan Province in
+Table . Continued
+Date of First Event
+Date of Last Event
+.
+st year of King Sheng of Chu
+(B.C.E.)
+Prisoners presented to king
+(B.C.E.)
+.
+th year of King Sheng of Chu
+(B.C.E.)
+th year of King Dao of Chu
+(B.C.E.)
+Note: * The pericope numbers marked with an asterisk are those which begin without
+an explicit indication of dating; in these instances a date has been assessed from intern-
+al evidence.
+. Sima Qian 司馬遷, Shiji 史記(Beijing: Zhonghua, ), .. The existence of
+this text is further documented in the “Yiwen zhi 藝文志” (Treatise on Arts and
+Literature), which mentions a Duoshi wei in three fascicles; see Ban Gu 班固, Hanshu
+漢書(Beijing: Zhonghua, ), :.
+. See for example Chen Wei 陳偉, “Qinghua daxue cang zhushu Xinian de wen-
+xianxue kaocha” 清華大學藏竹書繫年的文獻學考察, Shilin 史林., .
+. See Feng Shi 馮時, “Zhengzi jia sang yu Duoshi wei” 鄭子家喪與鐸氏微, Kaogu 考
+古., –. For the original publication of the Zhengzi jia sang, which is held in the
+collection of the Shanghai Museum; see Chen Peifen 陳佩芬, “Zhengzi jia sang” 鄭子家
+喪, in Ma Chengyuan 馬承源, ed., Shanghai bowuguan zang Zhanguo Chu zhushu 上海博
+物館藏戰國楚竹書(Vol. ; Shanghai: Shanghai guji, ), –.
+THE XINIAN
+57
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 6 =====
+
+is related to the Duoshi wei.14 The difficulties of reconciling these
+attributions rests in the very brief description given of this book in
+Han dynasty texts, coupled with the fact that number of fascicles and
+other such bibliographical structuring remained fluid well into the
+imperial era. In the case of the Xinian, a close connection with the
+Duoshi wei is very unlikely, since it is not a précis of any known text.
+However, this suggested classification does point to one of the major
+features of the text. The Xinian is a very condensed source of information
+about the history of the Zhou dynasty, focusing on events that led to sig-
+nificant changes in the balance of power.
+Rather than attempt a classification, some scholars have tried to group
+the contents by theme. So far, all of these studies have agreed to divide
+the contents of the Xinian into three main groups of material. Li Xueqin
+李學勤has proposed a chronological classification: pericopes one to four
+concern the Western Zhou dynasty, recording events up until the capital
+moved to the east in the time of King Ping (r. –B.C.E.); pericopes
+five to nineteen describe events during the Spring and Autumn period;
+pericopes twenty to twenty-three record Warring States era history.15
+Alternatively, Xu Zhaochang 許兆昌and Qi Dandan 齊丹丹have sug-
+gested that pericope one represents an overview of the entire history
+of the Western Zhou dynasty; pericopes two to five give a simple
+account of the history of some of the more important states of the
+Zhou confederacy; and pericopes six to twenty-three describe important
+events in the history of the Eastern Zhou dynasty, with particular refer-
+ence to the interaction between Chu and Jin.16 Meanwhile Yuri Pines has
+suggested a tripartite division, based upon the presumed origin of the
+textual material, with pericopes one to four forming a “Zhou” section;
+pericopes six to ten, fourteen, seventeen, and twenty forming a “Jin”
+section; and periscopes five, eleven to thirteen, fifteen to sixteen, nine-
+teen, and twenty to twenty-three forming a “Chu” section. In addition,
+pericope eighteen is described as a “Jin-Chu” section.17
+The form of the characters found in the Xinian is consistent with a
+provenance from the kingdom of Chu; however, the same certainty
+. For the original proposition of this theory; see Zhang Zheng 張錚, “Hunan Cili
+chutu Chujian neirong bianxi” 湖南慈利出土楚簡内容辨析, Qiusuo 求索., –
+, ). It is also discussed in some detail in Xia Dekao 夏德靠, “Lun Cili Chujian
+de xingzhi” 論慈利楚簡的性質, Kaili xueyuan xuebao 凱里學院學報.(), –.
+. See Li Xueqin, “Xinian chuban de zhongyao yiyi.”
+. See Xu Zhaochang 許兆昌, Qi Dandan 齊丹丹, “Shilun Qinghua jian Xinian de
+bianzuan tedian” 試論清華簡繫年的編纂特點, Gudai wenming 古代文明.(),
+–.
+. Yuri Pines, “Zhou History and Historiography: Introducing the Bamboo
+Manuscript Xinian,” T’oung Pao .–(), .
+OLIVIA MILBURN
+58
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 7 =====
+
+does not pertain for the contents. Indeed, the vocabulary in use in the
+Xinian (in particular some of the grammatical particles found in this
+text) are not common in Warring States era writings from Chu. This
+has led to Chen Minzhen 陳民鎮raising the possibility that the text ori-
+ginally derived—either in whole or in part—from elsewhere and the
+Qinghua manuscript was simply a copy produced in Chu.18 I would
+like to suggest that the Zhushu jinian here forms an instructive parallel.
+Scholars working on this text have accepted that the Zhushu jinian is
+derived from two source texts: one an annalistic history of the early dyn-
+asties of Chinese history and the second an annalistic history of the state
+of Jin, and subsequently the state of Wei.19 In spite of the manifest pro-
+blems with attempting to classify the Xinian, and the difficulties caused
+by the fact that this text uses two different calendars, there seems to have
+been considerable reluctance to accept that it could be a compilation.20
+Here, I suggest that the Xinian manuscript should be considered as
+the uniform product of a single hand, but where the contents derive
+from five different source texts. One is a collection of accounts concern-
+ing the late Western Zhou dynasty and the circumstances surrounding
+the founding of the Eastern Zhou dynasty (A: pericopes –). The
+second source text is a selection of scandalous stories which have a par-
+ticular importance for the history of the kingdom of Chu (B: pericopes 
+and ). This text can be distinguished from Source Text D, which also
+focuses on the history of Chu, by its lack of explicit dates. There is
+also some overlap in material—the beginning of pericope twenty
+repeats information from the end of pericope fifteen, suggesting again
+that the Xinian was compiled from a variety of sources. Then there is
+a group of closely-related stories concerning the history of the state of
+Jin during the time of Lord Wen of Jin 晉文公(r. –B.C.E.) and
+his successors (C: pericopes –). This focuses on a very narrow
+time-period of just over twenty years (–B.C.E.), though the text
+. Chen Minzhen, “Xinian guzhi shuo,” –. A related theory is proposed in
+Zhu Xiaohai 朱曉海, “Lun Qinghua jian suowei Xinian de shuji xingzhi” 論清華簡所
+謂繫年的書籍性質, Zhongzheng hanxue yanjiu 中正漢學研究., , who regards
+this text as notes on events in the history of the Zhou dynasty, produced within the
+kingdom of Chu, as recorded by a non-professional historian.
+. The distinction between these two source texts was recorded from the very
+earliest accounts of the Zhushu jinian; see for example Jinshu, :. See also David
+Nivison, The Riddle of the Bamboo Annals (Taipei: Airiti Press, ).
+. Li Xuying 李旭穎, “Xinian yu Zuozhuan suozai shishi bijiao yanjiu” 繫年與左傳
+所載史事比較研究(Unpublished MA dissertation, Hebei shifan daxue, ), –
+considers the possibility that the Xinian is a compilation, but does not suggest attribu-
+tions for the different sections of the manuscript. This study is also unusual in propos-
+ing that the compiler might have been a travelling scholar from Jin, temporarily visiting
+the kingdom of Chu.
+THE XINIAN
+59
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 8 =====
+
+does not always make explicit reference to dating. In this section,
+although the narrative is divided into different pericopes, the account
+flows smoothly from one to the next. There is a source text focusing
+on the history of the kingdom of Chu (D: pericopes –, , , –
+); and a source text focusing on the history of the state of Jin (E: peri-
+copes , –, ). Both D and E are characterized by careful attention
+to dating, furthermore E can be distinguished from C by the unconnect-
+ed narrative and the much longer time-span under consideration: nearly
+two hundred years. This internal arrangement is significant not only for
+understanding how the text was composed, but also for demonstrating
+its authenticity. It is extremely unlikely that a forger would produce so
+complex an arrangement of material.
+The transcription of the text given below follows that published in
+in the Qinghua daxue cang Zhanguo zhujian 清華大學藏戰國竹簡
+(Warring States era Bamboo Books in the Collection of Qinghua
+University), with loan characters indicated by [graph] and additions
+indicated by 【graph】. Duplicate characters and contractions will be
+indicated as they are in the original manuscript, with the mark = fol-
+lowed by the relevant additional character in parentheses. In the case
+of amendments made by other scholars, the attribution will be given
+in a footnote. In each case the number on the back of the strip will be
+indicated first in subscript, followed by the actual number of the strip
+determined by the scholars arranging the text for publication (/and
+so on). Most pericopes have the punctuation mark ㄴat the end. The
+exceptions are the damaged strip at the end of story thirteen, and
+stories fifteen and twenty-two, which simply lack this conventional
+mark. For the purposes of this discussion, the text has been regrouped
+according to the source text that it is derived from, rather than preserv-
+ing the original order.
+Annotated Translation
+Source Text A
+PERICOPE ONE
+/昔周武王監觀商王之不龏[恭]=[上帝], 禋祀不[寅]. 乃乍[作]帝
+[籍]以[登]祀=[上帝]天神: 名之曰/千[畝]. 以克反商邑, 尃[敷]
+政天下.
+=[至于]=王=[厲王,
+厲王]大[虐]于周卿[士]者[諸]正萬
+民, 弗刃[忍]于氒[厥]心, /乃歸[厲]王于[彘]. 龍[共]白[伯]和立十又
+四年, [厲]王生洹=王=(宣王. 宣王)即立[位], 龏[共]白[伯]和歸于宋[宗].
+洹[宣] /王乃[始]弃[棄]帝[籍]弗畋[田]. 立丗[三十]又九年, 戎乃大
+敗周[師]于千[畝].ㄴ
+OLIVIA MILBURN
+60
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 9 =====
+
+/In the past, King Wu of Zhou observed that the Shang king did not
+respect God on High,21 and that sacrifices were not performed reverent-
+ly.22 Therefore, he created divine revenue [fields] in order to present sac-
+rifice to God on High and the Spirit of Heaven: the name of this place
+was /Qianmu.23 Thus he conquered the Shang, spreading good gov-
+ernment across the entire world. In the time of King Li (r. –B.C.E.),
+King Li behaved with great cruelty to the ministers, elders, and the
+common people of Zhou, so that they could no longer bear it in their
+hearts, /therefore they exiled King Li to Che (Zhi).24 In the fourteenth
+year of the reign of He, the earl of Gong [B.C.E.], King Li had a son
+named King Xuan (r. –B.C.E.). When King Xuan came to the
+throne, He, earl of Gong, went home to live in Song (Zong).25 King /
+. As noted by Yoshimoto Michimasa 吉本道雅, “Seika kan Keinen kō” 清華簡繫年
+考, Kyōtō daigaku bungakubu kenkyū kiyō 京都大學文學部研究紀要(), –), , in
+using terms like jianguan 監觀(to observe), the section of the Xinian that deals with
+Western Zhou dynasty history draws on the same vocabulary as the Shijing 詩經
+(Book of Songs); this term is also found in Zheng Xuan 鄭玄, Kong Yingda 孔穎達,
+Mao Shi zhengyi 毛詩正義(Beijing: Beijing daxue, ), (“Huangyi” 皇矣). Such
+usage
+confirms
+the
+observation
+made
+by
+Yuri
+Pines,
+“Zhou
+History
+and
+Historiography,” , that the wording of the opening parts of this text is more
+formal and archaic than later sections.
+. This translation follows the original transcription of the text, which gives the
+character as a contraction of the two characters Shangdi 上帝(God on High).
+Chen Qinxiang 陳勤香, “Du Qinghua jian Xinian zhaji” 讀清華簡繫年札記, Yuwen
+xuekan 語文學刊., , suggests instead that is simply a variant form for the
+character di 帝, with = indication duplication rather than contraction.
+. For a study of the revenue fields (jitian 籍田) of the Zhou dynasty; see Li Bai 李
+白, “Zhoudai jitian li kaolun” 周代籍田禮考論, Nongye kaogu 農業考古., –;
+and Yang Yanmin 楊燕民, “Zhongguo gudai jitian liyi zhongzhong” 中國古代籍田禮
+儀種種, Neimenggu shehui kexue (Wenshizhe ban) 内蒙古社會科學(文史哲版) .,
+–.
+. The translation here follows the annotations in Su Jianzhou 蘇建洲, Wu
+Wenwen 吳雯雯, Lai Yixuan 賴怡璇, Qinghua er Xinian jijie 清華二繫年集解(Taipei:
+Wanjuanlou, ), , that three groups of people were oppressed by King Li of Zhou.
+. Song is here amended to Zong on the basis of the commentary by Sima Biao 司
+馬彪(–) on the “Rangwang” 讓王(Yielding Kingship) chapter of the Zhuangzi 莊
+子; see Guo Qingfan 郭慶藩, Zhuangzi jishi 莊子集釋(Beijing: Zhonghua Shuju, ),
+–: “In the troubles of King Li of Zhou, the Son of Heaven vacated [the throne] and
+all the lords requested that he become the Son of Heaven, but the earl of Gong refused.
+However, he did act as king. In the fourteenth year there was a great drought and the
+palace caught fire. A divination was performed with respect to the sun and the inter-
+pretation said: ‘King Li is causing this evil.’ The duke of Shao then established King
+Xuan. The earl of Gong went back to Zong, enjoying himself happily on top of Mt.
+Gong.” (周厲王之難, 天子曠絕, 諸侯皆請以為天子, 共伯不聽. 即干王位. 十四年大旱室
+焚, 卜於太陽, 兆曰: “厲王為祟.” 召公乃立宣王. 共伯復歸於宗, 逍遥得意共山之首).
+These events are also mentioned in the Zhushu jinian; see Hong Yixuan 洪頤煊,
+footnote continued on next page
+THE XINIAN
+61
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 10 =====
+
+Xuan was the first to abandon the divine revenue fields and not to culti-
+vate them.26 He was on the throne for thirty-nine years and then the Rong
+nomadic people inflicted a serious defeat on the Zhou army at Qianmu.27
+PERICOPE TWO
+/周幽王取妻于西[申], 生坪[平]王=[王. 王] 或[又][取]孚[褒]人之女,
+是孚[褒][姒], 生白[伯]盤. 孚[褒][姒]辟[嬖]于王=[王, 王] /與白[伯]
+盤, 迖[逐]坪[平]=王=[平王, 平王] 走西[申]. 幽王起[師]回[圍]坪[平]
+王于西[申]=[申, 申]人弗[畀]. 曾[繒]人乃降西戎以/攻幽=王=[幽
+王. 幽王]及白[伯]盤乃滅, 周乃亡. 邦君者[諸]正乃立幽王之弟[余]臣
+于[虢], 是㽯[攜]惠王. /立廿=[二十]又一年, 晉文侯[仇]乃殺惠王
+于[虢]. 周亡王九年, 邦君者[諸]侯[焉][始]不朝于周. /晉文侯乃
+逆坪[平]王于少鄂, 立之于京[師]. 三年乃東[徙], 止于成周. 晉人
+[焉][始]啟/于京[師]. 奠[鄭]武公亦政[正]東方之者[諸]侯. 武公
+即殜[世], [莊]公即立[位]; [莊]公即殜[世], 卲[昭]公即立[位]. /
+其夫=[大夫]高之巨[渠]爾[彌]殺卲[昭]公而立其弟子釁[眉]壽.
+齊襄公會
+者[諸] 侯于首[止], 殺子/釁[眉]壽, 車[轘]高之巨[渠]爾[彌], 改
+立[厲]公. 奠[鄭]以[始]政[正]. 楚文王以啟于灘[漢][陽].ㄴ
+/King You of Zhou (r. –B.C.E.) took a wife from Western
+Shen, and she gave birth to King Ping.28 The king also took a woman
+from the people of Fu (Bao),29 this was Lady Fu Si (Bao Si), and she
+Zhushu jinian 竹書紀年(Sibu beiyao edn.), B:a–b. On the basis of the similarity
+between the two accounts, Yoshimoto Michimasa, “Seika kan Keinen kō,” , considers
+that the Xinian and Zhushu jinian were here derived from a single source.
+. Lei Xiaopeng 雷曉鵬, “Qinghua jian Xinian yu Zhou Xuanwang ‘bu ji Qianmu’
+xin yan” 清華簡繫年與周宣王‘不籍千畝’ 新研, Zhongguo nongye 中國農業., –
+, argues that the failure in ritual here ascribed to King Xuan of Zhou should be under-
+stood as a comprehensive failure in government as well: the abandonment of the
+revenue fields indicating serious disruption in agriculture in general.
+. These events are also mentioned in the Guoyu; see Shanghai shifan daxue guji
+zhenglizu 上海師範大學古籍整理組, Guoyu 國語(Shanghai: Shanghai guji, ), 
+(“Zhouyu shang” 周語上), which again states specifically that the battle of Qianmu
+was lost by the forces of King Xuan in the thirty-ninth year of his reign (B.C.E.).
+. As noted by Li Xueqin, “You Qinghua jian Xinian lun ‘Wenhou zhi ming’” 由清
+華簡繫年論‘文侯之命’, Yangzhou daxue xuebao (Renwen shehui kexue ban) 揚州大學學報
+(人文社會科學版) ., , the Xinian follows Zhou dynasty usage in clarifying that
+this is Western Shen as opposed to Southern Shen, a state recorded in a number of
+bronze inscriptions. This issue was also discussed in an earlier publication by the
+same author; see Li Xueqin, “Lun Zhongchengfu gui yu Shenguo” 論仲稱父簋與申
+國, Zhongyuan wenwu 中原文物., –, .
+. The two characters Fu 孚(pû) and Bao 褒(phu R!) were phonetically similar in
+ancient Chinese pronunciation; see Axel Schuessler, Minimal Old Chinese and Later Han
+Chinese: A Companion to Grammata Serica Recensa (Honolulu: University of Hawai’i
+Press, ), –.
+OLIVIA MILBURN
+62
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 11 =====
+
+gave birth to Bopan.30 Lady Fu Si was favoured by the king. His Majesty
+/loved Bopan, and thus forced King Ping into exile: King Ping fled to
+Western Shen.31 King You raised an army and laid siege to King Ping at
+Western Shen, but the people of Shen were not afraid. The people of
+Zeng then joined with the Western Rong in order /to attack King
+You; King You and Bopan were killed and the Zhou dynasty was
+destroyed. The lords of the various states and the elders then established
+King You’s younger brother, Yuchen, in Guo, and he became King Hui
+of Xie (r. –B.C.E.). /He was established for twenty-one years,
+after which Chou, Marquis Wen of Jin (r. –B.C.E.), killed King
+Hui in Guo. Zhou was without a king for nine years (–B.C.E.),
+so the lords of the various states began not to pay court to Zhou. /
+Marquis Wen of Jin met King Ping at Shao’e and had him take the
+throne in the capital.32 In the third year (
+B.C.E.), he moved
+the capital east, taking up residence in Chengzhou. The people of Jin
+then began to open up land /around the capital. Lord Wu of Zheng
+(r. –B.C.E.) was the leader of the lords in the eastern regions.
+When Lord Wu passed away, Lord Zhuang (r. –B.C.E.) was estab-
+lished; when Lord Zhuang passed away, Lord Zhao (r. –B.C.E.) was
+established.33 /His Grandee Gao Zhi Juer (Gao Qumi) killed Lord
+. In the transmitted tradition, the son of King You and Lady Bao Si is named
+Bofu. Many commentators cite a quotation from the Zhushu jinian (not found in the
+transmitted text) using the name Bopan; see for example Kong Yingda 孔穎達,
+Chunqiu Zuozhuan zhushu 春秋左傳注疏(Beijing: Beijing daxue, ), (Zhao ).
+. If the chronology given by other ancient texts is correct, Lady Bao Si arrived in
+the palace in the rd year of King You’s reign, and Prince Bopan was established as the
+Crown Prince in the th year, as a small child. See Shiji, .; and Zhushu jinian, B:a
+respectively. Therefore, Chen Wei 陳偉, “Du Qinghua jian Xinian zhaji san” 讀清華簡
+繫年札記三, Jianghan kaogu 江漢考古., , suggests that it is unlikely that Wang
+yu Bopan zhu Pingwang 王與伯盤逐平王means: “His Majesty and Bopan forced King
+Ping into exile.” Instead, yu 與is a verb: “to love.”
+. For jingshi 京師as a term meaning the place of residence of the Son of Heaven; see
+He Xiu 何休, Xu Yan 徐彦, Chunqiu Gongyang zhuan zhushu 春秋公羊傳注疏(Beijing:
+Beijing daxue, ), (Huan ). Dong Shan 董珊, “Du Qinghua jian Xinian” 讀清華繫
+年(http://www.gwz.fudan.edu.cn/SrcShow.asp?Src_ID=[accessed on September
+, ]), suggests that this refers to the capital city of Jin, and not (as the annotators of
+the publication suggest) the Zhou capital Zongzhou 宗周. This usage is testified to
+in a number of Jin bronzes such as the Jin Jiang ding 晉姜鼎.
+. In the transmitted tradition, the expression jishi 即世(to pass away) is particu-
+larly associated with its many appearances in the Zuozhuan; see Yoshimoto Michimasa,
+“Seika kan Keinen kō,” , being used but rarely in other historical texts. This confirms
+the impression that the Xinian and the Zuozhuan are closely related. As noted by Yuri
+Pines, “Zhou History and Historiography,” , when the deaths of monarchs—
+particularly the kings of Chu—are mentioned in the Xinian, this formal term is used.
+It appears only sporadically when the deaths of lords are recorded.
+THE XINIAN
+63
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 12 =====
+
+Zhao and established his younger brother Xinshou (Meishou).34 Lord
+Xiang of Qi (r. –B.C.E.) met the other lords at Shouzhi, killing
+the unratified lord, /Xinshou, and rending Gao Zhi Juer apart
+with chariots. He established Lord Li instead (r. –B.C.E.) and
+the state of Zheng began from this point on to be well-governed.35
+King Wen of Chu then opened up land at Tanyang (Hanyang).36
+PERICOPE THREE
+/周武王既克[殷], 乃執[設]三監于殷. 武王陟, 商邑興反, 殺三監而
+立子耿. 成/王屎[纉]伐商邑, 殺子耿.37 飛[廉]東逃于商盍[蓋]
+氏, 成王伐商盍[蓋], 殺飛[廉], 西[遷]商/盍[蓋]之民于邾[吾],
+以御奴之戎: 是秦先=[先人], 殜[世]乍[作]周[扞]. 周室即[既][卑]坪
+[平]王東遷,
+止于成
+/
+周.
+秦中[仲][焉]
+東居周地以[守]
+周
+之[墳][墓]. 秦以[始]大.ㄴ
+/When King Wu of Zhou defeated the Yin, he established the Three
+Guardians in Yin. When King Wu died, the Shang city rose in rebellion,
+killing the Three Guardians and establishing Geng, Viscount of Lu.38
+. The Xinian is notable for preserving the vocative forms of many personal
+names. For an analysis of Zhi 之as a vocative; see Yang Shuda 楊樹達, Gushu yiyi
+juli dubu 古書疑義舉例讀補(Shanghai: Shanghai guji, ), . The Zuozhuan, 
+(Huan ), which also mentions these events, does not make the relationship
+between Lord Zhao and the new ruler installed by Gao Qumi clear; the Xinian provides
+the information that they are brothers.
+. According to the Zuozhuan, (Huan ), the two half-brothers Lord Zhao and
+Lord Li were originally established simultaneously as the ruler of Zheng by different
+factions within the court. In the circumstances it was impossible for either to fully
+establish their authority. It was not until B.C.E. when Lord Zhao was dead and
+Lord Xiang of Qi had purged the court that the situation was resolved.
+. In the Zuozhuan, (Xi ), it states that by B.C.E., all the Ji states in the
+Hanyang region had been conquered by Chu. Here, the Xinian places this conquest
+as early as the reign of King Wen of Chu.
+. The reading of the character shi 屎as zuan 纉follows Huang Tiantian 黄甜甜,
+“Xinian disanzhang Chengwang shi fa Shangyi zhi shizi bulun” 繫年第三章成王屎伐
+商邑之屎字補論, Shenzhen daxue xuebao (Renwen shehui kexue ban) 深圳大學學報(人文
+社會科學報) .(), –.
+. The character Lu is being read by analogy to the text of the Taibao gui 太保簋,
+which records the same individual: Geng, Viscount of Lu 录子耿or Sheng, Viscount of
+Lu 录子. See Shirakawa Shizuka 白川静, Kinbun tsūshaku 金文通釋(Vol. A; Kobe:
+Hakutsuru bijutsukan, ), –; and Yin Weizhang 殷瑋璋, Cao Shuqin 曹淑琴,
+“Zhouchu Taibaoqi zonghe yanjiu” 周初太保器綜合研究, Kaogu xuebao 考古學報
+., –. The text of the Taibao gui specifically mentions the rebellion of Shang loy-
+alists; for a translation of the inscription, see Edward Shaughnessy, Before Confucius:
+Studies in the Creation of the Chinese Classics (Albany: State University of New York
+Press, ), .
+OLIVIA MILBURN
+64
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 13 =====
+
+King /Cheng repeatedly attacked the Shang city, killing Geng,
+Viscount of Lu.39 Feilian fled east to the Shanggai clan, whereupon
+King Cheng attacked Shanggai and killed Feilian.40 He moved the
+people of Shang /gai west to Zhuwu, in order that they might
+control the Nuzha Rong.41 These were the ancestors of the Qin.42
+From one generation to the next they were the protectors of Zhou.43
+When the Zhou royal house declined, King Ping moved east and took
+up residence in Cheng /zhou. At this point Qin Zhong moved
+east into the lands of Zhou, in order to guard the tombs of the Zhou
+[ruling house].44 Qin then began to become an important [state].
+. The attack by King Cheng’s forces on the Shang city is also mentioned in the text
+of the Kanghou gui 康侯簋. Tang Lan 唐蘭, Xi-Zhou qingtongqi mingwen fendai shizheng
+西周青銅器銘文分代史徵(Beijing: Zhonghua shuju, ), , suggests that the term
+Shangyi 商邑(Shang city) in this inscription should be understood as a reference to
+the former Shang dynasty capital.
+. Feilian is also described as as the founding father of the state of Qin in Shiji,
+.–. Here, however, his name is given as Feilian 蜚廉.
+. For the identification of Zhuwu as the Maojiaping 毛家坪site in Gangu County
+甘谷縣, Gansu Province; see Li Xueqin, “Tan Qinren chu ju ‘Zhuwu’ de dili weizhi” 談
+秦人初居邾吾的地理位置, Chutu wenxian 出土文獻(), –. There are many differ-
+ent branches of the Rong nomadic people recorded in the transmitted tradition and in
+inscriptions on excavated bronzes; for a study of what is known of these particular
+people see Li Xueqin, “Qinghua jian Xinian Nuzha zhi Rong shikao” 清華簡繫年
+奴之戎試考, Shehui kexue zhanxian 社會科學戰綫., –.
+. The origin of the state of Qin has long been a matter of debate with various scho-
+lars suggesting either that this state was founded by a branch of a Western nomadic
+people, or by remnants of the Shang polity. For an overview of these theories; see
+Tian Xudong 田旭東, “Qinghua jian Xinian yu Qinren xiqian xintan” 清華簡繫年與
+秦人西遷新探, Qin-Han yanjiu 秦漢研究(), –. The Xinian does not solve
+this problem; it merely provides one more account suggesting a relationship with
+the Shang.
+. This translation follows the annotations of the original publication in reading 
+as han 扞(to protect); this reading is also favoured by Yoshimoto Michimasa, “Seika
+kan Keinen kō,” . Various other alternatives have been offered; Xiaohu 小狐, “Du
+Xinian yizha” 讀繫年臆札(http://www.gwz.fudan.edu.cn/SrcShow.asp?Src_ID=
+[accessed on July, ]), suggests han 翰(under the auspices of); Huadong shifan
+daxue zhongwenxi Zhanguo jian dushu xiaozu 華東師範大學中文系戰國簡讀書小組,
+“Du Qinghua daxue cang Zhanguo zhujian er. Xinian shu hou (yi)” 讀清華大學藏戰國竹簡
+二.繫年書後(一) (http://www.bsm.org.cn/show_article.php?id=[accessed on 
+July, ]), suggests fu 服(to submit to); Dong Shan, “Du Qinghua jian Xinian,” suggests
+pei 陪(to accompany).
+. Niu Pengtao 牛鵬濤, “Qinghua jian Xinian yu tongqi mingwen huzheng erze”
+清華簡繫年與銅器銘文互證二則, Shenzhen daxue xuebao (Renwen shehui kexue bao) .
+(), argues that Qin Zhong should be understood specifically as Lord Xiang of
+Qin 秦襄公(r. –B.C.E.).
+THE XINIAN
+65
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 14 =====
+
+PERICOPE FOUR
+/周成王, 周公既[遷]殷民于洛邑, 乃[追]念[夏]商之亡由, 方[旁]
+執[設]出宗子, 以乍[作]周厚/[屏], 乃先建[衛]弔[叔][封]于庚
+[康]丘以侯殷之[餘]民. [衛]人自庚[康]丘[遷]于[淇][衛]. 周惠
+王立十/又七年赤[翟]王峁[起] [師]伐[衛], 大敗[衛]
+[師]於睘. 幽侯滅[焉], 翟述[遂]居=[衛. 衛]人乃東/涉河䙴[遷]于
+曹[焉]立悳[戴]公申. 公子啟方奔齊. [戴]公[卒], 齊[桓]公會者
+[諸]侯以成[城]楚丘, □/公子啟方[焉]是文=公=[文公. 文公]即殜
+[世], 成公即立[位]. 翟人或[又]涉河伐衛于楚丘, 衛人自楚丘/[遷]
+于帝丘.ㄴ
+/When King Cheng of Zhou and the Duke of Zhou moved the Yin
+people to Luoyi, they remembered the reasons why the Xia and the
+Shang
+dynasties
+had
+collapsed.45
+Thus
+they
+established
+junior
+members of the ruling house [in fiefs] far and wide in order that they
+might act as a protective /screen for Zhou.46 Thus they initially
+established Wei Diao Feng (Wei Shu Feng) at Gengqiu (Kangqiu), in
+order that he might rule over the remaining Yin people.47 The men of
+Wei from Gengqiu moved to Qiwei. In the seventeenth /year [
+B.C.E.] of the reign of King Hui of Zhou (r. –B.C.E.), King Liuhu
+of the Red Di raised an army and attacked Wei.48 He inflicted a terrible
+defeat on the Wei army at Qiong, and Marquis You (r. –B.C.E.)
+. The translation here follows the annotations provided by the original publica-
+tion. However, Chen Wei, “Du Qinghua jian Xinian zhaji,” , suggests that this sen-
+tence should be read as: “they remembered that the Xia and Shang dynasties had no
+descendants [maintaining ancestral sacrifices]” (乃追念夏商之亡胄).
+. The concept of regional lords forming a protective screen is also found in the
+transmitted tradition; see for example Huang Huaixin 黃懷信, Zhang Maorong 張懋
+鎔, Tian Xudong 田旭東, Yi Zhoushu huijiao jizhu 逸周書彙校集注(Shanghai:
+Shanghai guji, ), (“Jigong” 祭公).
+. As noted by Li Xueqin, “Qinghua jian Xinian jieda feng Wei yimi” 清華簡繫年解
+答封衛疑謎, Wenshi zhishi 文史知識., –, there has been much speculation
+over the terms of the “Kanggao” 康誥(Announcement to Kang) text in the Shangshu
+尚書(Book of Documents), which some imperial era scholars read as meaning that
+the state of Wei was first founded by Kang Shu in the reign of King Wu of Zhou.
+The Xinian makes it clear that this enfeoffment occurred in the reign of King Cheng.
+. The Zhushu jinian, B:b is the only other ancient text to specify that it was the
+Red Di that invaded Wei in this year. The Xinian is unique in naming the ruler con-
+cerned. Huadong shifan daxue zhongwenxi Zhanguo jian dushu xiaozu 華東師範大
+學中文系戰國簡讀書小組, “Du Qinghua daxue cang Zhanguo zhujian er. Xinian shu
+hou (er)” 讀清華大學藏戰國竹簡二.繫年書後(二) (http://www.bsm.org.cn/show_arti-
+cle.php?id=[accessed on July, ]), suggest that Liuhu of the Red Di should
+be understood as the same person as Liuxu 留吁, whose death at the hands of the Jin
+army is mentioned in the Chunqiu, (Xuan ).
+OLIVIA MILBURN
+66
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 15 =====
+
+was killed by him.49 The Di thereupon occupied Wei, and the people of
+Wei moved east and crossed /the Yellow River, travelling towards
+Cao. They established Shen, Lord Dai [of Wei] (r. –B.C.E.) as their
+new ruler, and the Honourable Qifang fled to Qi.50 When Lord Dai
+passed away, Lord Huan of Qi (r. –B.C.E.) summoned all the
+regional lords with a view to fortifying Chuqiu, [one character illegible
+in the original text; from context this should be “establishing”] /the
+Honourable Qifang there: he became Lord Wen (r. –B.C.E.).51
+When Lord Wen passed away, Lord Cheng (r. –B.C.E.) was estab-
+lished. The Di people again crossed the Yellow River and attacked Wei
+at Chuqiu, so the Wei people had to /move from Chuqiu to Diqiu.
+* * *
+This group of stories focuses primarily on the reigns of four Zhou
+dynasty monarchs: Kings Li, Xuan, You and Ping. The first story con-
+cerns the regency of the earl of Gong; the Xinian confirms the account
+of these events given in the Zhushu jinian, which was the first textual dis-
+covery to alert scholars to a mistake in the Shiji.52 The Shiji states that
+after King Li abandoned the capital in the wake of serious political
+upheavals: “The two prime ministers, the duke of Shao and the duke
+of Zhou, were in charge of the government, and they took the
+. The posthumous title of this ruler is normally given as Lord Yi of Wei 衛懿公.
+The place of his defeat and death at the hands of the Di is recorded in the transmitted
+tradition as the Ying Marshes (Yingze 熒澤); see Zuozhuan, –(Wen ). According
+to some accounts of these events, Lord Yi’s body was eaten by the victors; see for
+example Xu Weiyu 許維遹, Han Shi waizhuan jishi 韓詩外傳集釋(Beijing: Zhonghua,
+), –(.).
+. The term gongzi 公子is here translated as “Honourable” following British
+usage, as this is the system commonly used to translate other Zhou dynasty aristocratic
+titles. Honourable is the basic title of all children of aristocrats, though in practice they
+may be more commonly known by a courtesty title, for example when indicating the
+individual’s status as heir.
+. According to the Shiji, .–, Lord Dai and Lord Wen of Wei were
+brothers. However, Lord Wen’s personal name is usually given as Hui 燬. The
+Honourable Qifang of Wei is mentioned in Chen Qiyou 陳奇猷, Lüshi chunqiu xin
+jiaoshi 吕氏春秋新校釋(Shanghai: Shanghai guji, ), (“Zhijie” 知接) as one of
+Lord Huan of Qi’s ministers, and his name is given in other texts as the Honourable
+Kaifang 公子開方; see for example Chen Qiyou 陳奇猷, Han Feizi jishi 韓非子集釋
+(Beijing: Zhonghua, ), –(“Shiguo” 十過). The Xinian suggests that Qifang/
+Kaifang and Hui, Lord Wen of Wei, were one and the same person; in which case he
+can have played no role in the death of Lord Huan of Qi. This confirms the analysis
+of Noma Fumichika 野間文史, “Sei Kankō no saiki to Saden no seiritsu” 斉桓公の最
+期と左伝の成立, Tōhōgaku 東方學(), –, that the stories concerning conflict
+at the time of Lord Huan of Qi’s death were a late Warring States era invention.
+. Zhushu jinian, B:a.
+THE XINIAN
+67
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 16 =====
+
+title: ‘United and Harmonious’” (Shaogong, Zhougong erxiang xingzheng,
+hao yue Gonghe 召公周公二相行政, 號曰共和): that is, Sima Qian had
+misunderstood the name “He of Gong” as an epithet.53 The Xinian sug-
+gests that the eventual transfer of power from the earl of Gong to King
+Xuan was peaceful; this echoes the closely-related account given in the
+Lu Lianzi 魯連子, a text dated to the Warring States era which now sur-
+vives only in a handful of quotations.54
+In the second story, the Xinian provides important clarification con-
+cerning one of the major scandals of the Zhou dynasty; the civil war
+which broke out when King You attempted to dispossess his Crown
+Prince. According to the Shiji, King You was killed and Lady Bao Si
+taken prisoner; the fate of their son, Prince Bofu, is not mentioned.55
+This raised the possibility that he survived the sack of the Zhou capital,
+a theory which was thoroughly explored by imperial era commentators
+on historical texts. Of particular interest to those scholars who wanted
+to trace the fate of Prince Bofu was the cryptic reference to the king of
+Xie preserved in the Zuozhuan: “The king of Xie was in violation of the sta-
+tutessothelordsdismissedhim”(Xiewangjianmingzhuhoutizhi携王奸命
+諸侯替之).56 In the commentary by Du Yu (–), this king of Xie is spe-
+cificallyidentifiedasPrinceBofu,andhisleadwasfollowed bymanylater
+imperial era scholars.57 However, the Zhushu jinian provides a different
+account, which is more closely related to that found in the Xinian:
+犬戎殺王子伯服, 執褒姒以歸. 申侯, 魯侯, 許男, 鄭子立宜臼于申; 虢公翰立
+王子余臣于攜.
+The Quanrong killed Prince Bofu and captured Lady Bao Si, taking her
+away with them. The marquis of Shen, the marquis of Lu, the baron of
+Xu and the unratified lord of Zheng established Yijiu in Shen [as King
+Ping]. Lord Han of Guo established Prince Yuchen in Xie.58
+. Shiji, .. For a study of the figure of He, earl of Gong, in the context of the Xinian
+text;seeTaoXinghua陶興華,“CongQinghuajianXiniankan ‘Gonghe’yu‘Gonghexingz-
+heng’” 從清華簡繫年看共和與共和行政, Gudai wenming .(), –.
+. This text is quoted in Shiji, .n, having been incorporated into the Zhengyi
+正義(Correct Meanings) commentary.
+. See Shiji, .. Sima Qian’s failure to even mention the existence of the king of
+Xie in the Shiji has been the subject of criticism since at least the Qing dynasty; see Liang
+Yusheng 梁玉繩, Shiji zhiyi 史記志疑(Beijing: Zhonghua, ), .
+. See Zuozhuan, (Zhao ).
+. See Du Yu 杜預, Chunqiu jingzhuan jijie 春秋經傳集解(Shanghai: Shanghai guji,
+), n(Zhao ). See also the Suoyin 索隱(Seeking the Obscure) commentary
+on the Shiji by Sima Zhen 司馬貞(–); Shiji, .n; and the commentary by
+Wei Zhao 韋昭(–) on the Guoyu, n(“Jinyu” 晉語).
+. Zhushu jinian, B:b. This account does not indicate how Prince Yuchen was
+related to the ruling house, but this omission is rectified by the Xinian.
+OLIVIA MILBURN
+68
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 17 =====
+
+Again, the Zhushu jinian agrees with the Xinian that King Hui was
+killed by Lord Wen of Jin some twenty-one years later (B.C.E.).59
+This has been taken to mean that when King You died, the divisions
+between different factions in the ruling elite were so strong that the
+realm effectively split into two. King Hui of Xie, King You’s younger
+brother, was established by the senior ministers and hereditary aristoc-
+racy of Zhou. At the same time, King Ping of Zhou was based elsewhere,
+and would likely have had the greatest difficulty in unifying the country
+again were it not for the fact that his cause was supported by Marquis
+Wen of Jin. To add to this impression of a dangerously divided
+country, a quotation from the Zhushu jinian given by Kong Yingda 孔
+穎達(–)—not found in the transmitted text—states that King
+Ping was already crowned by his supporters before King You’s death,
+suggesting that there was a succession of double monarchies in Zhou
+during this time.60
+An alternative theory for understanding the sequence of events at the
+time of the collapse of the Western Zhou dynasty has been proposed by
+Wang Hui 王暉.61 In this reading of the Xinian, there was no double
+monarchy at all—on the death of King You, his younger brother was
+established as the ruler. When King Hui of Xie was murdered, a
+further nine years of chaos ensued, followed by the establishment of
+King Ping, who subsequently moved the capital of his kingdom to the
+east. The Xinian states that “there was no king of Zhou for nine years”
+(Zhou wang wang jiu nian 周亡王九年). Various other scholars have
+attempted to explain this statement: Wang Hongliang 王紅亮has sug-
+gested that this refers back in time to the era immediately prior to the
+death of King You, when the monarch had alienated his lords.62
+Alternatively, it has been suggested that it refers to the time immediately
+after the civil war, when King Ping and King Hui were both on the
+throne; however, it would seem there was a plethora of kings rather
+. See Zhushu jinian, B:b. Two readings have been provided for this date: the
+twenty-first year of the reign of King Ping (B.C.E.), or the twenty-first year of the
+reign of Marquis Wen of Jin (B.C.E.), with the latter suggestion being proposed
+by Wang Guowei 王國維, Guben Zhushu jinian jijiao 古本竹書紀年輯校(Shenyang:
+Liaoning renmin, ), . Modern scholars generally accept that the first of these
+dates is correct; see Wei Dong 魏棟, “Qinghua jian Xinian yu Xiewang zhi mi” 清華
+簡繫年與携王之謎, Wenshi zhishi ., .
+. See Kong Yingda, Chunqiu Zuozhuan zhushu, (Zhao ).
+. See Wang Hui 王暉, “Chunqiu zaoqi Zhou wangshi wangwei shixi bianju
+kaoyi: Jian shuo Qinghua jian Xinian Zhou wu wang jiu nian” 春秋早期周王室王位
+世系變局考異兼說清華簡繫年周無王九年, Renwen zazhi 人文雜誌., –.
+. Wang Hongliang 王紅亮, “Qinghua jian Xinian zhong Zhou Pingwang dong
+qian de xiangguan niandai kao” 清華簡繫年中周平王東遷的相關年代考, Shixueshi
+yanjiu 史學史研究., .
+THE XINIAN
+69
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 18 =====
+
+than an absence at that point.63 Wang Hui therefore proposes a strictly
+chronological reading of the Xinian: King You and Prince Bopan were
+killed—King Hui of Xie ruled for twenty-one years—there was a nine-
+year interregnum—King Ping came to the throne and three years later
+moved the capital to the east. This would mean that King Ping’s reign
+was nearly thirty years shorter than previously thought, and that the
+chaos and upheavals of the three decades following the death of King
+You are likely to have been much more profound than suggested in
+later texts; the difficulties of this era have been elided within the histor-
+ical tradition aimed at enhancing the legitimacy of Zhou rule in general,
+and that of King Ping in particular.64 There is a very good reason why
+the chronology of the Xinian should be so different from that found in
+the transmitted tradition: subsequent generations had a considerable
+interest in minimizing the suggestion that King Ping and the marquis
+of Jin were regicides.65 A text derived from outside the mainstream
+Zhou tradition would be more likely to record this fact than one pro-
+duced under the auspices of the descendants of King Ping and his
+cohort.
+The third story gives an account of the rebellions launched by rem-
+nants of the Shang regime against Zhou authority in the early years of
+the dynasty. In the Yizhou shu 逸周書(Lost History of Zhou) it says:
+“King Wu conquered the Shang and then he established Prince Lufu,
+ordering him to take charge of the Shang sacrifices. He established
+Guan Shu in the east and he established Cai Shu and Huo Shu in Yin,
+ordering them to oversee the vassals of Yin” (武王克殷. 乃立王子禄父
+俾守殷祀. 建管叔于東; 建蔡叔, 霍叔于殷, 俾監殷臣).66 This makes no
+specific reference to the Three Guardians (Sanjian 三監); however, the
+Han dynasty compilation entitled the Shangshu dazhuan 尚書大傳
+(Greater Traditions of the Book of Documents) states: “Guan Shu and
+Cai Shu [were responsible for] overseeing Lufu … but Lufu and the
+. The double monarchy after the death of King You is described in Chao Fulin 晁
+福林, “Lun Pingwang dongqian” 論平王東遷, Lishi yanjiu 歷史研究., –. For a
+reevaluation of his original conclusions in the light of the discovery of the Xinian; see
+Chao Fulin, “Qinghua jian Xinian yu Liang Zhou zhi jishishi de zhonggou” 清華簡繫年
+與兩周之際史事的重构, Lishi yanjiu ., –.
+. Different theories concerning these events are discussed in detail in Su Jianzhou,
+Wu Wenwen, Lai Yixuan, Qinghua er Xinian jijie, –.
+. This point was made strongly by Gu Yanwu 顧炎武(–) in his study of
+the ‘Wenhou zhi ming 文侯之命’ (Command to Marquis Wen) chapter of the Shangshu;
+see Huang Rucheng 黄汝成, Rizhilu jishi 日知錄集釋(Shanghai: Shanghai guji, ),
+:.
+. Zhu Youzeng 朱右曾, Yi Zhoushu jixun jiaoshi 逸周書集訓校釋(Taipei: Shijie,
+), :(“Zuoluo jie” 作雒解).
+OLIVIA MILBURN
+70
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 19 =====
+
+Three Guardians rebelled” (管叔, 蔡叔, 監禄父… 禄父及三監叛).67 This
+seems to be the earliest recorded incidence within the transmitted trad-
+ition of this particular administrative title. However, the precise identity
+of the Three Guardians is unclear, and the Xinian does not assist by
+naming these important figures in early Western Zhou history. The
+majority of ancient texts mention Guan Shu and Cai Shu in tandem; a
+very small number also record Huo Shu, who was most likely the
+third of the Three Guardians.68 However, by at least the time of the
+Han dynasty, these events had become confused: it is Wugeng,
+Guan Shu, and Cai Shu who are said to have risen in rebellion
+against the Zhou, only to be executed by the duke of Zhou in his
+capacity as regent.69 The Xinian thus offers important clarification
+of the sequence of events. However, the identification of the Three
+Guardians as Guan Shu, Cai Shu, and possibly Huo Shu creates a
+serious problem, which has resulted in Lu Yihan 路懿菡suggesting
+that
+this
+attribution
+is
+wrong.70
+As
+he
+notes,
+if
+the
+Three
+Guardians are identified specifically with Guan Shu and Cai Shu,
+then these two men have two irreconcilable fates attributed to
+them. According to the Xinian, they were killed by Shang loyalists;
+according to the transmitted tradition, most notably the Shiji, they
+were killed by the duke of Zhou for rebelling against the crown.71
+If the Three Guardians are considered to be some other (unnamed)
+individuals, the problem disappears. Lu Yihan’s inventive suggestion
+unfortunately creates further problems. One issue is that his theory
+does not explain why a number of pre-Qin and later texts specifically
+associate Geng, Viscount of Lu/Wugeng with Guan Shu and Cai
+Shu. Furthermore, although most ancient historical texts suggest
+that there was only one rebellion against Zhou authority during
+the minority of King Cheng, Lu Yihan’s theory requires that there
+be two: one involving Shang dynasty loyalists and one involving
+Guan Shu and Cai Shu, who were princes of the Zhou ruling
+house. On the present evidence, the issue of identification cannot
+be resolved.
+. Sun Zhilu 孫之騄, Shangshu dazhuan 尚書大傳(Siku quanshu edn.), :b.
+. Huo Shu is also mentioned in the account of these events given in Chen Shike 陳
+士珂, Kongzi jiayu shuzheng 孔子家語疏證(Taipei: Taiwan shangwu, ), 
+(“Benxing jie” 本姓解).
+. See Hanshu, B:.
+. Lu Yihan 路懿菡, “Cong Qinghua jian Xinian kan Zhouchu de Sanjian” 從清華
+簡繫年看周初的三監, Liaoning shifan daxue xuebao (Shehui kexue ban) 遼寧師范大學學報
+(社會科學版) .(), –.
+. Shiji, ..
+THE XINIAN
+71
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 20 =====
+
+Source Text B
+PERICOPE FIVE
+/[蔡]哀侯取妻於陳, 賽[息]侯亦取妻於陳, 是賽為=[息媯. 息媯]
+[將]歸于賽[息][過]=[蔡. 蔡]哀侯命=[止之], /曰: “以同生[姓]
+之古[故]必内[入].” 賽[息]為[媯]乃内[入]于=[蔡; 蔡]哀侯妻之. 賽[息]
+侯弗訓[順], 乃[使]人于楚文王/曰: “君[來]伐我. 我[將]求
+[救]於[蔡],
+君[焉]敗之.”
+文王[起][師]伐賽[息];
+賽[息]侯求
+[救]於=[蔡. 蔡]哀侯[率]币[師]
+/以[救]賽[息]. 文王敗之於新
+[莘]; 雘[獲]哀侯以歸. 文王為客於賽[息], [蔡]侯與從. 賽[息]侯以文/
+王㱃[飲]酒. [蔡]侯智[知]賽[息]侯之誘[己]也. 亦告文王曰: “賽[息]
+侯之妻甚[美]. 君必命見之.” 文/王命見之. 賽[息]侯[辭], 王固命
+見之. 既見之還. 昷[明][歲]起[師]伐賽[息], 克之, 殺賽[息]侯取/
+賽[息]為[媯]以歸: 是生堵囂[敖]及成王. 文王以北啓出方成[城], 圾於
+汝, 改於陳, [焉] /取邨[頓]以贛[恐]陳侯.ㄴ
+/Marquis Ai of Cai (r. –B.C.E.) took a wife from Chen and the
+marquis of Sai (Xi) (d. B.C.E.) also took a wife from Chen: this was
+Lady Gui of Sai.72 Lady Gui of Sai was travelling to her new home in
+Sai; when she passed through Cai; Marquis Ai of Cai gave orders to
+stop her. /He said: “Given that you are a member of the same
+clan, you must enter [the capital].”73 Lady Gui of Sai thus entered Cai
+and Marquis Ai of Cai raped her.74 The marquis of Sai bore a grudge
+about this, so he sent a messenger to King Wen of Chu /to say: “If
+. The characters Sai 賽(sə^kh) and Xi 息(sək) appear to have been near homo-
+phones in ancient Chinese; see Axel Schuessler, Minimal Old Chinese and Later Han
+Chinese, . For a discussion of the interchangeable use of the two characters in
+bronze vessel inscriptions concerning the state of Xi; see Yu Haoliang 于豪亮, “Lun
+Xiguo he Fanguo de tongqi” 論息國和樊國的銅器, Jianghan kaogu ., –; and He
+Guangyue 何光岳, “Xiguo kao” 息國考, Shixue yuekan 史學月刊., .
+. The annotations given here by the publication team are wrong: Lord Ai of Cai
+makes this comment because his wife is Lady Gui of Xi’s sister; see Chen Xiaoli 陳曉麗,
+Wan Deliang 萬德良, “Qinghua jian Xinian suojian Xiguo shishi xiaozha” 清華簡繫年
+所見息國史事小札, Zaozhuang xueyuan xuebao 棗莊學院學報., .
+. The verb translated here as “to rape” is qi 妻, which more commonly means “to
+take as a wife” or “to engage in an adulterous relationship.” However, given that Lady
+Gui has just been arrested by her brother-in-law, this cannot be a consensual relation-
+ship. The word qi is also used to refer to the assault inflicted by Wu Zixu 伍子胥on the
+widow of King Ping of Chu 楚平王(r. –B.C.E.) following the fall of the capital to
+the Wu army in B.C.E.; see Yuan Kang 袁康, Wu Ping 吳平, Yuejue shu 越絕書
+(Shanghai: Shanghai guji, ), (“Pianxu” 篇叙). Again, what is being described
+is an act of rape. When the story of Lady Gui of Xi appears in the Zuozhuan, 
+(Zhuang ), the marquis of Cai is said to have lacked respect (fu bin 弗賓). For a com-
+parison of how these events are described in different texts; see Cheng Wei 程薇,
+“Qinghua jian Xinian yu Xi Gui shiji” 清華簡繫年與息嬀事迹, Wenshi zhishi :,
+–.
+OLIVIA MILBURN
+72
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 21 =====
+
+you, my lord, come and attack me, I will request assistance from Cai and
+then you can defeat them.” King Wen raised an army and attacked Sai,
+and the marquis of Sai requested assistance from Cai. Marquis Ai of Cai
+led his army /to rescue Sai. King Wen defeated them at Xin, captur-
+ing Marquis Ai alive and taking him home with him. King Wen went on
+a visit to Sai, and the marquis of Cai went with him; when the marquis of
+Sai offered a toast to King /Wen, the marquis of Cai realized that the
+marquis of Sai had tricked him. Then he said to King Wen: “The wife of
+the marquis of Sai is very beautiful; you really should order her to
+appear.” King /Wen gave orders that she be presented and when
+the marquis of Sai refused, the king insisted that she had to appear.
+After he saw her, he sent her back. The following year, he raised an
+army and attacked Sai, conquering them. He killed the marquis of Sai
+and took /Lady Gui home with him: she gave birth to Du’ao
+(r. –B.C.E.) and King Cheng (r. –B.C.E.).75 To the north,
+King Wen opened up land [on the far side of the] Fangcheng
+Mountains, setting the border at the Ru River.76 He put his troops into
+battle formation at Chen, and then /captured the city of Cun
+(Dun) in order to strike fear into the marquis of Chen.
+PERICOPE FIFTEEN
+/楚[莊]王立, 吳人服于楚. 陳公子[徵]䣄[舒]取妻于奠[鄭]穆公, 是
+少. [莊]王立十又五年,
+/陳公子[徵]余[舒]殺亓[其]君霝[靈]公.
+[莊]王[率][師]回[圍]陳. 王命[申]公屈[巫][適]秦求[師], 
+[得][師]以
+/
+[來].
+王内[入]陳殺[徵]余[舒],
+取亓[其]室以
+[予][申]公. 連尹襄老與之争, 敚之少. 連尹[止]於河/澭[雍]. 亓
+[其]子墨[黑]要也. 或[又]室少. [莊]王即殜[世], 龏[共]王即立[位]. 墨
+[黑]要也死, 司馬子反與[申] /公争少. [申]公曰: “氏[是]余受妻
+也.” 取以為妻. 司馬不訓[順][申]公. 王命[申]公[聘]於齊. [申] /
+公[竊]載少以行, 自齊述[遂]逃[適]晉, 自晉[適]吳. [焉][始]迵
+[通]吳, 晉之[路], 教吳人反[叛]楚. /以至霝=王=[靈王, 靈王]伐吴為
+南[懷]之行執吴王子鱥[蹶]䌛[由]吴人[焉]或[又]服于楚.
+霝[靈]王即殜
+[世]; /兢[景]坪[平]王即立[位]. 少币[師]亡[無][極][讒]連尹[奢]而
+殺之. 亓[其]子五[伍]員與五[伍]之雞逃[歸]吴. 五[伍]雞[將] /吴人
+. The fratricidal rivalry between Du’ao (also known as Zhuang’ao 莊敖) and his
+younger brother, King Cheng of Chu is recorded in Shiji, .. The reign dates of
+King Wen of Chu are disputed; the Zuozhuan gives him a reign of fifteen years (–
+B.C.E.), while the Shiji has thirteen (–B.C.E.). It is not known which is
+correct, but this article here follows Su Jianzhou, Wu Wenwen, Lai Yixuan, Qinghua
+er Xinian jijie, , in using the Shiji chronology for the Chu kings.
+. According to the Zuozhuan, –(Xi ): “The kingdom of Chu has the
+Fangcheng Mountains as its walls and the Han River as its moat” (楚國方城以爲城,
+漢水以爲池).
+THE XINIAN
+73
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 22 =====
+
+以回[圍]州[來]為長[壑]而[洍]之, 以敗楚[師]: 是雞父之[洍]. 兢
+[景]坪[平]王即殜[世]; 卲[昭]王即/立[位]. 五[伍]員為吴大[宰]; 是教
+吴人反楚. 邦之者[諸]侯以敗楚[師]于白[柏][舉]述[遂]内[入]郢. 卲[昭]
+王[歸] /[随]與吴人[戰]于析. 吴王子㫳[晨][將][起][禍]於
+吴=[吴. 吴]王盍[闔][盧]乃[歸]; 卲[昭]王[焉][復]邦.
+/When King Zhuang of Chu (r. –B.C.E.) was in power, the Wu
+people submitted to the authority of Chu.77 The nobleman from Chen,
+[Xia] Zhengshu obtained a wife from Lord Mu of Zheng (r. –B.C.E.):
+this was Shaomeng. In the fifteenth year of the reign of King Zhuang
+[B.C.E.], /the nobleman from Chen, Zhengshu, killed his ruler,
+Lord Ling (r. –B.C.E.), and King Zhuang led the army to lay siege
+to Chen. His Majesty ordered Qu Wu, the lord of Shen, to go to Qin to
+ask for an army; when he obtained the army, /he returned.78 His
+Majesty entered Chen and killed [Xia] Zhengshu, taking over his entire
+household, and presenting it to the lord of Shen.79 The lianyin, Xiang Lao,
+competed with him and stole Lady Shaomeng away; the lianyin was later
+taken prisoner at He /yong.80 His son was Moyao [Heiyao]. He also
+married Lady Shaomeng.81 King Zhuang then passed away and King
+. Yoshimoto Michimasa, “Seika kan Keinen kō,” , notes that the very first refer-
+ence to the kingdom of Wu in the Zuozhuan describes a covenant between them and the
+kingdom of Chu, in B.C.E., the thirteenth year of the reign of King Zhuang of Chu.
+See Zuozhuan, (Xuan ). It may be these events which are being referred to here.
+. The Zuozhuan, (Xuan ) states that Chu attacked Chen with the other lords
+(zhuhou 諸侯), but they are not identified. In his commentary on this line, Kong Yingda,
+Chunqiu jingzhuan zhengyi, (Xuan ) suggests that these were Chu’s subordinate
+states.
+. The Xinian account here agrees with that given in the Guoyu, (“Chuyu
+shang” 楚語上) in saying that Lady Xia Ji was originally bestowed upon Qu Wu by
+King Zhuang of Chu, only for him to later change his mind.
+. In the Zuozhuan, (Cheng ), the lianyin Xiang Lao is said to have died at the
+battle of Bi 邲. However, the Han Feizi, (“Yulao” 喻老) agrees with the Xinian that
+King Zhuang of Chu did fight a battle at a place named Heyong, presumably as part of
+the same campaign, in which his forces were victorious.
+. Some scholars have suggested that the Zidang ding 子蕩鼎excavated in the
+northern suburbs of Liuan 六安city in , was made by the man who (according
+to the Zuozhuan) was killed in punishment after Lady Xia Ji and Qu Wu left the
+kingdom of Chu, since he was a member of the latter’s family; see Chen Bingxin 陳
+秉新, “Anhui chutu Zitang [sic] ding mingwen de zai renshi” 安徽出土子湯鼎銘文的
+再認識, Kaogu ., –; and Li Yong 李勇, Hu Yuan 胡援, “Chunqiu Zidang
+Chuqi kao” 春秋子蕩楚器考, Nanfang wenhua 南方文化., –. This bronze
+identifies the maker as a member of the Xiang family; if this is correct, then Qu Wu
+must have been a relative of Xiang Lao and Xiang Moyao/Heiyao. In that case the rela-
+tionship between Lady Xia Ji and these three men may be an example of levirate mar-
+riage in the kingdom of Chu. The Zuozhuan, (Cheng ), by contrast, describes the
+relationship between Lady Xia Ji and Heiyao as an incestuous affair (zheng 烝).
+OLIVIA MILBURN
+74
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 23 =====
+
+Gong (r. –B.C.E.) was established. Moyao also died and the Minister
+of War, Prince Fan, and the lord of Shen /fought for possession of Lady
+Shaomeng.The lord of Shen said: “This ismy appointed wife,” and he took
+her as his wife. The Minister of War held a grudge against the lord of Shen
+about this. The king ordered the lord of Shen to go on a diplomatic mission
+toQi;thelordof /ShensecretlytookLadyShaomengwithhim.FromQi
+they fled to Jin and from Jin they travelled to Wu. Thus for the first time [he
+gained knowledge of] the routes that led to Wu and Jin, and he taught the
+people of Wu to rebel against Chu.82 /In the time of King Ling (r. –
+B.C.E.), King Ling attacked Wu and conducted the Nanhuai campaign,
+[during which] he captured Prince Jueyou of Wu.83 The people of Wu then
+submitted to the authority of Chu. When King Ling passed away,84 /
+King Jingping (r. –B.C.E.) took the throne.85 The Junior Preceptor
+[Fei] Wuji slandered the lianyin [Wu] She and killed him; his sons Wu
+Yuan (d. B.C.E.) and Wu Zhi Ji escaped and fled to Wu.86 Wu Ji took
+command /of the people of Wu and laid siege to Zhoulai, building a
+long trench and then flooding it; thus he defeated the Chu army. This is
+the Canal of Elder Ji. When King Jingping passed away, King Zhao
+(r. –B.C.E.) then /took the throne. Wu Yuan became the chancel-
+lor of Wu.87 Then he instructed the people of Wu to rebel against Chu. The
+lords of the states then defeated the Chu army at Boju, before entering
+Ying. King Zhao fled to /Sui, and he fought a battle with the people
+. The crucial role played by the lord of Shen in the development of Wu during
+this period is described in the Zuozhuan, (Cheng ).
+. These events are described in considerable detail in the Zuozhuan, –
+(Zhao ).
+. The Xinian here gives no suggestion of the actual circumstances of King Ling of
+Chu’s demise, murdered by Prince Bi 王子比in B.C.E. However, contemporary
+readers of the text would undoubtedly have been aware of these notorious events,
+which are mentioned in many ancient Chinese texts; see for example Zuozhuan,
+–(Zhao ); and Han Feizi, (“Shiguo”).
+. This ruler is normally known by his posthumous title of King Ping of Chu; see
+Zuozhuan, (Zhao ). The Xinian seems to be unique in terming him King Jingping
+of Chu.
+. Both Yuri Pines, “Zhou History and Historiography,” –; and Yoshimoto
+Michimasa, “Seika kan Keinen kō,” , argue that Wu Ji is an invention; this name
+appears in the Xinian as a folk etymological explanation of the name of the battlefield
+where Wu defeated Chu in B.C.E.: Jifu. This battle is mentioned in the Chunqiu, 
+(Zhao ); and Zuozhuan, (Zhao ). This theory was originally put forward by
+Ziju 子居, “Qinghua jian Xinian –zhang jiexi” 清華簡繫年–章解析(http://
+www.confucius.com/admin/list.asp?id=
+[accessed
+on
+
+July,
+]).
+Alternatively, Su Jianzhou, Wu Wenwen, Lai Yixuan, Qinghua er Xinian jijie, ,
+argue that Wu Ji is simply a previously unidentified member of the family.
+. Yoshimoto Michimasa, “Seika kan Keinen kō,” , argues that the name Wu
+Yuan is given here in mistake for Bo Pi 伯嚭.
+THE XINIAN
+75
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 24 =====
+
+of Wu at Xi.88 Prince Zhen of Wu was about to start an uprising in Wu, so
+King Helu of Wu (r. –B.C.E.) then went home.89 King Zhao was thus
+able to return to his state.
+* * *
+Pericope fifteen begins with an account of one of the great scandals of
+the Spring and Autumn period: the death of Lord Ling of Chen at the
+hands of the Xia family. The Xinian here points to the existence of an
+error within not only the Zuozhuan, but also all the other transmitted
+texts which recount this story. The issue is one of chronology. Lady
+Xia Ji was the daughter of Lord Mu of Zheng (who died in B.C.E.),
+and according to the Zuozhuan, in the year B.C.E., she was engaged
+in sexual relationships not only with Lord Ling of Chen, but also two
+of his ministers—Kong Ning 孔寧and Yi Xingfu 儀行父. The following
+year, her son, Xia Zhengshu 夏徵叔, was so furious at the aspersions cast
+by his lordship upon his paternity that he assassinated Lord Ling. Lady
+Xia Ji is next mentioned in the year B.C.E., when she eloped with Wu
+Chen 巫臣(Qu Wu).90 The problem with this sequence of events is that
+Lady Xia Ji would have been quite old for a Bronze Age woman who is
+being portrayed as incredibly beautiful and attractive: as an absolute
+minimum she was in her early thirties on the death of Lord Ling and
+in her middle forties at the time of leaving Chu. In the Han dynasty
+and later, thanks to this belief in her age, the legend grew up that
+Lady Xia Ji had achieved eternal youth and attractiveness by mastering
+esoteric sexual techniques; as a result she plays an important part in the
+development of Chinese erotica.91 However, in terms of the historical
+. This whole sequence of events is described in almost identical wording, though
+much greater detail, in the Zuozhuan, –(Ding ), with the exception of the
+opening statement: “Then he instructed the people of Wu to rebel against Chu …”
+. Prince Zhen of Wu can be identified as King Fugai, who attempted to sieze the
+throne from his older brother in B.C.E. In the Zuozhuan, (Ding ) account of
+these events it says: “King Helu’s younger brother, King Fugai, [named] Zhen
+requested …” (闔廬之弟夫概王晨請), but the term zhen was previously read as
+meaning “in the morning.” The Xinian makes it clear that this was King Fugai’s
+name. At this time many members of the Wu royal family used a Chinese single-char-
+acter name and a multi-character transliteration of their name in the Wu language: the
+two have an identical meaning; see Dong Chuping 董楚平, Jin Yongping 金永平, Wu
+Yue wenhua zhi 吳越文化志(Shanghai: Shanghai renmin, ), –. Therefore it is
+likely that King Fugai’s name meant “morning.”
+. See Zuozhuan, –(Xuan ); and –(Cheng ) respectively.
+. See Robert van Gulik, Sexual Life in Ancient China: A Preliminary Survey of
+Chinese Sex and Society from ca. BC till AD (Leiden: Brill, ), –; and
+Olivia Milburn, “The Legend of Lady Xia Ji: Two Ming Dynasty Portrayals of an
+Ancient Chinese Femme Fatale” (CLEAR, forthcoming). The earliest references to
+footnote continued on next page
+OLIVIA MILBURN
+76
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 25 =====
+
+events, it is likely that the Xinian is correct. There was no son of Lady Xia
+Ji, and Lord Ling of Chen was murdered by her husband. This would
+then reduce her age: Lady Xia Ji’s marriages probably occurred when
+she was in her late teens and early twenties. The mistake in the
+Zuozhuan has ended up taking on a life of its own.
+Lady Xia Ji’s story segues into that of Wu Zixu, who, like Qu Wu,
+first arrived in the kingdom of Wu as a refugee from Chu. Many
+ancient texts mention that when Wu She was slandered by Fei Wuji,
+his two sons initially both escaped arrest. Supposedly the older of
+his two sons, Wu Shang 伍尚, returned to Chu to be executed with
+his father; Wu Yuan escaped to the kingdom of Wu.92 The Xinian
+states that two brothers travelled to Wu, and that Wu Ji was the com-
+mander of the army that destroyed Zhoulai in B.C.E.93 Wu Zixu is
+often said to be the single best recorded individual in the history of
+the Spring and Autumn period, but if the Xinian is correct, even
+such basic facts as the survival of his brother have been recorded
+incorrectly within the transmitted tradition.94 The information that
+his brother apparently also served as a senior military commander in
+Wu is particularly interesting, for it means that the startling victories
+attributed to Wu Zixu may have been the work of two men and
+not one.
+Lady Xia Ji’s knowledge of esoteric sexual arts are found in the Lienü zhuan 列女傳
+(Biographies of Exemplary Women); see Wang Zhaoyuan 王照圓, Lienü zhuan buzhu
+列女傳補注(Taipei: Taiwan shangwu, ), (“Niebi” 孽嬖): “[Lady Xia Ji] was
+someone who [had mastered] the techniques of internal compression, whereby even
+though she was old she could restore her youth” (nei xie jishu, gai lao er fu zhuang zhe
+内挟伎術, 蓋老而复壯者).
+. The earliest reference to Wu Shang is found in the Zuozhuan, (Zhao ), but
+at this stage, the relationship between Wu Shang and Wu Zixu is not specified. The
+earliest text to describe the story of the two brothers in any detail is the Shiji,
+.–. As noted by Stephen Durrant, The Cloudy Mirror: Tension and Conflict in
+the Writings of Sima Qian (Albany: State University of New York Press, ), , the
+two brothers at this stage come to represent a perfect filial pair: one dies with their
+father and the other avenges him.
+. When this campaign is mentioned in the Zuozhuan, (Zhao ), no name is
+given for the commander of the Wu army. Wang Yikun 王屹堃, “Chutu jianbo shiliao
+jiazhi chuyi: yi Qinghua jian Xinian wei li” 出土簡帛史料價值芻議: 以清華簡繫年為例,
+Changshu ligong xueyuan xuebao (Zhexue shehui kexue ban) 常熟理工學院學報(哲學社會
+科學版) ., suggests that rather than identifying Wu Ji with Wu Shang, he
+should be considered as a previously unrecorded brother of Wu Zixu.
+. See Barry Blakeley, “Chu Society and State: Image versus Reality,” in Defining
+Chu: Image and Reality in Ancient China, ed. Constance A. Cook and John S. Major
+(Honolulu: University of Hawai’i Press, ), .
+THE XINIAN
+77
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 26 =====
+
+Source Text C
+PERICOPE SIX
+/晉獻公之婢妾曰驪姬, 欲亓[其]子
+[奚][齊]之為君也. 乃[讒]大子
+龍共君而殺之. 或[又][讒] /惠公及文=公=[文公. 文公]奔翟[狄]; 惠公
+奔于梁. 獻公[卒]乃立
+[奚][齊]. 亓[其]夫=[大夫]里之克乃殺
+[奚]
+[齊] /而立亓[其]弟悼子. 里之克或[又]殺悼子. 秦穆公乃内惠公于晉.
+惠公賂秦公曰: “我/句[後]果内[入], 囟[使]君涉河至于梁城.” 惠公既
+内[入], 乃[背]秦公, 弗[予]. 立六年, 秦公[率][師]与[與] /惠
+公[戰]于倝[韓], [止]惠公以歸. 惠公[焉]以亓[其]子褱[懷]公為執[質]
+于秦=[秦. 秦]穆公以亓[其]子妻之. /文公十又二年居翟=[狄. 狄]甚善
+之而弗能内[入]. 乃[適]齊=[齊. 齊]人善之. [適]宋=[宋. 宋]善之, 亦莫
+/之能内[入]. 乃[適]=[衛. 衛]人弗善, [適]奠=[鄭. 鄭]人弗善,
+乃[適]楚.
+褱[懷]公自秦逃歸,
+秦穆公乃訋[召]
+/
+文公於楚,
+囟
+[使][襲]褱[懷]公之室. 晉惠公[卒], 褱[懷]公即立[位]. 秦人[起][師]
+以内文公于晉=[晉. 晉]人/殺褱[懷]公而立文公. 秦晉[焉][始]會好
+穆[戮]力同心. 二邦伐[鄀][徙]之[中]城回[圍]商[密], [止] /
+[申]公子義[儀]以歸.ㄴ
+/Lord Xian of Jin’s (r. –B.C.E.) favourite concubine was named
+Lady Li Ji, and she wanted her son, Xiqi, to become the ruler.95 Therefore
+she slandered the Heir Apparent, Lord Long (Gong), and killed him.96
+She also slandered /Lord Hui (r. –B.C.E.) and Lord Wen
+(r. –B.C.E.). Lord Wen fled to the Di people, while Lord Hui
+fled to Liang. When Lord Xian died, Xiqi was established. Grandee Li
+Zhi Ke then killed Xiqi. /They established his younger brother
+Daozi.97 Li Zhi Ke also killed Daozi.98 Afterwards Lord Mu of Qin
+(r. –B.C.E.) installed Lord Hui in power in Jin. Lord Hui had
+. In other texts, Lady Li Ji is said to have been one of Lord Xian’s principal wives;
+see for example Guoyu, (“Jinyu ”).
+. The Heir Apparent to Lord Xian had the personal name Shensheng 申生. The
+title he is given here is his posthumous appellation; this is also recorded in the
+Guoyu, (“Jinyu ”).
+. Most ancient texts give the name Daozi as Zhuozi 卓子, an exception being the
+Shiji, ..
+. Ziju 子居, “Qinghua jian Xinian –zhang jiexi” 清華簡繫年–章解析(http://
+www.confucius. com/admin/list. asp?id=[accessed on October , ),
+suggests that the account of the death of Xiqi and Daozi given here is sufficient to
+ascribe this tale to a foreign source, since the murder of two rulers of Jin by a senior
+minister should not be recorded in a Jin text. However, this pericope begins with a
+description of Lady Li Ji’s illegal and murderous interference in the succession of the
+marquisate of Jin, stressing her low status as a mere concubine of the ruler. In that
+case, the succession of Xiqi and Daozi is illegitimate and the proper line of succession
+runs from Lord Xian to Lord Hui; thus, there is no opprobium attached to describing
+the deaths of Xiqi and Daozi at the hands of Li Ke.
+OLIVIA MILBURN
+78
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 27 =====
+
+bribed Lord Mu, saying: “If /in the future I am indeed able to return
+[to my country], I will give you the land on the other side of the Yellow
+River right up to the city of Liang.” When Lord Hui was installed in
+power, he turned his back on Lord Mu and refused to give him [this
+land]. In the sixth year of his reign [B.C.E.], Lord Mu led his army
+to do battle with
+/Lord Hui at Han, capturing Lord Hui
+and taking him home with him. Lord Hui then sent his son, Lord
+Huai (r. B.C.E.), to go as a hostage to Qin. Lord Mu of Qin gave
+him his daughter in marriage. /Lord Wen spent twelve years
+living with the Di people and they treated him very well, but they
+were not able to put him in power. He then travelled to Qi, where the
+people of Qi treated him well, and he travelled to Song, where the
+people of Song treated him well, but they too were unable /to put
+him in power. He travelled through Wei, but the people of Wei did
+not treat him well; he travelled through Zheng, but the people of
+Zheng did not treat him well; then he moved on to Chu.99 Lord Huai
+escaped from Qin and went home, whereupon Lord Mu of Qin sum-
+moned /Lord Wen from Chu, ordering him to take over the house-
+hold of Lord Huai.100 When Lord Hui of Jin died, Lord Huai succeeded
+him. The people of Qin raised an army in order to install Lord Wen in
+Jin. The people of Jin killed /Lord Huai and established Lord
+Wen.101 From this point onwards Qin and Jin began to be allies,
+working together in harmony. The two states attacked Ruo, before
+moving on to Zhongcheng; they laid siege to Shangmi, and captured
+/the Honourable Yi of Shen, returning home with him.102
+. The Xinian gives a somewhat different itinerary for the extensive travels of the
+Honourable Chonger to other ancient texts. The Zuozhuan, –(Xi ), and the Shiji,
+.–give an identical itinerary; an alternative is found in the Guoyu, –
+(“Jinyu ”) and the Lüshi chunqiu, –(“Shangde” 上德). As noted by Li
+Longxian 李隆獻, Jin Wengong fuguo dingba kao 晉文公復國定霸考(Taipei: Guoli
+Taiwan daxue, ), , insufficient knowledge of Spring and Autum period place-
+names has caused significant problems with developing a chronology for these events.
+. “Household” (shi 室) specifically refers to Lord Huai’s wife; see Yoshimoto
+Michimasa, “Seika kan Keinen kō,” . The same kind of usage can be seen in the
+Zuozhuan, –(Yin ), when it says: “Lord Hui’s first wife was Lady Zi of Meng.
+Lady Zi of Meng died, and then he ‘continued his household’ with Lady Zi of
+Sheng” (惠公元妃孟子. 孟子卒, 繼室以聲子).
+. When these events are reported in the Zuozhuan, –(Xi ), it makes it
+clear that Lord Wen took power thanks to the support of the Qin army before Lord
+Huai was dead. The legality of such an action being highly questionable, it is not sur-
+prising that in this section of the text, which is strongly associated with Jin, does not
+stress this point.
+. The attack on Ruo, the siege of Shangmi, and the capture of the Honourable Yi
+also figure in the Zuozhuan, –(Xi ); these events took place in B.C.E. The ref-
+erence to Zhongcheng is, however, unique to the Xinian.
+THE XINIAN
+79
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 28 =====
+
+PERICOPE SEVEN
+/晉文公立四年, 楚成王[率]者[諸]侯以回[圍]宋, 伐齊, 戌㝅[穀],
+居[緡]. 晉文公囟[思]齊及宋之
+/惪[德], 乃及秦[師]回[圍]曹及
+五[鹿], 伐[衛]以敚[脱]齊之戍及宋之回[圍]. 楚王豫[舍]回[圍]歸居方
+城.
+/命[令]尹子玉述[遂][率]奠[鄭], [衛], 陳, [蔡], 及羣䜌
+[蠻][夷]之[師]以交文=公=[文公. 文公][率]秦, 齊, 宋, 及羣戎/
+之[師]以敗楚[師]於城[濮].
+述[遂]朝周襄王于衡澭[雍].
+獻楚俘
+馘[盟]者[諸]侯於[踐]土.ㄴ
+/In the fourth year of the reign of Lord Wen of Jin [B.C.E.], King
+Cheng of Chu led the various lords to lay siege to Song and attack Qi,103
+stationing troops in Gu and occupying Min.104 Lord Wen of Jin was cog-
+nizant of Qi and Song’s /virtuous behavior, so in concert with the
+Qin army he laid siege to Cao and Wulu, as well as attacking Wei, in
+order to lift the occupation of Qi and the siege of Song.105 The king of
+Chu did indeed lift the siege and go home, taking up residence
+[beyond] the Fangcheng Mountains.106 /The Prime Minister, Ziyu,
+then led the armies of Zheng, Wei, Chen, Cai, and the various Man
+and Yi peoples to intercept Lord Wen; Lord Wen led the armies of
+Qin, Qi, Song, and the various Rong peoples /to defeat the Chu
+army at Chengpu.107 He then paid court to King Xiang of Zhou
+(r. –B.C.E.) at Hengyong and presented the captives and ears
+. King Cheng of Chu’s attack on Song is also mentioned in the Guoyu, 
+(“Jinyu” ), as occurring in the fourth year of Lord Wen of Jin’s reign. However,
+when these events are mentioned in the Zuozhuan, (Xi ), they are attributed to
+the year B.C.E. This problem in chronology is discussed in Yoshimoto Michimasa,
+“Seika kan Keinen kō,” .
+. This reading of the character as min 緡, follows the annotations by Sun
+Feiyan 孫飛燕, “Du Xinian zhaji sanze” 讀繫年劄記三則(http://www.gwz.fudan.
+edu.cn/SrcShow.asp?Src_ID=[accessed on July, ]).
+. The “virtuous actions” (de 德) of Qi and Song refers specifically to their treat-
+ment of the future Lord Wen during his time in exile; see Zuozhuan, , (Xi ).
+. The repeated stress on the strategic significance of the Fangcheng Mountains
+to Chu is one of the hallmarks of the Xinian; see Yoshimoto Michimasa, “Seika kan
+Keinen kō,” .
+. The Xinian suggests that the two sides at the battle of Chengpu were relatively
+evenly matched; the Zuozhuan, (Xi ) states that the Chu army was at minimal
+strength. The Xinian is also unusual in recording extensive participation in this battle
+by nomadic non-Huaxia peoples. The only transmitted text to mention this is the
+Zhanguo ce 戰國策(Stratagems of the Warring States); see Zhu Zugeng 諸祖耿,
+Zhanguo ce jizhu huikao 戰國策集注匯考(Nanjing: Fenghuang, ), (“Qince” 秦
+策): “Lord Wen employed bandits from Zhongshan and thus was victorious at
+Chengpu” (文公用中山盗而勝於城濮). However, Zhongshan was a state founded by
+the Di people and not the Rong.
+OLIVIA MILBURN
+80
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 29 =====
+
+from Chu.108 He performed a blood covenant with the other lords at
+Jiantu.109
+PERICOPE EIGHT
+/晉文公立七年秦晉回[圍]奠=[鄭. 鄭]降秦, 不降晉=[晉. 晉]人以不憖.
+秦人豫戍於奠=[鄭. 鄭]人䜴[屬]北門之[管]於秦=之=
+/戍=人[秦之
+戍人. 秦之戍人][使]人[歸]告曰: “我既[得]奠[鄭]之門[管], 也
+[來][襲]之.”110 秦[師][將]東[襲]奠=[鄭. 鄭]之賈人弦高[將]西
+/市遇之;乃以奠[鄭]君之命[勞]秦三[帥]. 秦[師]乃[復], 伐顝
+[滑], 取之. 晉文公[卒]未[葬], 襄公新[親] /[率][師]御[禦]秦
+[師]于山[崤], 大敗之. 秦穆公欲與楚人為好, [焉][脱][申]公義[儀]
+囟[使][歸]求成. 秦[焉] /[始]與晉[執], 与[與]楚為好.ㄴ
+/In the seventh year of the reign of Lord Wen of Jin [B.C.E.], Qin
+and Jin laid siege to Zheng, and Zheng surrendered to Qin, but did not
+surrender to Jin. The people of Jin were unhappy about this. The people
+of Qin occupied Zheng and the people of Zheng handed over authority
+for the northern gate to the occupying forces /from Qin.111 The occu-
+pying forces of Qin sent someone home to report: “We have obtained
+control over the gates of Zheng; come secretly and make a surprise
+attack on them.”112 The Qin army was about to go east and make a sur-
+prise attack upon Zheng, but the Zheng merchant Xian Gao who was
+heading west /to trade, met with them; in accordance with an
+order from the ruler of Zheng he feasted the three armies of Qin. The
+. The presentation of ears taken from the enemy dead was a part of post-battle
+ritual in the Eastern Zhou dynasty; see for example Zuozhuan, (Xi ); and 
+(Xuan ); and Lüshi chunqiu, –(“Guyue” 古樂). It is much more frequently
+recorded in bronze inscriptions, implying that it probably took place more regularly
+than transmitted texts suggest.
+. The sequence of events at the covenant of Jiantu is described in some detail in
+Zuozhuan, –(Xi ).
+. The form of the character xi [襲] (to make a surprise attack) used in this per-
+icope is commonly found in texts derived from the state of Jin; see Su Jianzhou, Wu
+Wenwen, Lai Yixuan, Qinghua er Xinian jijie, . This fits with the theory that the
+Xinian is derived from written materials taken from more than one source.
+. This translation follows the reading of yu 豫(literally: “to prepare”) as she 舍
+(to occupy) given by Sun Feiyan, “Du Xinian zaji sanze.” Alternatively, Huadong
+shifan daxue zhongwenxi Zhanguo jian dushu xiaozu, “Du Qinghua daxue cang
+Zhanguo zhujian er. Xinian shu hou (er),” reads yu 豫as shi 釋(to position).
+. This translation follows the reading given by Chen Wei, “Du Qinghua jian
+Xinian zhaji,” , which suggests that the character given as ye 也in the original tran-
+scription should instead be read yin 陰(in secret). Alternatively, Chen Jian 陳劍,
+[accessed on July, ], has suggested reading ye as yi 已(already), in which
+case this sentence would read: “We have already obtained control over the gates of
+Zheng; come and make a surprise attack on them.”
+THE XINIAN
+81
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 30 =====
+
+army then returned; they attacked Hua and captured it.113 Lord Wen of Jin
+haddiedbutwasnotyet buriedwhenLordXiang (r.–B.C.E.)person-
+ally /led his armies to intercept the Qin army at Xiao and inflicted a ter-
+rible defeat uponthem.114 Lord MuofQinwanted tomake an alliance with
+the people of Chu, so he released the Honourable Yi of Shen and sent him
+home torequest apeacetreaty. From thispoint onwards,Qin /beganto
+be hostile towards Jin, and ally with Chu.
+PERICOPE NINE
+/晉襄公[卒], 霝[靈]公高幼夫=[大夫]聚[謀]曰: “君幼未可舉承也.
+母[毋]乃不能邦? 猷求[强]君.” 乃命/右[左]行[蔑]与與[随]會
+卲[召]襄公之弟癕[雍]也于秦. 襄而【夫】人[聞]之乃抱霝[靈]公以
+[號]于廷曰: “死人可[何]辠[罪]? /生人可[何][辜]? 豫[舍]亓[其]君
+之子弗立而卲[召]人于外, 而[焉][將][寘]此子也.” 夫=[大夫][閔]
+乃[皆]北[背]之曰: “我莫命卲[招] /之.” 乃立霝[靈]公[焉][葬]
+襄公.ㄴ
+/When Lord Xiang of Jin died, Lord Ling [whose personal name
+was] Gao (r. –B.C.E.) was but a small child.115 The grandees gath-
+ered to discuss the situation and said: “His lordship is a young child and
+he cannot yet assume responsibility. What is to be done about the fact
+that he is not able to govern the country? We need an adult ruler!”116
+They ordered /[Xian] Mie, Infantry General of the Left,117 and
+[Shi] Hui of Sui to summon Lord Xiang’s younger brother, Yong,
+. The sequence of events described here is recorded in very similar terms in the
+Zuozhuan, –(Xi ); and Lüshi chunqiu, –(“Huiguo” 悔過); see also He Xiu
+何休, Xu Yan 徐彥, Chunqiu Gongyang zhuan zhushu 春秋公羊傳注疏(Beijing: Beijing
+daxue, ), –(Xi ).
+. The Chunqiu, (Xi ) does not mention leadership of this campaign; while
+the Zuozhuan attributes it to Xian Zhen 先軫. The Gongyang zhuan, (Xi ); and
+Zhong Wenzheng 鍾文烝, Chunqiu Guliang jingzhuan buzhu 春秋谷梁經傳補注
+(Beijing: Zhonghua, ), –(Xi ), both mention traditions that it was Lord
+Xiang of Jin himself who was in command; the Xinian clearly belongs to this group
+of texts. Both the Gongyang and the Guliang agree that Lord Xiang’s presence was
+not mentioned in the Chunqiu because it was inappropriate for the ruler to have
+taken off his mourning and gone out on campaign.
+. Elsewhere, Lord Ling’s personal name is given as Yigao 夷皐; see Chunqiu, 
+(Xuan ); or as Yigao 夷獔; see Gongyang zhuan, (Xuan ).
+. This translation follows the annotations of the original publication in reading
+qiang [强] as meaning “adult,” rather than “strong”; following the Liji 禮記(Records
+of Ritual). See Sun Xidan 孫希旦, Liji jijie 禮記集解(Beijing: Zhonghua, ), (“Quli
+shang” 曲禮上).
+. This translation follows the annotations of the original publication in reading
+youhang 右行(Infantry General of the Right) as zuohang 左行(Infantry General of the
+Left). This amendment is based upon the account of Xian Mie’s military office given
+in the Zuozhuan, (Xi ).
+OLIVIA MILBURN
+82
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 31 =====
+
+from Qin.118 When Lord Xiang’s wife heard this, she caused a scene in
+the court, holding Lord Ling in her arms. She said: “What crime has
+the dead man committed? /Why should the living be punished?
+You have abandoned your ruler’s son and refused to establish him,
+seeking someone from outside: are you really going to set aside this
+child?”119 The grandees panicked and they all betrayed [those who
+had been sent on this mission]. They said: “No-one has given orders
+to summon /him.”120 They then established Lord Ling and after-
+wards buried Lord Xiang.121
+PERICOPE TEN
+/秦康公[率][師]以[送]癕[雍]子. 晉人[起][師]敗之于.
+右[左]行[蔑][随]會不敢[歸], 述[遂] /奔秦. 霝[靈]公高立六年,
+秦公以[戰]于䏉之古[故], [率][師]為河曲之[戰].ㄴ
+/Lord Kang of Qin (r. –B.C.E.) led his army to escort Yong, the
+unratified ruler. The people of Jin raised an army and defeated them at
+Jinyin.122 [Xian] Mie, the Infantry General of the Left, and [Shi] Hui of
+Sui did not dare to go home, so /they fled to Qin. When Gao,
+Lord Ling [of Jin] had been established for six years [B.C.E.], the
+. The original text here reads Yong ye 癕也, and the editors of the Qinghua col-
+lection suggest that this is a mistake for Yong zi 雍子: that is Ziyong 子雍. See Li Xueqin,
+ed., Qinghua daxue cang Zhanguo zhujian, n. Su Jianzhou, “Du Xinian zhaji” sug-
+gests that ye should be considered as an auxiliary particle.
+. Lord Xiang’s wife’s appeal is recorded in virtually identical terms in the
+Zuozhuan, (Wen ).
+. This translation follows the commentary to the original publication. However,
+Chen Wei, “Du Qinghua jian Xinian zhaji,” , suggests reading mo 莫as wei 未(not
+yet) or bu 不(not); that is: “We haven’t yet given orders to summon him” or “We
+haven’t given orders to summon him.”
+. It is known from other ancient texts that the senior minister behind first the
+plan to set Lord Ling aside, and then the decision to establish him after all, was
+Zhao Dun 趙盾(d. B.C.E.). It is striking that he is not mentioned at any stage in
+this passage, given his well-recorded troubles with the court historians of Jin over
+how his role in Lord Ling’s reign would be described. See Zuozhuan, –(Xuan ).
+For discussion of how this case influenced traditional concepts of the role of the court his-
+torian;seeWangQing王青,“DongHuyu‘Shufabuyin’”董狐與‘書法不隱’,Shixueyuekan
+.,–;andTangDamin湯大民,“‘Shufabuyin’wuyinma?DongHushianzhiyi”
+‘書法不隱’無隱嗎董狐史案質疑, Shixue yuekan ., –.
+. This translation follows the commentary to the original publication, in reading
+this placename as Jinyin, which is mentioned in the Zuozhuan, (Wen ) in connec-
+tion with these events. Ziju 子居, “Qinghua jian Xinian –zhang jiexi” 清華簡繫年
+–章解析(http://www.confucius.com/admin/list.asp?id=[accessed on
+October , ]) suggests instead that this placename should correctly be read as
+Xiyin 隰陰.
+THE XINIAN
+83
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 32 =====
+
+ruler of Qin led his army at the battle of Hequ, [in order to avenge] the
+battle of Jinyin.123
+* * *
+The stories found in Source Text C form a group with a strong chrono-
+logical connection. Furthermore, this seems to be very closely related to
+the transmitted tradition, providing an account of events that is
+extremely similar—though consistently shorter and less detailed—to
+that given in the Zuozhuan. Yuri Pines suggests that rather than the
+Xinian being considered as a précis of the Zuozhuan, that some of the
+anecdotes incorporated into this text (here grouped into Source Text
+C) may have been derived from the same history of the state of Jin as
+that used by the compilers of the Zuozhuan. However, where the
+Zuozhuan adds more detail, records more speeches, and provides
+further moralizations and didactic messages, the Xinian pares down
+the information and presents it in a bald, skeletal form, concentrating
+on the key historical events and their most significant consequences.124
+It is the contention of this article that material found in other source texts
+for the Xinian, though sometimes recording the same events, lacks the
+really close connection with the Zuozhuan seen in Source Text C.
+Source Text D
+PERICOPE ELEVEN
+/楚穆王立八年, 王會者[諸]侯于发[厥] [貉], [將]以伐宋=(宋. 宋)右
+币[師]芋[華]孫兀[元]欲[勞]楚币[師]. 乃行/穆王思[使]毆[驅][孟]
+者[諸]之麋[徙]之徒. 宋公為右[左]芋[盂]; 奠[鄭]伯為右芋[盂]. [申]
+公弔[叔]侯智[知]之, 宋/公之車[暮][駕]用[抶]宋公之馭[御]. 穆
+王即殜[世][莊]王即立[位].
+[使]孫[申]白[伯]亡[無]愄[畏][聘]于齊,
+段[假][路]
+/於宋=[宋. 宋]人是古[故]殺孫[申]白[伯]亡[無]愄[畏],
+[奪]亓[其]玉帛. [莊]王[率][師]回[圍]宋九月. 宋人[焉]為成. 以
+女子/與兵車百[乘], 以芋[華]孫兀[元]為[質].ㄴ
+/In the eighth year [B.C.E.] of the reign of King Mu of Chu
+(r. –B.C.E.), the king met with the other lords at You [one
+unknown character] (Juehao), for he was going to attack Song.125 The
+. The battle of Hequ is mentioned in Zuozhuan, –(Wen ); the Xinian,
+however, appears to be unique in explicitly attributing the motives behind this cam-
+paign to revenge for the battle of Jinyin.
+. Yuri Pines, “Zhou History and Historiography,” –.
+. Su Jianzhou 蘇建洲, “Du Xinian zhaji” 讀繫年札記(http://www.gwz.fudan.
+edu.cn/SrcShow.asp?Src_ID=[accessed on September , ]) notes a number
+footnote continued on next page
+OLIVIA MILBURN
+84
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 33 =====
+
+commander of the right army of Song, Hua Sunwu (Sunyuan), wanted
+to feast the Chu army. He then proceeded with /King Mu to hunt
+deer in Mengzhu, [after which] they moved on to Tulin.126 The duke
+of Song was in the left hunting chariot; the earl of Zheng was in the
+right hunting chariot. The lord of Shen, Shuhou, found out about this,
+and when the duke /of Song’s chariot set out late, he whipped the
+duke of Song’s charioteer.127 When King Mu passed away, King
+Zhuang came to the throne. He sent Wuwei, the earl of Shen, on a dip-
+lomatic mission to Qi, during which he borrowed a road /from
+Song. The people of Song killed Wuwei, the earl of Shen, for this
+reason and stole his jade and silk.128 King Zhuang led his army to lay
+siege to Song for nine months. The people of Song then made peace.
+They gave him men and women, /as well as one hundred chariots;
+in addition, they gave him Hua Sunwu as a hostage.129
+PERICOPE TWELVE
+/楚[莊]王立十又四年, 王會者[諸]侯于[厲]; 奠[鄭]成公自[厲]
+逃歸. [莊]王述[遂]加奠[鄭][亂]. 晉成/公會者[諸]侯以[救]奠
+[鄭]. 楚[師]未還, 晉成公[卒]于扈.ㄴ
+/In the fourteenth year of the reign of King Zhuang of Chu [B.C.E.],
+His Majesty met with the other lords at Li.130 Lord Cheng of Zheng fled
+of problems with this pericope. First, these events are recorded in the Zuozhuan, 
+(Wen ) as having occurred in B.C.E. Furthermore, the name of the Song command-
+er as given in the following line, Hua Sunwu, seems to be a mistake for Hua Yushi
+華御事. Therefore he suggests that this particular story was recorded comparatively
+carelessly.
+. The placename Tulin is thought to refer to the Yunmeng marshes, the hunting
+grounds of the kings of Chu; see Yuan Jinping 袁金平, “Qinghua jian Xinian Tulin kao”
+清華簡繫年徒林考, Shenzhen daxue xuebao (Renwen shehui keuxue ban) .(), –.
+. The terms in which these events are described suggest that Shengong Shuhou
+申公叔侯(the lord of Shen, Shuhou) and Shenbo Wuwei 申伯無畏(Wuwei, the earl of
+Shen) were one and the same person; see Su Jianzhou, “Du Xinian zhaji.” However, as
+noted by Kang Xiaoyan 康小燕, “Qinghua Zhanguo zhujian Xinian dishiyi zhang
+jianshu” 清華戰國竹簡繫年第十一章箋疏, Yuwen xuekan 語文學刊., , this is
+not necessarily correct.
+. The Zuozhuan, –(Xuan ) stresses that King Zhuang of Chu knowingly
+sent Wuwei, the lord of Shen, to his death with a view to creating an excuse to invade
+Song. However, this text does not mention the theft of the lord of Shen’s diplomatic
+gifts.
+. In the transmitted tradition, the peace treaty between Song and Chu is men-
+tioned in the Lüshi chunqiu, (“Xinglun” 行論); the peace treaty and the granting
+of a hostage in the Zuozhuan, (Xuan ). The other gifts are not mentioned.
+. This interstate meeting at Li is not mentioned in any other ancient text. When
+these events are described in the Zuozhuan, (Xuan ), they are referred to as: “the
+footnote continued on next page
+THE XINIAN
+85
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 34 =====
+
+homewards from Li,131 so King Zhuang then provoked conflict in
+Zheng.132 Lord Cheng of Jin (r. –B.C.E.) /met the other lords
+with a view to rescuing Zheng; before the Chu army had turned back,
+Lord Cheng of Jin died at Hu.133
+PERICOPE THIRTEEN
+/… 【莊】王回[圍]奠[鄭]三月. 奠[鄭]人為成. 晉中行林父[率]
+[師][救]奠[鄭]. [莊]王述[遂]北. /… 【楚】人明[盟]. [趙][旃]
+不欲成, 弗卲[召], [席]于楚軍之門. 楚人/被[駕]以[追]之, 述
+[遂]敗晉[師]于河【上】…
+/… 134 King [Zhuang] laid siege to Zheng for three months, where-
+upon the people of Zheng made peace. Zhonghang Linfu of Jin led the
+army to rescue Zheng, and King Zhuang then turned north. /… The
+people [of Chu] performed a blood covenant.135 Zhao Zhan did not want
+this peace treaty. Since he could not make [the king of Chu] attend [a
+blood covenant], he took up position at the gate to the Chu army
+campaign at Li” (Li zhi yi 厲之役), suggesting some kind of battle. This has caused
+much confusion; see Sun Feiyan 孫飛燕, “Shi Zuozhuan de Li zhi yi” 釋左傳的厲之
+役, Shenzhen daxue xuebao (Renwen shehui kexue ban) .(), –. In the commen-
+tary by Du Yu, Chunqiu jingzhuan jijie, n(Xuan ), he notes that these events did
+not take place in the year that they are mentioned in the Zuozhuan, suggesting instead
+that they occurred in Xuan (B.C.E.). The rationale behind this choice of date is not
+clear.
+. At this point the ruler of Zheng was Lord Xiang 鄭襄公(r. –B.C.E.); the
+original commentary on the Xinian suggests that this error arose from a confusion with
+his contemporary Lord Cheng of Jin mentioned below.
+. As noted by Su Jianzhou, Wu Wenwen, Lai Yixuan, Qinghua er Xinian jijie,
+–, no other ancient text records these events, so it is not at all clear what
+exactly King Zhuang did in Zheng.
+. According to the Zuozhuan, , (Xuan ), Lord Cheng of Jin died in Hu in
+B.C.E., just after attending an interstate meeting there. Subsequently, King Zhuang
+of Chu attacked Zheng. The Xinian seems to suggest that some previous military con-
+flict occurred.
+. Seven to eight characters are missing at the beginning of this pericope, which is
+the most severely damaged in the entire text. Hou Wenxue, Li Mingli, “Qinghua jian
+Xinian de xushi lili, hexin yu linian,” suggest that these missing characters are
+the date: “In the seventeenth year of the reign of King Zhuang of Chu …” (Chu
+Zhuangwang li shiqi nian 楚莊王立十七年…). The events described here occurred in
+B.C.E.; see Zuozhuan, –(Xuan ).
+. Eleven to twelve characters are missing from the beginning of this broken
+strip. Su Jianzhou, Wu Wenwen, Lai Yixuan, Qinghua er Xinian jijie, , suggest that
+this strip would originally have read: “Chu requested a peace treaty with Jin, and
+the people of Jin agreed, whereupon they performed a blood covenant with the
+people of Chu” (【楚求成于晉=[晉. 晉]人許之, 遂與楚】人明[盟]). This suggestion is
+derived from the account of these events given in the Zuozhuan, (Xuan ).
+OLIVIA MILBURN
+86
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 35 =====
+
+[camp].136 The people of Chu /had to put armour onto their horses in
+ordertochasehimaway.ThentheydefeatedtheJinarmyatHe[shang]… 137
+PERICOPE SIXTEEN
+/楚龍[共]王立七年, 命[令]尹子[重]伐奠[鄭], 為之[師]. 晉兢
+[景]公會者[諸]侯以[救]鄭=[鄭. 鄭]人[止]芸[鄖]公義[儀], 獻/者
+[諸]兢=公=[景公. 景公]以[歸]. 一年, 兢[景]公欲與楚人為好, 乃敚[脫]
+芸[鄖]公囟[使][歸]求成.
+龍[共]王[使]芸[鄖]公[聘]於
+/
+晉,
+[且]許成. 兢[景]公[使]翟[糴]之伐[茷][聘]於楚, [且]攸[修]成. 未
+還, 兢[景]公[卒]. [厲]公即立[位]. [共]王[使]王/子㫳[辰]
+[聘]於晉, 或[又]攸[修]成. 王或[又][使]宋右币[師]芋[華]孫兀[元]行晉
+楚之成. 昷[明][歲], 楚王子[罷]會晉文/子[燮]及者[諸]侯之夫
+=[大夫]明[盟]於宋. 曰: “爾[弭]天下之[甲]兵.” 昷[明][歲], [厲]公
+先起兵, [率][師]會者[諸]侯以伐
+/秦. =[至于]涇. [共]王
+亦[率][師]回[圍]奠[鄭].
+[厲]公[救]奠[鄭],
+敗楚[師]於[鄢].
+[厲]公亦見[禍], 以死亡[後].ㄴ
+/In the seventh year [B.C.E.] of the reign of King Long (Gong) of
+Chu (r. –B.C.E.), the Prime Minister Zizhong attacked Zheng and
+stationed his army at Fan. Lord Jing of Jin (r. –B.C.E.) met with the
+other lords with a view to rescuing Zheng.138 The people of Zheng
+arrested Yi, lord of Yun, and presented /him to Lord Jing.139 Lord
+Jing returned home with him. One year later [B.C.E.], Lord Jing
+wanted to have a peace treaty with the people of Chu, so he released
+the lord of Yun and sent him home to request the peace treaty.140
+. Some scholars, such as Xiaohu, “Du Xinian yizha”; and Qinghua daxue chutu
+wenxian dushuhui 清華大學出土文獻讀書會, “Qinghua daxue cang Zhanguo zhujian (er)
+yandu zhaji (er)” 清華大學藏戰國竹簡(二) 研讀劄記(二) (http://www.gwz.fudan.
+edu.cn/SrcShow.asp?Src_ID=[accessed on July, ]), gloss jue as she 射
+(to shoot). Yoshimoto Michimasa, “Seika kan Keinen kō,” –, considers this to be
+the result of a misreading of the text of the Zuozhuan, (Xuan ).
+. This damaged pericope of the Xinian refers to the great victory won by the Chu
+army over Jin in the Battle of Bi 邲in B.C.E. As described in the Zuozhuan, –
+(Xuan ), when the Chu army chased off Zhao Zhan, they ended up routing the Jin
+army. When these events are described in the Shiji, ., the battle is said to have
+taken place at Heshang.
+. This meeting is recorded in the Chunqiu, (Cheng ).
+. As noted by Yoshimoto Michimasa, “Seika kan Keinen kō,” , the contraction
+zhu 諸seen here is unusual in late Warring States era texts, when the Xinian is pre-
+sumed to have been copied out. What is more, in other sections of the Xinian, the
+term is given in full: zhi yu 之於. This supports the theory that this text was compiled
+from multiple sources.
+. According to the Zuozhuan, (Cheng ), the lord of Yuan was released from
+captivity in B.C.E. Yoshimoto Michimasa, “Seika kan Keinen kō,” , therefore con-
+siders that the “one year later” (yi nian 一年) is not to be taken entirely literally.
+THE XINIAN
+87
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 36 =====
+
+King Long sent the lord of Yun on a diplomatic visit to /Jin, further-
+more, he agreed to the peace treaty. Lord Jing sent Di Zhi Fa topay a dip-
+lomatic visit to Chu, whereupon the peace treaty was confirmed.141 Before
+he had returned, Lord Jing of Jin died and Lord Li (r. –B.C.E.) suc-
+ceeded. King Long sent Prince /Chen on a diplomatic visit to Jin,
+and again reconfirmed the peace treaty.142 The king also sent the Song
+Preceptor of the Right, Hua Sunwu (Sunyuan), to enact the treaty
+between Chu and Jin. The following year [B.C.E.], Prince Ba of Chu
+met [Fan] Wen /zi [Shi] Xie of Jin and the grandees representing the
+other lords and they performed a blood covenant in Song.143 They said:
+“Let us stop the fighting all over the world.”144 The following year [
+B.C.E.], Lord Li was the first to raise an army and led his troops to meet
+the other lords, with a view to making an attack upon /Qin.145 He
+arrived at Jing.146 King Long also led his troops to lay siege to Zheng;
+but Lord Li rescued Zheng and defeated the Chu army at Yan. Lord Li
+then suffered disaster and died, leaving no descendants.147
+. According to the Zuozhuan, (Cheng ), Di Fa’s visit took place in B.C.E.
+As is frequently the case, the Xinian gives names in the vocative form; the Zuozhuan in
+the more usual nominative.
+. According to the Zuozhuan, (Cheng ) the visit of Prince Zhen of Chu to Jin
+occurred in B.C.E., and Lord Jing did not die until the following year.
+. As noted by Yoshimoto Michimasa, “Seika kan Keinen kō,” , Wenzi was the
+posthumous title of Shi Xie 士燮of Jin; who also used the alternative surname Fan 范in
+honor of his fief.
+. The Zuozhuan, (Cheng ) describes a covenant between only two parties:
+Chu and Jin. It also records a much more complex agreement: “Now Jin and Chu will
+not go to war against each other, and they will face good and evil together. They will
+both show compassion for [those states] which have suffered a natural disaster or are in
+danger; and they will help those who are suffering. If there is anyone who harms Chu
+then Jin will attack them; if something happens in Jin, then Chu will do the same. When
+ambassadors come and go, the roads will not be blocked. We will take measures
+against the uncooperative and punish those who do not pay court to us. If anyone con-
+travenes this covenant may the Bright Spirits destroy him, ruining his armies and
+cutting off the line of inheritance in his state.” (凡晉楚無相加戎, 好惡同之, 同恤菑危,
+備救凶患. 若有害楚, 則晉伐之. 在晉, 楚亦如之. 交贄往來, 道路無壅, 謀其不協, 而討不
+庭. 有渝此盟, 明神殛之, 俾隊其師, 無克胙國).
+. The Xinian here clearly states that it was Jin that was responsible for breaking
+the terms of the peace treaty; however, when these events are described in the
+Zuozhuan, –(Cheng ), it is Chu who is blamed.
+. The Zuozhuan, (Cheng ) describes a battle between the coalition army led
+by Jin and the Qin army at Masui 麻隧. Given that Masui is in modern Jinyang County
+涇陽縣, it would seem that the Xinian correctly sites these events on the banks of the
+Jing River.
+. Lord Li was murdered at the behest of senior ministers in Jin in B.C.E.; see
+Zuozhuan, (Cheng ). The title then passed to a different branch of the family, with
+footnote continued on next page
+OLIVIA MILBURN
+88
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 37 =====
+
+PERICOPE NINETEEN
+/楚霝[靈]王立既[縣]陳, [蔡]. 兢[景]坪[平]王即立[位], 改邦陳,
+[蔡]之君,
+囟[使]各[復]亓[其]邦.
+兢[景]坪[平]王即殜[世],
+卲[昭]
+/【王】即立[位]. 陳, [蔡], [胡]反楚, 與吴人伐楚. 秦異公命子
+甫[蒲],
+子虎[率][師][救]楚,
+與楚[師]會伐陽[唐],
+[縣]之.
+/卲[昭]王既[復]邦, [焉]克[胡], 回[圍][蔡]. 卲[昭]王即殜
+[世]. 獻惠王立十又一年, [蔡]卲[昭]侯[申]懼, 自[歸]於吴=[吴. 吴]
+縵[洩]用[庸],
+/以[師]逆[蔡]卲[昭]侯, 居于州[來]. 是下
+[蔡]. 楚人[焉][縣] [蔡].ㄴ
+/When King Ling of Chu was on the throne, he made Chen and
+Cai into counties. When King Jingping was on the throne, he gave
+different territory to the rulers of Chen and Cai and restored each
+of them to their states.148 When King Jingping passed away, [King]
+/Zhao was established. Chen, Cai, and Hu rebelled against Chu,
+and joined with the people of Wu in attacking Chu.149 Lord Yi of Qin
+(r. –B.C.E.) ordered Zipu and Zihu to lead an army to rescue
+Chu; they met with the Chu army and attacked Tang, turning it into a
+county.150 /When King Zhao returned to his country, he attacked
+Hu and laid siege to Cai.151 King Zhao passed away. In the eleventh year
+[B.C.E.] of King Xianhui (r. –B.C.E.),152 Shen, Marquis Zhao of
+Cai (r. –B.C.E.) became frightened, so he personally gave his alle-
+giance to Wu.153 Man Yong (Xie Yong) /of Wu took the army to
+Lord Li being succeeded by Zhou 周, a descendant of Lord Xiang of Jin. It is not clear
+whether there were other lines of the ruling house whose claims were disallowed,
+though the Zuozhuan, (Cheng ) does mention that Zhou had an older brother
+who was mentally handicapped, who was passed over in the succession.
+. This restoration is also recorded in the Zuozhuan, (Zhao ).
+. According to the Zuozhuan, (Ding ), the participants in the B.C.E. cam-
+paign against Chu were the Wu monarch, and the marquises of Cai and Tang.
+. The name of the ruler of Qin at this time is normally given as Lord Ai 秦哀公.
+However, the Shiji, .gives his posthumous title as Lord Bi 畢公, and the Suoyin
+commentary mentions another variant: Lord Bi 㻫公; see Shiji, .n.
+. King Zhao’s revenge on Hu and Cai is described in the Zuozhuan, (Ding
+); and (Ai ) respectively.
+. The posthumous title of this monarch is usually given as King Hui of Chu;
+however, the Mozi 墨子does also record him under the same name as the Xinian:
+King Xianhui of Chu; see Sun Yirang 孫詒讓, Mozi xiangu 墨子閒詁(Beijing:
+Zhonghua, ), (“Guiyi” 貴義).
+. Clearly there is a problem with the chronology here. Li Xueqin, ed., Qinghua
+daxue cang Zhanguo zhujian, nsuggests that the description of the would–be sur-
+render of authority of Cai to Wu is a historical fact, but this occurred in B.C.E., fol-
+lowing the chronology given in Zuozhuan, (Ai ). The destruction of the state of
+Chen occurred in B.C.E.; see Zuozhuan, (Ai ). Somehow the two events
+have become confused in this text, possibly due to a problem with the original source.
+THE XINIAN
+89
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 38 =====
+
+meet Marquis Zhao of Cai, and he took up residence at Zhoulai: this was
+Lower Cai.154 The people of Chu then made Cai into a county.
+PERICOPE TWENTY-ONE
+/楚柬[簡]大王立七年, 宋悼公朝于楚, 告以宋司城之約公室. 王命
+莫囂[敖]昜為[率]
+/[師]以定公室,
+城黄池,
+城罋[雍]丘.
+晉
+[魏][斯], [趙][浣],155 倝[韓]啟章[率][師]回[圍]黄池, [迵]而
+歸之/於楚. 二年, 王命莫囂[敖]昜為[率][師][侵]晉, [奪]宜
+昜[陽], 回[圍]赤以[復]黄池之[師]. [魏][斯], [趙][浣], 倝
+[韓]啟/章[率][師][救] 赤. 楚人豫[舍]回[圍]而還, 與晉
+[師][戰]於長城. 楚[師]亡工[功], 多[棄][旃]莫[幕], 肖[宵][遯].
+楚以/與晉固為[怨].ㄴ
+/In the seventh year [B.C.E.] of the reign of King Jianda of Chu
+(r. –B.C.E.), Lord Dao of Song (r. –B.C.E.) came to pay court
+to Chu.156 He reported that the Minister of Works of Song, [one
+unknown character], had severely weakened the ducal house. His
+Majesty ordered the Mo’ao Yangwei to lead /the army to settle
+the ducal house; he built fortifications at Huangchi and at Yongqiu.157
+. Xie Yong/She Yong 舌庸is elsewhere recorded as an important figure in the
+government of the kingdom of Yue; see for example Guoyu, (“Wuyu” 吳語); and
+Zhou Shengchun 周生春, Wu Yue chunqiu jijiao huikao 吳越春秋輯校匯考(Shanghai:
+Shanghai guji, ), (“Fuchai neizhuan” 夫差内傳). Ziju 子居, “Qinghua jian
+Xinian di shiliu-shijiuzhang jiexi” 清華簡繫年第十六十九章解析(http://www.confu-
+cius.com/admin/list/asp?id=[accessed on November , ]) suggests
+that this man was temporarily working for the government of the kingdom of Wu,
+after the surrender of King Goujian in B.C.E. and before the reestablishment of
+Yue as an independent kingdom.
+. According to the annotations by Wu Jiabi 武家璧, “Qinghua jian Xinian
+zhanmu”
+清華簡繫年幝幕
+(http://www.bsm.org.cn/show_article.php?id=
+[accessed on September , ]) the personal name of the ruler of Zhao should be
+transcribed as Guan 盥.
+. Liang Liyong 梁立勇, “Du Xinian zhaji” 讀繫年札記, Shenzhen daxue xuebao
+(Renwen shehui kexue ban) .(), suggests maintaining the Shiji traditional
+dates given for King Jian of Chu’s reign (–B.C.E.), but reading qi 七(seven) as
+an orthographic mistake for shi 十(ten), for then Lord Dao of Song could potentially
+have paid court to King Jian of Chu in B.C.E., after his father’s death but before offi-
+cially assuming the title the following year. However, this translation follows the cor-
+rected chronology of the Chu kings given in Bai Guangqi, “You Qinghua jian Xinian
+dingzheng Zhanguo Chu nian,” whereby the seventh year of King Jian of Chu’s
+reign is B.C.E.
+. Mo’ao is a Chu title, thought to be similar to Minister of War (Sima 司馬);
+Yangwei may be a two character surname, or a surname and personal name. The
+Mo’ao Yangwei is not mentioned within the transmitted textual tradition, however,
+a bamboo strip recording his name was excavated from the tomb of Yi, Marquis of
+footnote continued on next page
+OLIVIA MILBURN
+90
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 39 =====
+
+Wei Si, Zhao Huan, and Han Qizhang of Jin led their forces to lay siege
+to Huangchi; after fighting a battle they made them retreat back /
+to Chu. In the second year [B.C.E.], His Majesty ordered Mo’ao
+Yangwei to lead the army to invade Jin. He captured Yiyang and laid
+siege to Chi’an, to avenge the campaign at Huangchi. Wei Si, Zhao
+Huan and Han Qi /zhang led their armies to rescue Chi’an, where-
+upon the Chu army lifted the siege and went home. They fought a battle
+with the Jin army at the [Chu] Great Wall. The Chu army was not vic-
+torious and they had to abandon many of their battle standards and
+tents, running away under cover of darkness.158 Because of this, Chu
+/intensified their hatred for Jin.
+PERICOPE TWENTY-TWO
+/楚聖[聲][桓]王即立[位]. 兀[元]年, 晉公止會者[諸]侯於[任].
+宋[悼]公[將]會,
+晉公[卒]于.
+倝[韓]虔,
+[趙]蔖[籍],
+[魏]
+/繫[擊][率][師]與戉[越]公殹[翳]伐齊=[齊. 齊]與戉[越]成以建
+昜[陽]䢹陵之田, [且]男女服. 戉[越]公與齊侯貣[貸], 魯侯侃[衍] /
+明[盟]于魯稷門之外. 戉[越]公内[入], 亯[饗]於魯=[魯. 魯]侯馭[御], 齊侯
+晶[參][乘]以内[入]. 晉[魏]文侯[斯]從晉==[晉師. 晉師]大戝[敗]
+/齊[師]. 齊[師]北; 晉[師]述[逐]之, 内[入]至汧水. 齊人[且]
+又[有]陳子牛之[禍]. 齊與晉成. 齊侯/明[盟]於晉軍. 晉三子之
+夫=[大夫]内[入]齊, 明[盟]陳和與陳淏於溋門之外. 曰: “母[毋]攸[修]長城;
+母[毋]伐[廪] /丘.” 晉公獻齊俘馘於周王, 述[遂]以齊侯貣[貸], 魯
+侯羴[顯], 宋公畋[田], 衛侯虔, 奠[鄭]白[伯][駘]朝/周王于周.
+/When King Shenghuan of Chu (r. –B.C.E.) was established,
+in his first year [B.C.E.], the lord of Jin met with the other rulers at
+Zeng 曾侯乙. Further references to the Mo’ao Yangwei were found among the Xincai
+新蔡texts: Jia san 甲三. : “[The year] that [one illegible character] the great Mo’ao
+Yangwei fought [a battle] at the Great Wall” (囗大莫囂[敖]為【戰】於長城之
+【歲】); and Jia san. : “[One character illegible] the Mo’ao Yangwei fought a
+battle with the Jin army at the Great [one character illegible]” (囗莫囂[敖]昜為晉币
+[師][戰]於長囗); see Bing Shangbai 邴尚白, Geling Chujian yanjiu 葛陵楚簡研究
+(Taipei: Taida chuban zhongxin, ), , . Some scholars have sought to identify
+this person as Prime Minister Zichun 子春of Chu, a very important figure in Chu at
+this time; see for example Li Shoukui 李守奎, “Qinghua jian Xinian Mo’ao Yangwei
+kaolun” 清華簡繫年莫囂昜為考論, Zhongyuan wenhua yanjiu 中原文化研究.,
+–.
+. Li Xueqin, “Qinghua jian Xinian ji youguan gushi wenti” 清華簡繫年及有關古
+史問題, Wenwu ., , suggests this line should be read as: “they had to abandon
+many of their old items, and Mo[ao] ran away under cover of darkness” (duo qi chan,
+Mo[ao] xiao dun 多棄幝, 莫[囂]宵遁). This translation follows the alternative reading
+given by Guo Yongbing 郭永秉, “Qinghua jian Xinian chanzi biejie” 清華簡繫年字
+别解
+(http://www.gwz.fudan.edu.cn/SrcShow.asp?Src_ID=
+[accessed
+on
+November , ]).
+THE XINIAN
+91
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 40 =====
+
+Ren. Lord Dao of Song was about to meet with the ruler of Jin when the
+latter died at [unknown placename]. Han Hu, Zhao Ji, and Wei /Ji
+led their armies to attack Qi with Yi, Duke of Yue.159 Qi made peace with
+Yue, giving them the fields of Jianyang and Juling, as well as men and
+women. The duke of Yue performed a blood covenant outside the Ji
+Gate of Lu, together with Dai, Marquis of Qi (r. –B.C.E.) and
+Yan, /Marquis of Lu (r. –B.C.E.). The duke of Yue then
+entered the city to hold a banquet in Lu: the marquis of Lu acted as
+his charioteer and the marquis of Qi rode beside him in the chariot as
+they entered the city. Si, Marquis Wen of Wei (r. –B.C.E.) led
+the Jin army, and the Jin army inflicted a terrible defeat on the /
+Qi army. The Qi army fled northwards and the Jin army pursued
+them, as far as the Qian River. The people of Qi then suffered the trou-
+bles of Chen Qing Ziniu.160 Qi made peace with Jin, and the marquis of
+Qi /held a blood covenant with the Jin army. Grandees represent-
+ing the three great families of Jin entered the state of Qi, where they per-
+formed a blood covenant outside the Ying Gate with Chen He and Chen
+Hao.161 The agreement said: “Do not repair the Great Wall; do not attack
+Lin /qiu.”162 The ruler of Jin presented captives from the Qi army
+. Here, the Xinian gives the name of the ruler of Yue in the same form as the Shiji,
+.; and the Zhushu jinian, B.b. However, in the Yuejue shu, (“Jidi zhuan” 記地
+傳), this monarch is called King Buyang of Yue 越王不揚. There are no bronzes which
+record the name Buyang, but Cao Jinyan 曹錦炎, “Xinjian Yuewang bingqi ji qi xiang-
+guan wenti” 新見越王兵器及其相關問題, Wenwu ., , mentions a sword sold in
+Hong Kong in (now in a private collection in Taiwan), with an inscription stating
+that it was made for King Zhiyi of Yue 越王旨殹, who presumably is the Yi, Duke of
+Yue mentioned here.
+. Ma Weidong 馬衛東, “Qinghua jian Xinian San Jin fa Qi kao” 清華簡繫年三晉
+伐齊考, Jinyang xuekan 晉陽學刊., –, suggests that the “troubles of Ziniu”
+centered around the murder of Chen/Tian He 田和, whose death did indeed occur
+in this year. However, the terms in which these events are described in the Xinian
+means this theory cannot possibly be correct, since Chen He was still alive at the time.
+. As noted by Chen Zhi 陳直, Shiji xinzheng 史記新證(Beijing: Zhonghua, ),
+, although it is frequently asserted that the Chen family changed their names to Tian
+in the time of Chen Wan 陳完, the son of Lord Li of Chen 陳厲公(r. –B.C.E.), the
+texts of bronze vessels produced for members of this clan show that they continued to
+use the Chen surname centuries after they moved to Qi. Similarly, the surnames Chen
+and Tian seem to have been used interchangeably in the transmitted tradition; see
+Zhang Xiaolian 張曉連, “Qiguo Tianshi houyi kaolüe” 齊國田氏後裔考略, Guanzi
+xuekan 管子學刊., . Tian (* lîn) and Chen (* drin R!) were used as phonetic
+loans in ancient Chinese; for the reconstructed pronunciations, see Axel Schuessler,
+Minimal Old Chinese and Later Han Chinese, .
+. It is recorded in the Zhushu jinian, B.b; and Shiji, .that in B.C.E., a
+major rebellion was launched in Linqiu by a man named variously as Gongsun Hui 公
+孫會(a member of the Jiang ruling house of Qi) or Tian Hui 田會(a member of the
+footnote continued on next page
+OLIVIA MILBURN
+92
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 41 =====
+
+and ears to the king of Zhou. Afterwards Dai, Marquis of Qi; Xian,
+Marquis of Lu; Tian, Duke of Song (r. –B.C.E.); Qian, Marquis
+of Wei; and Dai, Earl of Zheng paid court to the /Zhou king in
+Zhou.163
+PERICOPE TWENTY-THREE
+/楚聖[聲][桓]王立四年, 宋公畋[田], 奠[鄭]白[伯][駘]皆朝于楚.
+王[率]宋公以城[關], 是[寘]武[陽]. 秦人/敗晉[師]於茖
+[洛]侌[陰], 以為楚[援]. 聖[聲]王即殜[世], [悼]折[哲]王即立[位]. 奠
+[鄭]人[侵][關]. 昜[陽]城洹[桓][定]君[率] /犢[關]之
+[師]與上或[國]之[師]以䢒[交]之, 與之[戰]於珪[桂]陵. 楚[師]亡工
+[功]. 兢[景]之賈與[舒]子共[止]而死. 昷[明] /[歲]晉余
+[率]晉[師]與奠[鄭][師]以内[入]王子定.
+[魯]昜公[率][師]以䢒
+[交]晉=人=[晉人. 晉人]還, 不果内[入]王子. 昷[明][歲] /郎[莊]
+坪[平]君[率][師][侵]奠=[鄭. 鄭]皇子=[子, 子]馬, 子池, 子[封]
+子[率][師]以䢒[交]楚=人=[楚人.
+楚人]涉[氾].
+[將]與之[戰];
+奠[鄭][師]逃/内[入]於蔑. 楚[師]回[圍]之於. [盡]逾奠[鄭]
+[師]與亓[其]四[將]軍以[歸]於郢.
+奠[鄭]大[宰][欣]亦[起]
+[禍]於/奠=[鄭. 鄭]子昜[陽]用滅, 亡[後]於奠[鄭]. 昷[明][歲]楚
+人[歸]奠[鄭]之四[將]軍與亓[其]萬民於奠[鄭]. 晉人回[圍][津], 長
+陵, /克之. 王命坪[平]亦[夜]悼武君[率][師][侵]晉, 逾[郜],
+[止]公涉以[歸], 以[復]長陵之[師]. [厭]年倝[韓]
+/
+緅[取], [魏][擊][率][師]回[圍]武[陽], 以[復][郜]之[師].
+[魯]昜公[率][師][救]武昜[陽], 與晉[師] [戰]於武昜[陽]之城
+/下. 楚[師]大敗. [魯]昜公, 坪[平]亦[夜][悼]武君, 昜[陽]城洹
+[桓][定]君,
+三執珪之君,
+與右尹卲[昭]之䇃[竢]死[焉].
+楚人
+[盡][棄]亓[其] /[旃]幕車兵, 犬[逸]而還. 陳人[焉]反而内
+[入]王子定於陳.
+楚邦以多亡城.
+楚[師][將][救]武昜[陽].
+/
+王命坪[平]亦[夜]悼武君[使]人於齊陳淏求[師]. 陳疾目[率]車千
+usurping ministerial house). For the former theory; Chao Fulin 晁福林, Chunqiu
+Zhanguo de shehui bianqian 春秋戰國的社會變遷(Beijing: Shangwu, ), –; for
+the latter see Yang Kuan 楊寬, Zhanguo shi 戰國史(Shanghai: Shanghai renmin,
+), , and Wang Sen’ge 王森閣, Tang Zhiqing 唐致卿, Qiguo shi 齊國史(Ji’nan:
+Shandong renmin, ), . When this rebellion failed, he threw in his lot with the
+state of Zhao. Quite how this is related to the subsequent warfare which broke out
+in Qi, not to mention the “troubles of Ziniu,” is not at all clear.
+. The use of posthumous titles in this pericope suggests a date of composition
+after the death of Marquis Wen of Wei in B.C.E., but before the deaths of Lord
+Kang of Qi 齊康公in B.C.E., Lord Mu of Lu 魯穆公in B.C.E., and Lord Xu of
+Song 宋繻公in B.C.E. The revised dates of these rulers are taken from Tao Jin,
+“You Qinghua jian Xinian tan Huanzi Meng Jiang hu xiangguan wenti”; however, pro-
+blems with the chronology and nomenclature of the rulers of Wei and Zheng have yet
+to be resolved.
+THE XINIAN
+93
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 42 =====
+
+[乘]以從楚[師]於武昜[陽]. 甲戌, 晉楚以−/[戰]. [丙]子, 齊[師]
+至嵒, 述[遂]還.
+/In the fourth year of the reign of King Shenghuan of Chu
+[B.C.E.], Tian, Duke of Song, and Dai, Earl of Zheng, both paid
+court to Chu. The king led the duke of Song to fortify the Yu Pass and
+strengthen his position in Wuyang. The people of Qin /defeated
+the Jin army at Luoyin, when they came to the assistance of Chu.164
+King Sheng passed away, and King Daozhe (r. –B.C.E.) was estab-
+lished.165 The earl of Zheng invaded the Yu Pass and Lord Huanding of
+Yangcheng led the troops /from Yu Pass and the troops from the
+Upper States to intercept them, fighting a battle with them at Guiling.
+The Chu army failed to achieve victory. Jing Zhi Jia and Zigong of Shu
+were taken prisoner and died. The following /year [B.C.E.],
+[one partially illegible character] Yu of Jin led the Jin army and the
+Zheng army to install Prince Ding in power. The duke of Luyang led
+his army to intercept the people of Jin.166 The people of Jin turned
+back, and thus were unable to install the prince. The following year
+[B.C.E.], /Lord Zhuangping of Lang led his army to invade
+Zheng.167 Huangzi of Zheng, together with Zima, Zichi, and Zifengzi,
+. The description of events given here clarifies the text of the Biao Qiang 羌
+bells, excavated from a tomb near Luoyang in . Given that these events are not
+well-recorded in the transmitted tradition, the interpretation of the text inscribed on
+these fourteen bells has proved highly controversial; see Wang Hongliang 王紅亮,
+“Qinghua jian Xinian zhong de Biao Qiang zhong xiangguan shishi fafu” 清華簡繫
+年中的羌鍾相關史事發覆, Gudai wenming ., –.
+. This double title had only been seen once before, in a text excavated in 
+from Tomb at Xiyangpo 夕陽坡, at the city of Changde 常德in Hunan Province.
+However, at that time, the posthumous title was considered to refer to King Su of
+Chu 楚肅王(r. –B.C.E.); see Liu Binhui 劉彬徽, Zaoqi wenming yu Chu wenhua
+yanjiu 早期文明與楚文化研究(Changsha: Yuelu shushe, ), . Now it is clear
+that King Daozhe was the monarch otherwise known as King Dao of Chu.
+. Luyang was the hereditary fief of the descendants of Marshal Ziqi 司馬子期of
+Chu, the son of King Ping, from B.C.E. onwards; see Guoyu, (“Chuyu xia” 楚語
+下). A number of excavated documents such as strips and from the tomb of Yi,
+Marquis of Zeng, and strips and from Tomb at Baoshan 包山contain references to
+a duke of Luyang; see Hubeisheng bowuguan 湖北省博物館, Zenghou Yi mu 曾侯乙墓
+(Beijing: Wenwu, ), , ; and Hubeisheng Jingsha tielu kaogudui 湖北省荆沙
+鐵路考古隊, Baoshan Chujian 包山楚簡(Beijing: Wenwu, ), . However, at present,
+the exact relationship between the dukes of Luyang and the Lord of Luyang
+(Luyangjun 魯陽君) who was a patron of Mozi, is unclear; see Zheng Wei 鄭威,
+“Mozi you Chu Luyang niandai kao: jian tan chutu cailiao suojian Chuguo xian
+dafu yu fengjun zhi chengwei” 墨子游楚魯陽年代考: 兼談出土材料所見楚國縣大夫與
+封君之稱謂, Jianghan kaogu ., –.
+. Dong Shan, “Du Qinghua jian Xinian,” suggests reading the placename Lang
+郎as Liang 梁.
+OLIVIA MILBURN
+94
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 43 =====
+
+led the army to intercept the people of Chu. The people of Chu crossed
+the Fan [River]. They were just about to fight a battle with them when
+the Zheng army ran away /and entered into Mie. The Chu army
+laid siege to them in Mie, capturing the entire Zheng army and their
+four generals, returning home with them to Ying.168 Chancellor Xin
+of Zheng then caused a massacre in /Zheng,169 and Ziyang of
+Zheng’s
+[family]
+was
+killed,
+so
+that
+he
+had
+no
+descendants
+in Zheng.170 The following year [B.C.E.], the people of Chu returned
+Zheng’s four generals and their people to Zheng. The people of Jin laid
+siege to Jìn and Changling, /capturing them. The king ordered
+Lord Daowu of Pingye to lead an army to invade Jin.171 He conquered
+Gao and arrested Shexian, lord of Teng, returning home with him.172
+Thus he avenged the campaign of Changling. The year after that
+[B.C.E.] Han /Qu and Wei Ji led their armies to lay siege to
+Wuyang, in order to avenge the campaign at Gao. The duke of
+Luyang led his army to rescue Wuyang, and he fought a battle with
+the Jin armies below /the walls of Wuyang. The Chu army suffered
+. In the original publication of the Xinian manuscript, the authors note that in
+Chu texts, the term yu 逾, which literally means “to surpass” is used instead to
+mean “to conquer” or “to capture”; see Li Xueqin, ed., Qinghua daxue cang Zhanguo
+zhujian, n. This gloss has been followed in this translation.
+. The massacre caused by Chancellor Xin of Zheng is also mentioned in the Han
+Feizi, (“Shuoyi” 說疑).
+. Both Chancellor Xin and Ziyang, who held the title of Prime Minister of Zheng,
+are mentioned in transmitted texts. It has been suggested that they were one and the
+same person; see Tong Shuye 童書業, Chunqiu Zuozhuan yanjiu 春秋左傳研究
+(Shanghai: Shanghai renmin, ), –. Alternatively, a number of scholars
+have argued that Ziyang was the same person as Lord Ai of Zheng 鄭哀公, a tradition
+which dates back to the Gao You 高誘(fl. ) commentary on the Lüshi chunqiu,
+n(“Shiwei” 適威). See for example Zhang Dainian 張岱年, Du Yunhui 杜運
+輝, “Guanyu Liezi” 關於列子, Zhongguo zhexue shi 中國哲學史., –; and
+Zhou Xunchu 周勛初, Han Feizi zhaji 韓非子札記(Nanjing: Jiangsu renmin, ),
+–. For a detailed study of the importance of the Xinian in understanding the
+history of Zheng at this time; see Ma Weidong 馬衛東, “Qinghua jian Xinian yu
+Zheng Ziyang zhi nan xintan” 清華簡繫年與鄭子陽之難新探, Gudai wenming .,
+–.
+. The tomb at Xincai, which has yielded a number of damaged bamboo strips
+describing historical events at the beginning of the Warring States era, is the grave
+of Cheng, Lord of Pingye 平夜君成; see Song Huaqiang 宋華强, Xincai Geling
+Chujian chutan 新蔡葛陵楚簡初探(Wuhan: Wuhan daxue, ). It has been suggested
+that this Lord of Pingye is one and the same person as Lord Daowu of Pingye, whose
+death is recorded in this pericope of the Xinian; see Chen Yingfei 陳穎飛, “Chu
+Daowang chuqi de dazhan yu Chu fengjun: Qinghua jian Xinian zhaji zhi yi” 楚悼王
+初期的大戰與楚封君: 清華簡繫年札記之一, Wenshi zhishi ., .
+. This translation follows the annotations in the original publication, in reading
+as Teng 滕; see Li Xueqin, ed., Qinghua daxue cang Zhanguo zhujian, n.
+THE XINIAN
+95
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 44 =====
+
+a terrible defeat and the three lords who held batons of jade—the duke
+of Luyang, Lord Daowu of Pingye, Lord Huanding of Yangcheng—died
+there, together with the Governor of the Right, Zhao Zhi Si.173 The
+people of Chu abandoned their /battle standards, tents, chariots
+and weapons, and fled like dogs. The people of Chen then rebelled
+and installed Prince Ding in Chen. The state of Chu lost a large
+number of cities because of this. The Chu army was about to rescue
+Wuyang /when the king commanded Lord Daowu of Pingye to
+send someone to request troops from Chen Hao of Qi.174 Chen Jimu
+[of Qi] led one thousand chariots to follow the Chu army to Wuyang.
+On Jiawu day, Jin and Chu −/fought a battle because of this. On
+Bingzi day, the Qi army arrived at Nie, and then turned back.
+* * *
+All the stories in Source Text D are dated according to the Chu calendar.
+The history of the kingdom of Chu in the late Spring and Autumn period
+and early Warring States era is not well recorded, hence the Xinian may
+serve to fill this lacuna.175 In this respect, the last couple of pericopes in
+Source Text D are of particular importance, for the information con-
+tained here has no equivalent within the transmitted tradition.
+According to the Shiji, in the chapter on the hereditary house of Chu:
+“In the eighth year [of the reign of King Jian], Marquis Wen of Wei,
+Viscount Wu of Han, and Viscount Huan of Zhao were numbered
+among the lords [of the Central States] for the first time” (八年, 魏文
+侯, 韓武子, 趙桓子始列為諸侯). This juxtaposition has resulted in a
+number of scholars suggesting that some event occurred involving the
+kingdom of Chu which is not recorded within the transmitted textual
+tradition, which concerns the Three Jins.176 Pericope twenty-one of the
+Xinian describes a successful campaign by the three lords of Zhao,
+. Chen Yingfei, “Chu Daowang chuqi de dazhan yu Chu fengjun,” , suggests
+that the term zhigui zhi jun 執珪之君(here translated as “lords who hold batons of
+jade”) represents the highest title of nobility of the time.
+. There is clearly some problem with the transcription of the text at this point;
+given that Lord Daowu of Pingye is dead, he cannot be sending someone to request
+troops from Qi. As a tentative suggestion, I would like to read 王命坪[平]亦[夜]悼武
+君[使]人於齊陳淏求[師] as “The king commanded Lord Daowu of Pingye’s son
+to go and request troops from Chen Hao of Qi” (王命坪[平]亦[夜]悼武君之子入於齊
+陳淏求[師]).
+. This point is made in Liu Jianming 劉建明, “Xinian de shiliao jiazhi he xueshu
+jiazhi” 繫年的史料價值和學術價值, Mianyang shifan xueyuan xuebao 綿陽師范學院學報
+., .
+. See for example Qian Mu 錢穆, Xian-Qin zhuzi xinian: San Jin shi hou kao 先秦諸
+子系年三晉始侯考(Beijing: Zhonghua, ), –; and Yang Kuan 楊寛, Zhanguo
+shiliao biannian jizheng 戰國史料編年輯証(Shanghai: Shanghai guji, ), –.
+OLIVIA MILBURN
+96
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 45 =====
+
+Wei, and Han against Chu during which a couple of major battles were
+fought. This took place just before Zhao, Wei, and Han were recognized
+as independent states and it is extremely tempting to see these two
+events as connected.
+The theme of the three lords seeking to establish their authority at the
+expense of others is then continued in pericope twenty-two, which con-
+cerns their campaigns against Qi. Although it is not specifically named
+in the Xinian, this text appears to make reference to the battle fought at
+Linqiu in B.C.E., which resulted in an appalling defeat for the Qi
+army.177 The following year was marked by a further major defeat for
+Qi. As was well understood at the time, the aim was not to overthrow
+the already deeply unstable regime of Lord Kang of Qi. For the rulers
+of Han, Wei, and Zhao, the issue was much more straightforward.
+They needed an excuse to demand that the Zhou king recognize that
+the state of Jin had collapsed and that their regimes deserved recognition
+as independent governments. This is quite explicitly stated in the
+Huainanzi 淮南子(Book of the Master of Huainan):
+三國伐齊, 圍平陸. 括子以報于牛子曰: “三國之地, 不接於我, 逾鄰國而圍平
+陸, 利不足貪也. 然則求名於我也.”
+The three states attacked Qi and laid siege to Pinglu (Pingyin). Kuozi
+reported this to Niuzi, saying: “The lands of the three states [of Han,
+Wei, and Zhao] are not contiguous to ours. The profits to be gained by
+bypassing neighbouring countries and laying siege to Pinglu are hardly
+worth the effort. The reason that they are doing this is to become famous
+on the back of us.”178
+Such references support the reading of Chinese scholars of the Xinian
+text, that this material should be understood specifically in the context of
+attempts by the rulers of the Three Jin states to establish their own
+authority as independent rulers. The theme of the serious political pro-
+blems for Chu in the early Warring States era is continued in pericope
+twenty-three, which describes a further series of lost battles, many of
+which were associated with the attempts of Prince Ding to gain
+power. The commentators on the original publication assumed that
+the Prince Ding mentioned here is the same as the Zhou prince who
+. The Lüshi chunqiu, (“Buguang” 不廣), speaks of the Qi commander being
+killed, and the Zhao forces capturing two thousand chariots and slaughtering thirty
+thousand soldiers. A similar description of the casualties is given in the Kong Congzi
+孔叢子; see Song Xian 宋咸, Kong Congzi zhu 孔叢子註(Nanjing: Jiangsu guji, ),
+–(“Lunshi” 論勢).
+. He Ning 何寧, Huainanzi jishi 淮南子集釋(Beijing: Zhonghua, ), 
+(“Renjian xun” 人間訓).
+THE XINIAN
+97
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 46 =====
+
+fled to Jin in B.C.E., who is mentioned in the Shiji.179 However, as
+noted by Liu Quanzhi 劉全志, although the year is correct, this attribu-
+tion is unlikely.180 The Prince Ding recorded in the last pericope of the
+Xinian must from context have been a member of the Chu royal
+house. This perception is confirmed by the fact that a number of
+inscribed bronze vessels made for Prince Ding of Chu are known,
+however, these provide no further historical information to explain
+the events described here.181 Hence, the precise identity of this prince
+is at present unknown, but his capacity for causing trouble is clear.
+Although King Shenghuan was eventually able to assert his authority,
+this seems to have come at the cost of great loss of life, including a
+number of important lords.
+Source Text E
+PERICOPE FOURTEEN
+/晉兢[景]公立八年, [随]會[率][師]會者[諸]侯于[斷]道. 公命
+邭[駒]之克先[聘]于齊. [且]卲[召]高之固曰: /“今萅[春]亓[其]會
+者[諸]侯, 子亓[其]與臨之.” 齊冋[頃]公囟[使]亓[其]女子自房[中]觀邭=
+之=克=[駒之克. 駒之克][將]受[授]齊侯/㡀[幣]女子[笑]于房
+[中]. 邭[駒]之克[降]堂而折[誓]曰: “所不[復]䪷[訽]於齊, 母[毋]能涉
+白水.” 乃先/[歸][須]者[諸]侯于[斷][道]. 高之固至莆池, 乃
+逃[歸]. 齊三辟[嬖]夫=[大夫]南[郭]子, [蔡]子, 安[晏]子[率]
+[師]以/會于[斷][道]. 既會者[諸]侯, 邭[駒]之克乃[執]南[郭]
+子,
+[蔡]子,
+安[晏]子以[歸].
+齊冋[頃]公回[圍]魯=[魯.
+魯][臧]
+孫[許] /[適]晉求[援]. 邭[駒]之克[率][師][救]魯; 敗齊
+[師]于[靡]开[筓]. 齊人為成, 以鶾[甗]骼[賂]玉[璆]與[淳]于之/
+田.
+昷[明][歲],齊冋[頃]
+公朝于晉兢[景]公.
+邭[駒]之克走[援]齊侯
+之[帶], 獻之兢[景]公, 曰: “齊侯之[來]也, /老夫之力也.”ㄴ
+/In the eighth year of the reign of Lord Jing of Jin [B.C.E.], [Shi]
+Hui of Sui led the army to meet the other lords at Duandao; his lordship
+ordered Ju Zhi Ke to go in advance on a diplomatic mission to Qi.182 In
+. See Shiji, ..
+. See Liu Quanzhi 劉全志, “Qinghua jian Xinian Wangzi Ding ji xiangguan
+shishi” 清華簡繫年王子定及相關史事, Wenshi zhishi ., –.
+. See Zhang Guangyu 張光裕, “Xinjian Chushi qingtongqi qiming shishi” 新見
+楚式青銅器器銘試釋, Wenwu ., –; Wu Zhenfeng 吳鎮烽, “Jing Zhi Ding
+tongqi qunkao” 兢之定銅器群考, Jianghan kaogu ., –; and Yu Xiucui 余秀
+翠, “Dangyang Jijiahu Chumu fajue jianbao” 當陽季家湖楚墓發掘簡報, Jianghan
+kaogu ., –.
+. Ju Zhi Ke is better known as Xi Ke 郤克; Li Xueqin, ed., Qinghua daxue cang
+Zhanguo zhujian, n, suggests that Ju 邭[駒] was the name of his fief.
+OLIVIA MILBURN
+98
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 47 =====
+
+addition, he summoned Gao Zhi Gu and said: /“Since this spring he
+is going to meet the other lords, you ought to observe them with him.”
+Lord Qing of Qi (r. –B.C.E.) sent his daughter to watch Ju Zhi Ke
+from inside the room. Ju Zhi Ke was about to present silk to the marquis
+of Qi /when the girl laughed from inside the room.183 Ju Zhi Ke
+walked down from the hall and swore the following oath: “If I cannot
+avenge the humiliation [I have received] from Qi, I will not cross the
+Yellow River.”184 He then /went home ahead of the others and
+awaited the other lords at Duandao. Gao Zhi Gu got as far as Puchi,
+and then fled homewards. The three lesser grandees from Qi, Master
+Nanguo, Master Cai, and Master Yan led their forces to /attend the
+meeting at Duandao. When they met the other lords, Ju Zhi Ke arrested
+Master Nanguo, Master Cai, and Master Yan, returning home with
+them.185 Lord Qing of Qi then laid siege to Lu.186 Zangsun Xu of Lu trav-
+elled to /Jin to request assistance. Ju Zhi Ke led his troops to rescue Lu;
+he defeated the Qi army at Miji.187 The people of Qi made peace, offering
+bronze vessels and jade chimes, as well as the fields /of Chunyu.188
+The following year [B.C.E.], Lord Qing of Qi paid court to Lord Jing
+of Jin, whereupon Ju Zhi Ke walked forward holding the marquis of
+. The translation here follows the amendment proposed by Su Jianzhou, Wu
+Wenwen, Lai Yixuan, Qinghua er Xinian jijjie, , of reading shou 受(to receive) as
+shou 授(to present).
+. The story recorded here is somewhat different from that found in the
+Zuozhuan, (Xuan ), which states that Xi Ke was humiliated by being mocked
+by a female member of Lord Qing’s family (furen 婦人). In the Guliang zhuan, –
+(Cheng ), the woman is identified as Lord Qing’s mother. She was supposedly
+amused by the fact that a number of foreign powers were represented by disabled
+people: Xi Ke was blind in one eye, while the ambassador from Wei was lame, and
+the ambassador from Cao was hunchbacked. The Guliang zhuan version of events is
+often used to explain this story when it appears in other texts, but that does not neces-
+sarily mean that it is correct.
+. The Zuozhuan, (Xuan ) suggests that the three men were not together
+when they were arrested: Master Yan was stopped at Yewang 野王, Master Cai at
+Yuan 原, and Master Nanguo at Wen 溫.
+. The terms in which this is described in the Xinian might suggest that Lord Qing
+of Qi was laying siege to the capital city. The Zuozhuan, (Cheng ) states that the
+city of Long 龍on the northern border was the place concerned.
+. Both the Chunqiu, (Cheng ), and the Zuozhuan, –(Cheng ) make it
+clear that the main battle was fought at An 鞌. Miji represents a preliminary skirmish,
+which took place the day before; see Zuozhuan, (Cheng ).
+. This translation follows the reading of the original commentators that “they
+used bronze vessels to offer them jade chimestones and the fields of Chunyu” (以鶾
+[甗]骼[賂]玉[璆]與[淳]于之田), should be understood as: “offering bronze vessels
+and jade chimes, as well as the fields of Chunyu” (骼[賂]以鶾[甗]玉[璆]與[淳]于
+之田). The gloss of shao as qiu 璆(jade chimestone) is taken from Su Jianzhou, Wu
+Wenwen, Lai Yixuan, Qinghua er Xinian jijie, .
+THE XINIAN
+99
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 48 =====
+
+Qi’s belt and presented it to Lord Jing. He said: “The presence of the
+marquis of Qi is all thanks to /my efforts.”189
+PERICOPE SEVENTEEN
+/晉[莊]坪[平]公即立[位]兀[元]年, 公會者[諸]侯於瞁[湨]梁. 述[遂]
+以[遷][許]於[葉]而不果. [師]造於方城. 齊高厚
+/自[師]
+逃[歸].
+坪[平]公[率][師]會者[諸]侯,
+為坪[平]侌[陰]之[師]以回
+[圍]齊, 焚亓[其]四[郭]毆[驅]車[至于]東[畝]. 坪[平]公/立五年,
+晉[亂]. [欒][盈]出奔齊=[齊. 齊][莊]公光[率][師]以逐==
+[欒盈. 欒盈][襲]巷[絳] 而不果. 奔内[入]於曲夭[沃]. 齊/[莊]公涉
+河, [襲]朝訶[歌], 以[復]坪[平]侌[陰]之[師]. 晉人既殺[欒][盈]
+于曲夭[沃]. 坪[平]公[率][師]會者[諸]侯, 伐齊, /以[復]朝訶[歌]
+之[師]. 齊蓑[崔]芧[杼]殺亓[其]君[莊]公以為成於晉.ㄴ
+/In the first year [B.C.E.] of the reign of Lord Zhuangping of Jin
+(r. –B.C.E.),190 his lordship met the other lords at Juliang.191 He
+then tried to move Xu to Ye, but without result.192 The army was sta-
+tioned at the Fangcheng Mountains. Gao Hou of Qi /fled homewards
+from the army.193 Lord Ping led his troops to meet the other lords and laid
+siege to Qi, thus making the campaign of Pingyin. He burned their four
+outer city walls and sped his chariot towards Dongmu.194 In the fifth
+. When the meeting between Lord Qing of Qi and Lord Jing of Jin is described in
+the Zuozhuan, (Cheng ), it says: “The marquis of Qi paid court to Jin and was about
+to hand over the jade [baton of office]” (齊侯朝于晉, 將授玉). When these events are
+mentioned in the Shiji, ., it says: “Lord Qing of Qi went to Jin and wanted to
+treat Lord Jing of Jin with the respect due to a king” (齊頃公如晉, 欲上尊晉景公為
+王). It has been suggested either that Sima Qian misunderstood the term shouyu 授玉
+as zun wei wang 尊為王(to respect as a king), or that he misread the character yu 玉
+as wang 王; see for example Kong Yingda, Chunqiu Zuozhuan zhushu, (Cheng ).
+. In the transmitted tradition, this ruler of Jin is always given the title Lord Ping
+of Jin; see for example Yang Bojun 楊伯峻, Mengzi yizhu 孟子譯注(Beijing: Zhonghua,
+), (.“Wanzhang xia” 萬章下); Lüshi chunqiu, (“Qusi” 去私); and
+Zuozhuan, (Zhao ). The name Lord Zhuangping of Jin is not used consistently
+in the Xinian; the same individual is also termed Lord Ping.
+. The meeting at Juliang is mentioned in the Chunqiu, (Xiang ), which
+names eleven participants.
+. The attempt to move Xu is described in the Zuozhuan, (Xiang ). The com-
+mentary byYangBojun notes thatnodestination is given inthis account and suggeststhat
+itisbecausethemovewasnotsuccessful.Therealsoseemstobesomeconfusionhere,since
+the Chunqiu, (Cheng ), records that Xu was moved to Ye in B.C.E.
+. Gao Hou’s sudden and premature departure is mentioned in the Zuozhuan,
+(Xiang ).
+. The original editors read Dongmu as a placename; however, it is not recorded
+elsewhere. Chen Wei, “Du Qinghua jian Xinian zhaji,” –, suggests instead that
+these two characters should be read as Donghai 東海(East Sea): the pre-Qin name
+for the Bohai gulf.
+OLIVIA MILBURN
+100
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 49 =====
+
+year of the reign of Lord Ping [B.C.E.], /Jin was thrown into
+a state of civil war.195 Luan Ying fled to Qi. Lord Zhuang of Qi
+(r. –B.C.E.), named Guang, led his army and pursued Luan
+Ying. Luan Ying made a surprise attack on Jiang but it did not
+succeed; he therefore fled to Quwo. Lord Zhuang /of Qi crossed
+the Yellow River and made a surprise attack upon Chaoge, in order to
+avenge the campaign at Pingyin. The people of Jin then killed Luan
+Ying at Quwo.196 Lord Ping led his army to meet the other lords and
+attacked Qi, /to avenge the campaign at Chaoge. Cui Shu of Qi
+killed his ruler, Lord Zhuang, in order to make peace with Jin.
+PERICOPE EIGHTEEN
+/晉[莊]坪[平]公立十又二年, 楚康王立十又四年, 命[令]尹子木會
+[趙]文子武及者[諸]侯之夫=[大夫]明[盟]
+/
+于宋.
+曰:
+“爾[弭]天下
+之[甲]兵.”康王即殜[世],
+乳=[孺子]王即立[位].
+霝[靈]王為命=尹=[令
+尹. 令尹]會[趙]文子及者[諸]侯之夫=[大夫]明[盟]于/[虢]. 乳=
+[孺子]王即殜[世], 霝[靈]王即立[位]. 霝[靈]王先起兵會者[諸]侯于[申],
+[執]䣄[徐]公, 述[遂]以伐䣄[徐], 克澫[賴], 邾[朱]邡[方]. 伐吴/為
+南[懷]之行, [縣]陳, [蔡], 殺[蔡]霝[靈]侯. 霝[靈]王見[禍], 兢
+[景]坪[平]王即立[位]. 晉[莊]坪[平]公即殜[世], 卲[昭]公冋[頃]公[皆]
+/[早]殜[世], 柬[簡]公即立[位]. 兢[景]坪[平]王即殜[世], 卲[昭]王
+即立[位]. [許]人[亂], [許]公出奔晉=[晉. 晉]人羅, 城汝昜[陽], 居
+/[許]公於頌[容]城. 晉與吴會為一, 以伐楚. 方城, 述[遂]明
+[盟]者[諸]侯於[召]陵, 伐中山. 晉[師]大疫, /[且]飢, 飤[食]
+人. 楚卲[昭]王[侵][伊]洛, 以[復]方城之[師]. 晉人[且]又[有]
+[范]氏与[與]中行氏之[禍]. 七[歲]不解[甲].
+/者[諸]侯同
+[盟]于鹹泉, 以反晉. 至今齊人以不服于晉=[晉. 晉]公以仢[弱].ㄴ
+/In the twelfth year of the reign of Lord Zhuangping of Jin
+[B.C.E.], which was the fourteenth year of the reign of King Kang
+of Chu (r. –
+B.C.E.), the Prime Minister [of Chu] Zimu met
+Wenzi of Zhao, personal name Wu, and the grandees working for the
+other lords.197 They performed a blood covenant
+/at Song,
+which said: “Let us stop the fighting all over the world.” When
+King
+Kang
+passed
+away,
+King
+Ruzi
+(r.
+–
+B.C.E.)
+was
+. Other accounts of these events state that Jin descended into civil war as the Fan
+范family—one of the great ministerial clans in Jin—attempted to wrest control of the
+government from the Luan family in B.C.E., that is, in the sixth year of Lord Ping of
+Jin’s rule. See for example Zuozhuan, –(Xiang ).
+. Luan Ying’s death at Quwo in B.C.E. is mentioned in the Zuozhuan, 
+(Xiang ).
+. Yuri Pines, “Zhou History and Historiography,” , on the basis of this
+double date, classifies pericope eighteen as a “Jin-Chu” anecdote.
+THE XINIAN
+101
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 50 =====
+
+established.198 King Ling was the Prime Minister,199 and as Prime
+Minister, he met Wenzi of Zhao and the grandees working for the
+other lords, and held a blood covenant at /Guo.200 When King
+Ruzi passed away, King Ling was established. King Ling was the first
+to raise an army and meet the other lords at Shen, whereupon he
+arrested the ruler of Xu and launched an attack on Xu,201 conquering
+Lai and Zhufang.202 He attacked Wu /on account of the Nanhuai
+campaign, and made Chen and Cai into counties, killing Marquis
+Ling of Cai (r. –B.C.E.).203 When King Ling met with disaster,
+King Jingping took the throne.204 After Lord Zhuangping of Jin
+passed away, Lord Zhao (r. –B.C.E.) and Lord Qing (r. –
+B.C.E.) both /died young, so Lord Jian (usually known as Lord
+Ding of Jin 晉定公, r. –
+B.C.E.) was established. When King
+Jingping passed away, King Zhao came to the throne. The people of
+Xu rose up in civil war, so the ruler of Xu, Tuo, fled to Jin, and the
+people of Jin were worried about this.205 They fortified Ruyang, and
+had /Tuo, the ruler of Xu, live at Rongcheng. Jin and Wu met
+. The Zuozhuan, (Zhao ) records a different posthumous title for this ruler,
+Jia’ao 郟敖, which was apparently derived from the location of his tomb. This title
+appears in a number of ancient historical texts; see for example Shiji, .. In this
+context, ao 敖is thought to mean “leader” or “ruler,” but to be of lower status than
+a monarch; see Zhang Shuguo 張樹國, “Xinchu wenxian yu Chu xianyishi ji xiangguan
+wenxue wenti” 新出文獻與楚先逸史及相關文學問題(Beijing daxue xuebao (Zhexue
+shehui kexue ban) 北京大學學報(哲學社會科學版) .(), .
+. The future King Ling is also said to have been Prime Minister of Chu in the
+Zuozhuan, (Xiang ), except that this text uses his pre-accession name: Prince
+Wei 王子圍.
+. The covenant at Guo is recorded in the Chunqiu, –(Zhao ).
+. As noted by Yoshimoto Michimasa, “Seika kan Keinen kō,” , the campaign
+launched by King Ling against the state of Xu is not mentioned in any other ancient text.
+. The campaign against Zhufang was intended to capture Qing Feng 慶封, one
+of the chief conspirators in the murder of Lord Zhuang of Qi in B.C.E. See Zuozhuan,
+(Zhao ).
+. The highly controversial circumstances in which Lord Ling of Cai was tricked
+into meeting the king of Chu, only to be made drunk and first arrested, then murdered,
+and the subsequent execution of his son, are described in some detail in the Zuozhuan,
+–(Zhao ).
+. King Ping was the last of the three sons of King Gong of Chu to become the
+ruler; he was preceded by his two older half-brothers, King Kang and King Ling.
+According to the Zuozhuan, (Zhao ), this had been foretold by prophecy
+when King Gong was wondering which of his sons to establish as his heir.
+. The name of this ruler of Xu is also now attested to by a cup excavated in ,
+bearing the inscription: “The cup of Tuo, the lord of Xu” (鄦[許]子[佗]之盞盂). This
+discovery is discussed in Huang Jinqian 黃錦前, “Xuzi Tuo yu Xugong Tuo: Jiantan
+Qinghua
+jian
+Xinian
+de
+kekaoxing”
+許子佗與許公佗:
+兼談清華簡繫年的可靠性
+(http://www.bsm.org.cn/show_article.php?id=[accessed on August , ]).
+OLIVIA MILBURN
+102
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 51 =====
+
+and formed an alliance, attacking Chu and breaking through the
+Fangcheng Mountains. Then they performed a blood covenant with the
+other lords at Shaoling, and attacked Zhongshan. The Jin army suffered
+a terrible outbreak of plague /and they were starving, so they
+were eating human flesh.206 King Zhao of Chu invaded Yi and Luo, in
+order to avenge the campaign at the Fangcheng Mountains. The people
+of Jin suffered the disaster of the Fan and Zhonghang families, whereby
+for seven years they did not take off their armour.207 /The lords
+held a blood covenant together at Xianquan, with a view to overturning
+the authority of Jin.208 Right up to the present day the people of Qi do not
+obey the authority of Jin, and the ruler of Jin has become weak.
+PERICOPE TWENTY
+/晉兢[景]公立十又五年, [申]公屈[巫]自晉[適]吴[焉][始]
+迵[通]吴晉之[路]. 二邦為好以至晉悼=公=[悼公. 悼公] /立十又一
+年, 公會者[諸]侯以與吴王壽夢相見于[虢]. 晉柬[簡]公立五年, 與吴王
+盍[闔][盧]伐/楚. 盍[闔][盧]即殜[世]; 夫秦[差]王即立[位]. 晉柬
+[簡]公會者[諸]侯以與夫秦[差]王相見于黄池. 戉[越]公句戔[踐]克
+/
+吴. 戉[越]人因[襲]吴之與晉為好. 晉敬公立十又一年, [趙][桓]子會
+【諸】侯之夫=[大夫]以與戉[越]命[令]尹宋[盟]于/. 述[遂]以伐
+齊=[齊. 齊]人[焉][始]為長城於濟, 自南山逗[屬]之北[海]. 晉幽公立
+四年, [趙]狗[率][師]與戉[越] /公株[朱]句伐齊. 晉[師]長
+城句俞之門. 戉[越]公, 宋公敗齊[師]于襄坪[平]. 至今晉戉[越]以為好.ㄴ
+/In the fifteenth year of the reign of Lord Jing of Jin [B.C.E.],
+Qu Wu, the lord of Shen, fled to Wu from Jin, and they then began
+to become conversant with the roads between Wu and Jin. The two
+countries were allied right up until the time of Lord Dao of Jin
+(r. –B.C.E.). In the eleventh year of the reign of /Lord Dao
+of Jin [B.C.E.], his lordship met the other lords and then had an audi-
+ence with King Shoumeng of Wu (r. –B.C.E.) at Guo.209 In the fifth
+. This disastrous campaign is not mentioned in any transmitted text, presumably
+because it was so embarrassing a failure; see Zhang Yuanshan 張遠山, “Baidi
+Zhongshan Wei shu Zhongshan mishi: Jian bo Shiji Zhongshan fuguo miushuo” 白狄中
+山魏屬中山秘史: 兼駁史記中山復國謬說, Shehui kexue luntan 社會科學論壇., –.
+. As stated by Yoshimoto Michimasa, “Seika kan Keinen kō,” , the Xinian quite
+correctly ascribes seven years to this terrible period of civil warfare, which endured
+from –B.C.E.
+. This covenant is mentioned in both the Chunqiu, (Ding ); and the
+Zuozhuan, (Ding ), but both texts state that it took place at Xian 鹹.
+. This interstate meeting is not recorded within the transmitted tradition, which
+mentions only two such events for the reign of King Shoumeng of Wu: one at Zhongli
+鍾離in B.C.E., and one at Zu 柤in B.C.E. See Zuozhuan, –(Cheng ); and
+(Xiang ), respectively.
+THE XINIAN
+103
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 52 =====
+
+year of the reign of Lord Jian of Jin [B.C.E.], he attacked /Chu
+with King Helu of Wu.210 When King Helu passed away, King Fuqin
+(Fuchai) (r. –B.C.E.) came to the throne.211 Lord Jian of Jin met
+with the other lords and had an audience with King Fuqin at
+Huangchi.212 Goujian, Duke of Yue (r. –B.C.E.), conquered /
+Wu.213 The people of Yue took over from Wu in making an alliance
+with Jin.214 In the eleventh year [B.C.E.] of the reign of Lord Jing of
+Jin, Zhao Huanzi met the grandees [serving] the other lords.215 He per-
+formed a blood covenant with Prime Minister Song of Yue at /
+[unknown character], after which they attacked Qi. The people of Qi
+then began to build the Great Wall at Ji, which stretched from the
+southern mountains to the northern sea.216 In the fourth year [B.C.E.]
+of Lord You of Jin (r. –B.C.E.), Zhao Gou led his army to attack
+Qi in concert with Zhugou, duke of /Yue.217 The Jin army attacked
+. These events are not mentioned in any other ancient texts.
+. There are well-known problems concerning the nomenclature of many of the
+kings of Wu, who seem to have used a number of different names simultaneously.
+Furthermore, there was nostandard form of transliteration for the Wu language, resulting
+invariousdifferentcharactersbeingusedforthesamename.KingFuchai,however,seems
+to have asserted a remarkably consistent naming policy, using only his Wu language two
+charactername,intheformFuchai夫差,whichappearsinbothtransmittedtextsandexca-
+vatedbronzeinscriptions.SeeDongChuping董楚平,WuYueXuShujinwenjishi吳越徐舒
+金文集釋(Hangzhou:Zhejiangguji,),–,and–.ItisnotclearwhytheXinian
+should be the only source to name him as Fuqin.
+. The covenant at Huangchi occurred in B.C.E.; see Zuozhuan, –(Ai ).
+. Although there is no mention in the Xinian of the passing of time, the conquest
+of Wu by Yue took place nine years after the covenant at Huangchi, in B.C.E.; see
+Zuozhuan, (Ai ).
+. As noted by Wang Yikun, “Chutu jianbo shiliao jiazhi chuyi,” , this alliance
+between Jin and Yue is not recorded in any transmitted text.
+. In the transmitted tradition, this ruler of Jin is accorded the posthumous title of
+Lord Ai 晉哀公(r. –B.C.E.). The title Lord Jing of Jin is also found in the Zhushu
+jinian, B.b.
+. For a detailed history of this construction; see Zhang Huasong 張華松, Qi
+changcheng 齊長城(Ji’nan: Shandong wenyi, ). For a study of how the information
+contained within the Xinian can be used to interpret the history of the Qi Great Wall;
+see Luo Gong 羅恭, “Cong Qinghua jian Xinian kan Qi changcheng de xiujian” 從清
+華簡繫年看齊長城的修建, Wenshi zhishi ., –.
+. The name of this ruler of Yue is given in the same form as that found in the
+Zhushu jinian, B.a: Zhugou 朱句. In the Shiji, .; and the Yuejue shu, (“Jidi
+zhuan”), this monarch is named King Weng of Yue 越王翁. To date, fifteen bronzes
+have been discovered which record this monarch’s name, which is always given as
+Zhougou 州句; see for example Kong Lingyuan 孔令遠, “Yuewang Zhougou ge
+mingwen kaoshi” 越王州句戈銘文考釋, Kaogu ., –; and Li Jiahao 李家浩,
+“Yuewang Zhougou fuhe jian mingwen ji qi suo fanying de lishi: jian shi bazi min-
+gzhuan zhong mingwen” 越王州句復合劍銘文及其所反映的歷史: 兼釋八字鳥篆鍾銘
+文, Beijing daxue xuebao (Zhexue shehui kexue ban) ., –.
+OLIVIA MILBURN
+104
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 53 =====
+
+the Juyu Gate at the [Qi] Great Wall. The duke of Yue and the duke of
+Song defeated the Qi army at Xiangping.218 To the present day, Jin and
+Yue are allies.219
+* * *
+Although the major focus of Source Text E is on the state of Jin, pericope
+seventeen provides important information concerning events in Qi
+during the reign of Lord Zhuang. He was the son of Lord Ling of Qi
+齊靈公(r. –B.C.E.); having been dispossessed of his rights in
+favour of a younger half-brother, he was put in power by a coup
+launched by a senior minister, Cui Shu. Lord Zhuang was then mur-
+dered by Cui Shu in B.C.E. According to the Zuozhuan and other
+transmitted texts, the murder was provoked by Lord Zhuang’s seduc-
+tion of Cui Shu’s wife, Lady Tang Jiang 棠姜:
+乙亥公問崔子, 遂從姜氏. 姜入于室與崔子自側户出. 公拊楹而歌. 侍人賈舉
+止衆從者而入, 閉門. 甲興. 公登臺而請, 弗許. 請盟, 弗許. 請自刃於廟, 弗
+許. 皆曰: “君之臣杼疾病, 不能聽命. 陪臣干掫有淫者, 不知二命.” 公踰牆,
+又射之. 中股., 反隊, 遂弑之.
+On Yihai day, his lordship [went to the mansion] to ask after Master Cui,
+then set off in pursuit of Lady Jiang. Lady Jiang entered her own quarters
+[and locked the door]; she and Master Cui left by a side entrance. His lord-
+ship tapped on the pillar and sang a song. The servant Jia Ju stopped his
+escort [from entering the house], then he went in and barred the door.
+[Cui Shu’s] soldiers rose up. His lordship climbed a tower and asked [to
+be set free] but they would not agree. He asked to make a blood covenant,
+but they did not agree. He asked to be allowed to commit suicide in the
+ancestral temple, but they did not agree. Everyone said: “Your lordship’s
+minister, Cui Shu, is extremely sick and he cannot attend to your lordship’s
+commands. [He ordered us] to go on night patrol [and arrest] any evil-
+doers. We do not recognize any other orders.” His lordship [tried to] scram-
+ble over the wall and then they shot at him again, hitting his thigh. He fell
+and then they assassinated him.220
+. Su Jianzhou, Wu Wenwen, Lai Yixuan, Qinghua er Xinian jijie, , argue that
+the duke of Song mentioned here is Lord Zhao of Song 宋昭公II (r. –B.C.E.).
+. Peng Yushang 彭裕商, “Yuewang Chaixu ge mingwen shidu” 越王差徐戈銘文
+釋讀, Kaogu ., –, uses the references to Yue history contained within this per-
+icope of the Xinian to argue that previous readings of this particular bronze inscription,
+where Chaixu was read as a verb-object construction meaning “to assist Xu” (zuo Xu 佐
+徐) are wrong, and that this must refer to the personal name of a Yue monarch.
+. Zuozhuan, –(Xiang ).
+THE XINIAN
+105
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 54 =====
+
+The assassination of Lord Zhuang occurred just as the forces of Jin
+invaded Qi, with the intention of punishing them for their role in
+Luan Ying’s invasion. Thus, the Xinian describes the marquis of Qi’s
+death as a political necessity. Since Lord Zhuang was dead, Cui Shu
+was able to negotiate a peace treaty with Jin, presenting a vast array
+of bronzes to Lord Ping of Jin, and bribing all the most senior military
+officials in Jin. Thus, a peace treaty was signed at Yiyi 夷儀, within
+days of the murder.221 It is quite possible that such a treaty could not
+have been achieved if Lord Zhuang was still alive. The story of affair
+with Lady Tang Jiang preserved in the Zuozhuan may be largely fiction-
+al; first, on the grounds of their respective positions and ages (Cui Shu’s
+wife being at this time the mother of an adult son); secondly, because
+Lord Zhuang ought to have been otherwise occupied given that a
+large enemy army was bearing down on his state; and thirdly,
+because if the murder of Lord Zhuang was entirely unpremeditated
+and provoked solely by the seduction of Lady Tang Jiang, then Cui
+Shu made a truly remarkable recovery to be in a position to conclude
+a peace treaty with the enemy just days after the assassination.
+A couple of stories incorporated into the Xinian make reference to
+important individuals from the history of Yue, beginning with King
+Goujian; however, the Xinian also consistently refers to the rulers of
+Yue as dukes (gong 公). This contradicts a large number of inscribed
+bronzes which state that Goujian (and his successors) bore the title of
+king (wang 王); furthermore, this terminology is odd in the sense that
+other foreign monarchs mentioned in this text are referred to as kings,
+such as King Helu of Wu and his son, King Fuchai.222 There are a
+number of texts within the transmitted tradition which do not refer to
+the kings of Yue with the title wang, using instead the term zi 子,
+meaning a ruler whose position was not ratified by the Zhou king.223
+The kingdom of Yue was an extremely powerful state during the early
+Warring States era, only to be conquered by Chu in around B.C.E.224
+. The precise date that the peace treaty was agreed cannot be ascertained.
+However, in the Chunqiu, (Xiang ), the death of Lord Zhuang is said to have
+occurred on Yihai day in the fifth lunar month and the next dated entry is an attack
+on Chen on Renzi 壬子day of the sixth lunar month; that is seven days later. Given
+that the peace treaty at Yiyi was signed between these two dates, it must have been
+at the very latest six days after Lord Zhuang of Qi died.
+. See for example Dong Chuping, Wu Yue Xu Shu jinwen jishi, –.
+. For example, the Zuozhuan, (Ding ); and the Zhushu jinian, B.a record
+the zi title. This usage is intended to be derogatory; see Shiji, ..
+. See Meng Wentong 蒙文通, Yueshi congkao 越史叢考(Beijing: Renmin, ),
+; and Li Xueqin, “Guanyu Chu mie Yue de niandai” 關於楚滅越的年代, in Li
+footnote continued on next page
+OLIVIA MILBURN
+106
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 55 =====
+
+Although it is clear that this conquest did take place, its completeness is
+highly debatable, since the descendants of King Goujian of Yue would
+remain powerful in the region to the Han dynasty and beyond, with
+many of them assuming the title of king.225 This being the case, the decision
+to describe the ruling house of Yue as dukes has to be explained. To date,
+Chinese scholars have not suggested a reason for this peculiar and incorrect
+nomenclature, so I wouldlike to propose that it was intended by the compi-
+lers of the Xinian as a way of denigrating the monarchs of Yue, suggesting
+that they were inferior to the kings of Chu. Addressing other monarchs
+such as the rulers of Wu as kings would be uncontroversial at the time
+that the Xinian was compiled, since this kingdom had ceased to exist.
+At the same time as the Xinian uses the term “duke” for the Yue mon-
+archs, this text makes clear that this state was extremely powerful at the
+beginning of the Warring States era. As has been noted by many scho-
+lars, records concerning the history of the kingdom of Yue are extremely
+hard to come by, and such texts as do survive tend to date from the late
+Warring States to Han dynasty.226 The Xinian, dating as it does to
+around the middle of the fourth century B.C.E., represents a very early
+source. One vexed issue in the history of Yue during the early
+Warring States era is that according to many accounts, King Goujian
+of Yue moved the capital of his kingdom to Langya 琅琊on the
+Shandong peninsula.227 If this is correct, it would imply a significant
+shift in the balance of power between the Central States and the
+Xuqin ji: Zhuisu, kaoju, gu wenming 李學勤集追溯考据古文明(Harbin: Heilongjiang
+jiaoyu, ), –. Other scholars place the conquest later, to around –B.C.E.;
+see for example Ni Shiyi 倪士毅, Zhejiang gudai shi 浙江古代史(Linzhou: Zhejiang
+renmin, ), .
+. For a discussion of textual evidence that the Yue kings coexisted with Chu
+viceroys after the kingdom of Yue was officially destroyed; see Xu Jianchun 徐建春,
+Zhejiang tongshi: Xian Qin juan 浙江通史: 先秦卷(Hangzhou: Zhejiang renmin, ),
+. At least one bronze inscription records the existence of a king of Yue after the sup-
+posed conquest; see Zhu Dexi 朱德熙, Qiu Xigui 裘錫圭, “Pingshan Zhongshan
+wangmu tongqi mingwen de chubu yanjiu” 平山中山王墓銅器銘文的初步研究,
+Wenwu ., –. The history of various southern kingdoms such as Minyue 閩
+越and Donghai 東海, whose rulers claimed descent from King Goujian, is recorded
+in Shiji, .–.
+. For example, according to the word-count done by Su Tie 蘇鐵, “Wu Yue
+wenhua zhi tancha” 吳越文化之談查, in Wu Yue shidi yanjiuhui 吳越史地研究會,
+ed., Wu Yue wenhua luncong 吳越文化論叢(Shanghai: Shanghai wenyi, ), , in
+the Zuozhuan, accounts concerning the kingdom of Yue make up less than per cent
+of the entire text. In the case of the Guoyu, which devotes two chapters to Yue, the
+focus is entirely on the reign of King Goujian of Yue.
+. See for example Yuejue shu, (“Ji Wudi zhuan” 記吳地傳). For a study of the
+evidence concerning the move; see Xin Deyong 辛德勇, “Yuewang Goujian xidu
+Langya shi xiyi” 越王勾踐徙都琅邪事析義, Wenshi 文史., –.
+THE XINIAN
+107
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 56 =====
+
+southern kingdom of Yue at this point, and the evidence concerning the
+move is both patchy and highly controversial.228 In pericope twenty,
+although the moving of the capital is not mentioned, it is clear that in
+the period –B.C.E., the Yue army was regularly fighting battles
+in Shandong; and that in concert with their allies in Jin, they posed a
+major threat to the security of the state of Qi. As noted by Chen
+Minzhen, this would suggest that the so-called “Shandong period”
+(Shandong shiqi 山東時期) in the history of Yue is no later invention—
+although it is not yet clear whether the capital did actually move at
+this time, there can be no doubt that there was a significant expansion
+of influence northwards on the part of the kings of Yue.229
+Conclusion
+The Xinian should be considered as a historical text produced from a
+compilation of various different sources; that the origins of the source
+texts should be considered as lying in different countries can be demon-
+strated from the fact that some sections in the Xinian use the Chu calen-
+dar and some use the Jin calendar. Likewise, although the text as it
+stands contains a certain amount of repeated material, when the differ-
+ent source texts are separated out, there is no repetition within each
+section. Hence, it can be asserted that although the manuscript
+appears to be the product of one scribe, and is written in uniform Chu
+orthography, relatively little intervention has occurred regarding the
+contents. This suggests that we might consider the Xinian as represent-
+ing a privileged view into the early stage in the development of longer
+texts during the Warring States era. In order to produce the Xinian, it
+appears that at least five individual source texts were compiled into a
+single document, having been carefully arranged into more or less
+chronological order. However, at the time it was placed within a
+tomb, the process of integration for this text had only just begun. If
+the Xinian had continued in circulation, it is likely that eventually it
+would have been rearranged to follow a single calendar, and the nomen-
+clature and sequence of events might equally have been adapted to fit
+with other records of the same events. Likewise, more material might
+have been added to fill in some of the gaps in the chronology, or
+more dates added to create an annalistic history. It is fortunate that
+. See Gu Jiegang 顧頡剛, Suzhou shizhi biji 蘇州史志筆記(Suzhou: Jiangsu guji,
+), .
+. See Chen Minzhen 陳民鎮, “Qinghua jian Xinian suojian Yueguoshi xin
+shiliao”
+清華簡繫年所見越國史新史料
+(http://www.gwz.fudan.edu.SrcShow.asp?
+Src_ID=[accessed on November , ]).
+OLIVIA MILBURN
+108
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press
+
+
+===== PAGE 57 =====
+
+the Xinian text was buried when it was, because it thus preserves histor-
+ical information that is not related to the transmitted textual tradition.
+Whether this historical information is correct or not is another issue;
+however, the contents of the Xinian should not be dismissed out of
+hand simply because it does not always accord with what is recorded
+in the Zuozhuan and other ancient texts.
+Of the five source texts, A seems to be the most controversial and con-
+tains the material which to date has received the most scholarly atten-
+tion. This is largely because this source text concerns events which are
+well-described within the transmitted tradition, and hence a meaningful
+comparison can be sustained. However, it is likely that in the longer
+term the information provided by Source Texts D and E will prove par-
+ticularly significant, since these sections of the Xinian describe the
+history of the early Warring States era, which is extremely badly
+recorded within the transmitted tradition. Hence, although these sec-
+tions may well contain errors and inaccuracies, the information con-
+tained within them allows for the filling in of some blank spaces
+within the history of China during the Eastern Zhou dynasty.
+However, a great deal more research is required to fully appreciate
+the value of the Xinian, particularly through the comparison of this
+text with information contained within ancient bronze inscriptions.
+Furthermore, it is likely that our understanding of this text will be modi-
+fied in the future, with further archaeological discoveries.
+清華大學藏戰國竹簡《繫年》譯釋
+米歐敏
+提要
+年清華大學入藏一批楚簡: 此文獻内有一部久已佚失的史書, 被稱爲
+《繫年》。此書之二十四章的文字篇幅概述從周朝建立至戰國早期的歷
+史大事, 學術價值彌足珍貴。年由李學勤主編清華大學出土文獻
+研究與保護中心編著的《清華大學藏戰國竹簡（貳）》問世,
+此即《繫
+年》。已經有不少學者對此書進行研究，取得了很多的成果, 尤其是内容
+與傳世文獻大致相同的章節。《繫年》有許多史事不見於傳世文獻,
+對《左傳》等典籍有重大的訂正作用。特別是關於戰國前期歷史的各章,
+《繫年》提供的新材料可填補古史之空白, 十分珍貴。
+Keywords: Xinian, bamboo books, history, Zuozhuan, Zhou dynasty
+繫年, 竹簡, 歷史, 左傳, 周代
+THE XINIAN
+109
+https://doi.org/10.1017/eac.2016.2 Published online by Cambridge University Press

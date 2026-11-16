@@ -1,0 +1,1436 @@
+
+
+===== PAGE 1 =====
+
+545 
+ 
+© The Authors 
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License (CC BY-NC-ND 4.0). 
+International Journal of Learning, Teaching and Educational Research 
+Vol. 25, No. 6, pp. 545-568, June 2026 
+https://doi.org/10.26803/ijlter.25.6.23 
+Received Mar 8, 2026; Revised May 21, 2026; Accepted May 22, 2026 
+ 
+ 
+ Augmented Historical Simulation through 
+Adaptive AI: A Learning Model for Developing 
+Historical Thinking and Empathy 
+ 
+Lukman Nadjamuddin*
+, Nurgan Tadeko
+, Besse Nirmala
+  
+Universitas Tadulako, Palu City,  
+Central Sulawesi, Indonesia 
+ 
+Loso Judijanto
+  
+IPOSS Jakarta  
+Jakarta, Indonesia  
+ 
+Johan Wahyudhi
+ and Arif Saefudin
+  
+UIN Syarif Hidayatullah Jakarta 
+South Tangerang, Banteng, Indonesia 
+ 
+ 
+Abstract. Contemporary history learning is still dominated by linear 
+narratives and rote memorization that limit students’ historical thinking 
+and empathy. This study aimed to develop an Augmented Historical 
+Simulation (AHS) model using adaptive Artificial Intelligence (AI) to 
+improve historical reasoning and empathy. The study employed a 
+sequential explanatory mixed-methods design involving 500 eleventh-
+grade students from four provinces in Indonesia. Quantitative data were 
+collected using the Historical Thinking Test and Historical Empathy Scale 
+at four measurement stages: pre-test, mid-test, post-test, and delayed 
+post-test. The study adopted a non-equivalent control group quasi-
+experimental design involving experimental and control groups. The data 
+were subsequently analyzed using ANCOVA and growth curve 
+modeling. In contrast, qualitative data from interaction logs, student 
+reflections, and group discussions were analyzed thematically. The 
+intervention consisted of AI-based AHS activities involving branching 
+historical scenarios, reflective decision-making tasks, source analysis, and 
+AI-guided discussions aligned with the Merdeka Belajar Curriculum. The 
+results showed that the experimental group gained significantly higher 
+historical thinking skills than the control group (M = 85.9 vs. 77.6; F(1,492) 
+= 40.68; p < 0.001; η² = 0.314) and maintained their achievements at the 
+follow-up stage (M = 84.1 vs. 74.8). Historical empathy also increased 
+significantly (M = 86.5 vs. 79.3; F (1,492) = 37.84; p < 0.001). These findings 
+indicated that AHS could transform history learning from passive 
+ 
+*Corresponding author: Lukman Nadjamuddin; lukman_n@untad.ac.id 
+Citation: 
+Nadjamuddin, 
+L., 
+Tadeko, N., Nirmala, B., 
+Judijanto, 
+L., 
+Wahyudhi, 
+J., 
+& 
+Saefudin, 
+A. 
+(2026). 
+Augmented Historical 
+Simulation 
+through 
+Adaptive 
+AI: 
+A 
+Learning 
+Model 
+for 
+Developing 
+Historical 
+Thinking and Empathy. 
+International Journal of 
+Learning, Teaching and 
+Educational 
+Research, 
+25(6), 
+545–568. 
+https://doi.org/10.268
+03/ijlter.25.6.23 
+
+
+===== PAGE 2 =====
+
+546 
+ 
+http://ijlter.org/index.php/ijlter 
+information transmission into a reflective inquiry process underpinned 
+by decision-making, thereby strengthening historical literacy and 
+empathy. This study contributes by offering an AI-based adaptive 
+history-learning model to strengthen historical literacy and empathy in a 
+multicultural education context. 
+  
+Keywords: augmented historical simulation; artificial intelligence; 
+history education; historical empathy; historical thinking 
+ 
+ 
+1. Introduction   
+Linear chronological memorization and single-narrative approaches have long 
+dominated history education, neglecting the epistemological foundations of 
+historical knowledge construction (Birsyada et al., 2024; Van Boxtel et al., 2020). 
+This approach positions students as passive learners and weakens their ability to 
+evaluate sources, understand various perspectives, and construct multicausal 
+historical arguments (Basri et al., 2022; Schwartz, 2017). The politicization of 
+national historiography further reinforces a hegemonic narrative centered on the 
+state.  
+ 
+It marginalizes the perspectives of ethnic minority groups, thereby hindering the 
+development of historical empathy and higher-order thinking skills needed to 
+understand the complexities of the past (Elsayed et al., 2025; Garcia, 2017). In 
+response to these conditions, the Merdeka Belajar Curriculum in Indonesia 
+encourages a pedagogical shift towards reflective history learning by 
+strengthening sourcing, contextualization, corroboration, and empathy skills 
+(Saefudin et al., 2024). In a multicultural society, the development of inclusive and 
+critical historical literacy is crucial for building a democratic national identity 
+(Davison, 2017). 
+ 
+Despite the ongoing development of digital technology, most innovations in 
+history learning still focus on visualization and access to archives, rather than on 
+strengthening epistemological reasoning (Jamaludin et al., 2025). E-learning 
+platforms generally reconstruct events linearly without facilitating adaptive 
+decision-making or critical analysis, thus maintaining passive learning patterns 
+(Roper, 2014). In Southeast Asia, particularly Malaysia, various learning tools tend 
+to reproduce state-centered narratives and ignore ethnic dilemmas and multi-
+stakeholder perspectives (Azizoon et al., 2025; Lah et al., 2024; Yin et al., 2025).  
+ 
+The limitations of existing adaptive simulations in Malaysia, Vietnam, and 
+Thailand highlight the need for artificial intelligence-based history learning 
+models that promote reflective inquiry, historical empathy, and multicausal 
+reasoning (Kadir et al., 2025; Ul Haq et al., 2026). In response to these gaps, the 
+Adaptive AI-based Augmented Historical Simulation (AHS) model developed in 
+this study enables students to engage in bounded agency and counterfactual 
+reasoning through branching historical scenarios, real-time feedback, and 
+reflective decision-making activities aligned with the Merdeka Belajar Curriculum 
+in Indonesia. 
+ 
+
+
+===== PAGE 3 =====
+
+547 
+ 
+http://ijlter.org/index.php/ijlter 
+The integration of learning analytics into the Adaptive AI-based AHS platform 
+enables personalized learning by longitudinally analyzing student interaction 
+logs, including decision-making paths, the frequency of use of the AI Narrator 
+feature, engagement duration, and the quality of historical argumentation (Jang 
+& Oh, 2026). By recording more than 7,000 branching decisions during the 
+intervention, this system maps individual epistemic profiles while providing 
+adaptive formative feedback based on real-time analytics. Within this framework, 
+AI functions not merely as a content provider but as a cognitive-epistemic engine 
+that orchestrates the development of higher-order historical thinking skills on 
+cognitive and affective dimensions (Kim & Lu, 2026; Wang, 2026).  
+ 
+Therefore, this model offers an innovative pedagogical approach that addresses 
+the limitations of conventional and linear history learning by transforming 
+instruction from passive memorization into reflective, inquiry-based, and 
+adaptive historical learning through AI-supported decision-making and 
+multiperspective analysis, thereby strengthening 21st-century historical literacy. 
+Although international studies have emphasized the importance of developing 
+historical thinking, historical empathy, and AI-supported learning environments 
+(Buñay-Guisñan et al., 2026; Li et al., 2026; Wen, 2026), most digital history 
+learning technologies globally still focus on archive repositories, conventional e-
+learning, virtual visualization, and augmented reality for content delivery rather 
+than reflective historical reasoning (Jamaludin et al., 2025; Saefudin, 2025; 
+Sariyatun et al., 2018).  
+ 
+In Southeast Asia, particularly in Indonesia, Malaysia, and Thailand, previous 
+studies have mainly examined augmented reality and digital learning platforms 
+to improve engagement and visualization (Kadir et al., 2025; Ul Haq et al., 2026). 
+However, research that positions AI as an adaptive epistemic scaffolding system 
+to support reflective historical reasoning, bounded agency, and counterfactual 
+decision-making remains limited. In addition, longitudinal studies using learning 
+analytics to investigate the long-term impact of AI interventions on students’ 
+historical thinking and empathy in Southeast Asian educational contexts have not 
+yet been systematically developed. 
+ 
+To address this gap, this study aimed to develop and evaluate the effectiveness of 
+an Adaptive AI-based AHS model for supporting historical thinking and empathy 
+within the Indonesian history curriculum. This study not only assesses 
+improvements in sourcing, contextualization, and corroboration skills but also 
+analyzes the longitudinal development of students' historical empathy. Through 
+a mixed-methods sequential explanatory design, this model is expected to 
+operationalize the epistemology of history learning in an adaptive, reflective, and 
+personalized manner. In addition to strengthening national history pedagogy, this 
+study introduces an AI-based learning model that promotes reflective, inquiry-
+based, and student-centered history learning and may be adapted to Southeast 
+Asian contexts facing similar historiographical challenges. 
+ 
+Scientifically, this research contributes to the development of AI-based history 
+education by presenting longitudinal empirical evidence on the effectiveness of 
+
+
+===== PAGE 4 =====
+
+548 
+ 
+http://ijlter.org/index.php/ijlter 
+adaptive history simulations within the Merdeka Belajar Curriculum in Indonesia. 
+In addition to strengthening the epistemological historical literacy model at the 
+national level, these findings also have potential transferability to multicultural 
+contexts in Southeast Asia facing similar historiographical challenges, such as 
+Malaysia, Vietnam, and Thailand. Thus, this model has the potential to become a 
+reference for AI-epistemic, machine-based digital history pedagogy that supports 
+the development of a global history curriculum aligned with 21st-century 
+competencies. Based on these considerations, this study seeks to answer the 
+following research question: How effective is the Adaptive AI-based AHS model 
+in supporting students’ historical thinking and historical empathy within the 
+Indonesian history curriculum? 
+ 
+2. Literature review 
+2.1 Historical thinking and historical empathy in history education  
+curriculum 
+The study of historical thinking has become a central paradigm in 21st-century 
+history education reform, emphasizing the development of epistemological skills 
+for critically reading, analyzing, and constructing historical meaning (Lévesque & 
+Clark, 2018; Saefudin, 2025; Saigal, 2023). These skills go beyond understanding 
+the chronology of events and include cognitive dimensions such as sourcing 
+(assessing the credibility of sources), contextualization (placing events in relevant 
+contexts), and corroboration (comparing and synthesizing various sources) 
+(Marshall & Gram, 2022; Mathis & Parkes, 2020).  
+ 
+These competencies are essential for dealing with the ambiguous, biased, and 
+interpretive nature of historical sources. To minimize the risk of biased or 
+misleading interpretations, the AHS platform incorporated expert-validated 
+historical content, teacher supervision, and source verification features 
+throughout the learning process. History is therefore understood not merely as a 
+collection of facts, but as a discursive space in which actors, motives, and 
+consequences are analyzed within complex historical contexts across time and 
+space (Tirado-Olivares et al., 2024; Van Boxtel et al., 2020). 
+ 
+Beyond cognitive aspects, historical empathy is a crucial component that enriches 
+historical thinking (Ablovatski, 2023). Historical empathy requires an 
+understanding of the motives, values, and moral dilemmas of historical actors 
+within their socio-cultural context (Kozhevnikova, 2019; Nash, 2010). This ability 
+requires students to balance contemporary moral judgments with the limitations 
+of the choices available to actors at the time (bounded agency) (Gómez-Carrasco 
+et al., 2022). The integration of historical empathy not only strengthens analysis 
+but also develops the affective dimension through moral awareness, tolerance, 
+and recognition of the diversity of human experiences in the past, a need that is 
+increasingly relevant in a multicultural society (Charoensilp, 2024). 
+ 
+The historical thinking paradigm and historical empathy align with the Merdeka 
+Belajar Curriculum, which emphasizes strengthening historical literacy as part of 
+the critical, reflective, and multiperspective thinking competencies (Saefudin et 
+al., 2024; Wulandari et al., 2020). In the pluralistic context of Indonesia, these skills 
+
+
+===== PAGE 5 =====
+
+549 
+ 
+http://ijlter.org/index.php/ijlter 
+are important to prevent the reproduction of a single hegemonic historical 
+narrative. Through the internalization of these skills, students not only memorize 
+events but also reflect on narratives epistemologically, consider alternative 
+decisions made by historical actors, and critically evaluate the validity of historical 
+claims (Corredor-Aristizábal, 2020; Torres-Barreto et al., 2025). Thus, historical 
+thinking and historical empathy become the foundation for reconstructing history 
+education that is academically, pedagogically, and socially relevant in the 21st 
+century. 
+ 
+2.2 Limitations of current digital history learning models 
+Despite ongoing digital innovation, most history education technologies still 
+focus on improving visualization rather than reconstructing the epistemological 
+processes involved in historical reasoning (Carbajal et al., 2025). E-learning 
+platforms generally rely on digital archives, interactive multimedia, and 
+augmented reality (AR) and virtual reality (VR) applications, without 
+substantially developing the reflective and analytical dimensions of historical 
+thinking (Liestøl, 2019; Nguyen et al., 2019). The use of VR to visually reconstruct 
+events increases the appeal of learning. However, it often does not encourage 
+deep epistemic engagement because students are not required to evaluate sources 
+or construct critical historical arguments (Jamaludin et al., 2025). As a result, core 
+skills such as sourcing, contextualization, corroboration, and counterfactual 
+reasoning are still poorly integrated into digital history learning systems. 
+ 
+These limitations are evident in Southeast Asia, including Indonesia and 
+Malaysia, where digital history initiatives tend to focus on delivering content 
+through videos, question banks, and electronic textbooks (Azizoon et al., 2025; 
+Lah et al., 2024; Mustafa et al., 2025). In Indonesia, adaptive simulations and AI-
+based epistemic devices are still limited (Andriyandi et al., 2020; Jamaludin et al., 
+2025). In Malaysia, digital history platforms generally maintain a state-centered 
+narrative, leaving no space for exploring ethnic dilemmas, political controversies, 
+and the complexity of multicausality (Samaden et al., 2025). Both contexts 
+demonstrate a lack of adaptive epistemic scaffolding to facilitate complex 
+decision-making through branching scenarios and contextual moral dilemmas. 
+This gap underscores the need for AI-based innovations that integrate scenario-
+based learning, real-time feedback, and student-interaction-log analytics to 
+support the reflective and multiperspective goals of the Merdeka Belajar 
+Curriculum. 
+ 
+2.3 Artificial intelligence as an adaptive epistemic scaffolding machine  
+The development of artificial intelligence (AI) in education opens up 
+transformative opportunities to shift history learning from linear content delivery 
+to a branching decision-making model that reflects the complexity of historical 
+actors' actions (Lai, 2026; Maleki, 2026). AI-based systems enable the development 
+of adaptive scenarios that place students as decision-makers, requiring them to 
+navigate historical consequences based on bounded agency, multicausality, and 
+counterfactual reasoning (Allal-Chérif, 2022; Paro et al., 2022). Through these 
+simulations, students no longer simply memorize chronologies; they are actively 
+engaged in moral dilemmas and geopolitical strategies, thereby developing high-
+level historical thinking skills. 
+
+
+===== PAGE 6 =====
+
+550 
+ 
+http://ijlter.org/index.php/ijlter 
+The main advantage of AI lies in its ability to provide real-time adaptive epistemic 
+scaffolding in the decision-making process through expert-validated feedback, 
+reflective prompts, and source-verification mechanisms that support authentic 
+and context-based historical inquiry (Hoy, 2018; Huang & Rust, 2018; Yildizdag 
+et al., 2026). Features such as AI Narrator provide reflective feedback, narrative 
+analysis, and critical questions that encourage evaluation of long-term 
+consequences. At the same time, the Source Verification Engine assesses the 
+validity of historical sources, and the Empathy Prompt activates the affective 
+dimension by adopting actors' perspectives in complex socio-political dilemmas 
+(Tak et al., 2023). Therefore, AI integration not only operationalizes the 
+epistemology of historical learning but also opens a new paradigm for the 
+development of adaptive historical reasoning relevant to the multicultural context 
+in Indonesia. 
+ 
+3. Methodology 
+3.1 Research design 
+This study employed a mixed-methods sequential explanatory approach within a 
+non-equivalent control group quasi-experimental design to evaluate the 
+effectiveness of Adaptive AI-based Augmented Historical Simulation (AHS) in 
+improving students’ historical thinking and historical empathy in Indonesian 
+secondary schools. The mixed-methods approach integrated quantitative and 
+qualitative phases sequentially, with quantitative findings serving as the basis for 
+qualitative exploration of students’ cognitive, affective, and epistemic changes 
+during the intervention (Creswell & Clark, 2011).  
+ 
+The quantitative phase employed a non-equivalent control group quasi-
+experimental design, with group assignment conducted at the school level to 
+minimize treatment contamination. Initial equivalence was assessed using pre-
+test scores and key demographic characteristics. Measurements were conducted 
+at four stages: pre-test (week 0), mid-test (week 7), post-test (week 15), and 
+delayed post-test conducted ten weeks after the intervention. This longitudinal 
+structure enabled the analysis of students’ historical thinking and historical 
+empathy development over time, including learning retention following the 
+intervention. 
+ 
+3.2 Participants and sampling 
+The research participants consisted of 500 eleventh-grade students from four 
+provinces in Indonesia (Central Sulawesi, Jakarta, Banten, and West Java) who 
+were purposively selected based on socio-cultural diversity, implementation of 
+the Merdeka Belajar Curriculum, and the availability of digital learning 
+infrastructure. A total of 260 students were assigned to the experimental group, 
+while 240 students were included in the control group. The attrition rate during 
+the study was 6.4%, and no significant differences were found between 
+participants who completed all measurement stages and those who withdrew 
+from the study, indicating that the data met the missing-at-random assumption. 
+Fifteen history teachers facilitated the intervention after completing a one-week 
+technical and pedagogical training program on the AHS platform. In addition, 
+four curriculum and history education experts validated the simulation scenarios 
+
+
+===== PAGE 7 =====
+
+551 
+ 
+http://ijlter.org/index.php/ijlter 
+and research instruments to ensure alignment with the Merdeka Belajar 
+Curriculum and the historical thinking indicators employed in this study. 
+ 
+3.3 Intervention procedure 
+The intervention was carried out over 15 weeks in regular history lessons in the 
+odd semester of the 2025 academic year. The experimental group used the AHS 
+platform, which included branching historical scenarios, AI-generated reflective 
+feedback, empathy prompts, source evaluation features, and learning analytics to 
+monitor students’ historical reasoning development. In contrast, the control group 
+followed conventional learning based on textbooks, class discussions, and 
+multimedia presentations without adaptive AI support. To maintain consistency 
+in implementation, periodic classroom observations and treatment-fidelity 
+monitoring were conducted to ensure the intervention adhered to protocol 
+(Creswell & Clark, 2011). During the intervention, the system recorded more than 
+12,000 branching decisions, including decision-making paths, AI feature usage 
+frequency, engagement duration, and students' reflective responses during the 
+simulation. 
+ 
+3.4 Instruments and data collection 
+The main research instruments included the Historical Thinking Test, which 
+consisted of scenario-based items adapted from the Seixas and Morton framework 
+to measure sourcing, contextualization, corroboration, and counterfactual 
+reasoning skills, as well as the Historical Empathy Scale, which assessed the 
+cognitive and affective dimensions of students’ historical empathy. The test items 
+were designed to measure higher-order historical reasoning through analytical 
+and reflective tasks aligned with the objectives of the intervention (Edling et al., 
+2020; Seixas, 2004). The construct validity of both instruments was assessed using 
+confirmatory factor analysis, with model fit indices meeting the required criteria 
+(CFI > .90 and RMSEA < .08). At the same time, internal reliability was assessed 
+using Cronbach's alpha, with values between .82 and .91 (Gestsdóttir et al., 2018).   
+ 
+Additional data were obtained from the platform’s interaction log system, which 
+recorded students’ decision paths, frequency of AI feature usage, engagement 
+duration, and the complexity of historical arguments generated during the 
+simulations. The AHS platform also provided real-time reflective feedback, 
+branching historical scenarios, and source evaluation activities to support 
+students’ historical reasoning and empathy development. In addition, teacher 
+reflection journals and Focus Group Discussions conducted after the intervention 
+were used to enrich the qualitative data regarding students’ learning experiences 
+and cognitive engagement during the use of AHS. 
+ 
+3.5 Data analysis 
+Quantitative analysis was performed using ANCOVA to test differences in post-
+test and delayed post-test scores between the experimental and control groups, 
+with pre-test scores as covariates, and the effect size was reported as partial eta 
+squared. The longitudinal development of historical thinking and historical 
+empathy skills was analyzed using Growth Curve Modeling to map the trajectory 
+of change at four measurement points, with estimates made using Full 
+Information Maximum Likelihood to handle missing data robustly. Model fit 
+
+
+===== PAGE 8 =====
+
+552 
+ 
+http://ijlter.org/index.php/ijlter 
+indices such as CFI, TLI, RMSEA, and SRMR were reported to ensure the 
+suitability of the longitudinal model (Creswell, 2009). Qualitative data obtained 
+from student narratives, Focus Group Discussions and teacher reflection journals 
+were analyzed using thematic and discourse analysis through open, axial, and 
+selective coding procedures. These approaches were employed to identify 
+patterns in students’ historical reasoning, reflective thinking, and learning 
+experiences during the intervention. Inter-rater reliability was tested using 
+Cohen’s Kappa (κ = .84), indicating strong coding consistency.  
+ 
+The system log was analyzed using Sequence Analysis to identify decision-
+making patterns and the relationship between the duration of involvement and 
+the increase in HTT scores. Quantitative and qualitative data were integrated at 
+the interpretation stage through triangulation of cognitive, affective, and 
+interactional dimensions to produce a comprehensive understanding of the 
+pedagogical impact of AHS on students' epistemic development (Miles et al., 
+2014). 
+ 
+4. Results and findings 
+4.1 The impact of augmented historical simulation through adaptive AI on  
+Historical thinking skills 
+The results of the study indicated that the implementation of Augmented 
+Historical Simulation (AHS) through Adaptive AI significantly improves the 
+historical thinking skills of secondary school students in Indonesia. The 
+evaluation was conducted using the Historical Thinking Test at four measurement 
+stages, namely before the intervention, mid-intervention (week 7), after the 
+intervention (week 15), and a follow-up assessment approximately ten weeks after 
+the intervention ended. This instrument measured students' competence across 
+three main dimensions of historical thinking: sourcing, contextualization, and 
+corroboration. 
+ 
+ANCOVA analysis showed that after controlling for initial scores, the 
+experimental group obtained significantly higher post-test scores than the control 
+group (M = 85.9, SD = 5.4; M = 77.6, SD = 5.9), with F(1,492) = 40.68, p < 0.001 and 
+a large effect size (η² = 0.314). This advantage remained evident in the follow-up 
+assessment, where the experimental group maintained a mean of 84.1 (SD = 5.8), 
+while the control group obtained a mean of 74.8 (SD = 6.4), with F(1,492) = 36.95, 
+p < 0.001 and η² = 0.289. Details of the statistical analysis results are presented in 
+Table 1. 
+ 
+Table 1: ANCOVA analysis results for historical thinking skills 
+Measurement 
+Stage     
+Group 
+Mean (M) 
+SD 
+F 
+p-value 
+Partial 
+Eta 
+Squared 
+Post-test 
+Experimental 
+85.9 
+5.4 
+40.68 
+< 0.001 
+0.314 
+Post-test 
+Control 
+77.6 
+5.9 
+Follow-up 
+Assessment 
+Experimental 
+84.1 
+5.8 
+36.95 
+< 0.001 
+0.289 
+Follow-up 
+Assessment 
+Control 
+74.8 
+6.4 
+ 
+
+
+===== PAGE 9 =====
+
+553 
+ 
+http://ijlter.org/index.php/ijlter 
+The development of historical thinking scores over time is visualized in Figure 1 
+using the Growth Curve Modeling approach to map the development trajectories 
+of both groups. The results of the analysis showed that the experimental group 
+experienced steady improvement throughout the intervention period, through 
+the end of the semester, and maintained relatively high achievement levels at the 
+follow-up stage. In contrast, the control group showed a tendency to stagnate after 
+the mid-semester evaluation, indicating the limitations of conventional learning 
+approaches in supporting the continuous development of high-level historical 
+thinking skills. 
+ 
+ 
+Figure 1: Growth curve development of historical thinking skills across four 
+measurement points 
+ 
+Analysis based on the historical thinking skill dimensions showed that the 
+implementation of AHS consistently improves students' competence in sourcing, 
+contextualization, and corroboration in secondary education in Indonesia. At the 
+post-test stage, the experimental group obtained significantly higher scores than 
+the control group in all dimensions: sourcing (M = 87.6 vs. 77.2; p < 0.001), 
+contextualization (M = 86.1 vs. 75.8; p < 0.001), and corroboration (M = 86.4 vs. 
+76.9; p < 0.001). These findings indicated that the adaptive AI-supported 
+branching simulation framework in AHS effectively strengthens students' ability 
+to evaluate historical sources critically, place events in a broader socio-political 
+context, and analytically synthesize various historical evidence. Details of the 
+statistical results are presented in Table 2. 
+ 
+Table 2: Mean post-test scores on historical thinking skill dimensions 
+Dimension 
+Experimental (M) 
+Control (M) 
+p-value 
+Sourcing 
+87,6 
+77,2 
+< 0,001 
+Contextualization 
+86,1 
+75,8 
+< 0,001 
+Corroboration 
+86,4 
+76,9 
+< 0,001 
+
+
+===== PAGE 10 =====
+
+554 
+ 
+http://ijlter.org/index.php/ijlter 
+Pedagogically, these findings were significant because the adaptive simulation 
+scenarios are designed to align with the Indonesian secondary school history 
+curriculum, which covers major themes such as colonialism, Japanese occupation, 
+independence, diplomacy, and early republican conflicts. Through a process of 
+reflective decision-making in a branching narrative, students were encouraged to 
+move beyond factual memorization toward analytical and multiperspectival 
+historical reasoning. Thus, AHS not only improves academic achievement in 
+historical thinking skills but also strengthens students’ sustained epistemic 
+engagement with history learning at the secondary education level. 
+ 
+4.2 Development of students' historical empathy during simulation 
+The implementation of AHS through Adaptive AI significantly improved 
+students’ 
+historical 
+empathy, 
+particularly 
+in 
+understanding 
+historical 
+perspectives, evaluating moral dilemmas, and interpreting actions within their 
+historical contexts. Measurements using the Historical Empathy Scale at four 
+stages (pre-test, mid-test, post-test, and delayed post-test) showed that at the 
+initial stage, both groups had relatively equivalent levels of empathy (M = 72.1 in 
+the experimental group and M = 71.4 in the control group; p > 0.05). After the 
+intervention, the experimental group showed a significant increase, with a post-
+test mean of 86.5, compared to the control group's 79.3 (F(1,492) = 37.84; p < 0.001; 
+η² = 0.287). This improvement persisted at the delayed post-test stage, where the 
+experimental group maintained a mean of 84.9 while the control group scored 77.1 
+(F(1,492) = 35.62; p < 0.001; η² = 0.271). Details of the statistical analysis results are 
+presented in Table 3. 
+ 
+Table 3: Historical empathy measurement results 
+Measurement 
+Stage     
+Group 
+Mean 
+(M) 
+SD 
+F 
+p-value 
+Partial Eta 
+Squared 
+Pre-test 
+Experimental 
+72,1 
+5,5 
+– 
+> 0,05 
+– 
+Pre-test 
+Control 
+71,4 
+5,7 
+Post-test 
+Experimental 
+86,5 
+5,2 
+37,84 
+< 0,001 
+0,287 
+Post-test 
+Control 
+79,3 
+5,8 
+Delayed Post-test 
+Experimental 
+84,9 
+5,4 
+35,62 
+< 0,001 
+0,271 
+Delayed Post-test 
+Control 
+77,1 
+5,9 
+ 
+ 
+The difference in historical empathy levels between the two groups is also 
+visualized by comparing post-test scores in Figure 2. The visualization shows a 
+consistent achievement gap between the experimental and control groups, 
+reinforcing the finding that AHS is effective in significantly and sustainably 
+improving students' historical empathy in secondary education in Indonesia. 
+
+
+===== PAGE 11 =====
+
+555 
+ 
+http://ijlter.org/index.php/ijlter 
+ 
+Figure 2: Growth curve development of historical empathy across measurement stages 
+ 
+The increase in historical empathy in the experimental group did not occur 
+mechanically. However, it was influenced by the AI Narrator feature design in 
+AHS, which systematically presented moral dilemmas during the simulation. In 
+the Indonesian independence scenario, students were faced with the choice 
+between pursuing diplomacy with Japan and the risk of armed revolution, 
+accompanied by reflective questions from the system, such as the possibility of 
+diplomatic failure and its impact on civilians and on international legitimacy. This 
+approach encouraged students to understand that historical decisions were not 
+simply right or wrong, but were influenced by risks, geopolitical pressures, and 
+complex social conditions.  
+ 
+Teacher observations indicated that the simulation sparked in-depth discussions 
+about the positions of figures such as Soekarno, Sjahrir, and Tan Malaka, who 
+faced international pressure and domestic dilemmas. Student reflections showed 
+the development of greater contextual historical empathy, such as awareness that 
+the proclamation of independence entailed military risks, diplomatic pressure, 
+and the people's suffering. These findings confirmed that strengthening historical 
+empathy through AHS not only affects the affective dimension but also enhances 
+higher-order cognitive competencies, as students not only understand historical 
+facts but also authentically reflect on historical debates by considering the 
+geopolitical consequences and complexities of national leaders' decisions. 
+ 
+4.3 Learning interaction patterns in digital simulation 
+The implementation of Augmented Historical Simulation (AHS) through 
+Adaptive AI not only presented historical material but also systematically 
+recorded the learning process through the integration of learning analytics. 
+During the 15-week intervention period, student interaction data were collected 
+longitudinally, enabling in-depth analysis of cognitive, affective, and 
+metacognitive engagement patterns in various branching scenarios aligned with 
+the Indonesian history curriculum. 
+ 
+
+
+===== PAGE 12 =====
+
+556 
+ 
+http://ijlter.org/index.php/ijlter 
+The main interface of the AHS platform, as shown in Figure 3, organized the 
+learning path through several modules, including Generate Scenario, AI Narrator, 
+Student Progress, Scenario Trends, Knowledge Retention, and Performance 
+Analytics. This structure provided an integrated dashboard that allowed students 
+and teachers to continuously monitor the development of historical thinking and 
+empathy skills during the simulation process. 
+ 
+ 
+Figure 3: Main interface of the augmented historical simulation  
+through the adaptive AI platform 
+ 
+During the learning process, students began the simulation by selecting a 
+historical period and location that corresponds to the national curriculum. For 
+example, when studying the topic “Proclamation of Indonesian Independence,” 
+students selected the 1940s as the period and Indonesia as the location, as shown 
+in Figure 4. This selection process then determines the next branch of the scenario 
+path, which is constructed algorithmically based on the real historical challenges 
+faced by national actors. 
+
+
+===== PAGE 13 =====
+
+557 
+ 
+http://ijlter.org/index.php/ijlter 
+ 
+Figure 4: Student scenario selection interface of the augmented historical simulation 
+through adaptive AI 
+ 
+Throughout the learning process, the AHS system not only recorded student 
+interactions in the scenario but also performed real-time performance analysis 
+through the Performance Analytics module. At the end of the learning period, 
+teachers and students received structured feedback that included task completion 
+status, assessment scores, and formative feedback to reinforce learning. The 
+feedback dashboard display is shown in Figure 5. 
+ 
+ 
+Figure 5: Performance analytics dashboard of the augmented historical simulation 
+through adaptive AI 
+
+
+===== PAGE 14 =====
+
+558 
+ 
+http://ijlter.org/index.php/ijlter 
+Each scenario-based task in the system (such as Timeline Creation, Essay on 
+Colonialism, Source Analysis, and Declaration of Independence) was 
+automatically evaluated by the AHS algorithm, which recorded students' scores 
+and provided adaptive feedback ranging from “good effort” to “excellent 
+analysis” based on the quality of the response. The system also monitored the 
+duration of student engagement, averaging about 3 hours per simulation phase. 
+This information allowed teachers to provide more targeted pedagogical 
+interventions by identifying students who need additional support, addressing 
+misconceptions that arise, and adjusting follow-up scenarios in a more 
+personalized manner. 
+ 
+In addition, the platform integrates various artificial intelligence-based features 
+during the decision-making process, particularly through AI Narrator, which 
+provides real-time narrative explanations, reflective questions, rhetorical analysis 
+of historical figures, and source verification. The AI Narrator interface, as shown 
+in Figure 6, demonstrates how the system analyzes Soekarno's Independence 
+Proclamation speech by highlighting linguistic elements such as nationalism, 
+autonomy, and unity. 
+ 
+ 
+Figure 6: AI narrator interface for real-time speech analysis within the augmented 
+historical simulation through adaptive AI 
+ 
+The AI Narrator feature was widely used by students, with 92% using it to deepen 
+their narrative understanding and evaluate alternative scenarios. In addition, 78% 
+of students useed the Empathy Prompt when faced with branching dilemmas 
+(such as choosing between accelerating the declaration of independence or 
+continuing diplomatic negotiations). In comparison, 64% utilised the Source 
+Verification Engine to validate historical sources before making important 
+decisions. Correlation analysis showed a significant positive relationship between 
+
+
+===== PAGE 15 =====
+
+559 
+ 
+http://ijlter.org/index.php/ijlter 
+student engagement duration (5–40 hours) and increased Historical Thinking Test 
+scores, indicating that higher engagement correlates with improved historical 
+thinking skills.  
+ 
+Teacher reflections also indicated that students' decision-making processes 
+became more argumentative and source based. In the scenario leading up to the 
+proclamation, students considered complex factors, including geopolitical 
+dilemmas, Japanese military threats, domestic public pressure, and international 
+legitimacy. One student stated that the decision to proclaim independence was 
+not merely a heroic act but the result of complex calculations involving military 
+pressure, diplomacy, and social conditions. These findings showed that AHS 
+effectively promotes an epistemological understanding of history as a process of 
+negotiating interests and interpretations, while strengthening multiperspective 
+historical reasoning in line with the objectives of the Merdeka Belajar Curriculum. 
+ 
+4.4 Reflections on historical argumentation, cognitive dynamics, and  
+multicultural implications 
+Qualitative analysis of the system log, student reflections, guided group 
+discussions, and teacher observations showed that AHS shifted the learning 
+pattern from a memorization-based approach to reflective historical reasoning 
+that engaged with moral dilemmas, the diversity of perspectives, and complex 
+causal relationships. A thematic analysis of 500 student narratives identified five 
+main themes: ethical dilemmas, diplomatic consequences, sociopolitical 
+multicausality, local narratives, and bounded agency.  
+ 
+In the 1945 independence simulation, students understood that Sukarno and 
+Hatta's decisions were influenced by various factors, including military threats, 
+international pressure, and public expectations, as reflected in one student's 
+reflection: “If the proclamation had been delayed, Indonesia might have fallen back into 
+Dutch hands, but if it was declared too early without international support, it could have 
+triggered greater internal conflict.” In the Round Table Conference simulation, 
+students from Banten also highlighted the limitations of regional representation 
+in the narrative of sovereignty negotiations, with reflections such as: “The national 
+narrative often oversimplifies the struggle, while Papua, Kalimantan, and Aceh also made 
+sacrifices that are rarely discussed in textbooks.”  
+ 
+In addition, students demonstrated the development of counterfactual reasoning 
+by exploring possible alternative outcomes outside the chronological sequence of 
+events. A student from Central Sulawesi stated: “If the Indonesian delegation at that 
+time had insisted without compromise, sovereignty might not have been recognized 
+quickly, but our economy could have collapsed due to the embargo.” Further discourse 
+analysis showed an increase in the use of epistemic vocabulary, visualized in 
+Word Cloud (Figure 7), with the emergence of terms such as diplomacy, 
+multicausality, international legitimacy, and public sacrifice. The emergence of 
+this terminology indicated the development of high-level reflective historical 
+thinking skills in students during the simulation process. 
+
+
+===== PAGE 16 =====
+
+560 
+ 
+http://ijlter.org/index.php/ijlter 
+ 
+Figure 7: Word cloud visualization of students’ epistemic vocabulary in the 
+augmented historical simulation through adaptive AI 
+ 
+The change in vocabulary usage reflected an increase in students' mastery of 
+epistemic language, marked by the use of abstract terms such as bounded agency, 
+international 
+negotiation, 
+sovereignty 
+legitimacy, 
+and 
+sociopolitical 
+multicausality. The use of this terminology indicated the development of more 
+reflective and conceptual historical reasoning skills. Teachers' observations 
+reinforce these findings by noting increased classroom discussion dynamics and 
+the emergence of student-initiated reflective questions, a phenomenon relatively 
+rare in conventional learning. In these discussions, students not only discussed 
+the roles of historical figures but also debated the moral and political 
+consequences of various historical decisions, proposed alternative scenarios, and 
+connected local experiences with the national narrative (Nuraedah & Saefudin, 
+2024; Utomo et al., 2024). 
+ 
+A teacher from Central Sulawesi noted that “their discussions are no longer simply 
+about who played a role, but why decisions were made, what considerations shaped those 
+decisions, and how they affected different regions.” Cross-provincial data showed 
+multicultural engagement among students. Participants from Banten emphasized 
+the role of Islamic movements in the national struggle, students from Sulawesi 
+highlighted political representation, and students from Jakarta discussed regional 
+marginalization and post–World War II diplomacy. These findings indicate that 
+AHS supported diverse historical perspectives across sociocultural contexts. 
+ 
+More broadly, the pattern of students' argumentative discourse indicated the 
+transferability of this model to multicultural countries in Southeast Asia (such as 
+Malaysia, Vietnam, the Philippines, and Thailand) that face similar 
+historiographical challenges. These reflections confirmed that AHS not only 
+
+
+===== PAGE 17 =====
+
+561 
+ 
+http://ijlter.org/index.php/ijlter 
+produces statistically significant impacts but is also epistemologically 
+transformative by encouraging history learning as a process of meaning 
+negotiation, ethical reasoning, and inclusive historical awareness. 
+ 
+5. Discussion 
+This study showed that Augmented Historical Simulation (AHS) through 
+Adaptive AI significantly improves the historical thinking skills of secondary 
+school students in Indonesia. Longitudinal analysis using ANCOVA and growth 
+curve modeling showed consistent improvement in the post-test and delayed 
+post-test stages, reflecting a strengthening of factual knowledge as well as higher-
+level historical thinking skills, including sourcing, contextualization, and 
+corroboration (Carbajal et al., 2025). In addition, AHS strengthens students' 
+historical empathy by fostering a deeper understanding of historical perspectives, 
+moral dilemmas, and the sociopolitical implications of various historical 
+decisions. The branching simulations supported by AI Narrator and Empathy 
+Prompt encouraged deeper reflection and multiperspective learning, aligning 
+with the objectives of the Merdeka Belajar Curriculum. Data collection over one 
+semester (15 weeks) allows for longitudinal analysis of the development of these 
+skills. 
+ 
+In addition to strengthening cognitive and affective dimensions, learning 
+analytics data recorded more than 12,000 branching decisions that reflect students' 
+active exploration of various historical scenario possibilities. Student engagement 
+duration also correlated positively with increased historical thinking scores, 
+confirming the effectiveness of AHS in encouraging engagement through 
+decision-based learning. Interaction with branching scenarios not only 
+strengthens 
+chronological 
+understanding 
+but 
+also 
+develops 
+historical 
+argumentation through counterfactual reasoning, bounded agency, and 
+multicausality (Ablovatski, 2023; Torres-Barreto et al., 2025). Overall, AHS 
+transforms history learning from a linear narrative to a reflective approach 
+grounded in epistemological dilemmas, more in line with the demands of 21st-
+century historical literacy. 
+ 
+These findings are consistent with several previous studies showing that 
+simulation- and scenario-based learning can improve students' historical thinking 
+skills and cognitive engagement (Chashyn et al., 2024; Dvorak et al., 2024; Li et al., 
+2026; Wen, 2026). However, unlike previous studies that mainly focused on 
+visualizing historical events through interactive multimedia, virtual reality (VR), 
+or augmented reality (AR), the AHS model emphasizes adaptive and reflective 
+historical decision-making during the learning process. The findings showed that 
+students in the experimental group achieved significantly higher historical 
+thinking and empathy scores than those in the control group. These results 
+suggest that integrating AI-based branching simulations with real-time epistemic 
+scaffolding not only supports historical observation but also strengthens students’ 
+ability to evaluate historical alternatives and consequences critically. 
+ 
+ 
+
+
+===== PAGE 18 =====
+
+562 
+ 
+http://ijlter.org/index.php/ijlter 
+This research also presented conceptual and technological innovations by 
+developing AHS as an artificial intelligence-based history learning system, which 
+remains relatively underexplored in the history pedagogy literature ( Tak et al., 
+2023). Unlike most digital history platforms that primarily function as content 
+delivery media or archive repositories, AHS integrates adaptive branching 
+simulations with real-time epistemic scaffolding to support reflective historical 
+reasoning. Students engaged in historically plausible decision-making through 
+the Scenario Generator module by reconstructing historical events based on the 
+perspectives and choices of historical actors (Alzate & Vásquez, 2020; Saefudin, 
+2025). The findings further indicated that this approach encouraged students to 
+analyze historical dilemmas more critically and develop stronger metahistorical 
+reasoning skills. 
+ 
+The novelty of AHS is further strengthened by the integration of the AI Narrator, 
+Empathy Prompt, and Source Verification Engine as metacognitive scaffolds in 
+the decision-making process (Kim & Lu, 2026). AI Narrator provides real-time 
+reflective questions and narrative analysis, Empathy Prompt encourages 
+consideration of the moral and social implications of each choice, while Source 
+Verification Engine connects students' decisions to credible academic sources to 
+strengthen the validity of historical arguments (Huang & Rust, 2018; Kim & Lu, 
+2026). The synergy between these features positions AHS not merely as a 
+historical information delivery system, but as an epistemic cognitive engine that 
+supports the development of high-level historical reasoning (Ablovatski, 2023; 
+Torres-Barreto et al., 2025). 
+ 
+The findings of this study also revealed pedagogical advantages that differ 
+significantly from those of most digital history learning models developed 
+globally and in Southeast Asia (Azizoon et al., 2025; Lah et al., 2024; Yin et al., 
+2025). In general, international digital history development remains dominated 
+by content presentation approaches, such as interactive multimedia, digital 
+archives, and linear narrative-based simulations. In many historical e-learning 
+platforms, students are often treated as passive consumers of content. Hence, the 
+development 
+of 
+high-level 
+historical 
+thinking 
+epistemology 
+(such 
+as 
+counterfactual reasoning, bounded agency, and multicausality) is not optimally 
+supported (Kadir et al., 2025; Ul Haq et al., 2026). 
+ 
+In Southeast Asia, particularly in Malaysia, similar challenges in the development 
+of digital history learning remain evident. Digital history programs such as 
+Sejarah Digital Malaysia generally focus on providing online archives, interactive 
+visual documentation, and reinforcing linear, centralized official historical 
+narratives (Azizoon et al., 2025; Yin et al., 2025). Compared to this context, AHS 
+presents more substantive innovations through the integration of branching 
+scenarios, the AI Narrator, the Empathy Prompt, and the Source Verification 
+Engine, which enable students to reflectively evaluate historical dilemmas and 
+understand the complexity of historical actors' decision-making (Tak et al., 2023). 
+ 
+ 
+
+
+===== PAGE 19 =====
+
+563 
+ 
+http://ijlter.org/index.php/ijlter 
+The findings of this study have important implications for the development of 
+history education in Indonesia and other multicultural Southeast Asian contexts. 
+The results showed that the AHS model supported students’ historical thinking 
+and empathy through reflective and decision-based learning activities. These 
+findings suggest that history learning can move beyond chronological 
+memorization toward adaptive, inquiry-based, and student-centered historical 
+reasoning (Andriyandi et al., 2020; Jamaludin et al., 2025). This approach is also in 
+line with the 21st Century Global Competence History Curriculum framework, 
+which emphasizes the importance of historical empathy, source literacy, and 
+multiperspectival understanding in contemporary history education (Jang & Oh, 
+2026; Li et al., 2026; Wang, 2026; Wen, 2026). 
+ 
+Future research could expand the implementation of the AHS model to various 
+educational contexts and countries with different historiographical characteristics 
+to test its cross-cultural adaptability and effectiveness. In addition, future studies 
+could explore integrating more advanced AI technologies, such as generative AI 
+and adaptive narrative systems, to develop historical simulations that are more 
+dynamic and responsive to students' reasoning processes. 
+ 
+6. Limitations 
+Although this study contributes to the development of AI-based history learning, 
+several limitations should be acknowledged. First, the study was conducted 
+within the context of Indonesian secondary education; therefore, the 
+generalizability of the findings to other educational settings should be interpreted 
+cautiously. Second, the intervention was implemented over one semester, limiting 
+the ability to fully examine the long-term development of students’ historical 
+thinking and historical empathy. Future studies are encouraged to employ longer 
+intervention periods and broader cross-cultural contexts to strengthen the 
+external validity of the findings. 
+ 
+7. Conclusion  
+This study showed that Augmented Historical Simulation (AHS) using Adaptive 
+AI is an effective pedagogical innovation for improving historical thinking and 
+empathy skills in secondary education in Indonesia. Through the integration of 
+adaptive branching simulations with AI-based epistemic scaffolding (via the AI 
+Narrator, Empathy Prompt, and Source Verification Engine features), history 
+learning shifts from linear narrative delivery to reflective historical reasoning 
+based on decision-making.  
+ 
+The results of the study showed that students not only developed higher-order 
+historical thinking skills, including sourcing, contextualization, corroboration, 
+multicausality, and counterfactual reasoning, but also demonstrated historical 
+empathy through engagement with moral dilemmas and bounded agency in 
+authentic socio-political contexts. Longitudinal findings indicated that these 
+improvements are sustainable, suggesting that AI-based adaptive simulations can 
+promote stable epistemic development, rather than merely short-term 
+performance gains. 
+
+
+===== PAGE 20 =====
+
+564 
+ 
+http://ijlter.org/index.php/ijlter 
+Theoretically, this research contributes to operationalizing the epistemology of 
+history 
+learning 
+through 
+AI-mediated 
+decision-making 
+mechanisms. 
+Methodologically, this study expanded the evaluation of AI-based history 
+learning through a longitudinal mixed-methods design that integrates statistical 
+analysis and qualitative discourse analysis. In practice, this model offers a 
+learning framework aligned with the principles of Merdeka Belajar Curriculum and 
+the development of 21st-century global competencies. Overall, AI-based AHS has 
+the potential to transform history pedagogy in multicultural societies by 
+encouraging reflective, ethical reasoning and a more inclusive historical 
+awareness. 
+ 
+Conflict of Interest  
+The authors declare that there is no conflict of interest regarding the publication 
+of this paper. 
+ 
+8. Acknowledgments 
+The authors gratefully acknowledge Tadulako University for providing financial 
+support for this study through the Internal Research Fund (Grant Number: 
+4620/UN28/HK.02/2025). This support contributed significantly to the 
+implementation and completion of the research. In addition, the authors 
+acknowledge the use of ChatGPT (OpenAI) as a supportive tool during the 
+manuscript preparation process, particularly for enhancing language quality, 
+coherence, and readability. The use of this tool did not influence the research 
+design, data analysis, or interpretation of results. All arguments, findings, and 
+conclusions presented in this article are entirely the responsibility of the authors. 
+ 
+9. References   
+Ablovatski, E. (2023). István deák and historical empathy. Journal of Austrian-American 
+History, 7(1), 37–43. https://doi.org/10.5325/jaustamerhist.7.1.0037 
+Allal-Chérif, O. (2022). Intelligent cathedrals: Using augmented reality, virtual reality, and 
+artificial intelligence to provide an intense cultural, historical, and religious visitor 
+experience. 
+Technological 
+Forecasting 
+and 
+Social 
+Change, 
+178. 
+https://doi.org/10.1016/j.techfore.2022.121604 
+Alzate, P. S., & Vásquez, M. I. G. (2020). The city as curriculum and educational device. A 
+cultural heritage teaching proposal. Bitacora Urbano Territorial, 30(3), 71–82. 
+https://doi.org/10.15446/BITACORA.V30N3.79987 
+Andriyandi, A. P., Darmalaksana, W., Maylawati, D. S., Irwansyah, F. S., Mantoro, T., & 
+Ramdhani, M. A. (2020). Augmented reality using features accelerated segment 
+test for learning tajweed. Telkomnika (Telecommunication Computing Electronics and 
+Control), 18(1), 208–216. https://doi.org/10.12928/TELKOMNIKA.V18I1.14750 
+Azizoon, N. A. S., Ahmad, W. N. W., Fizal, Q. A., Rui, T. J., & Kamaruzaman, M. Y. (2025). 
+iFoodAR: augmented reality for high school food design technology. International 
+Journal 
+of 
+Evaluation 
+and 
+Research 
+in 
+Education, 
+14(1), 
+406–414. 
+https://doi.org/10.11591/ijere.v14i1.29702 
+Basri, M., Setiawan, J., Insani, M., Fadli, M. R., Amboro, K., & Kuswono, K. (2022). The 
+correlation of the understanding of Indonesian history, multiculturalism, and 
+historical awareness to students’ nationalistic attitudes. International Journal of 
+Evaluation 
+and 
+Research 
+in 
+Education, 
+11(1), 
+369–376. 
+https://doi.org/10.11591/ijere.v11i1.22075 
+Birsyada, M. I., Saefudin, A., Wibowo, B. A., & Dzulkurnain, M. I. (2024). Fostering 
+historical thinking and reasoning through hybrid dialogue: Integrating javanese 
+
+
+===== PAGE 21 =====
+
+565 
+ 
+http://ijlter.org/index.php/ijlter 
+philosophy into history education. International Journal of Learning, Teaching and 
+Educational Research, 23(12), 192–215. https://doi.org/10.26803/ijlter.23.12.11 
+Buñay-Guisñan, P., Lara, J. A., Cano, A., Cerezo, R., & Romero, C. (2026). Towards 
+accessible AI for addressing students’ academic dropout: an auto machine 
+learning and explainable artificial intelligence approach. Universal Access in the 
+Information Society, 25(1). https://doi.org/10.1007/s10209-025-01278-4 
+Carbajal, B., Carreño, Y., Burga, D., & Tello, C. (2025). Virtual reality for the support of 
+school teaching in the history course. Communications in Computer and Information 
+Science, 2345, 420–433. https://doi.org/10.1007/978-3-031-83207-9_30 
+Charoensilp, P. (2024). Intercultural sensitivity as a factor in perceived culturally 
+responsive teaching of teachers in Northern Thailand. REFLections, 31(1), 90–117. 
+https://doi.org/10.61508/refl.v31i1.271669 
+Chashyn, D., Khurudzhi, Y., & Daukšys, M. (2024). Directions for the formation of «City 
+Intelligent models» using artificial intelligence for the post-war reconstruction of 
+historical 
+buildings. 
+Budownictwo 
+i 
+Architektura, 
+23(1), 
+73–86. 
+https://doi.org/10.35784/bud-arch.5560 
+Corredor-Aristizábal, J. (2020). To talk about the past: Effects of an educational experience 
+in historical memory. Revista Colombiana de Educacion, 1(79), 171–202. 
+https://doi.org/10.17227/RCE.NUM79-6973 
+Creswell, J. W. (2009). Research design: Qualitative, quantitative, and mixed methods approaches 
+(3rd ed.). SAGE Publications. https://doi.org/10.2307/1523157 
+Creswell, J. W., & Plano Clark, V. L. (2011). Designing and conducting mixed methods research 
+(2nd ed.). SAGE.Davison, M. (2017). Teaching about the first world war today: 
+Historical empathy and participatory citizenship. Citizenship, Social and Economics 
+Education, 16(3), 148–156. https://doi.org/10.1177/2047173417736906 
+Dvorak, T., Kubista, J., Linhart, O., Maly, I., Sedlacek, D., & Ubik, S. (2024). Presentation 
+of historical clothing digital replicas in motion. IEEE Access, 12, 13310–13326. 
+https://doi.org/10.1109/ACCESS.2024.3355049 
+Edling, S., Sharp, H., Löfström, J., & Ammert, N. (2020). Why is ethics important in history 
+education? A dialogue between the various ways of understanding the 
+relationship between ethics and historical consciousness. Ethics and Education, 
+15(3), 336–354. https://doi.org/10.1080/17449642.2020.1780899 
+Elsayed, G. A., Dykhouse, G., Ikwuegbuenyi, C. A., Willett, N., Hussain, I., Hamad, M., 
+Kashlan, O. N., & Härtl, R. (2025). The evolution of spatial computing in Spine 
+Surgery: Tracing the historical arc to present day implementation. World 
+Neurosurgery, 204. https://doi.org/10.1016/j.wneu.2025.124514 
+Garcia, P. (2017). From folk history to empathy: contesting heritage values in Chinchero, 
+Peru. 
+International 
+Journal 
+of 
+Heritage 
+Studies, 
+23(4), 
+335–346. 
+https://doi.org/10.1080/13527258.2016.1277778 
+Gestsdóttir, S. M., van Boxtel, C., & van Drie, J. (2018). Teaching historical thinking and 
+reasoning: Construction of an observation instrument. British Educational Research 
+Journal, 44(6), 960–981. https://doi.org/10.1002/berj.3471 
+Gómez-Carrasco, C. J., Rodríguez-Medina, J., López-Facal, R., & Monteagudo-Fernández, 
+J. (2022). A review of literature on history education: An analysis of the 
+conceptual, intellectual and social structure of a knowledge domain (2000–2019). 
+European Journal of Education, 57(3), 497–511. https://doi.org/10.1111/ejed.12508 
+Hoy, B. (2018). Teaching history with custom-built board games. Simulation and Gaming, 
+49(2), 115–133. https://doi.org/10.1177/1046878118763624 
+Huang, M.-H., & Rust, R. T. (2018). Artificial intelligence in service. Journal of Service 
+Research, 21(2), 155–172. https://doi.org/10.1177/1094670517752459 
+Jamaludin, J., Alanur, S. N., Rahman, A., Hasdin, H., Judijanto, L., & Saefudin, A. (2025). 
+Augmented reality as a cultural bridge: Promoting pancasila values through local 
+wisdom and ar-based learning media. International Journal Of Society, Culture & 
+
+
+===== PAGE 22 =====
+
+566 
+ 
+http://ijlter.org/index.php/ijlter 
+Language, , 13(2), 277-290. https://doi.org/10.22034/ijscl.2025.2064971.4113 
+Jang, E.-S., & Oh, K.-S. (2026). Investigation of the influence of flipped learning and text-
+based generative artificial intelligence in programming education: Effectiveness 
+and pedagogical strategies. Computer Applications in Engineering Education, 34(1), 
+e70146. https://doi.org/10.1002/cae.70146 
+Kadir, W. A., Fauzi, S., Kang, L. J., Wei, C. C., Saad, M. F. M., & Haw, S.-C. (2025). 
+SejarahAR - An augmented reality approach for school-based education to 
+enhance understanding of history course. AIP Conference Proceedings, 3367(1). 
+https://doi.org/10.1063/5.0299295 
+Kim, V., & Lu, D. (2026). Research on digital and intelligent innovation transformation 
+strategy of international chinese language education reshaped by generative 
+artificial 
+intelligence. 
+Tehnicki 
+Vjesnik, 
+33(1), 
+95–106. 
+https://doi.org/10.17559/TV-20251011003055 
+Kozhevnikova, M. N. (2019). The problem of contemplation and contemplative practicies 
+in 
+education. 
+Science 
+for 
+Education 
+Today, 
+9(5), 
+72–95. 
+https://doi.org/10.15293/2658-6762.1905.05 
+Lah, N. H. C., Senu, M. S. Z. M., Jumaat, N. F., Phon, D. N. E., Hashim, S., & Zulkifli, N. 
+N. (2024). Mobile augmented reality in learning chemistry subject: an evaluation 
+of science exploration. International Journal of Evaluation and Research in Education , 
+13(2), 1007–1020. https://doi.org/10.11591/ijere.v13i2.25198 
+Lai, Q. (2026). Research on the refinement of college student education management based 
+on 
+artificial 
+intelligence. 
+Discover 
+Artificial 
+Intelligence, 
+6(31). 
+https://doi.org/10.1007/s44163-025-00651-9 
+Lévesque, S., & Clark, P. (2018). Historical thinking: Definitions and educational 
+applications. In The Wiley International Handbook of History Teaching and Learning. 
+https://doi.org/10.1002/9781119100812.ch5 
+Li, X., Rani, S., Lv, J., Li, K., & Yang, J. (2026). Deep learning driven data security modelling 
+in next generation consumer electronics powered education communication 
+systems. 
+IEEE 
+Transactions 
+on 
+Consumer 
+Electronics. 
+https://doi.org/10.1109/TCE.2026.3655419 
+Liestøl, G. (2019). Augmented reality storytelling: Narrative design and reconstruction of 
+a historical event in situ. International Journal of Interactive Mobile Technologies, 12, 
+196–209. https://doi.org/10.3991/ijim.v13i12.11560 
+Maleki, A. (2026). Rethinking ethical academic integrity ecosystems in higher education 
+in the age of artificial intelligence. Discover Artificial Intelligence, 6(1). 
+https://doi.org/10.1007/s44163-026-00887-z 
+Marshall, L. S., & Gram, J. R. (2022). Historical thinking and the democratic mind: An 
+apprenticeship approach to teaching narrative complexity in the history 
+classroom. 
+Journal 
+of 
+American 
+History, 
+108(4), 
+788–793. 
+https://doi.org/10.1093/jahist/jaac007 
+Mathis, C., & Parkes, R. (2020). Historical thinking, epistemic cognition, and history 
+teacher education. In The Palgrave Handbook of History and Social Studies Education, 
+189-212. https://doi.org/10.1007/978-3-030-37210-1_9 
+Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). Qualitative data analysis: a methods 
+sourcebook (Third Edit). SAGE Publications. 
+Mustafa, F., Bin Daud, M., Bin Yussuf, A., Kasasbeh, N., & Abu Khurma, O. (2025). The 
+practice of augmented reality in islamic education and the level of motivation 
+among 
+UAE 
+secondary 
+school 
+students. 
+Social 
+Sciences, 
+14(2), 
+80. 
+https://doi.org/10.3390/socsci14020080 
+Nash, D. A. (2010). Ethics, empathy, and the education of dentists. Journal of Dental 
+Education, 
+74(6), 
+567–578. 
+https://doi.org/10.1002/j.0022-
+0337.2010.74.6.tb04902.x 
+Nuraedah, & Saefudin, A. (2024). The Dilemma of cultural commodification policy of 
+
+
+===== PAGE 23 =====
+
+567 
+ 
+http://ijlter.org/index.php/ijlter 
+barkcloth: A study of the Kaili Community in Pandere Village, Indonesia. 
+Kasetsart 
+Journal 
+of 
+Social 
+Sciences, 
+45(2), 
+625–632. 
+https://doi.org/10.34044/j.kjss.2024.45.2.29 
+Nguyen, V. T., Jung, K., Yoo, S., Kim, S., Park, S., & Currie, M. (2019). Civil war battlefield 
+experience: Historical event simulation using augmented reality technology. 
+Proceedings - 2019 IEEE International Conference on Artificial Intelligence and Virtual 
+Reality, AIVR 2019, 294–297. https://doi.org/10.1109/AIVR46125.2019.00068 
+Paro, M. R., Hersh, D. S., & Bulsara, K. R. (2022). History of virtual reality and augmented 
+reality 
+in 
+Neurosurgical 
+Training. 
+World 
+Neurosurgery, 
+167, 
+37–43. 
+https://doi.org/10.1016/j.wneu.2022.08.042 
+Roper, M. (2014). The unconscious work of History. Cultural and Social History, 11(2), 169–
+193. https://doi.org/10.2752/147800414X13893661072717 
+Saefudin, A. (2025). Shaping future history teachers: Evaluating historical thinking skills 
+and learning innovations. International Research Journal of Multidisciplinary Scope, 
+6(1), 663–674. https://doi.org/10.47857/irjms.2025.v06i01.02982 
+Saefudin, A., Wasino, Susanto, & Musadad, A. A. (2024). Curriculum control and lesson 
+planning: History teacher autonomy in different school contexts. Kasetsart Journal 
+of Social Sciences, 45(2), 391–400. https://doi.org/10.34044/j.kjss.2024.45.2.05 
+Saigal, S. (2023). Historical thinking skills: Why it matters in school education. Economic 
+and Political Weekly, 58(44), 24–27. 
+Samaden, I. S., Ahmad, I., & Salam, S. (2025). Technology Trends and augmented reality: 
+A systematics literature review. Journal of Advanced Research in Applied Sciences and 
+Engineering 
+Technology, 
+53(1), 
+129–140. 
+https://doi.org/10.37934/araset.53.1.129140 
+Sariyatun, Joebagio, H., & Akhyar, M. (2018). Teachers’ perception on digital teaching 
+material development in social science education. Journal of Turkish Science 
+Education, 15(Special Issue), 13–21. https://doi.org/10.12973/tused.10252a 
+Schwartz, B. (2017). How is history possible? Georg Simmel on empathy and realism. 
+Journal 
+of 
+Classical 
+Sociology, 
+17(3), 
+213–237. 
+https://doi.org/10.1177/1468795X17717877 
+Seixas, P. (2004). Theorizing historical consciousness. In Theorizing Historical Consciousness. 
+https://api.elsevier.com/content/abstract/scopus_id/84967225630 
+Tak, H.-Y., Kim, Y., Kim, S., & Yeo, H. (2023). A hybrid model for real-time traffic 
+prediction with augmented historical data using traffic simulation. IEEE 
+Conference on Intelligent Transportation Systems, Proceedings, ITSC, 839–844. 
+https://doi.org/10.1109/ITSC57777.2023.10421817 
+Tirado-Olivares, S., López-Fernández, C., González-Calero, J. A., & Cózar-Gutiérrez, R. 
+(2024). Enhancing historical thinking through learning analytics in Primary 
+Education: A bridge to formative assessment. Education and Information 
+Technologies, 29, 14789–14813. https://doi.org/10.1007/s10639-023-12425-w 
+Torres-Barreto, M. L., Lobo-Rueda, M. A., & Bautista-Rojas, L. E. (2025). Design and 
+narrative development of a gamified tool for peace education in the Colombian 
+post-conflict. 
+Educational 
+Research 
+for 
+Social 
+Change, 
+14(1), 
+130–150. 
+https://doi.org/10.5281/zenodo.15311653 
+Ul Haq, I., Ahmed, S., Talukdar, S., Ahmad, M., Asgher, M. S., Khan, I., & Ramana, G. V. 
+(2026). Designing landslide mitigation strategies through developing knowledge 
+aware deep learning model integrated explainable artificial intelligence. Physics 
+and Chemistry of the Earth, 143. https://doi.org/10.1016/j.pce.2025.104266 
+Utomo, S. S., Ande, A., & Saefudin, A. (2024). Preserving local cultural heritage in the era 
+of globalisation: Reflections of the Barkcloth Tradition. International Research 
+Journal 
+of 
+Multidisciplinary 
+Scope, 
+05(03), 
+504–513. 
+https://doi.org/10.47857/irjms.2024.v05i03.0992 
+Van Boxtel, C., Van Drie, J., & Stoel, G. (2020). Improving teachers’ proficiency in teaching 
+
+
+===== PAGE 24 =====
+
+568 
+ 
+http://ijlter.org/index.php/ijlter 
+historical thinking. In The Palgrave Handbook of History and Social Studies Education, 
+97-117. https://doi.org/10.1007/978-3-030-37210-1_5 
+Wang, Q. (2026). Construction and empirical analysis of an artificial intelligence-based 
+educational assessment model. International Journal of Information and 
+Communication 
+Technology 
+Education, 
+22(1), 
+1-16. 
+https://doi.org/10.4018/IJICTE.399169 
+Wen, J. (2026). Implementing an AI-assisted teacher observation system: A case study on 
+enhancing preschool education quality in Mashan County. Journal of Cases on 
+Information Technology, 28(1), 1-17. https://doi.org/10.4018/JCIT.400705 
+Wulandari, W., Murwaningsih, T., & Marmoah, S. (2020). Implementation of merdeka 
+belajar in online learning methods at the school for children of Indonesia. ACM 
+International 
+Conference 
+Proceeding 
+Series, 
+1-5. 
+https://doi.org/10.1145/3452144.3452273 
+Yildizdag, M. E., Busonera, R., Trivelloni, I., Barchiesi, E., & Turco, E. (2026). Discrete 
+modeling of historical stone masonry: The case of Nuraghe Palmavera. 
+Mathematics 
+and 
+Mechanics 
+of 
+Complex 
+Systems, 
+14(1), 
+95–115. 
+https://doi.org/10.2140/memocs.2026.14.95 
+Yin, K. Y., Siraj, S., Noor, M. A. M., Seng, W. Y., Ramdan, M. R., & Abd. Hadi, F. S. (2025). 
+Augmented reality board game in promoting financial literacy among Malaysia 
+secondary school students. International Journal of Evaluation and Research in 
+Education, 14(1), 472–481. https://doi.org/10.11591/ijere.v14i1.29032 
+ 

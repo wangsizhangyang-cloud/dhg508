@@ -1,0 +1,1154 @@
+
+
+===== PAGE 1 =====
+
+Canadian Journal of Education / Revue canadienne de l’éducation 46:1 (2023)
+©2023 Canadian Society for the Study of Education/
+Société canadienne pour l’étude de l’éducation
+www.cje-rce.ca
+Historical Empathy: A Cognitive-Affective Theory 
+for History Education in Canada
+Sara Karn
+Queen’s University
+Abstract
+Historical empathy involves a process of attempting to understand the thoughts, feelings, 
+experiences, decisions, and actions of people from the past within specific historical 
+contexts. Although historical empathy has been a rich area of study in history educa-
+tion for several decades, this research has largely taken place outside of Canada. In this 
+article, I argue that greater attention should be paid to historical empathy in Canadian 
+history education research and curriculum because it can support learning outcomes 
+related to historical thinking and historical consciousness, citizenship, and decolonizing 
+and anti-racist approaches to history education. Drawing from and commenting on other 
+scholarship, I present a cognitive-affective theory of historical empathy which includes 
+five elements: (1) evidence and contextualization, (2) informed historical imagination, (3) 
+historical perspectives, (4) ethical judgements, and (5) caring. Through exploring each 
+element and some pedagogical considerations for educators, I emphasize the affective 
+dimensions of history to centre their importance for history education in Canada.
+Keywords: historical empathy, history education, affective dimensions, historical thin-
+king, citizenship education
+
+
+===== PAGE 2 =====
+
+Historical Empathy	
+81
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Résumé
+L’empathie historique est un processus qui cherche à comprendre les pensées, les 
+sentiments, les expériences, les décisions et les actions des personnes du passé dans des 
+contextes historiques précis. L’empathie historique est un champ d’études riche dans le 
+domaine de l’enseignement de l’histoire depuis plusieurs décennies, mais ces recherches 
+ont surtout eu lieu à l’extérieur du contexte canadien. Dans cet article, je soutiens qu’une 
+plus grande attention devrait être accordée à l’empathie historique dans la recherche 
+et dans les programmes d’enseignement de l’histoire au Canada, car elle peut soutenir 
+les résultats d’apprentissages liés à la réflexion historique, à la conscience historique, 
+à la citoyenneté et aux approches décolonisatrices et antiracistes de l’enseignement de 
+l’histoire. En m’inspirant et en commentant d’autres études, je présente une théorie 
+cognitive affective de l’empathie historique qui comprend cinq éléments : (1) la preuve 
+et la contextualisation ; (2) l’imagination historique informée ; (3) les perspectives 
+historiques ; (4) les jugements éthiques ; et (5) la sollicitude. En explorant chacun de ces 
+éléments et certaines considérations pédagogiques pour les éducateurs, cet article met 
+l’accent sur les dimensions affectives de l’histoire afin de centrer leur importance pour 
+l’enseignement de l’histoire au Canada.
+Mots-clés : l’empathie historique, cours d’histoire, dimensions affectives, réflexion 
+historique, éducation à la citoyenneté
+Acknowledgements
+I would like to thank Drs. Heather McGregor, Theodore Christou, and Thashika Pillay for 
+their feedback on previous versions of this article. This research is supported in part by 
+funding from the Social Sciences and Humanities Research Council.
+
+
+===== PAGE 3 =====
+
+Historical Empathy	
+82
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Introduction
+In history and social studies classrooms across Canada, students are engaged in learning 
+about events, people, and circumstances in the past that require an awareness of different 
+perspectives and consideration for the thoughts, feelings, and experiences of others. 
+Many of the topics under study (Indian Residential Schools, women’s rights, systemic 
+racism, LGBTQ2S+ rights, immigration, war and conflict) have deep historical roots, 
+and their lasting legacies in the present make these issues relevant and meaningful for 
+different students in different ways. When they are approached by teachers with careful 
+pedagogical consideration, these topics also hold the potential to foster empathy toward 
+other people—in many cases, people vastly different from the students themselves—in 
+both the past and present. In light of this, I ask: How might empathy be conceptualized in 
+relation to teaching history in Canada and what are the associated pedagogical actions of 
+educators and learning outcomes for students?
+It is with this question in mind that I turn to historical empathy, an approach to 
+teaching history focused on understanding the thoughts, feelings, experiences, decisions, 
+and actions of people from the past within specific historical contexts (Barton & Levstik, 
+2004; Endacott & Brooks, 2013). For nearly five decades, historical empathy has been 
+a rich area of research in history education around the world, particularly in the United 
+States and England (Brooks, 2009; Endacott & Brooks, 2018; Yilmaz, 2007). Empathy 
+as a learning outcome was first introduced to the history curriculum in England during 
+the 1970s, a time of significant pedagogical change resulting from new understandings 
+of cognitive development (Retz, 2018). In an effort to move away from rote learning 
+and towards a disciplinary approach to history, British scholars began mapping out a 
+series of second-order thinking concepts grounded in historical methods (Ashby & Lee, 
+1987; Portal, 1987). As Lee and Ashby (2001) explain, the term “empathy” was adopted 
+in the curriculum because it was a catchy word that could be given a new meaning in 
+relation to history. However, it soon became clear to teachers and researchers that empa-
+thy was problematic for history education due to a wide range of interpretations of the 
+term. For instance, many teachers tended to conflate “empathy” and “sympathy,” which 
+resulted in students simply feeling bad for people in the past (Knight, 1989; Lee, 1984). 
+Such conceptual ambiguities led to challenges with implementing empathy in history 
+classrooms, which sparked criticism of the term among researchers, politicians, and the 
+
+
+===== PAGE 4 =====
+
+Historical Empathy	
+83
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+general public. As a result, there was a turn away from explicit discussion of historical 
+empathy among teachers and researchers in England by the late 1980s.
+In response to the backlash against empathy in England, scholars began to cla-
+rify some of the conceptual confusion surrounding the term. To counter the argument 
+that empathy was “softening”—eroding the intellectual rigour of—the history discipline, 
+early scholarship in North America described historical empathy as a purely cognitive 
+act, equivalent to perspective taking (Blake, 1998; Bryant & Clark, 2006; Doppen, 2000; 
+Foster, 1999; Foster & Yeager, 1998; Lee & Ashby, 2001; Lévesque 2008; Riley, 2001; 
+Yeager & Foster, 2001). Those who favour the cognitive approach believe the purpose 
+of historical empathy is to develop students’ historical thinking skills using the methods 
+of the history discipline. Since the early 2000s a new trend emerged in which scholars 
+conceptualize historical empathy as a cognitive-affective process that also makes space 
+for a range of feelings, emotions, and connections to be present alongside historical 
+inquiry (Barton & Levstik, 2004; Davison, 2017; Endacott & Brooks, 2013; Kohlmeier, 
+2006). By reconceptualizing historical empathy as a cognitive-affective process, these 
+scholars present approaches that not only value the ability to think historically but also 
+the development of responsible, caring citizens.
+In the context of history education research in Canada, relatively little attention 
+has been paid to historical empathy, with some exceptions (Bryant & Clark, 2006; Karn, 
+2021; Lévesque, 2008, 2011; Seixas, 1996; Wallace-Casey, 2022; see also Duquette, 
+2021 for a special issue on historical empathy). Historical thinking, a sub-field of history 
+education concerned with outlining a series of second-order procedural concepts derived 
+from the methods of the history discipline, remains a predominantly cognitive endeavour 
+in Canada. For instance, Peter Seixas’s historical thinking framework (Seixas, 2017; Sei-
+xas & Morton, 2013), which has heavily influenced provincial and territorial history and 
+social studies curricula (Clark, 2011), does not explicitly include the terms “historical 
+empathy” or “empathy.” Although Seixas’s earlier framework of historical understanding 
+included empathy (Seixas, 1996), his later work no longer referenced historical empathy 
+due to concerns about possible conceptual confusion over the term among teachers, as 
+was the case in England (Retz, 2018). Instead, the processes and outcomes related to his-
+torical empathy were now spread across two concepts, “historical perspectives” and “the 
+ethical dimension” (Seixas & Morton, 2013). While these are both necessary elements of 
+historical empathy, the focus on the cognitive elements of historical thinking fails to ad-
+
+
+===== PAGE 5 =====
+
+Historical Empathy	
+84
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+dress affective components, which exist in classrooms even when teachers may not plan 
+for them and can act as important driving forces for learning about the past. 
+In this article I argue that greater attention should be paid to historical empathy in 
+Canadian history education research and curriculum. Since affect and emotion are often 
+overlooked in studies of teaching and learning history in Canada, I place a particular 
+focus on the affective dimensions of history as they relate to historical empathy. I begin 
+by outlining how a cognitive-affective approach to historical empathy can support the 
+learning outcomes and purposes of history education identified by Canadian scholars in 
+recent decades. Then, to clarify any pre-existing conceptual confusion, I present an origi-
+nal theory of historical empathy, drawing together and commenting on scholarship from 
+researchers in the English-speaking Global North. Each of the five elements of this cogni-
+tive-affective theory intersects with and extends current approaches to historical thinking 
+in Canada, and contributes toward fostering more caring, open-minded citizens who are 
+willing to engage in making change. 
+Aligning Purposes and Learning Outcomes
+In Canada, history education research in the last few decades has centred on three main 
+purposes for teaching and learning history in schools: (1) developing historical thinking 
+and historical consciousness (Clark, 2011, 2018; Duquette, 2015; Gibson, 2017, 2021; 
+Lévesque, 2008; Peck, 2011; Seixas, 2004, 2006; Seixas & Morton, 2013); (2) fostering 
+citizenship within a democratic society (Osborne, 1995, 1996; Sears, 2011); and (3) 
+deconstructing popular narratives through decolonizing and anti-racist histories (Cutrara, 
+2018; Gibson & Case, 2019; McGregor, 2017; Miles, 2018; Stanley, 2000; Taylor, 2018). 
+A cognitive-affective approach to historical empathy can support learning outcomes rela-
+ted to each of these purposes. 
+Early on, researchers studying historical empathy argued that its central purpose 
+was the development of students’ historical understanding through the application of dis-
+ciplinary methods. Foster and Yeager (1998) explained that historical empathy requires 
+logical thinking about historical evidence and “appropriately creative skills that seek 
+to bridge the gap between what is known and what may be inferred from history” (p. 
+3). Studies have found that even elementary school students (Barton & Levstik, 2004; 
+Brophy, 1999; D’Adamo & Fallace, 2011; Davis Jr., 2001; Dulberg, 2002; Field, 2001; 
+
+
+===== PAGE 6 =====
+
+Historical Empathy	
+85
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Jensen, 2008) and students with learning exceptionalities (Turner, 1998) can improve 
+their historical understanding and thinking skills through their engagement with histori-
+cal empathy. In outlining theoretical frameworks and analyzing empirical findings, many 
+scholars have identified qualities of historical empathy that foster students’ inquiry and 
+historical thinking skills, including understanding multiple and diverse perspectives, 
+considering contexts, analyzing evidence, recognizing cause and consequence, making 
+inferences, avoiding presentism, and forming judgements (Barton & Levstik, 2004; Enda-
+cott & Brooks, 2013; Foster, 1999; Lévesque, 2008). These qualities of historical empa-
+thy are closely aligned with the six historical thinking concepts in Seixas and Morton’s 
+(2013) framework, which have been taken up in different ways in history and social stu-
+dies curricula across Canada.
+As scholars began to consider the affective dimensions of historical empathy with 
+a sociocultural approach to history education, an additional purpose was emphasized: fos-
+tering citizenship in a pluralistic democratic society (Barton & Levstik, 2004; Davison, 
+2017; Dulburg, 2002; Endacott & Brooks, 2018). In their studies, these scholars have de-
+monstrated the value of historical empathy for promoting empathy, inclusion, caring, and 
+open-mindedness in the present. As Dulberg (2002) explained, “Learning to take another’s 
+perspective, and caring enough to do so, is essential in understanding history. It is also 
+essential in getting along with others in daily life” (p. 3). This is particularly true when 
+students encounter perspectives that differ from their own or that seem hard to relate to 
+from the outside. In coming to understand that sometimes people in the past did things that 
+do not make sense to us today, students can also recognize that others’ perspectives in the 
+present might make sense within their particular contexts and experiences. For instance, 
+Davison (2017) explained that by teaching about different perspectives on the First World 
+War, including pacifist stances, students were better positioned to consider anti-war argu-
+ments in the present. These skills and dispositions, developed through a focus on historical 
+empathy, are essential to fostering citizenship within a democratic society.
+In the process of developing more open-minded citizens who care about different 
+perspectives in the past and present, historical empathy also offers students opportunities 
+to create change in the present. According to Barton and Levstik (2004), it is not suf-
+ficient to simply recognize and appreciate diverse perspectives, but students should be 
+taught to “make changes in their own values, attitudes, beliefs or behavior” (p. 237). His-
+torical empathy sometimes involves difficult knowledge related to trauma, vulnerability, 
+
+
+===== PAGE 7 =====
+
+Historical Empathy	
+86
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+and crisis in the past—and our relations to these histories in the present—which is likely 
+to “unsettle one’s capacity to go on as before” (Garrett, 2017, p. 36). While more research 
+is needed in this area, a few empirical studies (De Leur et al., 2015; Jun, 2020; Kohl-
+meier, 2006) have revealed the potential for students to translate historical empathy into 
+everyday empathy and, in doing so, demonstrate a willingness to change circumstances 
+and relationships with others around them. In Dulberg’s (2002) study involving fifth gra-
+ders, some students drew connections between the past and present, while linking empa-
+thy with “learning to do right and wrong and taking action” (p. 30). These are important 
+learning outcomes of historical empathy that may support decolonizing and anti-racist 
+approaches to history education in Canada. 
+The research considered here demonstrates that historical empathy can support the 
+development of understandings, skills, and dispositions related to the curriculum and life 
+beyond the classroom. Students can develop historical thinking competencies and consi-
+der various connections among perspectives in the past and present. In the process, they 
+may also develop the skills and dispositions required to become caring and open-minded 
+citizens who are willing to effect change in the present. These learning outcomes address 
+the purposes of history education, as articulated by scholars in Canada. The various ele-
+ments of historical empathy—as I have conceptualized them—and how teachers may 
+approach them to support learning is the focus of the next section. 
+Conceptualizing Historical Empathy
+In this section, I present a theory of historical empathy for history education in Canada, 
+which includes five cognitive and affective elements: (1) evidence and contextualization, 
+(2) informed historical imagination, (3) historical perspectives, (4) ethical judgements, 
+and (5) caring (see Figure 1). I begin with a discussion of the elements of historical 
+empathy that are most similar to the cognitive-oriented historical thinking concepts out-
+lined by Seixas and Morton (2013), while extending each element in ways that account 
+for an affective component. I end with a discussion of caring, as it is the most significant 
+departure from their framework. Although these elements are presented in this order, 
+they are not intended to be sequential. In other words, teachers and students are likely to 
+find themselves engaging in many of them concurrently, which is visually represented in 
+Figure 1 by the star-shaped diagram that connects each element together without indica-
+
+
+===== PAGE 8 =====
+
+Historical Empathy	
+87
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+ting a particular sequence. It is also important to note that the five elements are related in 
+other ways, beyond their connection to historical empathy, which is highlighted by the 
+dark shaded space in the diagram—lines can be drawn among elements, in different com-
+binations, without passing through historical empathy. However, I argue that a powerful 
+pedagogical approach to historical empathy includes all five elements and integrates both 
+their cognitive and affective dimensions. In combination, these five elements of historical 
+empathy support the learning outcomes and purposes of history education outlined in the 
+previous section.
+Figure 1 
+Five Cognitive-Affective Elements of Historical Empathy (Sara Karn, 2022) 
+Evidence and Contextualization
+When empathizing with people in the past, historians engage in two closely related tasks: 
+analyzing evidence and considering historical contexts (Lévesque, 2008). Likewise, 
+students learning to empathize in their history classrooms require sufficient background 
+information about historical events, people, and concepts, which can be acquired through 
+teacher instruction, textbooks, films, literature, and primary source analysis (Brooks, 
+
+
+===== PAGE 9 =====
+
+Historical Empathy	
+88
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+2011; Endacott, 2010; Endacott & Brooks, 2013; Lévesque, 2008). This section begins by 
+considering the role evidence plays in developing historical empathy, followed by a clo-
+sely related discussion of contextualization.
+According to Seixas and Morton (2013), asking good questions, drawing infe-
+rences, and analyzing a source (whether primary or secondary) turns it into evidence 
+for historical inquiry.  Empirical studies of historical empathy have emphasized the 
+importance of providing students with a range of sources that highlight various historical 
+perspectives. As students work through their analysis, teachers play an important role 
+in offering strategies for decoding texts (Colby, 2010) and thought-provoking questions 
+that generate empathic engagement with historical figures (Brooks, 2008; Cunningham, 
+2007; Kohlmeier, 2006). In the process of turning sources into evidence, students learn to 
+account for different—sometimes conflicting—perspectives, which is a foundational skill 
+for doing history that also has applications in the present. 
+With its focus on understanding diverse perspectives based on a variety of sources, 
+historical empathy also offers students more opportunities to engage with a wider scope 
+of evidence than Western tradition allows. As educators try to shift away from exclusively 
+Westernized thinking about historical evidence (Anderson, 2017; Donald, 2012), questions 
+arise about the potential role that Indigenous epistemologies and pedagogies—including 
+land-based learning and sharing oral histories—could play in fostering historical empathy. 
+However, some scholars in Canada have raised concerns about the incommensurability of 
+historical thinking, informed by Western/Enlightenment traditions, and Indigenous epis-
+temologies (Cutrara, 2018; Marker, 2011; Seixas, 2012). In response to these concerns, 
+other scholars have identified common ground between historical thinking and Indigenous 
+education, and they suggest ways forward (McGregor, 2017; Gibson & Case, 2019). In 
+addition to possible alignments with the six historical thinking concepts conceptualized by 
+Peter Seixas (Gibson & Case, 2019), historical empathy offers another way forward that 
+could be more inclusive of Indigenous ways of knowing about the past.
+It is through a close examination of historical evidence that contextualization 
+occurs, a key component of scholarship on historical empathy (Ashby & Lee, 1987; Bar-
+ton & Levstik, 2004; Davis Jr., 2001; Davison, 2017; Endacott & Brooks, 2013; Foster, 
+1999; Yeager & Doppen, 2001). Lévesque (2008) distinguished three contexts that should 
+be accounted for when empathizing with people in the past: the personal (inner), the 
+sociocultural (outer), and contemporary (present-day). Personal contexts are the beliefs, 
+
+
+===== PAGE 10 =====
+
+Historical Empathy	
+89
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+perspectives, and values of a source’s author. However, there are limitations to understan-
+ding their context since you cannot always glean everything from the author themselves. 
+Therefore, the personal context must be understood in combination with the outer or 
+sociocultural context—including political, economic, and sociocultural factors—in which 
+the historical actor lived. This involves narrowing in on what Retz (2018) suggested is 
+“a specific kind of context—the context in which it was possible for past agents to hold 
+their beliefs as true and to act upon them accordingly” (p. 218). In these ways, teaching 
+students about historical contexts allows them to think more critically about how they 
+interpret evidence, further developing their historical thinking skills.
+It is not only past contexts that should be accounted for; contemporary issues, va-
+lues, and decisions also shape how we make meaning about the past. Therefore, students 
+should consider contemporary contexts in an effort to “appreciate the ‘pastness’ of the 
+past and potentially avoid imposing their own framework of meaning on others in their 
+interpretations” (Lévesque, 2008, p. 166). Historical empathy offers opportunities for 
+students to consider how their own positionalities—personal values, views, experiences, 
+and contexts—shape their understandings of historical actors. VanSledright (2001) argued 
+that we must explicitly acknowledge the influence of our positionalities because our 
+contemporary experiences, values, knowledge, and assumptions are impossible to bracket 
+out. In his view, an important learning outcome of historical empathy is the potential for 
+students to gain an increased level of self-awareness. In a recent study, Dutch teachers 
+and students in secondary history classrooms recognized that an awareness of one’s own 
+positionality is critical to empathizing with historical actors (Bartelds et al., 2020). Des-
+pite the importance of student reflexivity and positionality to developing historical thin-
+king, these concepts are not emphasized in Seixas and Morton’s (2013) historical thinking 
+framework. With decolonizing goals in mind, history education researchers in Canada 
+have called for increased attention to considering one’s positionality and reflecting on 
+individual and collective identities when studying the past (Cutrara, 2018; McGregor, 
+2017; Miles, 2018; Taylor, 2018). Thus, historical empathy could support learning history 
+within cross-cultural contexts. 
+A theory of historical empathy that includes a range of evidence and accounts 
+for past and present contexts can contribute toward historical thinking and citizenship 
+outcomes.  Students are encouraged to think historically in ways that are related to other 
+concepts of historical thinking (e.g., historical perspectives) and may also build their 
+
+
+===== PAGE 11 =====
+
+Historical Empathy	
+90
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+capacity to recognize their own positionalities as reflexive, critical thinkers. When tea-
+chers guide students to gather multiple pieces of evidence and consider various contexts, 
+students are also learning skills required in the present. However, understanding the past 
+is often limited by the availability of sources and the diversity of perspectives they por-
+tray. Students should also learn that when the historical record is incomplete, we may rely 
+on other tools to fill in the gaps.
+Informed Historical Imagination
+Much of the debate surrounding historical empathy in history education has rested on the 
+role of imagination—that is, how far we can reach when supposing or inferring details 
+about the past based on available evidence (Lee, 1984). For instance, Stockley (1983) 
+contended that imagination should be minimal due to the tendency to treat empathy in 
+history as “some sort of spontaneous imaginative and intuitive response” (p. 54). Foster 
+(1999) also cautioned against associating imagination with historical empathy: “That 
+view of historical empathy…leads to an irresponsible and erroneous understanding of our 
+past. True history depends on cautious inquiry and close examination of available evi-
+dence” (p. 19). These scholars were concerned about the use of imagination eroding the 
+integrity of the history discipline, since they believed such intellectual work needed to be 
+grounded in verifiable evidence rather than imagined details.
+However, these views underestimate the potential for imagination to improve 
+our understanding of and engagement with history. According to Gaddis (2002), in cases 
+where evidence may be lacking or contradictory, even historians “must use logic and 
+imagination to overcome the resulting difficulties” (p. 41). But imagination is not simply 
+about being able to infer details from existing evidence; it can also engage students in 
+more meaningful learning. Friesen (2011) identified a lack of imagination in historical 
+thinking approaches and argued that teachers should “kindle an infectious delight” (p. 
+211) and “inspire a sense of wonder” in their students (p. 222). Similarly, Judson and 
+Egan (2013) suggested that Imaginative Education, which strives to “emotionally and 
+imaginatively engage students in learning,” (p. 9) can be applied to teaching history 
+through rich storytelling. Accounting for these different views on the role of imagination 
+in history, I propose using the term “informed historical imagination,” which encom-
+passes both cognitive and affective approaches to historical empathy.
+
+
+===== PAGE 12 =====
+
+Historical Empathy	
+91
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+In certain circumstances, gathering knowledge and drawing conclusions directly 
+from evidence is not possible. When the historical record is incomplete, historians and 
+students alike rely on an informed historical imagination to make inferences about the 
+past. Historian and philosopher R. G. Collingwood described an analogy of a ship: 
+If we look out over the sea and perceive a ship, and five minutes later look 
+again and perceive it in a different place, we find ourselves obliged to ima-
+gine it as having occupied intermediate positions when we were not looking. 
+(Collingwood, 1946, p. 241, as cited in Lévesque, 2008, p. 147, emphasis 
+added by Lévesque)
+Likewise, gaps in historical knowledge can be filled by imagining or inferring details 
+based on available information. For example, in his biography of a Canadian First World 
+War pilot, Broad (2017) stressed the importance of imagination to his historical methodo-
+logy. As he explained, most people today do not have aerial combat experience, so unders-
+tanding the perspectives of First World War pilots requires imagining the experience by 
+extrapolating details from primary evidence and triangulating different types of sources.
+The role of imagination in filling gaps in historical evidence may be particularly 
+useful to what several scholars (Anderson, 2017; Cutrara, 2020; Marker, 2011; McGre-
+gor, 2017; Miles, 2018; Peck, 2011) have identified as an important goal of history educa-
+tion in Canada today: presenting diverse perspectives that reflect a range of backgrounds, 
+experiences, and identities. The turn toward social history beginning in the 1960s, which 
+considers the experiences of ordinary people in the past, has illuminated significant issues 
+surrounding access to historical evidence. There are certain groups, particularly those 
+from marginalized communities, whose histories are incomplete because sources have not 
+been preserved due to power dynamics and archival methodologies (Griffith, 2019; Sto-
+ler, 2009). Therefore, in order to represent diverse perspectives, even when evidence is 
+lacking, an informed historical imagination is crucial.
+When historical evidence does exist, imagination plays a key role in how students 
+interpret the evidence (Davison, 2017). In attempting to examine evidence from the 
+position of a historical actor, imagination is required to interpret or “suppose” what that 
+position may have been (Lee, 1984). Often, there are a range of possibilities that could 
+account for the thoughts, values, actions, or decisions of historical figures. These possibi-
+lities must be reasonable within the historical context but are not necessarily formed di-
+
+
+===== PAGE 13 =====
+
+Historical Empathy	
+92
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+rectly from the evidence, as people in the past did not always leave explicit traces of their 
+views and actions. Imagining allows students to generate different scenarios and evaluate 
+their feasibility within a given context. As Davis Jr. (2001) explained, historical empathy 
+involves engaging in a sense of “wonderment about reasonable and possible meanings 
+within, in a time that no one can really know” (p. 3). Historical fiction may offer one 
+pedagogical approach for engaging students in this process, as many fiction writers rely 
+on a combination of evidence and imagination to develop their stories involving perspec-
+tives, places, and times that are vastly different from their own (Clark & Sears, 2020).
+By engaging an informed historical imagination, teachers can help students ex-
+pand their abilities to empathize with historical actors, and thus, develop their historical 
+thinking skills. When primary evidence is incomplete, students can fill in gaps by ima-
+gining details that fit within the context of the time. This allows them to empathize with 
+perspectives for which little evidence exists, broadening their understanding of Canadian 
+history.
+Historical Perspectives
+Understanding historical perspectives is another key part of historical empathy that builds 
+historical thinking skills. As Seixas and Morton (2013) described, taking a historical 
+perspective involves “evidence-based inferences about the thoughts and feelings of the 
+characters of history” (p. 138). When outlining a set of five “Guideposts” for historical 
+perspective-taking, Seixas and Morton (2013) explained that inferring how people felt 
+or thought in the past does not necessarily mean identifying with those historical actors. 
+In other words, seeking to understand a historical perspective is not necessarily for the 
+purpose of identifying or sympathizing with it (e.g., we would not study Mein Kampf for 
+the purpose of identifying with Adolf Hitler, nor would we say that we can ever fully un-
+derstand him, but we may seek to understand how his anti-semitic perspective could have 
+come about). In fact, encouraging students to identify with historical actors can lead them 
+to sympathize with or condone the behaviours of those in the past, outcomes that have 
+been consistently discouraged by those studying historical empathy (Endacott & Brooks, 
+2013; Foster, 1999; Lee, 1984). According to these scholars, the pedagogical focus of 
+perspective-taking should remain on teaching students to avoid presentism, consider his-
+torical contexts, draw inferences based on evidence, and explore diverse points of view.
+
+
+===== PAGE 14 =====
+
+Historical Empathy	
+93
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Although Seixas and Morton (2013) outlined a number of important elements 
+involved in understanding historical perspectives, their approach does not account for the 
+affective components necessary to the development of historical empathy. For Endacott 
+and Brooks (2013), “historical perspectives” is merely one component of historical empa-
+thy: “The exclusively cognitive act of perspective taking is not historical empathy, though 
+we submit that perspective taking is certainly one very indispensable aspect of historical 
+empathy” (p. 41). Barton and Levstik (2004) also draw attention to the educational bene-
+fits of affective elements: “affectively mediated information appears to increase the like-
+lihood that learners will consider alternative perspectives” (p. 236). If teachers increase 
+their emphasis on feelings and emotions—those of historical actors and the students 
+themselves—students will be more likely to engage in learning about different perspec-
+tives and achieve a deeper understanding of those perspectives. This is essential if we 
+want students to develop historical thinking skills and become citizens who are able to 
+empathize with different viewpoints. 
+A consideration of multiple perspectives promotes empathy in the past and pre-
+sent through a combination of thinking and feeling. Studies of historical empathy have 
+shown that when students are provided sources that reflect a wide range of perspectives 
+on a topic, they demonstrate more complexity in their thinking (Doppen, 2000; Endacott, 
+2010; Foster, 1999; Yeager & Doppen, 2001). Virta and Kouki’s (2014) research findings 
+support the argument that perspective-taking is related to the affective dimension, as 
+Finnish students were more engaged when considering various perspectives surrounding 
+emotional and controversial issues in their country’s history. Considering different pers-
+pectives can help students understand just how many factors and emotions can influence 
+the process of forming ideas, making decisions, and acting upon them, both in the past 
+and present. As Endacott and Brooks (2013) pointed out, historical figures did not always 
+apply logic or reason when making decisions, so the affective elements of historical 
+empathy allow students to imagine the emotions and feelings (i.e., fear, love, hate) that 
+motivated people to act in certain ways. 
+Teachers should also be aware of whose perspectives are represented when 
+students study the past. For instance, in their critical analysis of the film series Canada: 
+A People’s History which is widely used as a teaching resource in Canada, Bryant and 
+Clark (2006) described how the film only portrays the perspective of Europeans and their 
+opinions of Indigenous peoples. As they explain, “The result is an empathetic distance 
+
+
+===== PAGE 15 =====
+
+Historical Empathy	
+94
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+from Aboriginal peoples and a sense of proximity to Europeans” (p. 1052). Therefore, 
+teachers should think critically about the resources they use, to ensure they represent di-
+verse perspectives to foster empathy in their students (with equally diverse perspectives). 
+Presenting students with past perspectives different from their own can also encourage 
+open-mindedness. As Davison (2017) explained, this may “help students to understand 
+unfamiliar perspectives in the present” (p. 82). In this way, studying historical perspec-
+tives is essential to developing more engaged citizens who value diversity and acceptance 
+in the present.
+Understanding past perspectives is a key part of historical empathy that draws 
+from cognitive and affective processes. Teachers can engage students in a range of 
+classroom activities that have been found to promote perspective taking, including third-
+person writing tasks (De Leur et al., 2017), discussions (Brooks, 2011; Doppen, 2000; 
+Kohlmeier, 2006), debates (Jensen, 2008), simulations (Rantala, 2011), and field trips 
+(Cunningham, 2007). By examining historical perspectives, students learn to recognize 
+multiple points of view, understand and appreciate different perspectives, and think 
+critically about the consequences of one’s actions. These outcomes have the potential to 
+enhance historical thinking in Canada and create more accepting, open-minded citizens 
+who are willing to engage with diverse perspectives in the present. But it is not enough to 
+gain an understanding of historical perspectives; historical empathy also involves making 
+ethical judgements about what transpired in the past.
+Ethical Judgements
+Historical empathy involves forming judgements about past perspectives and decisions, 
+yet judging the past on its own terms can be difficult for students. By forming ethical jud-
+gements—defined here as the process of making decisions about an appropriate course 
+of action based on social and personal conceptions of right and wrong—students can find 
+contemporary relevance and meaning. This element of historical empathy is closely rela-
+ted to the ethical dimension of historical thinking included in Seixas and Morton’s (2013) 
+framework, which is less frequently taught in history classes or studied by researchers 
+(Gibson, 2014; Milligan et al., 2018). Through a renewed focus on ethical judgements, as 
+a central component of historical empathy, Canadian students can develop historical thin-
+king and learn to draw connections between the past, present, and future.
+
+
+===== PAGE 16 =====
+
+Historical Empathy	
+95
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Although many historians make ethical judgements when studying the past, 
+concerns have been raised about students making unwarranted judgements or drawing 
+direct lessons for the present (Boix-Mansilla, 2000; Lévesque, 2008; Seixas & Morton, 
+2013). Therefore, when judging the actions of people in the past, it is important to exer-
+cise caution and avoid judgements solely based on contemporary worldviews. However, 
+it can be difficult for students to remove themselves from present-day perspectives which 
+involve the benefit of hindsight—knowledge about the consequences of actions taken in 
+the past (Wineburg, 2001). It is here that the “contemporary context,” discussed earlier in 
+relation to contextualization, can be implemented. By critically assessing their own posi-
+tionalities, students can better understand how their beliefs in the present contribute to the 
+judgements they make about the past (VanSledright, 2001). As Retz (2013) asserted, “our 
+understanding of people in the past will only acquire meaning in our lives when our ques-
+tioning of them occurs hand-in-hand with a questioning of ourselves” (p. 224).
+Through guiding students to consider evidence and historical contexts carefully, 
+teachers can support their students in uncovering the values and norms of a particular 
+period. It is within these norms of the time that fair judgements about past thoughts, 
+beliefs, and actions can be made. However, as Seixas and Morton (2013) noted, “if you 
+find out there were some people who acted against the norms of the time period, it is 
+proof that it was possible to see things differently” (p. 177, emphasis in original). To use 
+a commonly cited historical example relevant to history education in Canada (Lévesque, 
+2008; Metzger, 2012), students should not judge the Nazis’ genocidal policies as simply 
+reflective of everyone’s beliefs during the time because some Germans thought differently 
+and hid their Jewish neighbours. This highlights the importance of considering the wider 
+context of the time when empathizing and forming judgements about past actions.
+Forming ethical judgements also highlights connections between the past, pre-
+sent, and future. In other words, ethical judgements are an element of historical empa-
+thy that contribute to the development of historical consciousness, an understanding of 
+the temporality of historical experience (Seixas, 2006). Connecting the past to present 
+and future dimensions allows students to consider “how the past they encounter in and 
+out of schools informs present social choices and future preferable destinations” (den 
+Heyer, 2017, p. 6). For instance, present controversies surrounding the commemoration 
+of historical figures tied to histories of colonization and genocide, such as Sir John A. 
+MacDonald in Canada, involve ethical judgements of past actions that have far-reaching 
+
+
+===== PAGE 17 =====
+
+Historical Empathy	
+96
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+consequences for the present and future (Gibson, 2017, 2021; Milligan et al., 2018). In 
+these situations, historical empathy encourages students not only to contextualize past 
+actions, analyze relevant evidence, and infer missing details, but it also evokes an ethical 
+response. In a classroom study, Metzger (2012) found that the knowledge students gained 
+about the Holocaust was inseparable from the “moral lessons” they drew for living in 
+the present. Ethical judgements, then, are just as much about understanding the present 
+as they are about understanding the past. In this way, the ethical dimensions of historical 
+thinking support the development of historical empathy by shifting away from an exclu-
+sive focus on past perspectives to consider their implications for the present and future.
+As shown by scholars such as Barton and Levstik (2004), students are typically 
+more engaged by approaches to learning that involve emotional or ethical responses to 
+the past. Barton and Levstik cited many examples in which students in the United States 
+and Northern Ireland exhibited strong emotions, becoming “outraged” when they learned 
+about people “who suffered brutality…and who were denied rights to which we believe 
+they were entitled” (p. 97). Virta and Kouki (2014) also found that controversial issues 
+involving morals and emotions were interesting to students when learning about the past. 
+As Endacott and Brooks (2013) noted, teachers should guide students to make “moral 
+decisions” by providing them with opportunities to openly react to historical content 
+and reflect on how decisions and behaviours in the past have long-lasting implications 
+for the present and future. As a result, students may be better prepared to reflect on the 
+consequences of their own actions and make ethical decisions in the present and future, 
+as responsible citizens.
+Despite some of the challenges involved in forming ethical judgements, they play 
+a significant role in the development of historical empathy. While attempting to unders-
+tand historical actors, students can improve their historical thinking by situating historical 
+perspectives within the values and norms of the time and considering the meaning of past 
+decisions in the present. Ultimately, making informed judgements on ethical issues in the 
+past allows students to reflect on the consequences of their own actions in the present. 
+A focus on ethical responses highlights how the past, present, and future are connected, 
+making learning more meaningful. 
+
+
+===== PAGE 18 =====
+
+Historical Empathy	
+97
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Caring
+Embracing the affective elements of historical empathy has the potential to extend and 
+improve current approaches to historical thinking in Canada. In making this argument, I 
+adopt Barton and Levstik’s (2004) four varieties of care in history education: (1) caring 
+about people and events in the past, (2) caring that particular events took place, (3) 
+caring for people in history who have suffered injustices or oppression, and (4) caring to 
+change our beliefs and behaviours in the present in light of studying the past. According 
+to Barton and Levstik (2004), “care is a term that covers a variety of related meanings, 
+but each involves some relationship between learners and the object of study, and these 
+relationships often include emotional commitments or feelings or personal relevance” (p. 
+229, emphasis in original). Caring—and the range of emotions and feelings that may flow 
+from it—engage students in wanting to learn about the past and to apply their learning 
+both within and beyond the history classroom. 
+Caring about the past plays a crucial role in engaging students in historical empa-
+thy, through addressing topics that interest students. In their classroom studies, Barton 
+and Levstik (2004) found that students cared about emotional circumstances in the past 
+and topics with personal family connections. Teaching about the history of children and 
+adolescents is also meaningful, as students can empathize with someone their own age 
+who lived in a different time and place. For instance, in one study students became highly 
+engaged in learning about the experiences of children in war from a museum exhibit 
+(Savenije & de Bruijn, 2017). Wineburg (2001) provided a rationale for such connec-
+tions: “we need to feel kinship with the people we study, for this is exactly what engages 
+our interest and makes us feel connected” (p. 6). In general, the questions we ask about 
+the past are informed by our own experiences in the present, as well as our concerns 
+about the future. 
+Caring that particular historical events occurred allows students to develop their 
+own responses to the past, including ethical responses. One of the strongest early cri-
+tiques against caring involved the belief that the affective element can easily overpower 
+the cognitive processes of historical thinking (Foster, 1999; Lee, 1984). On the contrary, 
+classroom studies have shown that affective and cognitive processes can be complementa-
+ry to one another. For instance, Barton and Levstik (2004) found that students were able to 
+understand historical perspectives by examining evidence and drawing inferences, but this 
+
+
+===== PAGE 19 =====
+
+Historical Empathy	
+98
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+did not stop them from forming judgements about the past based on their reactions in the 
+present. When learning about the Salem witch trials, students understood that past perspec-
+tives on witchcraft and legal processes were different than contemporary views, but they 
+did not accept the methods used to determine if someone was a witch (e.g., drowning). In 
+this way, caring that certain events happened allows students to evaluate the consequences 
+of past decisions and consider how they might act differently in the present.
+Caring for people in the past involves responding to their suffering, injustice, or 
+oppression. In Barton and Levstik’s (2004) classroom studies, students often expressed a 
+desire for retrospective justice. When learning about the Holocaust, one student wished 
+they could “punch Hitler in the face,” while others wanted to travel back in time in order 
+to “do something” to save the Jews (p. 235). Thus, caring for others is similar to the type 
+of care found in everyday life. Students want to do something to change the way events 
+unfolded in the past because they cared for the well-being of others, even if they lived 
+long ago. As Noddings (2002) explained while conceptualizing the role of caring in cha-
+racter education, “an emphasis on…students’ interest in the subject matter to be studied, 
+and the connections between classroom life and that of the larger world provides the 
+foundation for our attempts to produce moral people” (p. 85). The historical dimension of 
+care is no exception. Through caring for historical actors, students may develop the desire 
+to affect change on issues of ethical concern in the present.
+Caring to change our present values, beliefs, and actions in light of studying the 
+past is a significant outcome of historical empathy. Barton and Levstik (2004) asserted, 
+“If they [students] do not care to use history in the present, then we should put away our 
+packets of primary sources” (p. 238). This being said, there are currently only a few stu-
+dies that reveal how students have translated their empathy toward people in the past to 
+empathy toward people in the present (De Leur et al., 2015; Jun, 2020; Kohlmeier, 2006). 
+Nevertheless, these studies discovered that the ways in which students demonstrate caring 
+is shaped by their own background and experiences. For example, Kohlmeier (2006) 
+found that female and male high school students expressed concerns that women in the 
+past were treated unfairly and cared about their experiences and perspectives. Important-
+ly, students of both genders expressed a desire to change how women are treated in dif-
+ferent contexts moving forward. Thus, caring has the potential to bridge different unders-
+tandings and experiences of the past, based on gender and other factors.
+
+
+===== PAGE 20 =====
+
+Historical Empathy	
+99
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Since affective elements of learning about the past have been largely ignored in 
+historical thinking in Canada, I propose that we consider more seriously the potential of 
+a caring approach to historical empathy. Providing an educational space to explore emo-
+tions and feelings can encourage us to “see differently” (Boler, 1999). In other words, 
+caring about perspectives different from one’s own and thinking critically about them can 
+lead to more complex and multi-layered understandings of others. For instance, decoloni-
+zation is an issue of contemporary significance with deep ties to the past that is especially 
+relevant to all of us living on the land that is now referred to as Canada. Settler students 
+from all backgrounds should have opportunities to care about the experiences of Indige-
+nous peoples in the past, care that they have suffered injustices, care for their well-being 
+in the past and present, and care to change relationships with Indigenous peoples. There 
+are connections to Donald’s (2012) work on ethical relationality, as caring in history can 
+encourage students to “acknowledge and honour the significance of the relationships we 
+have with others, how our histories and experiences position us in relation to each other, 
+and how our futures as people in the world are tied together” (p. 536). 
+In fostering opportunities for increased engagement with Indigenous histories, 
+teachers should be aware that some scholars (Simon, 2004, 2013; Taylor, 2018) have iden-
+tified concerns about the role of feelings and emotions in studying “difficult knowledge” 
+(Britzman, 1998). Simon (2013) cautioned against assuming that hearing personal nar-
+ratives of violence and pain will necessarily lead to empathy among students, or a sense 
+of being implicated in ongoing colonialism. In fact, depending on how they are taken up 
+in the classroom, affective connections could do more harm than good, creating a “spec-
+tacle of suffering” (Simon, 2004, p. 190). With this in mind, affective responses to the 
+past should evoke “a sense of civic responsibility and renewing relations of trust” (Simon, 
+2013, p. 135)—an active response that involves fundamentally changing relationships and 
+structures while working towards reconciliation. At the same time, teachers should also 
+recognize that some students, particularly those from marginalized communities, may care 
+deeply about the difficult histories discussed in class because of their personal and family 
+connections. Therefore, it is important for teachers to be sensitive to how their students’ 
+backgrounds and experiences inform the many ways they come to care.
+A theory of historical empathy that emphasizes affective dimensions can develop 
+informed, caring citizens who are willing to enact change. In order for teachers to engage 
+students in history and ensure their learning is relevant, students need to care about the 
+
+
+===== PAGE 21 =====
+
+Historical Empathy	
+100
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+past and how it impacts the present and future. The affective dimension of care holds a 
+great deal of potential for fostering solidarity and relationality among different groups 
+and communities, through learning to empathize with different perspectives. 
+Conclusions
+In this article I have argued for increased attention to historical empathy within history 
+education research and curriculum in Canada. In doing so, I have highlighted a need for 
+greater engagement with the affective dimensions of history, which exist in classrooms 
+whether teachers plan for them or not. To support educators in implementing a cognitive-
+affective approach to history education, I presented a theory of historical empathy that 
+contributes to many learning outcomes. When students are guided to examine evidence 
+and consider past and present contexts, they build their historical thinking capacities and 
+become more reflexive, critical thinkers. Applying an informed historical imagination to 
+fill gaps in evidence allows students to consider a wide variety of perspectives, especially 
+those of marginalized groups. Understanding such diverse historical perspectives through 
+a cognitive-affective approach can develop open-mindedness toward multiple points of 
+view in the present. These connections between the past, present, and future, are also 
+made by students when forming ethical judgements about historical perspectives, thereby 
+deepening their historical consciousness. Caring engages students in learning about the 
+past in the first place and can contribute toward fostering empathetic citizens who are wil-
+ling to affect change in the present.
+As previously mentioned, this theory of historical empathy is more comprehen-
+sive than others offered to date because it draws together and comments on research 
+from many scholars over the last several decades. My hope is that by providing detailed 
+attention to each element—rather than subsuming some elements within others as has 
+been done in the past (notably, imagination and ethical judgements)—history education 
+researchers in Canada can better understand how historical empathy can contribute to 
+various approaches to history education. Likewise, if we are to move past the idea that 
+historical empathy is too ambiguous for school history and may cause conceptual confu-
+sion, teachers require a clear theoretical framework to guide their lesson designs. As a 
+result, they may pay closer attention to relationships between the cognitive and affective 
+
+
+===== PAGE 22 =====
+
+Historical Empathy	
+101
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+dimensions of history and provide space for each of these five elements in their lessons. 
+The substance of such lessons on historical empathy, both within and beyond the history 
+classroom, is ripe for further inquiry within Canadian contexts.
+This theory of historical empathy has also been positioned within history education 
+research that is aligned with various approaches and purposes in Canada. With regard to 
+historical thinking, this theory of historical empathy draws attention to some of the limita-
+tions of historical thinking as it is currently conceptualized. In particular, greater emphasis 
+on the affective dimensions of historical thinking is warranted moving forward. Historical 
+empathy also offers great potential for furthering citizenship education outcomes. Future 
+empirical studies may help us move toward understanding how cognitive and affective 
+elements can work together to foster empathy, care, and open-mindedness, as well as 
+students’ willingness to affect change. Though I have pointed to a few ways in which his-
+torical empathy may support reconciliation and building solidarity among various groups 
+and communities in Canada, there is a clear need for more research in this area.
+References
+Anderson, S. (2017). The stories nations tell. Sites of pedagogy, historical consciousness, 
+and national narratives. Canadian Journal of Education/Revue canadienne de 
+l’éducation, 40(1), 1–38. https://journals.sfu.ca/cje/index.php/cje-rce/article/view/2143 
+Ashby, R., & Lee, P. (1987). Children’s concepts of empathy and understanding in his-
+tory. In C. Portal (Ed.), The history curriculum for teachers (pp. 62–88). Falmer.
+Bartelds, H., Savenije, G. M., & van Boxtel, C. (2020). Students’ and teachers’ beliefs 
+about historical empathy in secondary history education. Theory & Research in 
+Social Education, 48(4), 529–551. https://doi.org/10.1080/00933104.2020.18081
+31
+Barton, K. C., & Levstik, L. S. (2004). Teaching history for the common good. Lawrence 
+Erlbaum Associates. 
+Blake, C. (1998). Historical empathy: A response to Foster and Yeager. International 
+Journal of Social Education, 13(1), 25–31. 
+
+
+===== PAGE 23 =====
+
+Historical Empathy	
+102
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Boix-Mansilla, V. (2000). Historical understanding: Beyond the past and into the present. 
+In P. N. Stearns, P. Seixas, & S. Wineburg (Eds.), Knowing, teaching and learning 
+history: National and international perspectives (pp. 390–418). New York Uni-
+versity.
+Boler, M. (1999). Feeling power: Emotions and education. Routledge.
+Britzman, D. P. (1998). Lost subjects, contested objects: Toward a psychoanalytic inquiry 
+of learning. University of New York Press.
+Broad, G. (2017). One in a thousand: The life and death of Captain Eddie McKay, Royal 
+Flying Corps. University of Toronto Press.
+Brooks, S. (2008). Displaying historical empathy: What impact can a writing assignment 
+have? Social Studies: Research and Practice, 3(2), 130–146. 
+Brooks, S. (2009). Historical empathy in the social studies classroom: A review of the 
+literature. The Journal of Social Studies Research, 33(2), 213–234.
+Brooks, S. (2011). Historical empathy as perspective recognition and care in one secon-
+dary social studies classroom. Theory & Research in Social Education, 39(2), 
+166–202. https://doi.org/10.1080/00933104.2011.10473452
+Brophy, J. (1999). Elementary students learn about Native Americans: The development 
+of knowledge and empathy. Social Education, 63(1), 39–45. 
+Bryant, D., & Clark, P. (2006). Historical empathy and “Canada: A people’s history,” 
+Canadian Journal of Education/Revue Canadienne de l’éducation, 29(4), 1039–
+1063. https://journals.sfu.ca/cje/index.php/cje-rce/article/view/2931 
+Clark, P. (2011). Introduction. In P. Clark (Ed.), New possibilities for the past: Shaping 
+history education in Canada (pp. 1–30). University of British Columbia Press.
+Clark, P. (2018). History education debates: Canadian identity, historical thinking and 
+historical 
+consciousness. Identity, Heritage and Historical Thinking, 194(788), 1–13.
+Clark, P., & Sears, A. (2020). The arts and the teaching of history: Historical f(r)ictions. 
+Palgrave.
+
+
+===== PAGE 24 =====
+
+Historical Empathy	
+103
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Colby, S. R. (2010). Contextualization and historical empathy: Seventh-graders’ inter-
+pretations of primary documents. Curriculum and Teaching Dialogue, 12(1/2), 
+69–83. 
+Cunningham, D. L. (2007). Understanding pedagogical reasoning in history teaching 
+through the case of cultivating empathy. Theory & Research in Social Education, 
+35(4), 592–630. https://doi.org/10.1080/00933104.2007.10473352
+Cutrara, S. A. (2018). The settler grammar of Canadian history curriculum: Why histori-
+cal thinking is unable to respond to the TRC’s calls to action. Canadian Journal 
+of Education/Revue canadienne de l’éducation, 41(1), 250–275. https://journals.sfu.ca/cje/
+index.php/cje-rce/article/view/3156 
+Cutrara, S. (2020). Transforming the Canadian history classroom: Imagining a new 
+“we.” University of British Columbia Press.
+D’Adamo, L., & Fallace, T. (2011). The multigenre research project: An approach to 
+developing historical empathy. Social Studies Research & Practice, 6(1), 75–88. 
+https://doi.org/10.1108/SSRP-01-2011-B0005
+Davis, O. L., Jr. (2001). In pursuit of historical empathy. In O. L. Davis, Jr., E. A. Yeager, 
+& S. J. Foster (Eds.), Historical empathy and perspective taking in the social stu-
+dies (pp. 1–11). Rowman & Littlefield.
+Davison, M. (2017). Teaching about the First World War today: Historical empathy and 
+participatory citizenship. Citizenship, Social and Economics Education, 16(3), 
+148–156. https://doi.org/10.1177/2047173417736906
+De Leur, T., Van Boxtel, C., & Wilschut, A. (2015). “Just imagine…”: Students’ perspec-
+tives on empathy tasks in secondary history education. International Journal of 
+Historical Learning Teaching and Research, 13(1), 69–84. https://doi.org/10.1080
+/00071005.2017.1291902
+De Leur, T., Van Boxtel, C., & Wilschut, A. (2017). “I saw angry people and broken sta-
+tues”: Historical empathy in secondary history education. British Journal of Edu-
+cational Studies, 65(3), 331–352. https://doi.org/10.1080/00071005.2017.1291902
+
+
+===== PAGE 25 =====
+
+Historical Empathy	
+104
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+den Heyer, K. (2017). Doing better than just falling forward: Linking subject mat-
+ter with explicit futures thinking. One World in Dialogue, 4(1), 5–10. 
+https://ssc.teachers.ab.ca/SiteCollectionDocuments/OneWorldInDialogue/
+OneWorldinDialogue_2016Vol4No1/den Heyer.pdf 
+Donald, D. (2012). Indigenous Métissage: A decolonizing research sensibility. Internatio-
+nal Journal of Qualitative Studies in Education, 25(5), 533–555. http://dx.doi.org/10.10
+80/09518398.2011.554449 
+Doppen, F. H. (2000). Teaching and learning multiple perspectives: The atomic bomb. 
+The Social Studies, 91, 159–69. https://doi.org/10.1080/00377990009602461
+Dulberg, N. (2002, April 1–5)). Engaging in history: Empathy and perspective-taking in 
+children’s historical thinking [Conference presentation]. Annual meeting of the 
+American Educational Research Association, New Orleans, LA. https://files.eric.
+ed.gov/fulltext/ED474135.pdf
+Duquette, C. (2015). Relating historical consciousness to historical thinking through as-
+sessment. In K. Ercikan & P. Seixas (Eds.), New directions in assessing historical 
+thinking (pp. 51–63). Routledge.
+Duquette, C. (2021). Quelle place pour l’empathie tant historique que géographie en uni-
+vers social? Enjeux de l’univers social, 17(1), 4.
+Endacott, J. L. (2010). Reconsidering affective engagement in historical empathy. Theory 
+& Research in Social Education, 38(1), 6–47. https://doi.org/10.1080/00933104.2
+010.10473415
+Endacott, J. L., & Brooks, S. (2013). An updated theoretical and practical model for pro-
+moting historical empathy. Social Studies Research and Practice, 8(1), 41–58. 
+Endacott, J. L., & Brooks, S. (2018). Historical empathy: Perspectives and responding to 
+the past. In S. A. Metzger & L. M. Harris (Eds.), The Wiley international hand-
+book of history teaching and learning (pp. 203–225). John Wiley & Sons.
+Field, S. L. (2001). Perspectives and elementary social studies: Practice and promise. In 
+O. L. Davis, Jr., E. A. Yeager, & S. J. Foster (Eds.), Historical empathy and pers-
+pective taking in the social studies (pp. 115–138). Rowman & Littlefield. 
+
+
+===== PAGE 26 =====
+
+Historical Empathy	
+105
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Foster, S. J. (1999). Using historical empathy to excite students about the study of histo-
+ry: Can you empathize with Neville Chamberlain? The Social Studies, 90, 18–24. 
+https://doi.org/10.1080/00377999909602386 
+Foster, S. J., & Yeager, E. A. (1998). The role of empathy in the development of historical 
+understanding. International Journal of Social Education, 13(1), 1–7. 
+Friesen, G. (2011). The shape of historical thinking in a Canadian history survey course 
+in university. In P. Clark (Ed.), New possibilities for the past: Shaping history 
+education in Canada (pp. 210–223). University of British Columbia Press.
+Gaddis, J. L. (2002). The landscape of history: How historians map the past. Oxford Uni-
+versity Press.
+Garrett, H. J. (2017). Learning to be in the world with others: Difficult knowledge & 
+social studies education. Peter Lang.
+Gibson, L. (2014). Understanding ethical judgments in secondary school history classes 
+[Unpublished doctoral dissertation]. University of British Columbia. https://
+dx.doi.org/10.14288/1.0167573 
+Gibson, L. (2017). The ethical dimension of Canadian commemoration controversies. 
+Canadian Social Studies, 49(2), 15–19. https://www.canadiansocialstudies.ca/
+index.php/css/article/download/8/8 
+Gibson, L. (2021). The case for commemoration controversies in Canadian history edu-
+cation. Canadian Journal of Education/Revue Canadienne de l’éducation, 44(2), 
+434–465. https://doi.org/10.53967/cje-rce.v44i2.4451 
+Gibson, L., & Case, R. (2019). Reshaping Canadian history education in support of 
+reconciliation. Canadian Journal of Education/Revue Canadienne de l’éducation, 
+42(1), 251–284. https://journals.sfu.ca/cje/index.php/cje-rce/article/view/3591 
+Griffith, J. (2019). Settler colonial archives: Some Canadian contexts. Settler Colonial 
+Studies, 9(3), 320–340. https://doi.org/10.1080/2201473X.2018.1454699 
+Jensen, J. (2008). Developing historical empathy through debate: An action research 
+study. Social Studies Research and Practice, 3(1), 55–66. http://doi.org/10.1108/
+ssrp-01-2008-b0004
+
+
+===== PAGE 27 =====
+
+Historical Empathy	
+106
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Judson, G., & Egan, K. (2013). An imaginative approach to teaching history. Antistasis, 
+3(1), 9–11.
+Jun, H. (2020). “I think the comfort women are us”: National identity and affec-
+tive historical empathy in students’ understanding of “comfort women” in 
+South Korea. The Journal of Social Studies Research, 44(1), 7–19. https://doi.
+org/10.1016/j.jssr.2019.09.005 
+Karn, S. (2021, April 13). Embracing historical empathy. Canadian Historical Asso-
+ciation. https://cha-shc.ca/teaching/teachers-blog/embracing-historical-empa-
+thy-2021-04-13.htm 
+Knight, P. (1989). Empathy: Concept, confusion and consequences in a national curricu-
+lum. Oxford Review of Education, 15(1), 41–53. 
+Kohlmeier, J. (2006). “Couldn’t she just leave?”: The relationship between consistently 
+using class discussions and the development of historical empathy in a 9th grade 
+world history course. Theory & Research in Social Education, 24(1), 34–57. 
+https://doi.org/10.1080/00933104.2006.10473297 
+Lee P. J. (1984). Historical imagination. In A. K. Dickinson, P. J. Lee, & P. J. Rogers 
+(Eds.), Learning history (pp. 85–116). Heinemann. 
+Lee, P. J., & Ashby, R. (2001). Empathy, perspective taking, and rational understanding. 
+In O. L. Davis, Jr., E. A. Yeager, & S. J. Foster (Eds.), Historical empathy and 
+perspective taking in the social studies (pp. 21–50). Rowman & Littlefield.
+Lévesque, S. (2008). Thinking historically: Educating students for the 21st century. Uni-
+versity of Toronto Press.
+Lévesque, S. (2011). What it means to think historically. In P. Clark (Ed.), New possibili-
+ties for the past: Shaping history education in Canada (pp. 115–138). University 
+of British Columbia Press.
+Levstik, L. S. (2001). Crossing the empty spaces: Perspective taking in New Zealand 
+adolescents’ understanding of national history. In O. L. Davis, Jr., E, A. Yeager, & 
+S. J. Foster (Eds.), Historical empathy and perspective taking in the social studies 
+(pp. 69–96). Rowman & Littlefield. 
+
+
+===== PAGE 28 =====
+
+Historical Empathy	
+107
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Marker, M. (2011). Teaching history from an Indigenous perspective. In P. Clark 
+(Ed.), New possibilities for the past: Shaping history education in Canada (pp. 
+98–112). University of British Columbia Press.
+McGregor, H. (2017). One classroom, two teachers: Historical thinking and Indigenous 
+education in Canada. Critical Education, 8(14), 1–18. https://doi.org/10.14288/
+ce.v8i14.186182 
+Metzger, S. A. (2012). The borders of historical empathy: Students encounter the Holo-
+caust through film. Journal of Social Studies Research, 36(4), 387–410. 
+Miles, J. (2018). Teaching history for truth and reconciliation: The challenges and oppor-
+tunities of narrativity, temporality, and identity. McGill Journal of Education/
+Revue des sciences de l’éducation de McGill, 53(2), 294–311. https://mje.mcgill.
+ca/article/view/9495 
+Milligan, A., Gibson, L., & Peck, C. (2018). Enriching ethical judgments in history edu-
+cation. Theory & Research in Social Education, 46(3), 449–479. https://doi.org/10
+.1080/00933104.2017.1389665 
+Noddings, N. (2002). Educating moral people. Westview.
+Osborne, K. (1995). In defence of history: Teaching the past and the meaning of demo-
+cratic citizenship. Our Schools/Our Selves Foundation.
+Osborne, K. (1996). Education is the best national insurance: Citizenship education in 
+Canadian schools, past and present. Canadian and International Education, 25(2), 
+31–58.
+Peck, C. (2011). Ethnicity and students’ historical understandings. In P. Clark (Ed.), New 
+possibilities for the past: Shaping history education in Canada (pp. 305–324). 
+University of British Columbia Press.
+Portal, C. (1987). Empathy as an objective for history teaching. In C. Portal (Ed.), The 
+history curriculum for teachers (pp. 89–99). Falmer Press.
+Rantala, J. (2011). Assessing historical empathy through simulation: How do Finnish 
+teacher students achieve contextual historical empathy? Nordidactica: Journal of 
+Humanities and Social Science Education, 1, 58–76.
+
+
+===== PAGE 29 =====
+
+Historical Empathy	
+108
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Retz, T. (2013). A moderate hermeneutical approach to empathy in history education. 
+Educational Philosophy and Theory, 45(11), 1–13. https://doi.org/10.1080/00131
+857.2013.838661 
+Retz, T. (2018). Empathy and history: Historical understanding in re-enactment, herme-
+neutics 	
+and education. Berghahn Books. 
+Riley, K. L. (2001). The Holocaust and historical empathy: The politics of understanding. 
+In O. L. Davis, Jr., E. A. Yeager, & S. J. Foster (Eds.), Historical empathy and 
+perspective taking in the social studies (pp. 139–166). Rowman & Littlefield. 
+Savenije, G., & de Bruijn, P. (2017). Historical empathy in a museum: Uniting contex-
+tualisation and emotional engagement. International Journal of Heritage Stu-
+dies, 23(9), 832–845. https://doi.org/10.1080/13527258.2017.1339108 
+Sears, A. (2011). Historical thinking and citizenship education: It is time to end the war. 
+In P. Clark (Ed.), New possibilities for the past: Shaping history education in 
+Canada (pp. 344–364). University of British Columbia Press.
+Seixas, P. (1996). Conceptualizing the growth of historical understanding. In D. R. Olson, 
+& N. Torrance (Eds.), The handbook of education and human development (pp. 
+765–783). Blackwell Publishers.
+Seixas, P. (2004). Introduction. In P. Seixas (Ed.), Theorizing historical consciousness 
+(pp. 3–24). University of Toronto Press. 
+Seixas, P. (2006). What is historical consciousness? In R.W. Sandwell (Ed.), To the past: 
+History education, public memory, and citizenship education in Canada (pp. 11–
+22). University of Toronto Press.
+Seixas, P. (2012). Indigenous historical consciousness: An oxymoron or a dialogue? In M. 
+Carretero, M. Ascensio, & M. Rodrígue-Moneo (Eds.), History education and the 
+construction of national identities (pp. 125–138). Information Age.
+Seixas, P. (2017). A model of historical thinking. Educational Philosophy and Theory, 
+49(5), 593–605. https://doi.org/10.1080/00131857.2015.1101363 
+Seixas, P., & Morton, T. (2013). The big six historical thinking concepts. Nelson Educa-
+tion.
+
+
+===== PAGE 30 =====
+
+Historical Empathy	
+109
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Simon, R. I. (2004). The pedagogical insistence of public memory. In P. Seixas (Ed.), 
+Theorizing historical consciousness (pp. 183–201). University of Toronto Press.
+Simon, R. I. (2013). Worrying together: The problematics of listening and the educative 
+responsibilities of Canada’s TRC. In J. Henderson, & P. Wakeham (Eds.), Re-
+conciling Canada: Critical perspectives on the culture of redress (pp. 129-–142). 
+University of Toronto Press.
+Stanley, T. J. (2000). Why I killed Canadian history: Conditions for an anti-racist history 
+in Canada. Social History/Histoire sociale, 33(65), 79–103. https://hssh.journals.
+yorku.ca/index.php/hssh/article/view/4598/3792 
+Stockley, D. (1983). Empathetic reconstruction in history and history teaching. History 
+and Theory, 22(4), 50–65. 
+Stoler, L. A. (2009). Along the archival grain: Epistemic anxieties and colonial common 
+sense. Princeton University Press.
+Taylor, L. K. (2018). Pedagogies of remembrance and “doing critical heritage” in the tea-
+ching of history: Counter-memorializing Canada 150 with future teachers. Jour-
+nal of Canadian Studies, 52(1), 217–248. https://doi.org/10.3138/jcs.2017-0056.r2 
+Turner, A. (1998). “It would have been bad”: The development of historical imagi-
+nation and empathy in a group of secondary aged pupils with severe learning 
+difficulties. British Journal of Special Education, 25(4), 164–167. https://doi.
+org/10.1111/1467-8527.00080
+VanSledright, B. A. (2001). From empathetic regard to self-understanding: Im/positiona-
+lity, empathy, and historical contextualization. In O. L. Davis, Jr., E. A. Yeager, & 
+S. J. Foster (Eds.), Historical empathy and perspective taking in the social studies 
+(pp. 51–68). Rowman & Littlefield.
+Virta, A., & Kouki, E. (2014). Dimensions of historical empathy in upper secondary 
+students’ essays. Nordidactica: Journal of Humanities and Social Science Educa-
+tion, 2, 137–160. 
+Wallace-Casey, C. (2022). Teaching and learning the legacy of residential schools for 
+remembering and reconciliation in Canada. History Education Research Journal, 
+19(1), 1–18. https://doi.org/10.14324/HERJ.19.1.04 
+
+
+===== PAGE 31 =====
+
+Historical Empathy	
+110
+Canadian Journal of Education / Revue canadienne de l’éducation
+www.cje-rce.ca
+Wineburg, S. (2001). Historical thinking and other unnatural acts: Charting the future of 
+teaching the past. Temple University Press.
+Yeager, E. A., & Doppen, F. H. (2001). Teaching and learning multiple perspectives on 
+the use of the atomic bomb: Historical empathy in the secondary classroom. In O. 
+L. Davis, Jr., 
+E. A. Yeager, & S. J. Foster (Eds.), Historical empathy and perspective taking in the 
+social studies (pp. 97–114). Rowman & Littlefield. 
+Yeager, E. A., & Foster, S. J. (2001). The role of empathy in the development of historical 
+understanding. In O. L. Davis, Jr., E. A. Yeager, & S. J. Foster (Eds.), Historical 
+empathy and perspective taking in the social studies (pp. 13–19). Rowman & Litt-
+lefield. 
+Yilmaz, K. (2007). Historical empathy and its implication for classroom practices in 
+schools. The History Teacher, 40(3), 331–337. https://doi.org/10.2307/30036827 

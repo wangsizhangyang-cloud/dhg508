@@ -1,0 +1,59 @@
+[
+  {
+    "file": "odonnell_2026_ludonarrative.txt",
+    "checks": [
+      {
+        "term": "purposeful alignment of mechanical action",
+        "found": true,
+        "page": "7",
+        "snippet": "LC.    This design creates what this paper terms ludonarrative consonance — the purposeful  alignment of mechanical action and historical meaning. Where ludonarrative dissonance [28]  describes the mismatch between a game's mechanical logic and its narrative claims, consonance  describes the conditi"
+      }
+    ]
+  },
+  {
+    "file": "fagan_2023_counterfactual_military.txt",
+    "checks": [
+      {
+        "term": "akin to playing a board game",
+        "found": true,
+        "page": "14",
+        "snippet": " “exuberant” counterfactual history is  no more than implausible extrapolation, akin to playing a board  game with history-shaped pieces. Yet Evans considers that even  the more “restrained” counterfactual history also suffers from  an inherent weakness, in that it doesn’t go far beyond revealing  w"
+      }
+    ]
+  },
+  {
+    "file": "park_2023_generative_agents.txt",
+    "checks": [
+      {
+        "term": "memory retrieval model combines",
+        "found": true,
+        "page": "2",
+        "snippet": "ecords, in natural language, a comprehensive list of the agent’s experiences. A memory retrieval model combines relevance, recency, and importance to surface the records needed to inform the agent’s moment-to-moment behavior. The second is reflection, which synthesizes memories into higher- level in"
+      }
+    ]
+  },
+  {
+    "file": "ahn_2024_timechara.txt",
+    "checks": [
+      {
+        "term": "All baselines exhibit confusion",
+        "found": false
+      }
+    ]
+  },
+  {
+    "file": "zhang_2023_chronology_western_zhou.txt",
+    "checks": [
+      {
+        "term": "King You?s reign began",
+        "found": false
+      },
+      {
+        "term": "King You",
+        "found": true,
+        "page": "1",
+        "snippet": "津). The derived chronology reveals a previously unknown  seven-year gap between King You’s 幽王 final year and King Ping’s 平 王 first year, thus explaining the discrepancies between Shi ji 史記 and  the archaeological evidence. This study demonstrates that the Mod- ern Text (jinben 今本) Bamboo Annals 竹書紀年"
+      }
+    ]
+  }
+]
