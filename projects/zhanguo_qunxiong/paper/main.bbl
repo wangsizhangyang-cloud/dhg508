@@ -1,0 +1,251 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global/global}
+    \entry{harnes2025empathy}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d89f6eeea76ad1a96bbf8f5f2fea13}{%
+           family={Harnes},
+           familyi={H\bibinitperiod},
+           given={Helga\bibnamedelima Bj{ø}rke},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d89f6eeea76ad1a96bbf8f5f2fea13}
+      \strng{fullhash}{93d89f6eeea76ad1a96bbf8f5f2fea13}
+      \strng{fullhashraw}{93d89f6eeea76ad1a96bbf8f5f2fea13}
+      \strng{bibnamehash}{93d89f6eeea76ad1a96bbf8f5f2fea13}
+      \strng{authorbibnamehash}{93d89f6eeea76ad1a96bbf8f5f2fea13}
+      \strng{authornamehash}{93d89f6eeea76ad1a96bbf8f5f2fea13}
+      \strng{authorfullhash}{93d89f6eeea76ad1a96bbf8f5f2fea13}
+      \strng{authorfullhashraw}{93d89f6eeea76ad1a96bbf8f5f2fea13}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{History Education Research Journal}
+      \field{number}{1}
+      \field{title}{What Can Empirical Research Tell Us about How to Develop Students' Historical Empathy? {A} Scoping Review}
+      \field{volume}{22}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{18}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.14324/HERJ.22.1.18
+      \endverb
+    \endentry
+    \entry{park2023generative}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=a6d2d4802375c9b3367011ada5e50822}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Joon\bibnamedelima Sung},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68be5ac0dd5152d0d20643ce74ab8b84}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={Joseph\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=673de07fbae5064d6de26518e5578970}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Carrie\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5283a53c5c081c04252a659743f886e1}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Meredith\bibnamedelima Ringel},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=86c032bbc45c3b616f0a1170befc0e82}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Percy},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb1df70dce464605ddd9cf83485d8db1}{%
+           family={Bernstein},
+           familyi={B\bibinitperiod},
+           given={Michael\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{00721d9feeeac4f2c5b88627d28b83cf}
+      \strng{fullhash}{c5ec310abcc981054041fab155e9df12}
+      \strng{fullhashraw}{c5ec310abcc981054041fab155e9df12}
+      \strng{bibnamehash}{c5ec310abcc981054041fab155e9df12}
+      \strng{authorbibnamehash}{c5ec310abcc981054041fab155e9df12}
+      \strng{authornamehash}{00721d9feeeac4f2c5b88627d28b83cf}
+      \strng{authorfullhash}{c5ec310abcc981054041fab155e9df12}
+      \strng{authorfullhashraw}{c5ec310abcc981054041fab155e9df12}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23)}
+      \field{title}{Generative Agents: Interactive Simulacra of Human Behavior}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1145/3586183.3606763
+      \endverb
+    \endentry
+    \entry{tan1982atlas}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fafb899f5b230286902c38fa99b28ebe}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Qixiang\bibnamedelima 譚其驤},
+           giveni={Q\bibinitperiod\bibinitdelim 譚\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Beijing}%
+      }
+      \list{publisher}{1}{%
+        {Ditu chubanshe}%
+      }
+      \strng{namehash}{fafb899f5b230286902c38fa99b28ebe}
+      \strng{fullhash}{fafb899f5b230286902c38fa99b28ebe}
+      \strng{fullhashraw}{fafb899f5b230286902c38fa99b28ebe}
+      \strng{bibnamehash}{fafb899f5b230286902c38fa99b28ebe}
+      \strng{authorbibnamehash}{fafb899f5b230286902c38fa99b28ebe}
+      \strng{authornamehash}{fafb899f5b230286902c38fa99b28ebe}
+      \strng{authorfullhash}{fafb899f5b230286902c38fa99b28ebe}
+      \strng{authorfullhashraw}{fafb899f5b230286902c38fa99b28ebe}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Zhongguo lishi ditu ji}
+      \field{titleaddon}{中國歷史地圖集}
+      \field{usere}{The Historical Atlas of China}
+      \field{year}{1982}
+      \field{dateera}{ce}
+    \endentry
+    \entry{guoyu}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d63f6d7fa269df6a18bbc3445684f41}{%
+           family={{Wei, Zhao, annot. 韋昭注}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Beijing}%
+      }
+      \list{publisher}{1}{%
+        {Zhonghua shuju}%
+      }
+      \strng{namehash}{7d63f6d7fa269df6a18bbc3445684f41}
+      \strng{fullhash}{7d63f6d7fa269df6a18bbc3445684f41}
+      \strng{fullhashraw}{7d63f6d7fa269df6a18bbc3445684f41}
+      \strng{bibnamehash}{7d63f6d7fa269df6a18bbc3445684f41}
+      \strng{authorbibnamehash}{7d63f6d7fa269df6a18bbc3445684f41}
+      \strng{authornamehash}{7d63f6d7fa269df6a18bbc3445684f41}
+      \strng{authorfullhash}{7d63f6d7fa269df6a18bbc3445684f41}
+      \strng{authorfullhashraw}{7d63f6d7fa269df6a18bbc3445684f41}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Guoyu}
+      \field{titleaddon}{國語}
+      \field{usere}{Discourses of the States}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
+    \entry{xunzi}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7529d6e73ad0a167487c3ae284ad0638}{%
+           family={Xun},
+           familyi={X\bibinitperiod},
+           given={Kuang\bibnamedelima 荀況},
+           giveni={K\bibinitperiod\bibinitdelim 荀\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Beijing}%
+      }
+      \list{publisher}{1}{%
+        {Zhonghua shuju}%
+      }
+      \strng{namehash}{7529d6e73ad0a167487c3ae284ad0638}
+      \strng{fullhash}{7529d6e73ad0a167487c3ae284ad0638}
+      \strng{fullhashraw}{7529d6e73ad0a167487c3ae284ad0638}
+      \strng{bibnamehash}{7529d6e73ad0a167487c3ae284ad0638}
+      \strng{authorbibnamehash}{7529d6e73ad0a167487c3ae284ad0638}
+      \strng{authornamehash}{7529d6e73ad0a167487c3ae284ad0638}
+      \strng{authorfullhash}{7529d6e73ad0a167487c3ae284ad0638}
+      \strng{authorfullhashraw}{7529d6e73ad0a167487c3ae284ad0638}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Xunzi}
+      \field{titleaddon}{荀子}
+      \field{usere}{Xunzi}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{zhang2023chronology}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b97b52a5ec8187c91629a45959faa482}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b97b52a5ec8187c91629a45959faa482}
+      \strng{fullhash}{b97b52a5ec8187c91629a45959faa482}
+      \strng{fullhashraw}{b97b52a5ec8187c91629a45959faa482}
+      \strng{bibnamehash}{b97b52a5ec8187c91629a45959faa482}
+      \strng{authorbibnamehash}{b97b52a5ec8187c91629a45959faa482}
+      \strng{authornamehash}{b97b52a5ec8187c91629a45959faa482}
+      \strng{authorfullhash}{b97b52a5ec8187c91629a45959faa482}
+      \strng{authorfullhashraw}{b97b52a5ec8187c91629a45959faa482}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Early China}
+      \field{title}{The Chronology of Western {Zhou}}
+      \field{volume}{46}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{131\bibrangedash 242}
+      \range{pages}{112}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

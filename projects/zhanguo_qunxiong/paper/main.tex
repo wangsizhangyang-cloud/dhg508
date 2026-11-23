@@ -1,0 +1,265 @@
+% ============================================================================
+% DHG508 Final Design Paper & Post-Mortem — zhanguo_qunxiong (Godot build)
+% OVERLEAF SETUP:
+%   1. Upload this paper/ folder (or dhg508-overleaf-template.zip)
+%   2. Menu (top left) -> Compiler -> XeLaTeX
+%   3. Click Recompile
+% ============================================================================
+
+\documentclass[12pt,a4paper]{article}
+
+\usepackage{fontspec}
+\newcommand{\MainLatinFont}{Times New Roman}
+\newcommand{\FallbackLatinFont}{TeX Gyre Termes}
+\newcommand{\MainCJKFont}{Noto Serif CJK SC}
+\newcommand{\FallbackCJKFont}{FandolSong-Regular.otf}
+
+\IfFontExistsTF{\MainLatinFont}
+  {\setmainfont{\MainLatinFont}}
+  {\setmainfont{\FallbackLatinFont}}
+
+\usepackage{xeCJK}
+\IfFontExistsTF{\MainCJKFont}
+  {\setCJKmainfont{\MainCJKFont}}
+  {\IfFontExistsTF{Songti SC}
+    {\setCJKmainfont{Songti SC}}
+    {\IfFontExistsTF{SimSun}
+      {\setCJKmainfont{SimSun}}
+      {\setCJKmainfont{\FallbackCJKFont}}}}
+
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage{csquotes}
+
+% Chicago Manual of Style, Notes-Bibliography (BibLaTeX + Biber)
+\usepackage[notes, backend=biber, autolang=other, isbn=false]{biblatex-chicago}
+\addbibresource{references.bib}
+
+\renewcommand{\footnotesize}{\fontsize{10}{12}\selectfont}
+\usepackage[hidelinks]{hyperref}
+
+\title{\textbf{知識即戰力：史料上臉的戰國群雄策略游戲}\\[0.3em]
+\large Knowledge as Combat Power: A Warring States Strategy Game with Its Historiography on Its Face\\[0.2em]
+\large Design Rationale, Evidence Boundaries, and Post-Mortem}
+\author{James\\Lingnan University $\cdot$ DHG508 Critical Digital History\\
+\footnotesize Live: \url{https://zhanguo-godot.zhanguo-godot.workers.dev}\\
+\footnotesize Repo: \url{https://github.com/wangsizhangyang-cloud/dhg508}}
+\date{25 November 2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\noindent
+This paper presents \emph{Zhanguo Qunxiong} (戰國群雄), a turn-based grand
+strategy simulation of the Warring States, shipped as a Godot~4 build on
+Cloudflare Workers. The player picks one of the seven great states and
+competes to unify China through a HOI4-style loop of focus trees, domestic
+policy, diplomacy, and formation-based battles---with every number traceable
+to a source. The game's data layer is extracted from the \emph{Shiji}, the
+\emph{Guoyu}, the \emph{Xunzi}, and the legal-military corpus; every claim is
+tagged \emph{据} (documented), \emph{推断} (inferred), or \emph{设}
+(invented); and the focus-tree and law nodes quote their sources inside the
+game itself. Seventeen headless Godot self-check scripts and Playwright
+end-to-end tests against two deployed URLs keep the build honest. The main
+takeaway: a strategy game can carry its historiography on its face---sources
+on the nodes, limits in the table---without ceasing to be a game.
+\end{abstract}
+
+\onehalfspacing
+
+\section{Historical Question and Medium}
+
+The project asks two questions at once. The historical question: what made
+the Warring States---a world of fanatical reform, mass infantry, and
+diplomatic improvisation---cohere as a system, and can a player feel that
+system work? The design question follows: can a grand strategy game be built
+so that \emph{every} number on screen is either attested, honestly inferred,
+or openly invented---without the game collapsing under its own footnotes?
+
+An interactive simulation is the right medium because the answer to the
+historical question is systemic. Reading that ``Qi's hired retainers are no
+match for Wei's \emph{wuzu}, and Wei's \emph{wuzu} are no match for Qin's
+\emph{ruishi}''\autocite{xunzi} states a hierarchy; only playing Qin against
+Wei makes the player \emph{pay} for the difference---in upkeep, in recruitment
+cost, in which provinces are worth taking first. The game operationalises the
+course's central claim that historical knowledge should be a spendable asset:
+reading the sources in the codex is not homework beside the game, it is how
+you learn which reforms to rush and which provinces to want.
+
+The shipped build is the Godot~4 version: a full conquest game on an
+87-province map, deployable as a WebGL build that anyone can open in a
+browser. A web-rules prototype preceded it and remains as the reference
+implementation; a tutorial episode and an LLM agent built in that prototype
+were left out of the shipped build (Section~\ref{sec:postmortem}).
+
+\section{Sources and Scholarly Conversation}
+
+The primary corpus is the \emph{Shiji} of Sima Qian---master text for
+persons, battle records, and state narratives---cross-checked against the
+\emph{Guoyu}\autocite{guoyu} and, for military organisation, the
+\emph{Xunzi}'s chapter ``Yi bing'' and the legal-military texts. The limits
+are stated plainly: these are received texts, not excavated ones; the
+1215 battle records in the database were verified for internal integrity and
+spot-checked against paralleled texts, not re-edited line by line; and
+Chinese primary-source citations inside the game use the received
+chapter-and-passage convention, which some editions number differently.
+
+Three scholarly works anchor the design conversation. First, Harnes's scoping
+review of forty-one empirical studies concludes that historical empathy is a
+cognitive--affective composite in which \emph{substantive knowledge} is
+fundamental and contextualisation and evidence-work are the real
+bottlenecks.\autocite{harnes2025empathy} This licensed the game's central
+mechanism: knowledge is a settlement term---it unlocks reforms, gates failed
+paths, and enters the combat formula---rather than a prerequisite we merely
+hoped players would bring. It also warned against first-person role-play,
+which heightens presentism; the shipped game accordingly has no avatar to be.
+
+Second, Park et al.'s generative-agents architecture showed how LLM agents
+can sustain memory, perception, and action---and, crucially, how retrieval
+fails and fabricates.\autocite{park2023generative} The project built a King
+You agent on the narrowest viable slice of that design: a hand-curated memory
+whitelist drawn only from events attested in the ``Zhou benji,'' a bounded
+perception window, and a single-action JSON output contract checked by the
+world engine before anything is shown. The agent may improvise in register;
+it may not improvise in fact.
+
+Third, Zhang's re-dating of the Western Zhou chronology demonstrates that
+771~BCE is not an undisputed anchor: the accession chronology can be
+reconstructed differently, and 771 is itself contestable.\autocite{zhang2023chronology}
+Rather than hide this, the game's annals and historical codex carry the
+dispute as content: a player who digests the source-criticism dossier learns
+that the calendar they are playing on is itself an argument.
+
+\section{Architecture and Boundaries}
+
+The system separates layers so that machines, not only humans, can verify the
+historical content. A \textbf{data layer} (JSON, exported from a shared
+SQLite source by a build script) holds 190 generals with 1215 attested battle
+records, each carrying \texttt{original\_text} and a source citation; 15 unit
+types and 13 counter relations converted from textual comparisons; 87
+provinces anchored on historically attested cities digitised from Tan
+Qixiang's historical atlas;\autocite{tan1982atlas} and an officials roster. A
+\textbf{rules layer} in GDScript resolves the turn loop---revenue, training,
+movement, siege, events---through combat formulas that consume unit
+composition, counters, terrain, fortification, commanders, and four
+formations (line, wedge, square, arrow). A \textbf{strategy layer} carries
+the HOI4-style focus tree, whose branches follow the schools of the age
+(\emph{fashu}, warfare, economy, infrastructure), each node quoting its
+source---the root of Qin's tree cites the \emph{Shiji} on Xian's ambition,
+``Agronomy and War'' cites the \emph{Shang jun shu}. A \textbf{diplomacy
+layer} handles treaties, mediation, and negotiation, with minor states acting
+on interest rather than scripted loyalty.
+
+Deployment is a static Godot~4 WebGL export behind a small Cloudflare Worker:
+the worker 302-redirects \texttt{/} to a no-store boot page (to bypass stale
+edge cache), then streams \texttt{index3.wasm} and \texttt{index3.pck},
+compressed at the edge according to \texttt{Accept-Encoding}. A GitHub Pages
+mirror serves the uncompressed originals. Epistemic cutoffs are temporal as
+well as structural: nothing in the data layer speaks of events after the
+unification of 221~BCE, and the game's invented elements---formulas,
+formations' numeric weights, map geometry---are tagged \emph{设} in the
+evidence table below. The tag taxonomy follows the course convention:
+\emph{据} documented, \emph{推断} inferred, \emph{设} invented.
+
+One scope decision belongs here rather than in a footnote. The six-lesson
+tutorial and the LLM King You agent were built and verified in the web
+prototype, but the final scope freeze shipped the Godot build \emph{without}
+them. The design lessons carry over---memory whitelisting, output validation,
+and the presentism-driven refusal to give the player a historical avatar to
+inhabit---but the public URL is, deliberately, a game in which the past is
+met through events, annals, and cited reforms, not through a chat window.
+
+\section{Evidence Table}
+
+Table~\ref{tab:evidence} is generated from \texttt{evidence.csv} by
+\texttt{make\_evidence\_table.py}; the LaTeX table is never hand-edited.
+
+\begin{table}[htbp]
+  \centering
+  \scriptsize
+  \singlespacing
+  \renewcommand{\arraystretch}{2.2}
+  \setlength{\extrarowheight}{2pt}
+  \input{evidence-table.tex}
+  \caption{Claims and design elements with locators, evidence tiers
+  (\emph{据} documented, \emph{推断} inferred, \emph{设} invented), and limits.}
+  \label{tab:evidence}
+\end{table}
+
+\section{Verification and Playtesting}
+
+Verification is layered so failure is cheap and diagnosis precise. The first
+layer is seventeen headless Godot self-check scripts run against the real
+engine binary---map connectivity, campaign flow, city capture, corps
+merging, diplomacy and mediation, negotiation, officials, the schools,
+focus trees, tactical battles, passage and fortress rules, save--load,
+endings, defeat, and a multi-turn soak test---all required to PASS before any
+commit. The second layer is the exported web build checked end to end: a
+Playwright smoke suite loads both deployed URLs (Cloudflare Workers and
+GitHub Pages), asserts every critical asset (\texttt{boot.html},
+\texttt{index3.js}, \texttt{index3.wasm}, \texttt{index3.pck}) returns~200,
+waits through the software-GL boot, and requires zero console errors and a
+rendered canvas. The web prototype additionally carries a WCAG colour-contrast
+guard and a turn-loop interaction test, added in response to playtester
+feedback.
+
+Two external testers used the build on their own devices. Their feedback was
+practical rather than dramatic, and both issues were fixed and locked in. The
+first complained that font colours and background were harsh on the eyes
+after a few minutes of play; the palette was reworked to soften contrast
+against the dark panels, and contrast checks now guard the theme so the harsh
+combination cannot be reintroduced. The second found the controls
+cumbersome---too many clicks to move armies and confirm each turn; the
+movement and turn-confirmation flow was streamlined into fewer, combined
+actions, with keyboard shortcuts (\emph{Space} to end the turn) promoted to
+first-class citizens and covered by regression tests. Both fixes exist as
+permanent tests, so the complaints cannot silently return.
+
+\section{Post-Mortem}
+\label{sec:postmortem}
+
+\begin{enumerate}
+  \item \textbf{What worked.} Converting the scholarly literature into design
+  constraints early---Harnes for the pedagogy, Park for the agent
+  architecture, Zhang for the chronology---meant every later argument could
+  be settled by pointing at a page number instead of an intuition. The
+  single-source-of-truth data pipeline paid for itself: the Godot build
+  consumes exported JSON, so numbers cannot fork between the prototype and
+  the shipped game. Headless engine tests caught map and rule regressions
+  before any human saw them, and the streaming, edge-compressed export made
+  a 35-megabyte WebGL game tolerable to load.
+  \item \textbf{What failed.} The prototype King You agent leaked future
+  history under user provocation; input-side prompting alone proved worthless
+  against deliberate attack, and the fix was a world-state validator. The
+  first shipping interface was itself a failure found by testers: harsh
+  colours and cumbersome controls, which the initial build had treated as
+  cosmetic rather than as design defects. The generated portraits, though
+  archaeologically grounded in costume, drift in artistic style across the
+  set---an unsolved consistency problem.
+  \item \textbf{What changed.} The original plan was an open sandbox with a
+  scripted tutorial campaign and a conversational King You; the scope freeze
+  shipped instead the deeper, more verifiable core---focus trees, statecraft,
+  diplomacy, formations---on the Godot build, and left the tutorial and agent
+  in the prototype. First-person play of King You had already been dropped in
+  favour of treating him as a constrained \emph{other}, following the
+  presentism warning in the literature. Naval movement and deep coalition
+  diplomacy were deferred, explicitly.
+  \item \textbf{Limits and AI tools.} The claim that the knowledge-as-asset
+  loop \emph{improves learning} remains a design hypothesis: no pre/post
+  measurement has been run, and nothing in the literature licenses the claim
+  that games beat films in general. The map's Voronoi geometry does not hug
+  the passes and rivers that mattered, and the 87-province economy has not
+  been stress-tested past thirty-five turns. The build used Claude and
+  GPT-class models for data extraction and code assistance under human review
+  of every citation, and image models for the portrait set; a local LLM
+  served the prototype agent.
+\end{enumerate}
+
+\singlespacing
+\printbibliography[title={Bibliography}]
+
+\end{document}

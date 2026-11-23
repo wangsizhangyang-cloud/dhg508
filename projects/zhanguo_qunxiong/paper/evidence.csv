@@ -1,0 +1,14 @@
+claim,evidence,locator,level,limit
+Deposition of Queen Shen and Crown Prince Yijiu; Marquis of Shen allies with Zeng and the Quanrong; You is killed at the foot of Mount Li,"Sima Qian, Shiji, 'Zhou benji' and 'Qin benji'",Shiji 4.149; Shiji 5.179,据,Received text accepted for teaching; variant accounts exist
+The beacon-fire episode: You lights the beacons but the lords no longer come,"Shiji, 'Zhou benji'",Shiji 4.147-148,据,Received-text narrative; later scholarship questions its historicity
+Duke Xiang of Qin escorts Prince Ping east and is enfeoffed as a hou west of the Qi river,"Shiji, 'Qin benji'",Shiji 5.179,据,Boundary of the grant ('Qi between the rivers') is summarized from the text
+Bo Yangfu and Shi Bo foresee the fall of Western Zhou,"Guoyu, 'Zhou yu xia' and 'Zheng yu'",Guoyu 1; Guoyu 16,据,Dialogue is a received literary composition, not verbatim record
+'Qi hired retainers are no match for Wei's wuzu; Wei's wuzu are no match for Qin's ruishi' -> counter chain of unit types,"Xunzi, 'Yi bing'",Xunzi 15,据,The comparative sentence is quoted; the numeric combat coefficients are our conversion
+Focus-tree and law nodes carry their sources inside the game (e.g. 'Agronomy and War' quotes the Shang jun shu),"node 'cite' fields in scripts/focus_tree.gd and scripts/statecraft.gd",scripts/focus_tree.gd,推断,The quoted sources are real; the node effects are game balance, not historical claims
+Province anchors use historically attested cities with real coordinates,"Tan Qixiang, Zhongguo lishi ditu ji, Warring States sheets",data/provinces.json,推断,Some city locations are scholarly conjectures; coordinates digitized by eye from the atlas
+Map geometry: province polygons, coastline and mountain polylines,self-drawn vector data rendered by MapView,scripts/map_view.gd,设,Geometric abstraction for play; orientations follow the atlas
+Six-stat values for 190 generals,battle records weighted with Shiji verdicts,data/generals.json,推断,Derived numbers; rationale recorded but the scale is ours
+Formation system (line/wedge/square/arrow) from ancient military practice,"Zhoubing texts; game balance",scripts/warfare.gd,设,Named formations are attested; the numeric modifiers are invented
+King You agent with memory whitelist and one-action JSON (web prototype only),"Park et al. 2023 memory-stream design; Shiji 'Zhou benji' events",prototype sim_layer.js,推断,Built and verified in the prototype; cut from the shipped Godot build at the scope freeze
+Round economy, upkeep and combat resolution formula,game rules engine,scripts/warfare.gd + scripts/main.gd,设,Game mechanics; carries no claim to historical regularity
+771 BCE is not the undisputed year of the fall of Western Zhou,"Zhang 2023 re-dating of the Zhou accession chronology",Zhang 2023 pp. 18-19,据,Presented as an optional intelligence layer, not as the textbook year
