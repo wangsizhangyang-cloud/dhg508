@@ -1,0 +1,518 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Four-Loop Showcase, Final Paper, and Semester Review</title>
+<meta name="citation_title" content="Four-Loop Showcase, Final Paper, and Semester Review">
+<meta name="citation_author" content="Bo An · Lingnan University">
+<meta name="citation_publication_date" content="2026-11-18">
+<meta name="citation_language" content="en">
+<meta name="DC.title" content="Four-Loop Showcase, Final Paper, and Semester Review">
+<meta name="DC.type" content="Presentation">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"PresentationDigitalDocument","name":"Four-Loop Showcase, Final Paper, and Semester Review","inLanguage":"en","author":[{"@type":"Person","name":"Bo An · Lingnan University"}],"datePublished":"2026-11-18","license":"CC BY-NC 4.0"}</script>
+<style>
+:root{--ink:#111;--body:#222;--sub:#6b7280;--rule:rgba(17,17,17,.14);--red:#e31f27;--paper:#fff}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--ink:#f2f2f0;--body:#dedede;--sub:#9aa0aa;--rule:rgba(255,255,255,.18);--paper:#141414}}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{overflow-wrap:anywhere}
+body{margin:0;background:var(--paper);color:var(--body);font:400 18px/1.62 "Newsreader",Georgia,"Songti SC","Noto Serif CJK SC",serif}
+main{max-width:42rem;margin:0 auto;padding:2.5rem 1.25rem 5rem}
+header.t{margin-bottom:3rem}h1{font-weight:400;font-size:clamp(2rem,6vw,3rem);line-height:1.1;color:var(--ink);margin:0 0 .6rem}
+.m{font:400 .8rem/1.5 ui-monospace,Menlo,monospace;color:var(--sub);letter-spacing:.02em}
+.m a{color:inherit}
+nav.toc{border-block:1px solid var(--rule);padding:1rem 0;margin:2rem 0 3rem}nav.toc ol{margin:0;padding-left:1.4rem}nav.toc a{color:var(--body);text-decoration:none}nav.toc a:hover{color:var(--red)}
+section{margin:0 0 3.25rem;scroll-margin-top:1rem}section>h2{font-weight:400;font-size:1.55rem;line-height:1.22;color:var(--ink);margin:0 0 .85rem}
+section>h2 a{color:inherit;text-decoration:none}section>h2 .no{color:var(--sub);font-variant-numeric:tabular-nums;margin-right:.45em;font-size:.8em}
+.body h1,.body h2{display:none}.body h3{font-size:1.1rem;color:var(--ink)}
+.read{border-left:2px solid var(--red);padding-left:1rem;margin-top:1.1rem;color:var(--ink)}
+figure{margin:1.3rem 0}img{max-width:100%;height:auto;display:block}figcaption{font:400 .82rem/1.45 system-ui,sans-serif;color:var(--sub);margin-top:.5rem}
+.details{font-size:.95rem}table{border-collapse:collapse;width:100%;margin:1.2rem 0;font:400 .9rem/1.4 system-ui,sans-serif}th{text-align:left;font-weight:500;color:var(--sub);border-bottom:1px solid var(--ink);padding:.35rem .8rem .35rem 0}td{border-bottom:1px solid var(--rule);padding:.4rem .8rem .4rem 0;vertical-align:top}caption{text-align:left;color:var(--sub);padding-bottom:.4rem}
+.table-wrap{overflow-x:auto}blockquote{margin:1rem 0;padding-left:1rem;border-left:2px solid var(--rule)}
+a{color:var(--ink);text-decoration-color:var(--red);text-underline-offset:.15em}sup.n a{color:var(--red);text-decoration:none;font-size:.8em}a.c{text-decoration:none;color:var(--sub)}
+.elsewhere,.withheld{font:400 .85rem/1.4 system-ui,sans-serif;color:var(--sub);border:1px dashed var(--rule);padding:.7rem .9rem}
+ol.refs{padding:0;list-style:none}ol.refs li{padding-left:1.6em;text-indent:-1.6em;margin-bottom:.7rem;scroll-margin-top:1rem}ol.refs li:target{color:var(--red)}
+.rs-parallel{font-style:normal}
+@media print{body{font-size:11.5pt}main{max-width:none;padding:0}nav.toc{display:none}section{break-inside:avoid}a{text-decoration:none}}
+</style>
+</head>
+<body>
+<main>
+<header class="t"><h1>Four-Loop Showcase, Final Paper, and Semester Review</h1><p class="m">Bo An · Lingnan University · 2026-11-18 · Reading edition · <a href="../">Slides</a></p></header>
+<nav class="toc" aria-label="Contents"><ol><li><a href="#s01-cover">Four-Loop Showcase &amp;amp; Final Paper</a></li><li><a href="#s02-today">Today.</a></li><li><a href="#s03-showcase-board">Live Showcase · 7 min (`5m` demo + `2m` Q&amp;amp;A).</a></li><li><a href="#s04-sec-final">Final Run &amp;amp; Overleaf Paper</a></li><li><a href="#s05-what-finished-means">Next Wednesday (25 Nov) is your final hand-in.</a></li><li><a href="#s07-single-source-route">One source of truth from CSV to PDF.</a></li><li><a href="#s08-overleaf-setup">Compile on Overleaf with `dhg508-overleaf-template.zip`.</a></li><li><a href="#s09-biblatex-chicago">Citations: `biblatex-chicago` (Notes-Bibliography).</a></li><li><a href="#s10-six-sections">Six sections in `main.tex` (3–6 PDF pages).</a></li><li><a href="#s11-repo-checklist">Repository checklist for Wednesday 25 November.</a></li><li><a href="#s12-closing">Freeze scope, compile on Overleaf, and finish cleanly.</a></li><li><a href="#r01-sec-review">Semester Review Packet</a></li><li><a href="#r02-semester-map">Semester map: ten sessions, one continuous workflow.</a></li><li><a href="#r03-w1-w2-sources-ocr">Sessions 1–2 · Read the original page; OCR finds places, never quotes.</a></li><li><a href="#r04-w3-what-is-an-agent">Session 3 · Completion, Chat, Agent, and ReAct.</a></li><li><a href="#r05-w3-skills-and-db">Session 3 · Progressive skills &amp;amp; relational tables linked by keys.</a></li><li><a href="#r06-w4-workspace-docs">Session 4 · Workspace layout &amp;amp; three kinds of documents.</a></li><li><a href="#r07-w4-iterative-git">Session 4 · Iterate in small passes &amp;amp; version plain-text Markdown in Git.</a></li><li><a href="#r08-w5-app-arch">Session 5 · Web application architecture, API contracts, and costs.</a></li><li><a href="#r09-w5-pdf-notes">Session 5 · Annotate working PDFs &amp;amp; extract notes with page locators.</a></li><li><a href="#r10-w6-twelve-steps">Session 6 · The twelve-step AI research process.</a></li><li><a href="#r11-w6-triage-loops">Session 6 · Review sheets (compression) &amp;amp; three reading loops.</a></li><li><a href="#r12-w7-2d-3d-split">Session 7 · 2D &amp;amp; 3D reconstruction: split by how each part is best made.</a></li><li><a href="#r13-w8-simulation">Session 8 · Historical simulation: epistemic tiers &amp;amp; world-checked agents.</a></li><li><a href="#r14-w9-search-handover">Session 9 · Scholarly search rules, index refactoring, and 2-agent handover.</a></li><li><a href="#r15-w10-goal-two-loops">Session 10 · Preventing goal drift: `Plan` mode, `/goal`, and two feedback loops.</a></li><li><a href="#r16-w10-test-deploy">Session 10 · Three-tier testing pyramid &amp;amp; Cloudflare deployment.</a></li></ol></nav>
+<section id="s01-cover"><h2><a href="#s01-cover"><span class="no">1</span>Four-Loop Showcase &amp;amp; Final Paper</a></h2>
+<div class="body"><h1>Four-Loop Showcase &amp; Final Paper</h1>
+<p>Live check-in today &#xb7; Final hand-in next Wednesday</p>
+</div>
+<div class="read"><p>Session Eleven: four-loop live showcase and final hand-in guide for Wednesday 25 November.</p>
+</div></section>
+<section id="s02-today"><h2><a href="#s02-today"><span class="no">2</span>Today.</a></h2>
+<div class="body"><h1>Today.</h1>
+<div class="grid">
+<div class="frame hot"><span class="label">01 &#xb7; Showcase</span><div class="text">
+<p><span class="mark">7 min strictly</span></p>
+<p>5 min live demo + 2 min Q&amp;A</p>
+</div></div>
+<div class="frame"><span class="label">02 &#xb7; Final Hand-in</span><div class="text">
+<p><span class="mark">Wed 25 Nov</span></p>
+<p>working build + Overleaf paper (<code>biblatex-chicago</code>)</p>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Today: 7-minute live demos and next week&apos;s final build + Overleaf paper hand-in.</p>
+</div></section>
+<section id="s03-showcase-board"><h2><a href="#s03-showcase-board"><span class="no">3</span>Live Showcase · 7 min (`5m` demo + `2m` Q&amp;amp;A).</a></h2>
+<div class="body"><h1>Live Showcase &#xb7; 7 min (<code>5m</code> demo + <code>2m</code> Q&amp;A).</h1>
+<div class="grid">
+<div class="frame hot"><span class="label">01 &#xb7; Ideation &amp; Schematic</span><div class="text">
+<ul>
+<li><code>plan.md</code> + <code>/goal</code> statement</li>
+<li>agent-drawn <strong>project schematic</strong> (HTML, Excalidraw, or Mermaid)</li>
+</ul>
+</div></div>
+<div class="frame hot"><span class="label">02 &#xb7; Live Automated Tests</span><div class="text">
+<ul>
+<li>run <code>vitest</code> / <code>pytest</code> + <code>playwright</code> live</li>
+<li>state what is tested: code logic + <code>&#x636e; / &#x63a8;&#x65ad; / &#x8bbe;</code></li>
+</ul>
+</div></div>
+<div class="frame"><span class="label">03 &#xb7; Auto Browser Loop</span><div class="text">
+<ul>
+<li><code>@playwright/mcp</code> + headless Playwright checks</li>
+</ul>
+</div></div>
+<div class="frame"><span class="label">04 &#xb7; 2 Testers &#x2192; Regression Test</span><div class="text">
+<ul>
+<li>2 friends&apos; feedback &#x2192; code fixes &#x2192; permanent tests</li>
+</ul>
+</div></div>
+</div>
+<p class="sub">Open your live Cloudflare <code>https://</code> URL first &#xb7; Mention <strong>1 concrete difficulty</strong>.</p>
+</div>
+<div class="read"><p>Each presenter has 7 minutes: open your live Cloudflare URL, show all four loops, and name one difficulty.</p>
+</div></section>
+<section id="s04-sec-final"><h2><a href="#s04-sec-final"><span class="no">4</span>Final Run &amp;amp; Overleaf Paper</a></h2>
+<div class="body"><h1>Final Run &amp; Overleaf Paper</h1>
+<p>Guide and template zip: <code>508-coursework/week-11/</code></p>
+</div>
+<div class="read"><p>Instructions and <code>dhg508-overleaf-template.zip</code> are in <code>508-coursework/week-11/</code>.</p>
+</div></section>
+<section id="s05-what-finished-means"><h2><a href="#s05-what-finished-means"><span class="no">5</span>Next Wednesday (25 Nov) is your final hand-in.</a></h2>
+<div class="body"><h1>Next Wednesday (25 Nov) is your final hand-in.</h1>
+<div class="body">
+<div class="frame hot"><span class="label">Run cleanly end to end</span><div class="text">
+<ul>
+<li><strong>Freeze features</strong> &#x2014; no new modules this week</li>
+<li><strong>Live Cloudflare URL</strong> works end to end</li>
+<li><strong>Automated tests pass</strong> (<code>0</code> leaked keys in Git)</li>
+<li><strong>Overleaf PDF + <code>.tex</code>/<code>.bib</code></strong> saved in <code>paper/</code></li>
+</ul>
+</div></div>
+<div class="frame"><span class="label">Final bug clinic</span><div class="text">
+<ul>
+<li>End-to-end runnability is enough</li>
+<li>Stuck on one final bug? Record the exact error and <strong>bring it to class next Wednesday</strong>&#x2014;we fix it together before your final commit</li>
+</ul>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Freeze features, make your live URL, tests, and Overleaf paper run cleanly, and bring any stubborn final bug to class next Wednesday.</p>
+</div></section>
+<section id="s07-single-source-route"><h2><a href="#s07-single-source-route"><span class="no">6</span>One source of truth from CSV to PDF.</a></h2>
+<div class="body"><h1>One source of truth from CSV to PDF.</h1>
+<div class="route">
+<div class="step"><span class="yr">01 &#xb7; Data</span><p class="what">`evidence.csv`</p><p class="how">`claim &#xb7; locator &#xb7; &#x636e;/&#x63a8;&#x65ad;/&#x8bbe; &#xb7; limit`</p></div>
+<div class="arrow">&#x2192;</div>
+<div class="step"><span class="yr">02 &#xb7; Script</span><p class="what">`make_evidence_table.py`</p><p class="how">writes `evidence-table.tex`</p></div>
+<div class="arrow">&#x2192;</div>
+<div class="step red"><span class="yr">03 &#xb7; Overleaf</span><p class="what">`main.tex` + `references.bib`</p><p class="how">`XeLaTeX` + `biblatex-chicago` &#x2192; PDF</p></div>
+</div>
+</div>
+<div class="read"><p><code>evidence.csv</code> generates <code>evidence-table.tex</code>, which compiles with <code>main.tex</code> and <code>references.bib</code> on Overleaf.</p>
+</div></section>
+<section id="s08-overleaf-setup"><h2><a href="#s08-overleaf-setup"><span class="no">7</span>Compile on Overleaf with `dhg508-overleaf-template.zip`.</a></h2>
+<div class="body"><h1>Compile on Overleaf with <code>dhg508-overleaf-template.zip</code>.</h1>
+<div class="body">
+<div class="term">
+<div class="term-bar"><span>Terminal &#xb7; Local table script</span></div>
+<pre>
+<span class="blk">&#x24; cp -R 508-coursework/week-11/paper-template \</span>
+<span class="blk">    projects/my_project/paper</span>
+&#xa0;
+<span class="blk">&#x24; python3 projects/my_project/paper/make_evidence_table.py</span>
+<span class="ok">Wrote paper/evidence-table.tex</span>
+</pre>
+<div class="term-foot">Verified on Overleaf (XeLaTeX + Biber)</div>
+</div>
+<div class="frame hot"><span class="label">Overleaf &#xb7; 4 Steps</span><div class="text">
+<ol>
+<li><strong>New Project &#x2192; Upload Project</strong> &#x2192; <code>dhg508-overleaf-template.zip</code></li>
+<li><strong>Menu &#x2192; Compiler &#x2192; <code>XeLaTeX</code></strong></li>
+<li>Click <strong>Recompile</strong></li>
+<li><strong>Download PDF</strong> (<code>paper/design-paper.pdf</code>) + <strong>Source</strong> back to Git</li>
+</ol>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Upload <code>dhg508-overleaf-template.zip</code> to Overleaf, select <code>XeLaTeX</code>, click <code>Recompile</code>, and commit the PDF and sources back to <code>paper/</code>.</p>
+</div></section>
+<section id="s09-biblatex-chicago"><h2><a href="#s09-biblatex-chicago"><span class="no">8</span>Citations: `biblatex-chicago` (Notes-Bibliography).</a></h2>
+<div class="body"><h1>Citations: <code>biblatex-chicago</code> (Notes-Bibliography).</h1>
+<div class="body">
+<div class="file"><div class="file-bar">paper/main.tex</div><pre>
+<span class="hl">\usepackage[notes, backend=biber,</span>
+<span class="hl">  autolang=other, isbn=false]{biblatex-chicago}</span>
+\addbibresource{references.bib}
+&#xa0;
+% Place \autocite[page]{key} after punctuation:
+Demand management never produces a certain
+result.<span class="hl">\autocite[150]{tobin1986macro}</span>
+&#xa0;
+<span class="hl">\printbibliography[title={Bibliography}]</span>
+</pre></div>
+<div class="file"><div class="file-bar">paper/references.bib</div><pre>
+@incollection{tobin1986macro,
+  author         = {Tobin, James},
+  title          = {Luelun fei jizhongxing jingji
+                    de hongguan kongzhi},
+  <span class="hl">titleaddon     = {&#x7565;&#x8ad6;&#x975e;&#x96c6;&#x4e2d;&#x578b;&#x7d93;&#x6fdf;&#x7684;&#x5b8f;&#x89c0;&#x63a7;&#x5236;},</span>
+  <span class="hl">usere          = {On Macroeconomic Control in</span>
+  <span class="hl">                  Decentralized Economies},</span>
+  booktitle      = {Hongguan jingji de guanli yu gaige},
+  booktitleaddon = {&#x5b8f;&#x89c0;&#x7d93;&#x6fdf;&#x7684;&#x7ba1;&#x7406;&#x8207;&#x6539;&#x9769;},
+  publisher      = {Jingji ribao chubanshe},
+  location       = {Beijing},
+  date           = {1986},
+  pages          = {149--158}
+}
+</pre></div>
+</div>
+</div>
+<div class="read"><p>Use <code>biblatex-chicago</code> (<code>\autocite[page]{key}</code> after punctuation) with BibLaTeX entries in <code>references.bib</code>.</p>
+</div></section>
+<section id="s10-six-sections"><h2><a href="#s10-six-sections"><span class="no">9</span>Six sections in `main.tex` (3–6 PDF pages).</a></h2>
+<div class="body"><h1>Six sections in <code>main.tex</code> (3&#x2013;6 PDF pages).</h1>
+<div class="grid">
+<div class="frame"><span class="label">01 &#xb7; Question &amp; Medium</span><div class="text">
+<p>historical question + why interactive?</p>
+</div></div>
+<div class="frame"><span class="label">02 &#xb7; Sources &amp; &gt;=3 Works</span><div class="text">
+<p>source limits + 3 scholarly works (<code>\autocite</code>)</p>
+</div></div>
+<div class="frame"><span class="label">03 &#xb7; Architecture</span><div class="text">
+<p>stack, <code>[&#x9650;&#x5b9a;]</code> cutoffs + <code>schematic.png</code></p>
+</div></div>
+<div class="frame hot"><span class="label">04 &#xb7; Evidence Table</span><div class="text">
+<p><code>\input{evidence-table.tex}</code> (<code>&#x636e; / &#x63a8;&#x65ad; / &#x8bbe;</code>)</p>
+</div></div>
+<div class="frame hot"><span class="label">05 &#xb7; Verification</span><div class="text">
+<p>automated tests + 2 testers&apos; fixes</p>
+</div></div>
+<div class="frame hot"><span class="label">06 &#xb7; Post-Mortem</span><div class="text">
+<p>what worked, what failed, limits + AI tools used</p>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Six short sections in <code>main.tex</code> (3&#x2013;6 pages total): question, sources &amp; 3 scholarly works, architecture &amp; schematic, CSV evidence table, verification, and post-mortem.</p>
+</div></section>
+<section id="s11-repo-checklist"><h2><a href="#s11-repo-checklist"><span class="no">10</span>Repository checklist for Wednesday 25 November.</a></h2>
+<div class="body"><h1>Repository checklist for Wednesday 25 November.</h1>
+<div class="body">
+<div class="tree"><span class="label">your_project/</span><pre>
+&#x251c;&#x2500; README.md                 <span class="hl">live URL + run &amp; test cmds</span>
+&#x251c;&#x2500; docs/
+&#x2502;  &#x251c;&#x2500; plan.md
+&#x2502;  &#x251c;&#x2500; schematic.png
+&#x2502;  &#x2514;&#x2500; user-feedback.md
+&#x251c;&#x2500; data/                     <span class="dim">notes &amp; evidence.csv</span>
+&#x251c;&#x2500; src/ &amp; tests/
+&#x2514;&#x2500; paper/
+   &#x251c;&#x2500; make_evidence_table.py
+   &#x251c;&#x2500; evidence-table.tex     <span class="hl">generated from CSV</span>
+   &#x251c;&#x2500; references.bib         <span class="hl">&gt;=3 scholarly works</span>
+   &#x251c;&#x2500; main.tex               <span class="hl">biblatex-chicago</span>
+   &#x2514;&#x2500; design-paper.pdf       <span class="hl">compiled PDF</span>
+</pre></div>
+<div class="frame hot"><span class="label">Next Wednesday &#xb7; In Class</span><div class="text">
+<ol>
+<li>Open your <strong>live public URL</strong></li>
+<li>Show <strong><code>paper/design-paper.pdf</code></strong></li>
+<li>Fix any remaining <strong>final bug</strong> together &amp; push</li>
+</ol>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Commit your working build, passing tests, and <code>paper/{main.tex, references.bib, evidence-table.tex, design-paper.pdf}</code> before Wednesday 25 November.</p>
+</div></section>
+<section id="s12-closing"><h2><a href="#s12-closing"><span class="no">11</span>Freeze scope, compile on Overleaf, and finish cleanly.</a></h2>
+<div class="body"><ul><li>Freeze scope and make your live URL and tests run cleanly.</li><li>Compile main.tex + references.bib (biblatex-chicago) on Overleaf with XeLaTeX.</li></ul><p><strong>Bring your running build, design-paper.pdf, and any final bug next Wednesday (25 Nov).</strong></p><h1>Freeze scope, compile on Overleaf, and finish cleanly.</h1>
+</div>
+<div class="read"><p>Freeze scope, compile <code>design-paper.pdf</code> on Overleaf, and bring your finished build next Wednesday.</p>
+</div></section>
+<section id="r01-sec-review"><h2><a href="#r01-sec-review"><span class="no">12</span>Semester Review Packet</a></h2>
+<div class="body"><h1>Semester Review Packet</h1>
+<p>Key ideas, rules, and diagrams from Sessions 1 through 10</p>
+</div>
+<div class="read"><p>Reference packet summarizing the core concepts, rules, and diagrams from Sessions 1 through 10 of DHG508.</p>
+</div></section>
+<section id="r02-semester-map"><h2><a href="#r02-semester-map"><span class="no">13</span>Semester map: ten sessions, one continuous workflow.</a></h2>
+<div class="body"><h1>Semester map: ten sessions, one continuous workflow.</h1>
+<div class="body">
+<div class="frame"><span class="label">Sessions 1&#x2013;5 &#xb7; Foundations</span><div class="text">
+<ul>
+<li><strong>S1 &#xb7; Critical AI:</strong> AI shifts research cost; inspect every claim on the page</li>
+<li><strong>S2 &#xb7; OCR &amp; Context:</strong> scans vs. text layers; OCR finds places, never quotes</li>
+<li><strong>S3 &#xb7; Agents, Skills &amp; DBs:</strong> <code>Model + Instructions + Tools + Loop</code>; foreign keys</li>
+<li><strong>S4 &#xb7; Workspace &amp; Git:</strong> <code>raw/</code> vs. <code>processed/</code>; 3 doc types; Markdown diffs</li>
+<li><strong>S5 &#xb7; Web Apps &amp; PDF Notes:</strong> static vs. backend/API costs; PDF note extraction</li>
+</ul>
+</div></div>
+<div class="frame hot"><span class="label">Sessions 6&#x2013;10 &#xb7; Research to Deployment</span><div class="text">
+<ul>
+<li><strong>S6 &#xb7; 12-Step Research:</strong> OpenAlex &#x2192; OCR &#x2192; <code>hits.md</code> &#x2192; review sheet &#x2192; notes &#x2192; points</li>
+<li><strong>S7 &#xb7; 2D &amp; 3D Reconstruction:</strong> reference-guided images; part-by-part 3D split</li>
+<li><strong>S8 &#xb7; Historical Simulation:</strong> <em>&quot;why not a film?&quot;</em>; <code>&#x636e; / &#x63a8;&#x65ad; / &#x8bbe;</code>; world checks actions</li>
+<li><strong>S9 &#xb7; Search &amp; 2-Agent Handover:</strong> <code>scholarly-search</code>; index refactor; <code>@handover.md</code></li>
+<li><strong>S10 &#xb7; <code>/goal</code>, Tests &amp; Deploy:</strong> <code>plan.md</code>, schematics, Browser MCP, 3-tier tests, Cloudflare</li>
+</ul>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Overview of all ten content sessions&#x2014;from reading primary scans, building relational databases, and structuring agent skills to twelve-step historical research, 3D/simulation design, automated verification, and public deployment.</p>
+</div></section>
+<section id="r03-w1-w2-sources-ocr"><h2><a href="#r03-w1-w2-sources-ocr"><span class="no">14</span>Sessions 1–2 · Read the original page; OCR finds places, never quotes.</a></h2>
+<div class="body"><h1>Sessions 1&#x2013;2 &#xb7; Read the original page; OCR finds places, never quotes.</h1>
+<div class="body">
+<div class="frame fit"><span class="label">Sessions 1&#x2013;2 &#xb7; Machine reading has systematic errors</span><div class="pic"><figure><img src="assets/a8c17192c8-w06-ocr.svg" alt="Diagram showing a page image without a text layer passing through PaddleOCR and returning text with character errors." loading="lazy"><figcaption>Sessions 2 &amp; 6 &#xb7; OCR turns scans into searchable text&#x2014;with errors. Course diagram</figcaption></figure></div></div>
+<div class="frame hot"><span class="label">Core rules</span><div class="text">
+<ul>
+<li><strong>A scan is only a picture</strong> &#x2014; even an existing PDF text layer can split columns or misread characters</li>
+<li><strong>Separate files:</strong> untouched scans stay in <code>sources/raw/</code>; OCR and transcriptions go in <code>sources/processed/</code></li>
+<li><strong>Search both scripts</strong> (traditional + simplified) and <strong>quote only from the checked page image</strong></li>
+</ul>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Sessions 1&#x2013;2: OCR and LLM transcription make scans searchable, not quotable (<code>&#x570b;&#x6587; &#x2192; &#x56fe;&#x6587;</code>); keep originals untouched in <code>sources/raw/</code> and verify every quotation against the page image.</p>
+</div></section>
+<section id="r04-w3-what-is-an-agent"><h2><a href="#r04-w3-what-is-an-agent"><span class="no">15</span>Session 3 · Completion, Chat, Agent, and ReAct.</a></h2>
+<div class="body"><h1>Session 3 &#xb7; Completion, Chat, Agent, and ReAct.</h1>
+<div class="table-wrap"><table>
+<thead>
+<tr><th>Mode</th><th>Given</th><th>Returns</th><th>Who acts</th><th>When it stops</th></tr>
+</thead>
+<tbody>
+<tr><td><strong>Completion</strong></td><td>a prompt prefix</td><td>continuation text</td><td>no one</td><td>token limit or stop sequence</td></tr>
+<tr><td><strong>Chat</strong></td><td>the transcript so far</td><td>one reply</td><td>you</td><td>after one reply</td></tr>
+<tr><td><strong>Agent</strong></td><td>record: rules, tools, observations</td><td>a reply or a tool call (JSON)</td><td><strong>the harness program</strong></td><td>no more tool calls (or step cap)</td></tr>
+<tr><td><strong>ReAct</strong></td><td>same full record</td><td>thought &#x2192; tool call or reply</td><td><strong>the harness program</strong></td><td>when it judges evidence suffices</td></tr>
+</tbody>
+</table></div>
+<p class="sub">Same model inside &#x2014; what changes is the <strong>program outside</strong>: <code>Agent = Model + Instructions (Skills) + Tools + Loop</code>.</p>
+</div>
+<div class="read"><p>Session 3: A language model only predicts tokens; an agent wraps that model in an external program loop that supplies instructions, executes tool calls (files, shell, APIs), appends observations to the transcript, and enforces permissions.</p>
+</div></section>
+<section id="r05-w3-skills-and-db"><h2><a href="#r05-w3-skills-and-db"><span class="no">16</span>Session 3 · Progressive skills &amp;amp; relational tables linked by keys.</a></h2>
+<div class="body"><h1>Session 3 &#xb7; Progressive skills &amp; relational tables linked by keys.</h1>
+<div class="body">
+<div class="file"><div class="file-bar">.opencode/skills/history-db/SKILL.md</div><pre>
+<span class="dim"># YAML frontmatter loaded first:</span>
+name: history-db
+description: Query the 1908 roster database
+  and cite every row by [id].
+&#xa0;
+<span class="dim"># Body loaded only when invoked:</span>
+1. Answer only from table rows; attach [id].
+2. State gaps plainly; never fill from memory.
+</pre></div>
+<div class="frame hot"><span class="label">Relational Database &#xb7; One Fact in One Place</span><div class="text">
+<ul>
+<li><strong><code>people</code> table:</strong> <code>P2 &#x674e;&#x5e94;&#x6797; &#x2192; L2</code>, <code>P3 &#x51bc;&#x7389;&#x6e05; &#x2192; L2</code></li>
+<li><strong><code>places</code> table:</strong> <code>L2 | &#x5357;&#x6d77; | &#x5e7f;&#x5dde;&#x5e9c; | &#x4f5b;&#x5c71;</code> (written <strong>once</strong>)</li>
+<li><strong>Why foreign keys (<code>place_id</code>):</strong> names vary (<code>&#x949f;&#x8363;&#x5149; / &#x937e;&#x69ae;&#x5149;</code>, <code>&#x5357;&#x6d77; / &#x5357;&#x6d77;&#x53bf;</code>); stable IDs prevent contradictions across 300 rows</li>
+</ul>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Session 3: Skills load <code>name</code> + <code>description</code> first and pull full Markdown instructions on demand; relational databases store each entity once and link tables by stable IDs (<code>place_id &#x2192; id</code>).</p>
+</div></section>
+<section id="r06-w4-workspace-docs"><h2><a href="#r06-w4-workspace-docs"><span class="no">17</span>Session 4 · Workspace layout &amp;amp; three kinds of documents.</a></h2>
+<div class="body"><h1>Session 4 &#xb7; Workspace layout &amp; three kinds of documents.</h1>
+<div class="body">
+<div class="tree"><span class="label">projects/my_project/</span><pre>
+&#x251c;&#x2500; AGENTS.md             <span class="hl">rules that always hold</span>
+&#x251c;&#x2500; sources/
+&#x2502;  &#x251c;&#x2500; raw/               <span class="dim">originals, never edited</span>
+&#x2502;  &#x2514;&#x2500; processed/         <span class="dim">OCR, crops, clean .md</span>
+&#x251c;&#x2500; research/             <span class="dim">design, journal, notes, refs</span>
+&#x251c;&#x2500; artifacts/            <span class="dim">large dumps/DBs (gitignored)</span>
+&#x2514;&#x2500; code/                 <span class="dim">repeatable scripts</span>
+</pre></div>
+<div class="frame hot"><span class="label">Three Document Types &#xb7; One Job per File</span><div class="text">
+<ol>
+<li><strong>Index (<code>README.md</code> / <code>SKILL.md</code>):</strong> what exists and where to look next</li>
+<li><strong>Procedure (<code>add-data.md</code>):</strong> step-by-step workflow pointing to schema files</li>
+<li><strong>Principles (<code>AGENTS.md</code>):</strong> short, hard rules (<code>raw/</code> read-only; test before done)</li>
+</ol>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Session 4: Every file kind has one canonical folder so both humans and agents can find it; keep documents short and modular across index, procedure, and hard principles (<code>AGENTS.md</code>).</p>
+</div></section>
+<section id="r07-w4-iterative-git"><h2><a href="#r07-w4-iterative-git"><span class="no">18</span>Session 4 · Iterate in small passes &amp;amp; version plain-text Markdown in Git.</a></h2>
+<div class="body"><h1>Session 4 &#xb7; Iterate in small passes &amp; version plain-text Markdown in Git.</h1>
+<div class="body">
+<div class="frame fit"><span class="label">Session 4 &#xb7; Build &#x2192; Use &#x2192; Learn cycles</span><div class="pic"><figure><img src="assets/6df735d9ef-w04-iterative.svg" alt="Iterative build, use, and learn cycles from v1 through v4 with feedback arrows." loading="lazy"><figcaption>Session 4 &#xb7; Iterative cycles vs. one-pass waterfall. Course diagram</figcaption></figure></div></div>
+<div class="frame"><span class="label">Git + Living Research Files</span><div class="text">
+<ul>
+<li><strong>Why Markdown over <code>.docx</code>:</strong> a 1-sentence edit in <code>note.md</code> is a readable 1-line <code>git diff</code>; <code>.docx</code> is a binary zip of 17 XML files</li>
+<li><strong><code>design-document.md</code>:</strong> current plan (revise in place as evidence changes)</li>
+<li><strong><code>research-journal.md</code>:</strong> dated record of what changed and <em>why</em></li>
+</ul>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Session 4: Ship small working iterations (<code>v1 &#x2192; v4</code>) tracked in Git; plain-text Markdown gives clean line diffs, pairing a living <code>design-document.md</code> with a chronological <code>research-journal.md</code>.</p>
+</div></section>
+<section id="r08-w5-app-arch"><h2><a href="#r08-w5-app-arch"><span class="no">19</span>Session 5 · Web application architecture, API contracts, and costs.</a></h2>
+<div class="body"><h1>Session 5 &#xb7; Web application architecture, API contracts, and costs.</h1>
+<div class="body">
+<div class="frame fit"><span class="label">Session 5 &#xb7; Static browser files vs. backend &amp; model calls</span><div class="pic"><figure><img src="assets/1f15b1f4a7-w05-app-arch.svg" alt="Architecture diagram separating hosted static browser files above from backend API, model, and tool calls below." loading="lazy"><figcaption>Session 5 &#xb7; Browser static app vs. backend/model API extension. Course diagram</figcaption></figure></div></div>
+<div class="frame hot"><span class="label">What runs where &#x2014; and what costs money</span><div class="text">
+<ul>
+<li><strong>Browser (<code>HTML/CSS/JS</code>):</strong> layout, local JSON search, pre-computed vectors (<code>&#x24;0</code> per click)</li>
+<li><strong>Backend / Worker:</strong> holds API secrets, validates input, routes live LLM/tool calls</li>
+<li><strong>Rule:</strong> pre-compute fixed historical corpora offline; pay tokens only for live reasoning</li>
+</ul>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Session 5: Distinguish static frontend execution (<code>&#x24;0</code>) from backend API/model routing; pre-compute fixed lookups and embeddings locally rather than paying per visitor click.</p>
+</div></section>
+<section id="r09-w5-pdf-notes"><h2><a href="#r09-w5-pdf-notes"><span class="no">20</span>Session 5 · Annotate working PDFs &amp;amp; extract notes with page locators.</a></h2>
+<div class="body"><h1>Session 5 &#xb7; Annotate working PDFs &amp; extract notes with page locators.</h1>
+<div class="body">
+<div class="frame fit"><span class="label">Sessions 5 &amp; 6 &#xb7; PDF highlight + comment &#x2192; structured table</span><div class="pic"><figure><img src="assets/0273985e39-w06-notes.svg" alt="Diagram showing an annotated PDF working copy extracted by an agent into a structured table of source text and reader comments with page numbers." loading="lazy"><figcaption>Sessions 5 &amp; 6 &#xb7; Working-copy PDF annotations extracted with page locators. Course diagram</figcaption></figure></div></div>
+<div class="frame"><span class="label">Provenance rules</span><div class="text">
+<ul>
+<li><strong>Annotate a working copy</strong>, never the untouched PDF in <code>sources/raw/</code></li>
+<li><strong>Four separate fields:</strong> <code>filename</code>, <code>PDF page</code> (+ <code>printed page</code> if different), <code>highlighted text</code>, and <code>reader comment</code></li>
+<li><strong>Two questions always:</strong> <em>Whose idea is this?</em> and <em>Which exact page did it come from?</em></li>
+</ul>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Session 5: Highlight and comment directly on a PDF working copy, then have an agent extract filename, PDF/printed page, source wording, and your comment separately so every note traces back to the page.</p>
+</div></section>
+<section id="r10-w6-twelve-steps"><h2><a href="#r10-w6-twelve-steps"><span class="no">21</span>Session 6 · The twelve-step AI research process.</a></h2>
+<div class="body"><h1>Session 6 &#xb7; The twelve-step AI research process.</h1>
+<div class="frame fit"><span class="label">Sessions 6 &amp; 9 &#xb7; Solid red = agent &#xb7; Dashed red = together &#xb7; Grey = researcher</span><div class="pic"><figure><img src="assets/9d6f7305ef-w06-twelve-steps.svg" alt="Twelve-step AI research workflow color-coded by agent steps, shared steps, and researcher-only steps, including Step 4 Browse and skip via review sheet." loading="lazy"><figcaption>Sessions 6 &amp; 9 &#xb7; Twelve-step research workflow. Course diagram</figcaption></figure></div></div>
+</div>
+<div class="read"><p>Session 6: Hand over bounded, verifiable steps to the agent (search, OCR, retrieval, extraction, formatting) while keeping close reading, judgment, and final claims in your own hands.</p>
+</div></section>
+<section id="r11-w6-triage-loops"><h2><a href="#r11-w6-triage-loops"><span class="no">22</span>Session 6 · Review sheets (compression) &amp;amp; three reading loops.</a></h2>
+<div class="body"><h1>Session 6 &#xb7; Review sheets (compression) &amp; three reading loops.</h1>
+<div class="body">
+<div class="frame hot"><span class="label">Compression &#xb7; hits.md &#x2192; reading-list.md</span><div class="text">
+<ul>
+<li><strong>107 ranked hits</strong> are a list to triage, <strong>not</strong> an answer (term counts can bury key pages)</li>
+<li><strong>Review sheet (<code>reading-list.md</code>):</strong> <em>read first</em> vs. <em>set aside</em> + 1-line reason each, keeping page numbers (<em>leads, not findings</em>)</li>
+<li><strong>Points pool:</strong> test each 1-sentence claim against notes for <strong>support, counter-evidence, and gaps</strong></li>
+</ul>
+</div></div>
+<div class="frame fit"><span class="label">Session 6 &#xb7; Three loops per research round</span><div class="pic"><figure><img src="assets/7fd7620469-w06-loops.svg" alt="Three reading loops in one research round (Primary, Secondary, and Primary again), each ending with a pool review." loading="lazy"><figcaption>Session 6 &#xb7; Primary &#x2192; Secondary &#x2192; Primary return. Course diagram</figcaption></figure></div></div>
+</div>
+</div>
+<div class="read"><p>Session 6: Compress large search hit lists into a page-anchored review sheet (<code>reading-list.md</code>) to allocate close reading, and run three loops (<code>Primary &#x2192; Secondary &#x2192; Primary again</code>) testing points against counter-evidence.</p>
+</div></section>
+<section id="r12-w7-2d-3d-split"><h2><a href="#r12-w7-2d-3d-split"><span class="no">23</span>Session 7 · 2D &amp;amp; 3D reconstruction: split by how each part is best made.</a></h2>
+<div class="body"><h1>Session 7 &#xb7; 2D &amp; 3D reconstruction: split by how each part is best made.</h1>
+<div class="body">
+<div class="frame"><span class="label">2D Historical Image Loop</span><div class="text">
+<ul>
+<li>Words alone invent plausible-looking anachronisms (scaffolding, dress, signage)</li>
+<li><strong>Loop:</strong> <code>Generate &#x2192; Find visual references &#x2192; Combine words + references &#x2192; Inspect omissions &#x2192; Revise</code></li>
+</ul>
+</div></div>
+<div class="frame hot"><span class="label">3D Decomposition &#xb7; One Gateway Photo</span><div class="text">
+<ul>
+<li>Whole-photo 3D generation warps text and leans columns</li>
+<li><strong>Split by geometry:</strong>
+<ul>
+<li><strong>Font</strong> &#x2192; four inscribed characters (<code>&#x5dba;&#x5357;&#x5927;&#x5b78;</code>)</li>
+<li><strong>Numbers / Blender MCP</strong> &#x2192; columns, beams, plaque</li>
+<li><strong>Lathe profile</strong> &#x2192; finials</li>
+<li><strong>3D generator (1 cropped part at a time)</strong> &#x2192; carved wings &amp; discs</li>
+</ul>
+</li>
+</ul>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Session 7: Anchor 2D generation with sourced historical reference images, and decompose 3D objects part by part&#x2014;using fonts for inscriptions, parametric scripts for regular geometry, and 3D generators only for isolated carved details.</p>
+</div></section>
+<section id="r13-w8-simulation"><h2><a href="#r13-w8-simulation"><span class="no">24</span>Session 8 · Historical simulation: epistemic tiers &amp;amp; world-checked agents.</a></h2>
+<div class="body"><h1>Session 8 &#xb7; Historical simulation: epistemic tiers &amp; world-checked agents.</h1>
+<div class="body">
+<div class="frame hot"><span class="label">Medium Test &amp; Three Epistemic Tiers</span><div class="text">
+<ul>
+<li><strong>&quot;Why not a film?&quot;</strong> &#x2014; earn interactivity through what a user learns only by choosing, testing limits, and seeing consequences</li>
+<li><strong>Tag every element:</strong>
+<ul>
+<li><strong><code>&#x636e;</code> (evidenced):</strong> directly stated on a cited page</li>
+<li><strong><code>&#x63a8;&#x65ad;</code> (inferred):</strong> reasoned across sources</li>
+<li><strong><code>&#x8bbe;</code> (invented):</strong> created so the scene works</li>
+</ul>
+</li>
+</ul>
+</div></div>
+<div class="frame"><span class="label">Agentic Characters vs. World Authority</span><div class="text">
+<ul>
+<li>Character receives <strong>only in-scene perception</strong> and its sourced memory&#x2014;never post-cutoff history (<code>[&#x9650;&#x5b9a;]</code>)</li>
+<li>Model proposes <strong>one JSON action</strong> (<code>say</code>, <code>look</code>, <code>walk</code>); <strong>the world program</strong> checks rules and decides what actually happens</li>
+<li>Log every API call, latency, and token cost</li>
+</ul>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Session 8: Mark every simulation element <code>&#x636e;</code> / <code>&#x63a8;&#x65ad;</code> / <code>&#x8bbe;</code>, justify interactivity against a static film, restrict character memory to pre-cutoff perception, and keep world state transitions under deterministic program control.</p>
+</div></section>
+<section id="r14-w9-search-handover"><h2><a href="#r14-w9-search-handover"><span class="no">25</span>Session 9 · Scholarly search rules, index refactoring, and 2-agent handover.</a></h2>
+<div class="body"><h1>Session 9 &#xb7; Scholarly search rules, index refactoring, and 2-agent handover.</h1>
+<div class="body">
+<div class="frame"><span class="label">Scholarly Search &amp; Doc Refactoring</span><div class="text">
+<ul>
+<li><strong><code>scholarly-search</code> skill:</strong> OpenAlex API + <code>agent-browser</code> (respecting <code>robots.txt</code>); Google Scholar / Baidu operated by you in browser</li>
+<li><strong>Refactor long docs:</strong> split an 850-line <code>design-document.md</code> into an ~80-line <strong>master index</strong> linking to <code>docs/characters/*.md</code> &amp; <code>docs/scenes/*.md</code></li>
+</ul>
+</div></div>
+<div class="frame hot"><span class="label">Two-Agent Handover via Git Files</span><div class="text">
+<ul>
+<li><strong>Agent 1 (Research):</strong> close-reads pages (<code>[&#x636e;]</code> / <code>[&#x63a8;&#x65ad;]</code> / <code>[&#x9650;&#x5b9a;]</code>) &#x2192; writes <code>handover.md</code> + <code>data/evidence.csv</code></li>
+<li><strong>Agent 2 (Implementation):</strong> attaches <code>@handover.md</code> to build scenes &amp; JSON cards</li>
+<li><strong>Rule:</strong> chat coordinates work; <strong>committed repository files remain the source of truth</strong></li>
+</ul>
+</div></div>
+</div>
+</div>
+<div class="read"><p>Session 9: Search open indexes via API/CLI while respecting <code>robots.txt</code>, refactor overgrown design docs into a master index + modules, and hand off verified claims between Research and Implementation agents through committed files (<code>handover.md</code> + <code>evidence.csv</code>).</p>
+</div></section>
+<section id="r15-w10-goal-two-loops"><h2><a href="#r15-w10-goal-two-loops"><span class="no">26</span>Session 10 · Preventing goal drift: `Plan` mode, `/goal`, and two feedback loops.</a></h2>
+<div class="body"><h1>Session 10 &#xb7; Preventing goal drift: <code>Plan</code> mode, <code>/goal</code>, and two feedback loops.</h1>
+<div class="frame fit"><span class="label">Session 10 &#xb7; Phase 1 Ideation Loop (before code) + Phase 2 Verification Loop (during /goal)</span><div class="pic"><figure><img src="assets/3d99d07f0e-w10-two-loops.svg" alt="Two-phase feedback loop diagram contrasting Phase 1 Ideation Loop before code with Phase 2 Verification Loop during /goal execution." loading="lazy"><figcaption>Session 10 &#xb7; Ideation loop before code vs. verification loop during code. Course diagram</figcaption></figure></div></div>
+</div>
+<div class="read"><p>Session 10: Long autonomous <code>/goal</code> runs drift when context compacts unless anchored to a written <code>plan.md</code>, pre-code ideation schematics (Mermaid, Excalidraw MCP, HTML visual-explainer), and automated runtime checks.</p>
+</div></section>
+<section id="r16-w10-test-deploy"><h2><a href="#r16-w10-test-deploy"><span class="no">27</span>Session 10 · Three-tier testing pyramid &amp;amp; Cloudflare deployment.</a></h2>
+<div class="body"><h1>Session 10 &#xb7; Three-tier testing pyramid &amp; Cloudflare deployment.</h1>
+<div class="body">
+<div class="frame fit"><span class="label">01 Unit &#xb7; 02 Integration + LLM-Judge &#xb7; 03 Playwright E2E</span><div class="pic"><figure><img src="assets/543ce55852-w10-test-pyramid.svg" alt="Three-tier testing pyramid from fast unit tests and cross-file integration tests to Playwright browser E2E checks." loading="lazy"><figcaption>Session 10 &#xb7; Three-tier automated testing pyramid. Course diagram</figcaption></figure></div></div>
+<div class="frame fit"><span class="label">Cloudflare Pages (&#x24;0) + Worker Secret Proxy</span><div class="pic"><figure><img src="assets/f373f2aa70-w10-cloudflare.svg" alt="Architecture of Cloudflare Pages serving static/WebGL assets and a Cloudflare Worker holding encrypted LLM API secrets." loading="lazy"><figcaption>Session 10 &#xb7; Cloudflare Pages + Worker secret boundary. Course diagram</figcaption></figure></div></div>
+</div>
+</div>
+<div class="read"><p>Session 10: Decouple CSV/JSON data and pure logic from UI so <code>Vitest</code>/<code>pytest</code> and <code>@playwright/mcp</code> verify code and historical rules automatically; ship static/WebGL builds on Cloudflare Pages (<code>&#x24;0</code>) with API keys isolated inside a Cloudflare Worker.</p>
+</div></section>
+
+<p class="m">Made with Reslides (MIT), based on Slidev.</p>
+</main>
+</body>
+</html>

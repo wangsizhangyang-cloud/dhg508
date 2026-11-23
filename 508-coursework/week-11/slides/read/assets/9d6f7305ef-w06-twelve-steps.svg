@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1680 680"  role="img" aria-label="Twelve steps of the single-agent research process">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#e31f27"/>
+    </marker>
+  </defs>
+  <g font-family="DM Sans, Arial, PingFang SC, sans-serif">
+    <!-- Row 1: Steps 1 to 4 -->
+    <rect x="20" y="24" width="350" height="148" fill="#ffffff" stroke="#e31f27" stroke-width="3"/>
+    <text x="195" y="88" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">1 Find</text>
+    <text x="195" y="138" font-size="26" fill="#52525b" text-anchor="middle">agent</text>
+    <path d="M374 98 L434 98" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <rect x="442" y="24" width="350" height="148" fill="#ffffff" stroke="#e31f27" stroke-width="3"/>
+    <text x="617" y="88" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">2 Collect &amp; OCR</text>
+    <text x="617" y="138" font-size="26" fill="#52525b" text-anchor="middle">agent</text>
+    <path d="M796 98 L856 98" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <rect x="864" y="24" width="350" height="148" fill="#ffffff" stroke="#e31f27" stroke-width="3"/>
+    <text x="1039" y="88" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">3 Retrieve</text>
+    <text x="1039" y="138" font-size="26" fill="#52525b" text-anchor="middle">agent</text>
+    <path d="M1218 98 L1278 98" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <rect x="1286" y="24" width="374" height="148" fill="#fff8f8" stroke="#e31f27" stroke-width="3.5" stroke-dasharray="10 7"/>
+    <text x="1473" y="88" font-size="34" fill="#e31f27" text-anchor="middle" font-weight="700">4 Browse &amp; skip</text>
+    <text x="1473" y="138" font-size="26" fill="#111111" text-anchor="middle">review sheet · me + agent</text>
+
+    <!-- Connector Row 1 -> Row 2 -->
+    <path d="M1473 176 V206 H195 V234" fill="none" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <!-- Row 2: Steps 5 to 8 -->
+    <rect x="20" y="242" width="350" height="148" fill="#ffffff" stroke="#a1a1aa" stroke-width="3"/>
+    <text x="195" y="306" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">5 Read closely</text>
+    <text x="195" y="356" font-size="26" fill="#52525b" text-anchor="middle">me</text>
+    <path d="M374 316 L434 316" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <rect x="442" y="242" width="350" height="148" fill="#ffffff" stroke="#e31f27" stroke-width="3" stroke-dasharray="10 7"/>
+    <text x="617" y="306" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">6 Notes</text>
+    <text x="617" y="356" font-size="26" fill="#52525b" text-anchor="middle">me + agent</text>
+    <path d="M796 316 L856 316" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <rect x="864" y="242" width="350" height="148" fill="#ffffff" stroke="#e31f27" stroke-width="3" stroke-dasharray="10 7"/>
+    <text x="1039" y="306" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">7 Synthesize</text>
+    <text x="1039" y="356" font-size="26" fill="#52525b" text-anchor="middle">me + agent</text>
+    <path d="M1218 316 L1278 316" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <rect x="1286" y="242" width="374" height="148" fill="#ffffff" stroke="#e31f27" stroke-width="3" stroke-dasharray="10 7"/>
+    <text x="1473" y="306" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">8 Points</text>
+    <text x="1473" y="356" font-size="26" fill="#52525b" text-anchor="middle">me + agent</text>
+
+    <!-- Connector Row 2 -> Row 3 -->
+    <path d="M1473 394 V424 H195 V452" fill="none" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <!-- Row 3: Steps 9 to 12 -->
+    <rect x="20" y="460" width="350" height="148" fill="#ffffff" stroke="#e31f27" stroke-width="3" stroke-dasharray="10 7"/>
+    <text x="195" y="524" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">9 Outline</text>
+    <text x="195" y="574" font-size="26" fill="#52525b" text-anchor="middle">agent + me</text>
+    <path d="M374 534 L434 534" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <rect x="442" y="460" width="350" height="148" fill="#ffffff" stroke="#a1a1aa" stroke-width="3"/>
+    <text x="617" y="524" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">10 Write / Design</text>
+    <text x="617" y="574" font-size="26" fill="#52525b" text-anchor="middle">me</text>
+    <path d="M796 534 L856 534" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <rect x="864" y="460" width="350" height="148" fill="#ffffff" stroke="#e31f27" stroke-width="3"/>
+    <text x="1039" y="524" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">11 Format / Code</text>
+    <text x="1039" y="574" font-size="26" fill="#52525b" text-anchor="middle">agent</text>
+    <path d="M1218 534 L1278 534" stroke="#e31f27" stroke-width="3.5" marker-end="url(#arr)"/>
+
+    <rect x="1286" y="460" width="374" height="148" fill="#ffffff" stroke="#e31f27" stroke-width="3" stroke-dasharray="10 7"/>
+    <text x="1473" y="524" font-size="34" fill="#111111" text-anchor="middle" font-weight="700">12 Check &amp; Test</text>
+    <text x="1473" y="574" font-size="26" fill="#52525b" text-anchor="middle">me + agent</text>
+
+    <!-- Legend -->
+    <text x="840" y="660" font-size="25" fill="#52525b" text-anchor="middle">Solid red: the agent does it. &#160;&#160;·&#160;&#160; Dashed red: we do it together. &#160;&#160;·&#160;&#160; Grey: I do it.</text>
+  </g>
+</svg>

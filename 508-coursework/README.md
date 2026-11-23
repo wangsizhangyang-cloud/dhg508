@@ -16,3 +16,4 @@ you come.
 - [week-08](week-08/instructions.md) A historical simulation
 - [week-09](week-09/instructions.md) Present your design, historical significance, scholarship and technical stack
 - [week-10](week-10/instructions.md) Feedback loops, automated testing, and public deployment · [slides](week-10/slides/README.md) · [reading edition](week-10/slides/read/index.html)
+- [week-11](week-11/instructions.md) Final end-to-end run, Overleaf design paper (`biblatex-chicago`), and post-mortem · [slides & review](week-11/slides/README.md) · [reading edition](week-11/slides/read/index.html) · [Overleaf starter zip](week-11/dhg508-overleaf-template.zip)

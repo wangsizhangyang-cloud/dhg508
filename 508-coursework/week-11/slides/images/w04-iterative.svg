@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 380">
+    <defs><marker id="i1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#71717a"/></marker>
+          <marker id="i2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#dc2626"/></marker></defs>
+    <g font-family="Avenir Next, sans-serif" text-anchor="middle">
+      <text x="130" y="36" font-size="30" font-weight="750" fill="#dc2626">v1</text>
+      <text x="430" y="36" font-size="30" font-weight="750" fill="#dc2626">v2</text>
+      <text x="730" y="36" font-size="30" font-weight="750" fill="#dc2626">v3</text>
+      <g font-size="20">
+        <rect x="75" y="56" width="110" height="38" rx="19" fill="#fff" stroke="#18181b" stroke-width="2"/><text x="130" y="82">build</text>
+        <rect x="20" y="170" width="100" height="38" rx="19" fill="#fff" stroke="#18181b" stroke-width="2"/><text x="70" y="196">learn</text>
+        <rect x="140" y="170" width="100" height="38" rx="19" fill="#fff" stroke="#18181b" stroke-width="2"/><text x="190" y="196">use</text>
+        <rect x="375" y="56" width="110" height="38" rx="19" fill="#fff" stroke="#18181b" stroke-width="2"/><text x="430" y="82">improve</text>
+        <rect x="320" y="170" width="100" height="38" rx="19" fill="#fff" stroke="#18181b" stroke-width="2"/><text x="370" y="196">learn</text>
+        <rect x="440" y="170" width="100" height="38" rx="19" fill="#fff" stroke="#18181b" stroke-width="2"/><text x="490" y="196">use</text>
+        <rect x="675" y="56" width="110" height="38" rx="19" fill="#fff" stroke="#18181b" stroke-width="2"/><text x="730" y="82">improve</text>
+        <rect x="620" y="170" width="100" height="38" rx="19" fill="#fff" stroke="#18181b" stroke-width="2"/><text x="670" y="196">learn</text>
+        <rect x="740" y="170" width="100" height="38" rx="19" fill="#fff" stroke="#18181b" stroke-width="2"/><text x="790" y="196">use</text>
+      </g>
+    </g>
+    <g stroke="#71717a" stroke-width="2" fill="none" marker-end="url(#i1)">
+      <path d="M170 96 L 186 164"/><path d="M138 189 H 124"/><path d="M62 166 L 96 100"/>
+      <path d="M470 96 L 486 164"/><path d="M438 189 H 424"/><path d="M362 166 L 396 100"/>
+      <path d="M770 96 L 786 164"/><path d="M738 189 H 724"/><path d="M662 166 L 696 100"/>
+    </g>
+    <g stroke="#dc2626" stroke-width="3" fill="none" marker-end="url(#i2)">
+      <path d="M70 210 C 70 270, 330 270, 372 212"/>
+      <path d="M370 210 C 370 270, 630 270, 672 212"/>
+    </g>
+    <g font-family="Avenir Next, sans-serif" font-size="18" fill="#dc2626" text-anchor="middle">
+      <text x="220" y="292">feedback</text><text x="520" y="292">feedback</text>
+    </g>
+    <line x1="20" y1="320" x2="840" y2="320" stroke="#a1a1aa" stroke-width="2" marker-end="url(#i1)"/>
+    <g fill="#dc2626"><circle cx="190" cy="320" r="7"/><circle cx="490" cy="320" r="7"/><circle cx="790" cy="320" r="7"/></g>
+    <text x="20" y="352" font-family="Avenir Next, sans-serif" font-size="17" fill="#71717a">weeks →</text>
+    <text x="840" y="352" text-anchor="end" font-family="Avenir Next, sans-serif" font-size="17" fill="#dc2626">every version is used</text>
+  </svg>

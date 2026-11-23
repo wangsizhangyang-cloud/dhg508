@@ -1,0 +1,69 @@
+w04-iterative:
+  file: images/w04-iterative.svg
+  alt: "Iterative build, use, and learn cycles from v1 through v4 with feedback arrows."
+  caption: "Session 4 · Iterative cycles vs. one-pass waterfall"
+  credit: Course diagram
+  rights: public
+
+w05-app-arch:
+  file: images/w05-app-arch.svg
+  alt: "Architecture diagram separating hosted static browser files above from backend API, model, and tool calls below."
+  caption: "Session 5 · Browser static app vs. backend/model API extension"
+  credit: Course diagram
+  rights: public
+
+w06-ocr:
+  file: images/w06-ocr.svg
+  alt: "Diagram showing a page image without a text layer passing through PaddleOCR and returning text with character errors."
+  caption: "Sessions 2 & 6 · OCR turns scans into searchable text—with errors"
+  credit: Course diagram
+  rights: public
+
+w06-notes:
+  file: images/w06-notes.svg
+  alt: "Diagram showing an annotated PDF working copy extracted by an agent into a structured table of source text and reader comments with page numbers."
+  caption: "Sessions 5 & 6 · Working-copy PDF annotations extracted with page locators"
+  credit: Course diagram
+  rights: public
+
+w06-twelve-steps:
+  file: images/w06-twelve-steps.svg
+  alt: "Twelve-step AI research workflow color-coded by agent steps, shared steps, and researcher-only steps, including Step 4 Browse and skip via review sheet."
+  caption: "Sessions 6 & 9 · Twelve-step research workflow"
+  credit: Course diagram
+  rights: public
+
+w06-loops:
+  file: images/w06-loops.svg
+  alt: "Three reading loops in one research round (Primary, Secondary, and Primary again), each ending with a pool review."
+  caption: "Session 6 · Primary → Secondary → Primary return"
+  credit: Course diagram
+  rights: public
+
+w10-goal-loop:
+  file: images/w10-goal-loop.svg
+  alt: "OpenCode /goal execution loop showing Kickoff + Plan, Work + Tools, Idle Hook Reviewer, and continue or done verdicts."
+  caption: "Session 10 · OpenCode /goal execution loop"
+  credit: Course diagram
+  rights: public
+
+w10-two-loops:
+  file: images/w10-two-loops.svg
+  alt: "Two-phase feedback loop diagram contrasting Phase 1 Ideation Loop before code with Phase 2 Verification Loop during /goal execution."
+  caption: "Session 10 · Ideation loop before code vs. verification loop during code"
+  credit: Course diagram
+  rights: public
+
+w10-test-pyramid:
+  file: images/w10-test-pyramid.svg
+  alt: "Three-tier testing pyramid from fast unit tests and cross-file integration tests to Playwright browser E2E checks."
+  caption: "Session 10 · Three-tier automated testing pyramid"
+  credit: Course diagram
+  rights: public
+
+w10-cloudflare:
+  file: images/w10-cloudflare.svg
+  alt: "Architecture of Cloudflare Pages serving static/WebGL assets and a Cloudflare Worker holding encrypted LLM API secrets."
+  caption: "Session 10 · Cloudflare Pages + Worker secret boundary"
+  credit: Course diagram
+  rights: public

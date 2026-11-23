@@ -1,0 +1,38 @@
+title: "Four-Loop Showcase, Final Paper, and Semester Review"
+author: "Bo An · Lingnan University"
+date: "2026-11-18"
+lang: en
+license: CC BY-NC 4.0
+routerMode: hash
+figures: figures.yaml
+editions:
+  session-eleven:
+    minutes: 135
+    list:
+      - { slide: s01-cover, minutes: 1 }
+      - { slide: s02-today, minutes: 2 }
+      - { slide: s03-showcase-board, minutes: 100 }
+      - { slide: s04-sec-final, minutes: 1 }
+      - { slide: s05-what-finished-means, minutes: 5 }
+      - { slide: s07-single-source-route, minutes: 5 }
+      - { slide: s08-overleaf-setup, minutes: 5 }
+      - { slide: s09-biblatex-chicago, minutes: 5 }
+      - { slide: s10-six-sections, minutes: 5 }
+      - { slide: s11-repo-checklist, minutes: 5 }
+      - { slide: s12-closing, minutes: 1 }
+      - { slide: r01-sec-review, minutes: 0 }
+      - { slide: r02-semester-map, minutes: 0 }
+      - { slide: r03-w1-w2-sources-ocr, minutes: 0 }
+      - { slide: r04-w3-what-is-an-agent, minutes: 0 }
+      - { slide: r05-w3-skills-and-db, minutes: 0 }
+      - { slide: r06-w4-workspace-docs, minutes: 0 }
+      - { slide: r07-w4-iterative-git, minutes: 0 }
+      - { slide: r08-w5-app-arch, minutes: 0 }
+      - { slide: r09-w5-pdf-notes, minutes: 0 }
+      - { slide: r10-w6-twelve-steps, minutes: 0 }
+      - { slide: r11-w6-triage-loops, minutes: 0 }
+      - { slide: r12-w7-2d-3d-split, minutes: 0 }
+      - { slide: r13-w8-simulation, minutes: 0 }
+      - { slide: r14-w9-search-handover, minutes: 0 }
+      - { slide: r15-w10-goal-two-loops, minutes: 0 }
+      - { slide: r16-w10-test-deploy, minutes: 0 }
