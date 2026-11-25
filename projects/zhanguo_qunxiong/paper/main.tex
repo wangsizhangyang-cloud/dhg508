@@ -41,8 +41,7 @@
 \renewcommand{\footnotesize}{\fontsize{10}{12}\selectfont}
 \usepackage[hidelinks]{hyperref}
 
-\title{\textbf{知識即戰力：史料上臉的戰國群雄策略游戲}\\[0.3em]
-\large Knowledge as Combat Power: A Warring States Strategy Game with Its Historiography on Its Face\\[0.2em]
+\title{\textbf{Knowledge as Combat Power: A Warring States Strategy Game That Carries Its Sources on Its Surface}\\[0.3em]
 \large Design Rationale, Evidence Boundaries, and Post-Mortem}
 \author{James\\Lingnan University $\cdot$ DHG508 Critical Digital History\\
 \footnotesize Live: \url{https://zhanguo-godot.zhanguo-godot.workers.dev}\\
@@ -92,9 +91,9 @@ you learn which reforms to rush and which provinces to want.
 
 The shipped build is the Godot~4 version: a full conquest game on an
 87-province map, deployable as a WebGL build that anyone can open in a
-browser. A web-rules prototype preceded it and remains as the reference
-implementation; a tutorial episode and an LLM agent built in that prototype
-were left out of the shipped build (Section~\ref{sec:postmortem}).
+browser. A web-rules prototype preceded it; a tutorial episode and an LLM
+agent built in that prototype were left out of the shipped build
+(Section~\ref{sec:postmortem}).
 
 \section{Sources and Scholarly Conversation}
 
@@ -169,9 +168,21 @@ One scope decision belongs here rather than in a footnote. The six-lesson
 tutorial and the LLM King You agent were built and verified in the web
 prototype, but the final scope freeze shipped the Godot build \emph{without}
 them. The design lessons carry over---memory whitelisting, output validation,
-and the presentism-driven refusal to give the player a historical avatar to
-inhabit---but the public URL is, deliberately, a game in which the past is
-met through events, annals, and cited reforms, not through a chat window.
+and the refusal to give the player a historical avatar to inhabit---but the
+public URL is, deliberately, a game in which the past is met through events,
+annals, and cited reforms, not through a chat window. The frozen scope and
+non-goals are recorded in \texttt{docs/plan.md}; Figure~\ref{fig:schematic}
+summarises the architecture and the evidence tiers attached to each layer.
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.86\textwidth]{schematic.png}
+  \caption{Architecture of \emph{Zhanguo Qunxiong}: data, rules, strategy, and
+  presentation layers; deployment and verification paths; and the evidence
+  tiers (\emph{据} documented, \emph{推断} inferred, \emph{设} invented)
+  attached to each layer.}
+  \label{fig:schematic}
+\end{figure}
 
 \section{Evidence Table}
 
@@ -217,7 +228,8 @@ cumbersome---too many clicks to move armies and confirm each turn; the
 movement and turn-confirmation flow was streamlined into fewer, combined
 actions, with keyboard shortcuts (\emph{Space} to end the turn) promoted to
 first-class citizens and covered by regression tests. Both fixes exist as
-permanent tests, so the complaints cannot silently return.
+permanent tests, so the complaints cannot silently return. The full feedback
+log is kept in \texttt{docs/user-feedback.md}.
 
 \section{Post-Mortem}
 \label{sec:postmortem}
@@ -230,8 +242,8 @@ permanent tests, so the complaints cannot silently return.
   single-source-of-truth data pipeline paid for itself: the Godot build
   consumes exported JSON, so numbers cannot fork between the prototype and
   the shipped game. Headless engine tests caught map and rule regressions
-  before any human saw them, and the streaming, edge-compressed export made
-  a 35-megabyte WebGL game tolerable to load.
+  before any human saw them, and streaming, edge-compressed export made the
+  WebGL build tolerable to load.
   \item \textbf{What failed.} The prototype King You agent leaked future
   history under user provocation; input-side prompting alone proved worthless
   against deliberate attack, and the fix was a world-state validator. The
@@ -255,11 +267,12 @@ permanent tests, so the complaints cannot silently return.
   the passes and rivers that mattered, and the 87-province economy has not
   been stress-tested past thirty-five turns. The build used Claude and
   GPT-class models for data extraction and code assistance under human review
-  of every citation, and image models for the portrait set; a local LLM
-  served the prototype agent.
+  of every citation, image models for the portrait set, and a local LLM for
+  the prototype agent.
 \end{enumerate}
 
 \singlespacing
+\footnotesize
 \printbibliography[title={Bibliography}]
 
 \end{document}

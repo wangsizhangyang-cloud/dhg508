@@ -5,3 +5,6 @@
 *.out
 *.run.xml
 main.pdf
+
+main-zh.pdf
+*.bbl

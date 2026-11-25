@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; font-family:"Microsoft YaHei",sans-serif; }
+  body { background:#0e1318; width:1560px; padding:28px 34px; color:#cfd8dc; }
+  h1 { font-size:24px; color:#ffd54f; margin-bottom:4px; }
+  .sub { font-size:13px; color:#8fa3ad; margin-bottom:20px; }
+  .cols { display:flex; gap:20px; align-items:stretch; }
+  .layer { border:1px solid #37474f; border-radius:10px; padding:14px 16px; flex:1; background:#161d24; }
+  .layer h2 { font-size:15px; color:#e9eef4; border-bottom:2px solid #3b4049; padding-bottom:6px; margin-bottom:10px; }
+  .layer h2 .tag { float:right; font-size:11px; padding:1px 8px; border-radius:9px; }
+  .tag.doc { background:#1b3a2a; color:#8cbb6c; }
+  .tag.inf { background:#3a3216; color:#ffd54f; }
+  .tag.inv { background:#3a2220; color:#e08a80; }
+  .layer ul { list-style:none; font-size:12.5px; line-height:1.9; }
+  .layer li b { color:#f0c867; }
+  .layer .cite { color:#8fa3ad; font-size:11px; }
+  .arrowrow { display:flex; justify-content:center; margin:8px 0; }
+  .arrow { color:#54718a; font-size:20px; }
+  .flow { display:flex; gap:14px; margin-top:18px; }
+  .stage { flex:1; border:1px dashed #54718a; border-radius:10px; padding:12px 14px; background:#101820; }
+  .stage h3 { font-size:13.5px; color:#8cb3d9; margin-bottom:6px; }
+  .stage p { font-size:11.5px; line-height:1.75; color:#b3bfca; }
+  .stage p code { color:#e9eef4; background:#1e2731; padding:0 4px; border-radius:3px; font-size:11px; }
+</style>
+</head>
+<body>
+  <h1>戰國群雄 — Architecture &amp; Evidence Boundaries</h1>
+  <div class="sub">Godot 4 shipped build · Cloudflare Workers deployment · every element tagged 据/推断/设</div>
+
+  <div class="cols">
+    <div class="layer">
+      <h2>Data Layer <span class="tag doc">据</span></h2>
+      <ul>
+        <li><b>190 generals</b> — 1215 battle records with <code>original_text</code> + citation</li>
+        <li><b>15 units / 13 counters</b> — from《荀子·議兵》comparative chain</li>
+        <li><b>87 provinces</b> — attested city coordinates, 譚其驤 atlas</li>
+        <li><b>officials / cities JSON</b></li>
+        <li class="cite">Shared SQLite source → export script → JSON (no value forks)</li>
+      </ul>
+    </div>
+    <div class="layer">
+      <h2>Rules Layer <span class="tag inv">设</span></h2>
+      <ul>
+        <li><b>Turn loop</b> — revenue → training → orders → siege → events</li>
+        <li><b>Combat formula</b> — units × counters × terrain × commander × formation</li>
+        <li><b>Economy</b> — upkeep, food deficit decay, provincial income</li>
+        <li class="cite">scripts/warfare.gd · main.gd — mechanics carry no historical claim</li>
+      </ul>
+    </div>
+    <div class="layer">
+      <h2>Strategy Layer <span class="tag inf">推断</span></h2>
+      <ul>
+        <li><b>Focus tree</b> — school branches (法/兵/農/基建), sources quoted on nodes</li>
+        <li><b>Statecraft</b> — laws, taxation, officials, corruption, stability</li>
+        <li><b>Diplomacy</b> — treaties, mediation, negotiation; minors act on interest</li>
+        <li class="cite">scripts/focus_tree.gd · statecraft.gd — citations 据, effects inferred</li>
+      </ul>
+    </div>
+    <div class="layer">
+      <h2>Presentation <span class="tag inf">推断</span></h2>
+      <ul>
+        <li><b>Self-drawn map</b> — polygons, coasts, mountains; no external basemap</li>
+        <li><b>190 portraits</b> — four-period dress study, archaeological reports</li>
+        <li><b>Godot 4 UI</b> — theme softened after tester feedback</li>
+        <li class="cite">scripts/map_view.gd — geometry 设, orientations 据</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="arrowrow"><span class="arrow">▼ &nbsp; deploy &nbsp; ▼</span></div>
+
+  <div class="flow">
+    <div class="stage">
+      <h3>Cloudflare Worker (primary)</h3>
+      <p><code>/</code> → 302 no-store <code>boot.html</code> (bypass stale edge cache) → stream <code>index3.wasm</code> / <code>index3.pck</code>, edge-compressed by Accept-Encoding. <b>zhanguo-godot.workers.dev</b></p>
+    </div>
+    <div class="stage">
+      <h3>GitHub Pages mirror</h3>
+      <p>Uncompressed originals via <code>gh-pages</code> branch; 1–5 min Fastly propagation window.</p>
+    </div>
+    <div class="stage">
+      <h3>Verification</h3>
+      <p><b>17 headless Godot self-checks</b> (map/campaign/diplomacy/tactical/save/soak) → Playwright smoke on both URLs (assets 200 · 0 console errors · canvas) → prototype WCAG theme guard + turn-loop test.</p>
+    </div>
+    <div class="stage">
+      <h3>Scope frozen out</h3>
+      <p>LLM King You agent + tutorial live in the web prototype only (<code>sim_layer.js</code>: memory whitelist, single-action JSON, world-state judge) — cut from the shipped build.</p>
+    </div>
+  </div>
+</body>
+</html>
